@@ -107,6 +107,10 @@ def test_generate_evidently_report(evaluation_results):
     from evidently.tests import TestColumnValueMin, TestColumnValueMean
 
     df = pd.DataFrame(evaluation_results)
+    # Evidently exige des colonnes explicitement float pour son rendu HTML
+    # (sinon "column should be numerical or bool" si le dtype reste int/object)
+    for col in ["faithfulness", "relevance", "completeness", "citation", "overall", "keyword_hit_rate"]:
+        df[col] = df[col].astype(float)
 
     suite = TestSuite(tests=[
         TestColumnValueMean(column_name="overall", gte=MIN_OVERALL),
