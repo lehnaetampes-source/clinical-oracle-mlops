@@ -1,0 +1,3455 @@
+
+[Title] (page 1)
+STUDPROTOCOL
+
+
+[Title] (page 1)
+PrincipalInvestigator
+
+
+[Title] (page 1)
+JavierHernándezBlanco
+
+
+[Title] (page 1)
+GastroenterologistandHepatologist
+
+
+[Title] (page 1)
+ColombianAssociationofHepatology
+
+
+[Title] (page 1)
+Bogotá,Colombia
+
+
+[Title] (page 1)
+November2023
+
+
+[Title] (page 2)
+1 Problemstatementandjustification
+
+
+[Title] (page 2)
+HepatitisCvirus(HCV)infectionisamajorcauseofchronichepatitis,cirrhosis,andliver
+
+
+[Title] (page 2)
+cancer.Forsomepeople,hepatitisCisashort-termdisease,butformorethanhalfofthe
+
+
+[Title] (page 2)
+peoplewhobecomeinfectedwiththehepatitisCvirus,itbecomesalong-termchronic
+
+
+[Title] (page 2)
+infection(1).TheriskofdevelopingcirrhosisforpeoplewithchronicHCVinfectionranges
+
+
+[Title] (page 2)
+from15%to30%over20years(2).
+
+
+[Title] (page 2)
+Accordingto2019datafromtheWorldHealthOrganization(WHO),thereare58million
+
+
+[Title] (page 2)
+peoplearelivingwithchronichepatitisCinfection,andeachyearthereareabout1.5million
+
+
+[NarrativeText] (page 2)
+new infections, it causes 290,000 deaths per year, mainly from cirrhosis and/or
+
+
+[Title] (page 2)
+hepatocellularcarcinoma(2).
+
+
+[Title] (page 2)
+TheWorldHealthOrganization(WHO)in2016definedtheglobalstrategyfortheelimination
+
+
+[Title] (page 2)
+ofviralhepatitis(hepatitisCvirusandhepatitisB),thegoalsforhepatitisCincludea90%
+
+
+[Title] (page 2)
+decreaseinnewcasesofinfectionanda65%reductioninmortality(3).Toachievethisgoal
+
+
+[Title] (page 2)
+by2030,90%ofpeoplelivingwithhepatitisCvirusneedtobediagnosedand80%ofthese
+
+
+[Title] (page 2)
+individualsshouldreceivetreatmentalongwithareductionofHCVincidenceinhigh-risk
+
+
+[Title] (page 2)
+groups(4,5).
+
+
+[Title] (page 2)
+Whilegoodprogresshasbeenmadeinseveralcountries,asignificanttestingandtreatment
+
+
+[Title] (page 2)
+gapremains.In2019,only21%ofthe58millionwithchronichepatitisCinfectionhadbeen
+
+
+[Title] (page 2)
+diagnosed;overall,13%weretreated(3).
+
+
+[Title] (page 2)
+Theintroductionofdirect-actingantivirals(DAAs)forHCVtreatmentin2013hasledto
+
+
+[Title] (page 2)
+whichisasignificantadvanceintheeliminationstrategy(6),butmassivescreeningand
+
+
+[Title] (page 2)
+treatmentimplementationprogramsareneededtotranslatethepotentialofDAAtreatment
+
+
+[Title] (page 2)
+intopopulation-levelbenefits(7).
+
+
+[Title] (page 2)
+Thescale-upofDAAtreatmentisessentialtoachieveHCVtargets,butthisisahugepublic
+
+
+[NarrativeText] (page 2)
+health challenge. A major obstacle is under-diagnosis; only 20% of people with HCV
+
+
+[Title] (page 2)
+worldwidehavebeendiagnosed(6),andonly1%ofinfectedpeoplehavereceivedtreatment
+
+
+[NarrativeText] (page 2)
+worldwide. The effectiveness of governments and their partners in designing and
+
+
+[Title] (page 2)
+implementingeffectivescreeningstrategiestoidentifythemissingmillionswillbeacritical
+
+
+[Title] (page 2)
+determinantofthespeedwithwhicheliminationcanbeachieved(8).
+
+
+[Title] (page 3)
+DespitetheeffectivenessofDAAsandthatinColombiatheyarecoveredbythehealth
+
+
+[Title] (page 3)
+system,themainobstacletoachievingthegoalofhepatitisCeliminationisunder-diagnosis.
+
+
+[NarrativeText] (page 3)
+Among the barriers to timely diagnosis are lack of knowledge on the part of health
+
+
+[NarrativeText] (page 3)
+professionals, availability and access to screening tests, as well as stigma and
+
+
+[Title] (page 3)
+discrimination,asacountryitisrequiredtodirectlyaddressthesebarrierstoadvanceinthe
+
+
+[Title] (page 3)
+goalsofeliminationofviralhepatitis(9).SimplifyingtheHCVcarecascade,ideallyacross
+
+
+[NarrativeText] (page 3)
+allstepsofthecontinuumofcare,wouldhelpensurethatmorepatientsremainengagedin
+
+
+[Title] (page 3)
+thecarepathwayandultimatelyachieveWHOgoals(10).
+
+
+[NarrativeText] (page 3)
+InColombia,accordingtoSIVIGILA,anaverageof228casesofhepatitisCwerereported
+
+
+[Title] (page 3)
+peryearintheperiodbetween2011and2016,startingin2017therewasasignificant
+
+
+[Title] (page 3)
+increasewiththenotificationof571casesandcontinuedincreasein2018(886cases)and
+
+
+[Title] (page 3)
+2019(897cases)(11),in2020(473cases)andin2021(878cases),whichrepresentan
+
+
+[Title] (page 3)
+incidenceof1.70per100,000inhabitants(9).
+
+
+[Title] (page 3)
+In2017,thecentralizeddrugpurchasingstrategyforthetreatmentofchronichepatitisC
+
+
+[NarrativeText] (page 3)
+wasimplemented,incompliancewithResolution1692,aspartoftheefforttoeradicateviral
+
+
+[Title] (page 3)
+hepatitisfromthecountry.ThestrategyistopurchaseDirectActionAntiviral(DAA)drugs
+
+
+[Title] (page 3)
+directlyfromtheMinistryofHealthandSocialProtection(MSPS)toguaranteeaccessand
+
+
+[NarrativeText] (page 3)
+reducetreatmentcosts.WhenResolution1692of2017wasissued,thestrategywasapplied
+
+
+[Title] (page 3)
+onlytopeoplediagnosedwithchronichepatitisCinthecontributoryregime;however,since
+
+
+[Title] (page 3)
+January2020,accesstocentralizedpurchasingbythesubsidizedregimewasachieved
+
+
+[Title] (page 3)
+betweenJanuary1standDecember31st,2021,962personswiththeinfectionwereidentified
+
+
+[NarrativeText] (page 3)
+in Colombia (13). According to the probable mechanism of transmission, the highest
+
+
+[Title] (page 3)
+proportionsaresexualtransmission(72.1%)andparenteral/percutaneous(11.8%ofcases)
+
+
+[Title] (page 3)
+(14).AccordingtoinformationpublishedbythePolarisObservatoryupto2021,thereisa
+
+
+[NarrativeText] (page 3)
+prevalenceof0.67%(320,000cases),10%ofcaseshavebeendiagnosed,andofthese
+
+
+[Title] (page 3)
+<1%havebeentreatedand2639deathshavebeenregisteredannually.Accordingtotheir
+
+
+[Title] (page 3)
+predictionswiththecurrentbehavior,itisestimatedthatbytheyear2051Colombiawill
+
+
+[Title] (page 3)
+achievethegoalsestablishedbytheWHO(15).
+
+
+[NarrativeText] (page 3)
+Three-quartersofHCV-infectedpeopleliveinlow-tomiddle-incomecountries,someof
+
+
+[Title] (page 4)
+whichlackbudgetsforscreening,diagnosis,andtreatmentcampaigns.In2018,Polaris
+
+
+[Title] (page 4)
+Observatoryreportedthatonly12countrieswereonscheduletomeetHCVelimination
+
+
+[Title] (page 4)
+Japan,Mongolia,theNetherlands,Spain,Switzerland,andtheUnitedStates(6).
+
+
+[Title] (page 4)
+PrevalencestudiesforHCVhavebeenconductedinlessthanhalfofthecountriesinLatin
+
+
+[Title] (page 4)
+America,andmostofthemareofpoor-qualitydesign.Extrapolatingdatafromcountrieswith
+
+
+[NarrativeText] (page 4)
+registries,theestimatedHCVprevalencerateinLatinAmericaislessthan1%.Estimates
+
+
+[NarrativeText] (page 4)
+made by the Polaris Observatory, according to epidemiological data from the online
+
+
+[Title] (page 4)
+databasein2019,severalcountrieswereabletodiagnoseasignificantpercentageofthe
+
+
+[Title] (page 4)
+populationwithHCVinfection;however,onlyBrazilwasabletotreattherequirednumber
+
+
+[Title] (page 4)
+ofpatientstoachieveanannualnetcureofmorethan1%ofthoseinfected(16).
+
+
+[Title] (page 4)
+AstudymodelingtheimpactofDAAtreatmentonthecourseofHCVinfectionshowedthat
+
+
+[Title] (page 4)
+achievingtheWHO2030targetswouldrequireanetcureof7%peryearfrom2016.Net
+
+
+[Title] (page 4)
+curewasdefinedasthenumberofpersonswithsustainedvirologicresponse,minusnew
+
+
+[Title] (page 4)
+HCVinfections,plusHCV-relateddeaths(17).
+
+
+[Title] (page 4)
+TheAmericanAssociationfortheStudyofLiverDiseases(AASLD),theInfectiousDiseases
+
+
+[Title] (page 4)
+routine,opt-outHCVscreeningforallpersonsaged18yearsandolder.Additionally,(18):
+
+
+[ListItem] (page 4)
+HCVtestingshouldbeperformedatleastonceforallpersonswithactivities,exposures,
+
+
+[NarrativeText] (page 4)
+or conditions or circumstances associated with an increased risk of HCV infection,
+
+
+[Title] (page 4)
+occasionallytestingshouldbedoneperiodicallyifriskconditionspersist.
+
+
+[ListItem] (page 4)
+PerformHCVtestingforallpregnantwomenaspartofprenatalcare.
+
+
+[ListItem] (page 4)
+AnnualHCVtestingisrecommendedforallpersonswhoinjectdrugs,forHIV-infected
+
+
+[NarrativeText] (page 4)
+menwhohaveunprotectedsexwithmen,andformenwhohavesexwithmentaking
+
+
+[Title] (page 4)
+pre-exposureprophylaxis.
+
+
+[NarrativeText] (page 4)
+The WHO recommends that in places where the general population has a high
+
+
+[Title] (page 4)
+seroprevalenceofanti-HCVantibodies(definedasaseroprevalenceof2%orhigher,or5%
+
+
+[Title] (page 4)
+orhigher),toprovideaccesstoHCVscreeningteststoalladultsandtoofferthemsuch
+
+
+[Title] (page 4)
+testsinlinkagewithprevention,careandtreatmentservices(2).
+
+
+[NarrativeText] (page 4)
+To date, no HCV infection prevalence studies have been conducted in the general
+
+
+[NarrativeText] (page 5)
+population in Colombia, which could represent a drawback for decision-making for the
+
+
+[Title] (page 5)
+controlandeliminationofHCVinfection.However,studiesinblooddonorsandpopulations
+
+
+[NarrativeText] (page 5)
+withandwithoutriskfactorsprovideimportantdatatoknowtheoverallsituationofHCV
+
+
+[Title] (page 5)
+infectioninthecountry,andmodelinganalysishascontributedtothestrategyinthecountry
+
+
+[Title] (page 5)
+(DecreeNo.1692of2017)(11).ForColombia,itisexpectedthatapproximately409,000
+
+
+[Title] (page 5)
+peoplewillhavetheinfectionin2030(9).
+
+
+[Title] (page 5)
+InColombia,theMinistryofHealthandSocialProtectionestablishedin2018theNational
+
+
+[NarrativeText] (page 5)
+theclinicalpracticeguidelineforthediagnosisandtreatmentofhepatitisCinfectionwas
+
+
+[NarrativeText] (page 5)
+updated (14), likewise, progress has been made in the implementation of financing
+
+
+[NarrativeText] (page 5)
+strategiesforDAAs,however,itisstillpendingtoimprovescreeningstrategiesthatdonot
+
+
+[Title] (page 5)
+onlyfocusonriskfactorsandatthesametimehavegenerictreatmentoptionsavailable(9).
+
+
+[Title] (page 5)
+Thecountry'sachievementsandchallengesinhepatitisCcorrespondto(13):
+
+
+[ListItem] (page 5)
+Timelyidentificationofpersonswhohavecontractedtheinfection,sothattheycan
+
+
+[Title] (page 5)
+quicklyaccesstreatmentwithdirect-actingantivirals(DAAs).
+
+
+[ListItem] (page 5)
+Maintainthedecreaseintreatmentinitiationtimeandeffectivenessabove95%,which
+
+
+[Title] (page 5)
+translatesintoahigherrateofcureofthedisease.
+
+
+[ListItem] (page 5)
+Staging for liver fibrosis to all patients at the time of diagnosis and decrease the
+
+
+[Title] (page 5)
+progressionofthediseasetoadvancedstages.
+
+
+[ListItem] (page 5)
+Continueworkingondecreasingtheprogressionoffibrosis,livercirrhosis,hepatocellular
+
+
+[Title] (page 5)
+cancer,andvirustransmission.
+
+
+[Title] (page 5)
+Throughthisobservational,multicenter,hospitalpopulationstudy,theprevalencewillbe
+
+
+[Title] (page 5)
+determinedbyscreeningpatientswithriskfactorsforhepatitisCbyrapidantibodytest,to
+
+
+[Title] (page 5)
+supportwillbeprovidedtopatientstofacilitatetheirtreatmentadherence.
+
+
+[Title] (page 5)
+Thebenefitswouldberelatedtoraisingawarenessoftheimportanceoftheactivesearch
+
+
+[NarrativeText] (page 5)
+forthesepatients,reducingthehealthimpactforthescreenedpopulation,incorporating
+
+
+[NarrativeText] (page 5)
+these strategies in the country's hospital institutions, and obtaining epidemiological
+
+
+[Title] (page 5)
+informationthathelpstounderstandthemagnitudeofthediseaseandtheopportunityfor
+
+
+[Title] (page 5)
+itselimination.
+
+
+[Title] (page 6)
+2 Theoreticalframeworkandstate-of-the-art
+
+
+[Title] (page 6)
+In2016,theWorldHealthAssemblyendorsedtheeliminationofviralhepatitisasapublic
+
+
+[NarrativeText] (page 6)
+health threat by 2030. WHO-recommended interventions are childhood immunization
+
+
+[Title] (page 6)
+againsthepatitisB,preventionofmother-to-childtransmissionofhepatitisBvirus(HBV)
+
+
+[Title] (page 6)
+through timely vaccination at birth against hepatitis B and other approaches, safe
+
+
+[Title] (page 6)
+transfusions,harmreductionforpeoplewhoinjectdrugs,andHBVandhepatitisCvirus
+
+
+[Title] (page 6)
+(HCV)testingandtreatment(19).Sincethen,tremendouseffortshavebeenunderwayto
+
+
+[Title] (page 6)
+acceleratecountries'progresstowardHCVeliminationthroughdatacollection,predictive
+
+
+[Title] (page 6)
+modeling,andscreeningandtreatmentlinkageprojects(20).
+
+
+[Title] (page 6)
+InMay2022,the75thWorldHealthAssemblytooknoteofasetofcomprehensiveglobal
+
+
+[Title] (page 6)
+healthsectorstrategiesagainstHIV,viralhepatitis,andsexuallytransmittedinfectionsfor
+
+
+[Title] (page 6)
+theperiod2022-2030.Buildingonthe2016andnewAssemblystrategies,someMember
+
+
+[Title] (page 6)
+Stateshavedevelopedcomprehensivenationalhepatitisprograms.Toachievetheglobal
+
+
+[Title] (page 6)
+viralhepatitistargetsunderthe2030AgendaforSustainableDevelopment,theareasthat
+
+
+[NarrativeText] (page 6)
+should be worked onare a. raising awareness, promoting partnerships, andmobilizing
+
+
+[Title] (page 6)
+resourcesfordiagnosisandlinkagetotreatment;b.formulatingevidence-basedpoliciesand
+
+
+[Title] (page 6)
+compilingdataforaction;c.improvinghealthequityinthehepatitisresponse;d.preventing
+
+
+[Title] (page 6)
+transmission;ande.expandingscreening,care,andtreatmentservices(2).
+
+
+[NarrativeText] (page 6)
+Chronic HCV infection can remain asymptomatic until the late stages, leading to low
+
+
+[Title] (page 6)
+awareness of the patient's infection status and a significant proportion of undiagnosed
+
+
+[NarrativeText] (page 6)
+individuals (21). HCV infection is diagnosed in two stages: a. Detection of anti-HCV
+
+
+[Title] (page 6)
+antibodieswithaserologicaltestrevealsinfection.b.Ifthetestispositiveforanti-HCV
+
+
+[NarrativeText] (page 6)
+antibodies,anucleicacidtestforHCVribonucleicacid(RNA)(viralload)isneededto
+
+
+[Title] (page 6)
+confirmchronicinfectionandtheneedfortreatment(2).
+
+
+[Title] (page 6)
+AstudypresentedattheAmericanAssociationfortheStudyofLiverDiseases(AASLD)
+
+
+[NarrativeText] (page 6)
+Annual Meeting has concluded that the prevalence of viremic hepatitis C virus (HCV)
+
+
+[Title] (page 6)
+infectionsdeclinedfrom66millioninearly2015to59millioninearly2020(22);hepatitisC
+
+
+[NarrativeText] (page 6)
+hepatocellular carcinoma, and deathrelated tothese and other hepatic or extrahepatic
+
+
+[Title] (page 6)
+problems(20).TheworldwideprevalenceofHCVinfectionisestimatedtobe0.75%(95%
+
+
+[Title] (page 7)
+ResearchersattheCenterforDiseaseAnalysisFoundation(CDA)estimatedfrom2015to
+
+
+[Title] (page 7)
+20197.5millionnewchronicHCVinfections,1.3millionnewlydiagnosedthatyear(22).By
+
+
+[Title] (page 7)
+2019,ofthe59millionHCV-infectedpersonsworldwide,anestimated21%(15.2million)
+
+
+[NarrativeText] (page 7)
+werediagnosedand,bytheendof2019,9.4millionhadbeentreatedwithDirect-Acting
+
+
+[NarrativeText] (page 7)
+Antivirals (DAAs) (62% of persons diagnosed with chronic HCV infection), 8.8 million
+
+
+[NarrativeText] (page 7)
+infectionscured,and5.5millionall-causeandliver-relateddeaths(2,22).
+
+
+[Title] (page 7)
+Globally,morethanthree-quartersofHCVviremicinfectionsremainedundiagnosedatthe
+
+
+[Title] (page 7)
+beginningof2020,andmorethan90%ofpeoplewithactivehepatitisCremaineduntreated
+
+
+[Title] (page 7)
+withDAAs.Inhigh-incomecountriesin2020,ADCresearchersestimatedthat6million
+
+
+[Title] (page 7)
+peoplehadaviralinfection,ofwhom47%hadbeendiagnosedand11%ofthosediagnosed
+
+
+[Title] (page 7)
+werereceivingtreatment.ThepercentageofpeoplewithactivehepatitisCisestimatedto
+
+
+[Title] (page 7)
+be27%inupper-middle-incomecountries,15%inlower-middle-incomecountries,and16%
+
+
+[Title] (page 7)
+itis3%inupper-middle-incomecountries,4%inlower-middle-incomecountries,and4%
+
+
+[Title] (page 7)
+inlow-incomecountries(23).
+
+
+[Title] (page 7)
+Inconclusion,theinvestigatorsnotethatDAAtreatmentishighlyconcentratedinafew
+
+
+[Title] (page 7)
+countries,andlowdiagnosisratesandlackoflarge-scaleHCVscreeningprogramsremain
+
+
+[Title] (page 7)
+thesedatasuggestthatcurrently,theworldisstillfarfrommeetingglobaleliminationtargets
+
+
+[Title] (page 7)
+Scalingupinterventionsforhepatitisscreeningandtreatmentfrombaselinetoelimination
+
+
+[Title] (page 7)
+SustainableDevelopmentGoalsentailsanadditional1.5%investment,buttheeffectis
+
+
+[Title] (page 7)
+proportionallylarger,leadingtoabouta5%reductioninmortalityanda10%increasein
+
+
+[Title] (page 7)
+healthylifeyears(19).
+
+
+[Title] (page 7)
+TherecentWHOglobalhealthsectorstrategysetsnewactionsandtargetstoeliminateviral
+
+
+[Title] (page 7)
+hepatitisby2030byreducingnewinfectionsto90%anddeathsto65%,i.e.,tohalfamillion
+
+
+[NarrativeText] (page 7)
+eachworldwide.Forthistohappen,caremustbemoreaccessibletomorepeopleinneed.
+
+
+[Title] (page 7)
+Therecommendationsgivenhavethepotentialtosubstantiallyexpandaccesstotesting
+
+
+[NarrativeText] (page 7)
+and treatment in low- and middle-income countries. The 3 new key recommendations
+
+
+[Title] (page 7)
+include(3):a.Simplifiedservicedeliveryandtasksharing:testing,care,andtreatmentof
+
+
+[NarrativeText] (page 8)
+persons with chronic hepatitis C infection can be provided by non-specialist trained
+
+
+[Title] (page 8)
+physiciansandnursessothatcarecanbedeliveredinprimarycarefacilities,harmreduction
+
+
+[Title] (page 8)
+services,andprisons,whichismoreaccessibleandconvenientforpatients.b.Moreefficient
+
+
+[Title] (page 8)
+andsimplifiedhepatitisdiagnostics:useofHCVribonucleicacid(RNA)assaysatthepoint-
+
+
+[NarrativeText] (page 8)
+of-care (POC) as an additional approach alongside laboratory-based RNA assays to
+
+
+[NarrativeText] (page 8)
+diagnoseinfection.Especiallyapplicabletomarginalizedpopulations,suchaspeoplewho
+
+
+[Title] (page 8)
+injectdrugs,andhard-to-reachcommunitieswithlimitedaccesstocareandhighratesof
+
+
+[Title] (page 8)
+losstofollow-up.c.Harmonizedandsimplifiedhepatitistreatment(3).
+
+
+[Title] (page 8)
+Fortestinginallsettings,WHOrecommendstestingfocusedonpersonswithsignsand
+
+
+[Title] (page 8)
+symptomsofchronicliverdiseaseandgroupswithahighprevalenceofHCVinfection.
+
+
+[NarrativeText] (page 8)
+However, if the prevalence of infection in the general population exceeds 2-5%, WHO
+
+
+[NarrativeText] (page 8)
+recommends testing in the general population (19). WHO recommends treatment with
+
+
+[Title] (page 8)
+pangenotypicdirect-actingantivirals(DAAs)foralladultswithchronichepatitisCinfection.
+
+
+[Title] (page 8)
+InColombia,accordingtodatafromthehigh-costaccount,thecurrentlyavailableDAA
+
+
+[NarrativeText] (page 8)
+sofosbuvir/velpatasvir achieves an efficacy of 98.7% of HCV-infected patients, and a
+
+
+[Title] (page 8)
+treatmentdurationof12weeks(9).
+
+
+[Title] (page 8)
+Earlydiagnosisofinfectionandlinkagetotreatmentisoneoftheprioritylinesofaction.
+
+
+[NarrativeText] (page 8)
+Policies on HCV screening should be articulated in different settings (24). Key issues
+
+
+[NarrativeText] (page 8)
+impedingHCVeliminationarethelackofreliableandup-to-dateestimatesofactiveHCV
+
+
+[Title] (page 8)
+infectionsandrelateddiseaseburden(21).
+
+
+[NarrativeText] (page 8)
+TheWHOstrategydefinesambitioustargetstoeliminateHCVasapublichealththreatby
+
+
+[Title] (page 8)
+2030,toachievewhichthescale-upofDAAtreatmentisessential,butthisisahugepublic
+
+
+[Title] (page 8)
+healthchallenge.IdentificationofpatientswhoareunawareoftheirHCVstatusrepresents
+
+
+[Title] (page 8)
+themainbarriertobeovercome,by2017accordingtoWHOreportonly20%ofpeoplewith
+
+
+[NarrativeText] (page 8)
+HCV worldwide had been diagnosed (6). Micro-elimination strategies targeting small
+
+
+[Title] (page 8)
+fractionsofthepopulation,asopposedtonationwideeliminationprograms,haveshown
+
+
+[Title] (page 8)
+improvementindiagnosisandtreatmentratesresultingingreatbenefitsinexpandingthe
+
+
+[Title] (page 8)
+HCVcarecascadeandachievingWHOtargets(21).
+
+
+[Title] (page 8)
+AccordingtotheepidemiologicalsituationofHCVinfectioninthegeneralpopulationandthe
+
+
+[Title] (page 8)
+mostaffectedpopulations,andofthehepatitisCapproachplans,theclinicalguidelinesof
+
+
+[Title] (page 8)
+countriessuchasSpain,UnitedKingdom,Germany,France,Ireland,CanadaorAustralia
+
+
+[Title] (page 9)
+recommendpopulationandopportunisticscreening,i.e.HCVscreeningofpersonswith
+
+
+[Title] (page 9)
+exposuresandrisksituationsforinfectionsuchasinjectingand/orinhaleddruguse,risky
+
+
+[NarrativeText] (page 9)
+sexual intercourse, HIV/HBV co-infection, cosmetic procedures performed with sharps
+
+
+[Title] (page 9)
+without proper safety precautions, admission to correctional facilities (24), anyone who
+
+
+[NarrativeText] (page 9)
+who received medical or dental interventions in health care settings with substandard
+
+
+[Title] (page 9)
+infectioncontrolpractices(25).
+
+
+[Title] (page 9)
+TheindicationsforHCVscreeningbyriskexposuresinsteadofpopulationscreeningallow
+
+
+[NarrativeText] (page 9)
+focusing efforts and resources, responding to the principle of equity in the design,
+
+
+[Title] (page 9)
+implementation,andevaluationofHCVscreeningprogramsindifferentterritories,which
+
+
+[Title] (page 9)
+allowsaddressingthebarrierstoaccessanduseofservicesineachcontext(24).Targeted
+
+
+[Title] (page 9)
+screeningwouldidentifyahighrateofinfectedsubjects,duetothehigherrateofinfection
+
+
+[Title] (page 9)
+relatedtoriskfactors,andsimultaneouslyreduceviraltransmissionbyallowingHCVtobe
+
+
+[Title] (page 9)
+eliminatedfromindividualsathigherriskofspreadingtheinfection(26).
+
+
+[NarrativeText] (page 9)
+TheresultsofthestudybyRosato,etal(2022)indicatethatopportunistichospitalscreening
+
+
+[Title] (page 9)
+inpatientswithvariouscomorbiditiesisafeasiblestrategytodiagnoseandtheneasilylink
+
+
+[NarrativeText] (page 9)
+infectedpatientstocare.Theyalsoclearlyshowtheneedforincreasedawarenessamong
+
+
+[Title] (page 9)
+generalpractitionersandotherhealthcarespecialists,whocareforpatientswithdifferent
+
+
+[Title] (page 9)
+comorbidities,toaddressHCVdiseasemanagement.ThisisalsoimportantbecauseHCV
+
+
+[Title] (page 9)
+eradicationhasbeenshowntosignificantlyimprovenotonlyliverdiseaseoutcomesbutalso
+
+
+[Title] (page 9)
+variouscomorbidities,suchascryoglobulinemicvasculitis,diabetes,cardiovascularand
+
+
+[Title] (page 9)
+renaldiseases,etc.(27).
+
+
+[Title] (page 9)
+Carecascademonitoring(CoC)isanimportantcomponentoftheresponsetotheglobal
+
+
+[Title] (page 9)
+hepatitisCvirus(HCV)epidemic.ThefunctionofaCoCistorepresenthowmanymembers
+
+
+[Title] (page 9)
+ofapopulationhaveprogressedthrougheachstageinasequenceofstagesrequiredfor
+
+
+[NarrativeText] (page 9)
+effectivediseasecontrol:e.g.,diagnosis,treatment,andcure;thefindingsobtainedwill
+
+
+[Title] (page 9)
+linkagetocare,andtreatmentamongpersonswithchronicHCVinfection(28).
+
+
+[NarrativeText] (page 9)
+Ahospital-centeredHCVmicro-eliminationapproachprovidesaframeworkforexpanding
+
+
+[Title] (page 9)
+linkagestocareandtreatmentonthepathtoachievingWHO's2030targets(21).Itisless
+
+
+[NarrativeText] (page 9)
+complex and costly than large-scale national effortsto eliminate HCV, and it can build
+
+
+[NarrativeText] (page 10)
+momentum by producing small victories that inspire more ambitious efforts (6). Fragile
+
+
+[Title] (page 10)
+populationsrequirededicatedscreeningandintegratedcareprograms,whichcanbeginin
+
+
+[NarrativeText] (page 10)
+hospitals and continue in a network involving all processes including telehealth (21),
+
+
+[Title] (page 10)
+promotingtheadoptionofnewmodelsofcareinspecificpopulations(6).
+
+
+[Title] (page 10)
+Micro-elimination approaches in populations at high risk for HCV transmission can
+
+
+[Title] (page 10)
+potentiallycontributetotreatmentasprevention.Theconceptoftreatmentasprevention
+
+
+[Title] (page 10)
+istosuccessfullytreatanHCV-infectedpersonatriskoftransmittingHCVtoothersand
+
+
+[Title] (page 10)
+eliminatethepossibilityoffurthertransmission,thusachievingprevention.Whilethereis
+
+
+[Title] (page 10)
+notyetareal-worlddemonstrationofthepotencyoftreatmentasprevention,themodel
+
+
+[Title] (page 10)
+indicatesthatcarryingoutthisstrategyonasufficientlylargescaleacceleratesprogression
+
+
+[Title] (page 10)
+towardpopulationelimination.Thegoaloftreatmentaspreventionistosuccessfullytreat
+
+
+[NarrativeText] (page 10)
+enough people to reach a threshold at which new infections are significantly reduced.
+
+
+[Title] (page 10)
+Becauseofthepotentialtopreventmoreinfections,manyofwhomwouldincurthehigh
+
+
+[Title] (page 10)
+costsoftreatingend-stageliverdisease(6).
+
+
+[Title] (page 10)
+Targetingthoseatthehighestriskfordiseasemaygeneratebroadercommunitybenefits
+
+
+[NarrativeText] (page 10)
+andlong-termcost-effectiveness.InsupportofthisapproachtoHCVeradication,modeling
+
+
+[NarrativeText] (page 10)
+studies by Martin and colleagues (2011 and 2013) have indicated that chronic HCV
+
+
+[Title] (page 10)
+prevalencecouldbereducedbytreatingthoseatriskforongoingHCVtransmission(29).
+
+
+[Title] (page 10)
+Thescale-upofHCVtreatmentislargelydependentontheavailabilityandaffordabilityof
+
+
+[NarrativeText] (page 10)
+diagnostics and drugs. A large portion of the costs is attributable to testing because
+
+
+[Title] (page 10)
+screeninglargenumbersofpeopleisrequiredtoidentify90%ofthoseinfectedinlow-
+
+
+[Title] (page 10)
+prevalencesettings(19).
+
+
+[Title] (page 10)
+Since2017,inColombia,theHigh-CostAccount(CAC)hasbeenfollowinguponcases
+
+
+[Title] (page 10)
+identifiedwithchronichepatitisCinfection,incompliancewiththeprovisionsofResolution
+
+
+[Title] (page 10)
+1692of2017,whichispartofthecentralizednegotiationandpurchasestrategyfordirect-
+
+
+[Title] (page 10)
+actingantivirals(30).
+
+
+[NarrativeText] (page 10)
+AccordingtotheFollow-upreportoncaseswithchronichepatitisCunderthecentralized
+
+
+[NarrativeText] (page 10)
+drugnegotiationandpurchasestrategy-Cut-offJune30,2020,infollow-upbytheEPSon
+
+
+[Title] (page 10)
+compliancewithwhatiscontemplatedintheclinicalpathwayforthetreatmentofchronic
+
+
+[NarrativeText] (page 10)
+hepatitis C, 634 cases and 326 cases were reported in the 2019 and 2020 cohort,
+
+
+[Title] (page 10)
+respectively,foratotalof2,102patientswithadiagnosisofchronichepatitisCreportedto
+
+
+[Title] (page 11)
+thehigh-costaccount(includingthoseinthe2017-2018cohort).Ofthe634usersenrolled
+
+
+[Title] (page 11)
+inthe2019cohort,584initiatedtreatments,ofwhich97.6%(570)didsowithcentrally
+
+
+[Title] (page 11)
+98.6%(216)withcentrallypurchaseddrugs,whichmadeevidentthealmostexclusiveuse
+
+
+[NarrativeText] (page 11)
+ofthestrategy,exceptincasesofstage4-5chronickidneydisease.Ofthe1,142patients
+
+
+[Title] (page 11)
+reportedtotheCACin2017and2018,1,079hadinitiatedtreatmentandofthese84.2%
+
+
+[NarrativeText] (page 11)
+(n=909), were included in the centralized purchasing model, the most frequently used
+
+
+[NarrativeText] (page 11)
+treatment in 98.2% of cases in the 2019-2020-2021 cohort was sofosbuvir/velpatasvir,
+
+
+[Title] (page 11)
+withcentrallypurchaseddrugs,theeffectivenesswas95.1%andwithdrugsoutsidethe
+
+
+[Title] (page 11)
+centralizedpurchasingmodelitwas96.4%.Forthe2019cohort,theeffectivenesswas98%
+
+
+[Title] (page 11)
+and100%respectively.Inthe2020cohort,treatmenteffectivenessisat100%(12).
+
+
+[Title] (page 11)
+Thereportconcludesthatthereishigheffectivenessofdirect-actingantiviraltreatments
+
+
+[NarrativeText] (page 11)
+(greater than 95%), follow-up is observed in the application of the clinical route and
+
+
+[Title] (page 11)
+thereisaneedtoencouragescreeninginthepopulationover50yearsofageandaccording
+
+
+[Title] (page 11)
+toriskexposure,asestablishedinresolution3280of2018(12).
+
+
+[Title] (page 11)
+3 Researchquestion
+
+
+[NarrativeText] (page 11)
+What is the prevalence of HCV in the population with risk factors for hepatitis C virus
+
+
+[Title] (page 11)
+infectioncapturedbyscreeningwithrapidtestsinhealthcareinstitutionsinColombia
+
+
+[Title] (page 11)
+4 Objectives
+
+
+[Title] (page 11)
+4.1 Generalobjective
+
+
+[Title] (page 11)
+TodeterminetheprevalenceofHCVinpatientswithriskfactorsforHCVcapturedthrough
+
+
+[NarrativeText] (page 11)
+opportunityscreeninginthehospitalinstitutionsincluded.
+
+
+[Title] (page 11)
+4.2 Specificobjectives
+
+
+[ListItem] (page 11)
+Characterizethestudypopulationsocio-demographically.
+
+
+[ListItem] (page 11)
+DescribetheepidemiologicalcharacteristicsofHCVantibody-positivepatients.
+
+
+[ListItem] (page 12)
+DeterminetheproportionofpatientswithpositiveHCVantibodiesandpositiveviralload
+
+
+[Title] (page 12)
+(quantitative)forHCV.
+
+
+[ListItem] (page 12)
+Performanexploratoryanalysisoftheassociationofpositivecasesandthedifferentrisk
+
+
+[Title] (page 12)
+factorsforHCVinfection.
+
+
+[ListItem] (page 12)
+Quantify how many HCV-positive individuals were able to access the management
+
+
+[Title] (page 12)
+pathwayandtreatment.
+
+
+[Title] (page 12)
+5 Methodology
+
+
+[Title] (page 12)
+5.1 Typeofstudy
+
+
+[Title] (page 12)
+Descriptivemulticentercross-sectionalstudy.
+
+
+[Title] (page 12)
+5.2 Studypopulation
+
+
+[Title] (page 12)
+Allpersonsover18yearsofagewhoaretreatedintheincludedhealthcareinstitutions
+
+
+[Title] (page 12)
+(IPS)andwhoareusersofhospitalization,emergency,outpatientandanyotherhospital
+
+
+[Title] (page 12)
+careservices.
+
+
+[Title] (page 12)
+Inclusioncriteria
+
+
+[Title] (page 12)
+HaveatleastoneofthefollowingriskfactorsforhepatitisC.
+
+
+[ListItem] (page 12)
+Over50yearsofagewithnoriskfactors.
+
+
+[ListItem] (page 12)
+Over18yearsoldand<50yearsold,withriskfactorsforhepatitisC:
+
+
+[NarrativeText] (page 12)
+Persons who have received medical or dental interventions in health care
+
+
+[Title] (page 12)
+settings.
+
+
+[Title] (page 12)
+Personswhohavehadtattoos,bodypiercings,orscarificationprocedures.
+
+
+[Title] (page 12)
+PersonswithHIVorhepatitisBinfection.
+
+
+[Title] (page 12)
+Personswhoinjectdrugs.
+
+
+[Title] (page 12)
+Personswhohaveusedintranasaldrugs.
+
+
+[Title] (page 12)
+Personsdeprivedoflibertyandpreviouslyincarceratedpersons.
+
+
+[Title] (page 12)
+Anyonewithabnormallivertestsorliverdisease.
+
+
+[Title] (page 12)
+Students,healthcareworkers,ormembersofpublicsafety(e.g.correctional
+
+
+[NarrativeText] (page 13)
+service officers or police) who have come into contact with blood at work through
+
+
+[Title] (page 13)
+needlestickorsharpsinjuries.
+
+
+[Title] (page 13)
+Anyonewhohasundergonehemodialysis.
+
+
+[Title] (page 13)
+PersonswhoreceivedtransfusionsinColombiabefore1996.
+
+
+[Title] (page 13)
+PersonswithcomorbiditiespotentiallyassociatedwithCH:diabetes,ischemic
+
+
+[Title] (page 13)
+heart disease, cryoglobulinemia, chronic
+
+
+[Title] (page 13)
+renal
+
+
+[Title] (page 13)
+acutelymphoblasticleukemia,waldenstrom'smacroglobulinemia.
+
+
+[ListItem] (page 13)
+
+
+
+[Title] (page 13)
+IndividualspreviouslytreatedforHCVwithsustainedviralresponseinwhomreinfection
+
+
+[Title] (page 13)
+issuspected(individualswhocontinuetoengageinriskbehaviors)
+
+
+[ListItem] (page 13)
+Accepttoparticipateinthestudybysigningtheinformedconsentform.
+
+
+[Title] (page 13)
+5.4 Exclusioncriteria
+
+
+[ListItem] (page 13)
+HaveorhavehadhepatitisCwithaprovencurebyviralloadat12weeksaftertheend
+
+
+[Title] (page 13)
+oftreatmentwithoutriskbehaviorsforreinfection.
+
+
+[ListItem] (page 13)
+BeonantiviraltreatmentagainstchronichepatitisCvirus.
+
+
+[ListItem] (page 13)
+Thatthepatientvoluntarilyandconsciouslyrefusestosigntheinformedconsentformor
+
+
+[Title] (page 13)
+isunabletogiveitduetoanytypeofphysicaland/ormentaldisability.
+
+
+[Title] (page 13)
+5.5 Variables
+
+
+[Title] (page 13)
+Table1.Studyvariables
+
+
+[Title] (page 13)
+Category
+
+
+[Title] (page 13)
+Variablename
+
+
+[Title] (page 13)
+Conceptual definition
+
+
+[Title] (page 13)
+Operational definition
+
+
+[NarrativeText] (page 13)
+Measuring scale
+
+
+[Title] (page 13)
+IDNumber
+
+
+[Title] (page 13)
+IDNumber
+
+
+[NarrativeText] (page 13)
+Personal identification under number which you are registeredinthe countryoforigin
+
+
+[Title] (page 13)
+Nominal
+
+
+[Title] (page 13)
+Sociodemographic
+
+
+[Title] (page 13)
+Age
+
+
+[Title] (page 13)
+Gender
+
+
+[NarrativeText] (page 13)
+Duration of an individual's existence measuredinunits oftime. Categorizes
+
+
+[Title] (page 13)
+Numberinyears
+
+
+[Title] (page 13)
+the 1.Female
+
+
+[Title] (page 13)
+Continual
+
+
+[Title] (page 13)
+Nominal
+
+
+[Title] (page 14)
+Category
+
+
+[Title] (page 14)
+RiskFactors
+
+
+[Title] (page 14)
+Variablename
+
+
+[Title] (page 14)
+Nationality
+
+
+[Title] (page 14)
+Department Residence
+
+
+[Title] (page 14)
+of
+
+
+[Title] (page 14)
+Municipality residence
+
+
+[Title] (page 14)
+of
+
+
+[Title] (page 14)
+Health Provider Institution(IPS)
+
+
+[Title] (page 14)
+Service
+
+
+[Title] (page 14)
+Affiliationregime
+
+
+[NarrativeText] (page 14)
+Entity Benefit administrator (EAPB) or Entity obliged to compensate (EOC)
+
+
+[Title] (page 14)
+plan
+
+
+[Title] (page 14)
+Transfusion bloodproducts
+
+
+[Title] (page 14)
+of
+
+
+[Title] (page 14)
+Conceptual definition
+
+
+[NarrativeText] (page 14)
+individual according to her biological characteristics.
+
+
+[Title] (page 14)
+Countryofbirth
+
+
+[NarrativeText] (page 14)
+geographic A placetowhichthe municipalityorcity where the person resides usually belongs. Geographic place municipality/city where the person usuallyresides.
+
+
+[NarrativeText] (page 14)
+Place where the screening was performed.
+
+
+[Title] (page 14)
+Category affiliation healthsystem.
+
+
+[Title] (page 14)
+to
+
+
+[Title] (page 14)
+of the
+
+
+[Title] (page 14)
+The in entity charge of health carecoverage.
+
+
+[Title] (page 14)
+Administration of hemocomponents before1996.
+
+
+[Title] (page 14)
+Operational definition
+
+
+[Title] (page 14)
+0.Male 2.Undetermined
+
+
+[Title] (page 14)
+Nameofcountry
+
+
+[Title] (page 14)
+Name department
+
+
+[Title] (page 14)
+of
+
+
+[Title] (page 14)
+Name of municipality/city
+
+
+[NarrativeText] (page 14)
+1= cardioinfantil 2= Santaf 3= Colombia 4= Universitario SanIgnacio 5= ValledeLili 6= Pablo Uribe 7= Universitario Julio Mndez Barreneche E.S.E. 0=Notinsured 1=Subsidized 2=Contributory 3=Special 4=Exception
+
+
+[Title] (page 14)
+Fundacin
+
+
+[Title] (page 14)
+Fundacin
+
+
+[Title] (page 14)
+Clínica
+
+
+[Title] (page 14)
+Hospital
+
+
+[Title] (page 14)
+Fundacin
+
+
+[Title] (page 14)
+Hospital Tobn
+
+
+[Title] (page 14)
+Hospital
+
+
+[Title] (page 14)
+Nameofentity
+
+
+[Title] (page 14)
+0.No 1.Yes
+
+
+[NarrativeText] (page 14)
+Measuring scale
+
+
+[Title] (page 14)
+Nominal
+
+
+[Title] (page 14)
+Nominal
+
+
+[Title] (page 14)
+Nominal
+
+
+[Title] (page 14)
+Nominal, polytomous
+
+
+[Title] (page 14)
+Nominal, polytomous
+
+
+[Title] (page 14)
+Nominal
+
+
+[Title] (page 14)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Category
+
+
+[Title] (page 15)
+Variablename
+
+
+[NarrativeText] (page 15)
+Theyearinwhich you received the transfusion
+
+
+[Title] (page 15)
+Majorsurgery
+
+
+[Title] (page 15)
+Intravenous drug use
+
+
+[Title] (page 15)
+Inhaled intranasal use Menwhohavesex withmen
+
+
+[Title] (page 15)
+or drug
+
+
+[Title] (page 15)
+KnownhepatitisB virusinfection
+
+
+[NarrativeText] (page 15)
+Known infection People who have hadtattoos, body scarification,etc. Population deprivedofliberty or previously incarcerated persons Liver disorders or disease
+
+
+[Title] (page 15)
+HIV
+
+
+[Title] (page 15)
+Conceptual definition
+
+
+[NarrativeText] (page 15)
+Date which received transfusion.
+
+
+[Title] (page 15)
+(year)
+
+
+[Title] (page 15)
+in you the
+
+
+[NarrativeText] (page 15)
+Surgical procedure performed in the room operating under general or regional sedation that may require post-procedural in-hospital monitoring.
+
+
+[NarrativeText] (page 15)
+Havingconsumed intravenousdrugs atanytime. Havingconsumed inhaled drugs at anytime. Manwhohashad sexwithmen. Refer to have a of diagnosis hepatitisBvirus. Refer diagnosis.
+
+
+[Title] (page 15)
+to HIV
+
+
+[Title] (page 15)
+of Presence tattoosorpiercing orscarification.
+
+
+[NarrativeText] (page 15)
+Being or having been deprived of liberty a in penitentiary center. A person with liver abnormal
+
+
+[Title] (page 15)
+Operational definition year
+
+
+[NarrativeText] (page 15)
+The which received transfusion transfusion Abdominal laparotomy: 0.no;1Yes Gynecologic surgery of any type: 0.No;1Yes Orthopedic surgery of any type: 0.No;1Yes Anysurgerythat in- required hospital post- procedure surveillance more hours:0. 0.No;1Yes
+
+
+[Title] (page 15)
+in you the
+
+
+[Title] (page 15)
+for than 24
+
+
+[Title] (page 15)
+0.No 1.Yes
+
+
+[Title] (page 15)
+0.No 1.Yes
+
+
+[Title] (page 15)
+0.No 1.Yes
+
+
+[Title] (page 15)
+0.No 1.Yes
+
+
+[Title] (page 15)
+0.No 1.Yes
+
+
+[Title] (page 15)
+0.No 1.Yes
+
+
+[Title] (page 15)
+0.No 1.Yes
+
+
+[Title] (page 15)
+0.No 1.Yes
+
+
+[NarrativeText] (page 15)
+Measuring scale
+
+
+[Title] (page 15)
+Continual
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 15)
+Nominal, dichotomous
+
+
+[Title] (page 16)
+Category
+
+
+[Title] (page 16)
+Variablename
+
+
+[Title] (page 16)
+Occupational exposure
+
+
+[Title] (page 16)
+Hemodialysis
+
+
+[NarrativeText] (page 16)
+Comorbidities potentially associated with HCVinfection.
+
+
+[Title] (page 16)
+Missedopportunity Doctorvisits
+
+
+[Title] (page 16)
+HCV screeningtest
+
+
+[Title] (page 16)
+antibody
+
+
+[Title] (page 16)
+Sampleresults
+
+
+[Title] (page 16)
+Viralloadtest
+
+
+[Title] (page 16)
+Conceptual definition or
+
+
+[NarrativeText] (page 16)
+tests disease. Healthcare workers or membersofpublic safety (e.g., correctional serviceofficersor police) who have been in contact withbloodatwork through needlestick sharpsinjuries. Apersonwhohas undergone hemodialysis. Diabetes, Ischemic disease, Cryoglobulinemia, Chronic renal failure, Sjgren's syndrome, Hypothyroidism, Flat Rheumatoid arthritis, Non-Hodgkin's lymphoma, Acute lymphoblastic leukemia, Waldenstrom's macroglobulinemi a, Chronic renal insufficiency, Sjgren's syndrome Doctorvisitsinthe lastmonth Report of HCV antibody test result. Report load those who reactive antibodies.
+
+
+[Title] (page 16)
+liver
+
+
+[Title] (page 16)
+or
+
+
+[Title] (page 16)
+heart
+
+
+[NarrativeText] (page 16)
+the viral of patients presented HCV
+
+
+[NarrativeText] (page 16)
+result
+
+
+[Title] (page 16)
+Operational definition
+
+
+[Title] (page 16)
+0.No 1.Yes
+
+
+[Title] (page 16)
+0.No 1.Yes
+
+
+[Title] (page 16)
+0.No 1.Yes
+
+
+[Title] (page 16)
+Howmany
+
+
+[Title] (page 16)
+0.Non-reactive 1.Reactive
+
+
+[Title] (page 16)
+0.Non-reactive 1.Reactive
+
+
+[NarrativeText] (page 16)
+Measuring scale
+
+
+[Title] (page 16)
+Nominal, dichotomous
+
+
+[Title] (page 16)
+Nominal, dichotomous
+
+
+[Title] (page 16)
+Nominal, dichotomous
+
+
+[Title] (page 16)
+Continued
+
+
+[Title] (page 16)
+Nominal, dichotomous
+
+
+[Title] (page 16)
+Nominal, dichotomous
+
+
+[Title] (page 17)
+Category
+
+
+[Title] (page 17)
+Variablename
+
+
+[Title] (page 17)
+Conceptual definition
+
+
+[Title] (page 17)
+Operational definition
+
+
+[NarrativeText] (page 17)
+Measuring scale
+
+
+[Title] (page 17)
+Follow-up
+
+
+[Title] (page 17)
+SIVIGILAReport
+
+
+[NarrativeText] (page 17)
+Follow-up confirmedcase
+
+
+[Title] (page 17)
+of
+
+
+[NarrativeText] (page 17)
+The confirmed casesofHCVasa public health eventarereported tothesurveillance system utilizing form340. that Follow-up each case confirmed in the study has access toconsultationby a clinical specialist. Monitoring patient access to treatment
+
+
+[Title] (page 17)
+0:Notreported 1:Ifreported
+
+
+[Title] (page 17)
+0.No Why 1.Yes
+
+
+[Title] (page 17)
+0.No Why 1.Yes
+
+
+[Title] (page 17)
+Nominal, dichotomous
+
+
+[Title] (page 17)
+Nominal, dichotomous
+
+
+[Title] (page 17)
+Nominal, dichotomous
+
+
+[Title] (page 17)
+5.6 Samplingframe
+
+
+[Title] (page 17)
+Thesampleframeismadeupofallpersonsover18yearsofagewhoattendedhealth
+
+
+[Title] (page 17)
+outpatient,andanyotherhospitalcareservices.
+
+
+[Title] (page 17)
+5.7 Sampleselectionmethod
+
+
+[NarrativeText] (page 17)
+Non-probabilistic convenience sampling will include all patients who meet the eligibility
+
+
+[Title] (page 17)
+criteria.Theinclusionofparticipantswillbeconsecutiveuntilthecalculatedsamplesizeis
+
+
+[NarrativeText] (page 17)
+completed.
+
+
+[Title] (page 17)
+5.8 Samplesize
+
+
+[NarrativeText] (page 17)
+Considering that the prevalence of HCV in the hospital population with risk factors is
+
+
+[Title] (page 17)
+unknown,50%willbeconsidered,withaconfidencelevelof95%,anerrorof5%,adesign
+
+
+[Title] (page 17)
+effectof3,andapopulationservedonaveragefortheinstitutionsincludedof280,186during
+
+
+[Title] (page 17)
+2021,theminimumsamplesizerequiredperinstitutionis1,151andthemaximumwitha
+
+
+[Title] (page 17)
+confidencelevelof99.99%is4,519(Table1).
+
+
+[Title] (page 18)
+Table1.Samplesizeforfrequencyinapopulation
+
+
+[Title] (page 18)
+Populationsize(forfinitepopulationcorrectionfactororfcp)(N): Hypothetical%frequencyoftheoutcomefactorinthepopulation(p): Confidencelimitsas%of100(absolute+/-%)(d): Designeffect(forgroupsurveys-EDFF):
+
+
+[Title] (page 18)
+SampleSize(n)forVariousConfidenceLevels
+
+
+[Title] (page 18)
+Source:ResultsfromOpenEpi,version3,theSSProporopen-sourcecalculator.
+
+
+[Title] (page 18)
+5.9 Samplinganddatacollectionprocedure
+
+
+[NarrativeText] (page 18)
+the standardized data collection phase will begin. Search strategy through opportunity
+
+
+[NarrativeText] (page 18)
+screening. For each person whomeetsthe inclusion criteria and wishes to participate,
+
+
+[Title] (page 18)
+informedconsentwillberequestedandadatacollectionformwillbefilledout(Annex1).
+
+
+[NarrativeText] (page 18)
+Thesepatientswillundergopre-testcounseling,apresumptiverapidtestforHCV,andif
+
+
+[NarrativeText] (page 18)
+positive, contact information will be requested for post-test counseling and evaluation
+
+
+[Title] (page 18)
+throughteleconsultationbyoneoftheprincipalinvestigatinghepatologistswhowillguide
+
+
+[NarrativeText] (page 18)
+themtoaccesstheconfirmatorytestforHCV,thestudywillassumetheresponsibilityforits
+
+
+[Title] (page 18)
+realization.Oncethecarepathwayisestablished,thesubsequentfollow-upofthepatient
+
+
+[Title] (page 18)
+withareactivehepatitisCantibodytestwillbedonethroughtheirEAPBorEOC.
+
+
+[Title] (page 18)
+Thesamplewillbetakenbytrainedpersonnelbycapillarypunctureofthethumbregionof
+
+
+[NarrativeText] (page 18)
+thefingersoftherighthand,afterasepsisandantisepsis,therapiddiagnostictestHCVAb
+
+
+[Title] (page 18)
+PlusRapidtestwithINVIMAregistration2018RD-0002353-R1willbeusedwithoperational
+
+
+[Title] (page 18)
+characteristicsthatallowitsperformanceatthepointofcareobtainingaresultin15to20
+
+
+[Title] (page 18)
+minutes.ThisrapidtestforantibodiesagainstHCVmaybereplacedbyanothertestwith
+
+
+[Title] (page 18)
+similar operational characteristics (sensitivity and specificity). The recommendations
+
+
+[Title] (page 18)
+describedbythetestmanufacturershouldbefollowed.
+
+
+[NarrativeText] (page 19)
+Oncethecapillarybloodsamplingisperformed,theusedimplementsandthebloodsamples
+
+
+[NarrativeText] (page 19)
+obtainedwillbediscardedaccordingtobiosafetyprotocolsandnoadditionalstudieswillbe
+
+
+[Title] (page 19)
+performedwiththesesamples.Thespacesdesignedtodisposeofthematerialusedwillbe
+
+
+[Title] (page 19)
+theguardiantodisposeofsharpsanditemscontaminatedwithbloodinaredbiohazardbag
+
+
+[Title] (page 19)
+thatwillgotofinaldisposalbythecompanyinchargeofthispurposeintheinstitutionwhere
+
+
+[Title] (page 19)
+thesamplecollectioniscarriedout.
+
+
+[NarrativeText] (page 19)
+Cases with reactive hepatitis C antibody tests will be reported to the hepatologist,
+
+
+[NarrativeText] (page 19)
+gastroenterologist, or infectologist linked to the institution and who acts as the leading
+
+
+[Title] (page 19)
+physicianofthestrategyineachinstitutionandtotheepidemiologyserviceorunitofthe
+
+
+[Title] (page 19)
+respectiveinstitutionforfollow-upandnotificationtotheNationalPublicHealthSurveillance
+
+
+[Title] (page 19)
+System-SIVIGILA.
+
+
+[Title] (page 19)
+PerforminghepatitisCviralloadforcaseswithpositivehepatitisCantibodieseitherthrough
+
+
+[NarrativeText] (page 19)
+a reference laboratory (Colcan) with which ACH has established an agreement or by
+
+
+[Title] (page 19)
+paymenttotheClinicalLaboratoryoftheHospital.
+
+
+[Title] (page 19)
+Alltheinformationobtainedwillberecordedandprocessedindividually(casebycase)
+
+
+[Title] (page 19)
+throughadigitalinformationsystemwithcloudbackupinreal-timeusingaCaseReport
+
+
+[Title] (page 19)
+Form(CRF),withtheuseofatablet.Thereviewandvalidationofthedatacapturewillbe
+
+
+[NarrativeText] (page 19)
+performedweekly.Theinformationwillbeguardedandencryptedfortheexclusiveuseof
+
+
+[Title] (page 19)
+theprincipalinvestigatorsbelongingtotheColombianAssociationofHepatology,periodic
+
+
+[Title] (page 19)
+quarterlyreportsandafinalreportwillbesubmittedtoeachoftheparticipatinginstitutions.
+
+
+[NarrativeText] (page 19)
+The information will be anonymized for their use. Access to the information will be
+
+
+[Title] (page 19)
+independentforeachinstitution.
+
+
+[Title] (page 19)
+5.10 DataAnalysisPlan
+
+
+[Title] (page 19)
+Descriptiveanalysiswillbeperformedforallvariablesofinterestproposedinthisstudy.
+
+
+[NarrativeText] (page 19)
+Descriptive statistics (frequencies and percentages) will be estimated. For continuous
+
+
+[Title] (page 19)
+quantitativevariables,measuresofcentraltendency(meanandmedian)andmeasuresof
+
+
+[Title] (page 19)
+dispersion(variance,standarddeviation)willbeestimated.Possiblerelationshipsbetween
+
+
+[Title] (page 19)
+sociodemographicvariables,riskfactors,anddocumentationofpositiveHCVantibodieswill
+
+
+[NarrativeText] (page 19)
+beexplored,forwhichabivariateanalysiswillbeperformedusingX2(chi-square)teststo
+
+
+[Title] (page 19)
+exploretheproposedassociations.AllanalyseswillbeperformedwithStataversion18.
+
+
+[Title] (page 20)
+5.11 Toolstobeused
+
+
+[Title] (page 20)
+Aformwillbeusedtocollectdemographicdataandthevariablestobestudied(Annex1).
+
+
+[Title] (page 20)
+6 Ethicalconsiderations
+
+
+[Title] (page 20)
+ThisprotocolwillbesubmittedforreviewandevaluationbytheResearchEthicsCommittee
+
+
+[Title] (page 20)
+ineachoftheparticipatinginstitutionstoobtaintherespectiveapprovalforitsexecution.
+
+
+[Title] (page 20)
+ThestudyisbytheprovisionsofResolution8430of1993oftheColombianMinistryof
+
+
+[NarrativeText] (page 20)
+Health, according to article 11 numeral b, is classified asminimalrisk,given that data
+
+
+[Title] (page 20)
+recordswereusedthroughcommonproceduresconsistingofasamplecollection(blood)by
+
+
+[NarrativeText] (page 20)
+capillarypuncture.Inaddition,thecriterionofrespectforthedignityandprotectionofthe
+
+
+[NarrativeText] (page 20)
+rightsandwelfareoftheparticipantswillprevail.
+
+
+[Title] (page 20)
+Informedconsentwillberequestedinwrittenformtoallparticipants,givingclearandeasily
+
+
+[NarrativeText] (page 20)
+understandable information about the objectives of the research. The consent will be
+
+
+[NarrativeText] (page 20)
+explained and doubts about it will be resolved, and complete freedom will be given to
+
+
+[Title] (page 20)
+withdrawconsentatanytimeduringthestudy,forthereasonsthatthesubjectconsiders
+
+
+[Title] (page 20)
+(Annex2).
+
+
+[Title] (page 20)
+Thestudywillbecoordinatedbyhealthprofessionalsandthesamplinganddatacollection
+
+
+[NarrativeText] (page 20)
+willbeperformedbytrainednursingassistants.Theconfidentialityofthedatacollectedwill
+
+
+[Title] (page 20)
+beguaranteed,theinformationobtainedwillnotbeusedforpurposesotherthanthecurrent
+
+
+[Title] (page 20)
+researchprocess,andatthetimeofdisclosureoftheinformation,sensitivedataordatathat
+
+
+[NarrativeText] (page 20)
+allowtheidentificationoftheparticipatingindividualswillnotbepublished,therulesoutlined
+
+
+[Title] (page 20)
+inthelaw1581of2012onhabeasdatawillbefollowed.
+
+
+[Title] (page 20)
+Noneoftheauthorshaveconflictsofinteresttodeclare.
+
+
+[Title] (page 21)
+7 Expectedresultsimpact
+
+
+[Title] (page 21)
+Strengtheningofthescientificcommunity
+
+
+[Title] (page 21)
+ExpectedResult/Outcome
+
+
+[NarrativeText] (page 21)
+Screening adults with factorsforhepatitisC
+
+
+[Title] (page 21)
+Indicator Theproportionofpeople diagnosedwithhepatitis C
+
+
+[Title] (page 21)
+risk
+
+
+[NarrativeText] (page 21)
+of Linkage treatment confirmed positive cases for HCV infection in the hospitals includedinthestudy.
+
+
+[Title] (page 21)
+to
+
+
+[NarrativeText] (page 21)
+Theproportionofpeople diagnosed with chronic hepatitis C who started treatment
+
+
+[Title] (page 21)
+Socialappropriationofknowledge
+
+
+[NarrativeText] (page 21)
+ExpectedResult/Output Circulation specialized of knowledge: Presentation of in scientific events results (nationalandinternational). Circulation specialized of knowledge: Presentation of results to stakeholders of the ColombianSSSSS.
+
+
+[Title] (page 21)
+Indicator
+
+
+[NarrativeText] (page 21)
+Participation scientific presenting results. Participation in events different with the stakeholders of USGS.
+
+
+[Title] (page 21)
+in events research
+
+
+[Title] (page 21)
+Generationofnewknowledge
+
+
+[NarrativeText] (page 21)
+ExpectedResult/Output Researcharticlesubmittedtoa journal indexed in one of the bibliographic citation indexes such asISI-Web of Knowledge (ScienceCitationIndex(Raffone et al.) and Social Sciences Citation or SCOPUS, Publindex, Lilacs, BVS,Latindex,amongothers.
+
+
+[Title] (page 21)
+Index
+
+
+[Title] (page 21)
+Indicator
+
+
+[NarrativeText] (page 21)
+Scientific published.
+
+
+[Title] (page 21)
+articles
+
+
+[Title] (page 21)
+Expectedimpactsfromtheuseofresults
+
+
+[Title] (page 21)
+Beneficiary
+
+
+[NarrativeText] (page 21)
+the Users affiliated with SGSSS, plan administrators, and health personnel. the Users affiliated with SGSSS, plan administrators, and health personnel.
+
+
+[Title] (page 21)
+benefit
+
+
+[Title] (page 21)
+benefit
+
+
+[Title] (page 21)
+Beneficiary Medical-scientificcommunity, decision makers, hospital institutions.
+
+
+[Title] (page 21)
+Insurersandprovidersofthe SGSSS, patients at the nationallevel.
+
+
+[Title] (page 21)
+Beneficiary
+
+
+[Title] (page 21)
+Medical-scientificcommunity, decision makers, hospital institutions.
+
+
+[Title] (page 22)
+ExpectedImpact
+
+
+[Title] (page 22)
+Time(years)after completionof project*1-4years
+
+
+[Title] (page 22)
+Verifiable indicator
+
+
+[Title] (page 22)
+Assumptions
+
+
+[Title] (page 22)
+Improved timeliness of detectionofnewcasesof hepatitisCinthehospital setting.
+
+
+[NarrativeText] (page 22)
+Improved time between confirmatory PCR diagnosisandinitiationof treatment.
+
+
+[Title] (page 22)
+1-4years
+
+
+[Title] (page 22)
+1-4years
+
+
+[NarrativeText] (page 22)
+Increase in incidence rate for hepatitisC
+
+
+[NarrativeText] (page 22)
+Increase the numberofpersons diagnosed with chronichepatitisC who initiated treatment
+
+
+[Title] (page 22)
+in
+
+
+[NarrativeText] (page 22)
+staff Medical the adhering screening and diagnostic algorithm - applicability of the algorithm in people with risk conditions andexposures. Standardization of route that allows compliance with all stages the diagnosis, treatment, follow-up patientwithCH.
+
+
+[Title] (page 22)
+to
+
+
+[Title] (page 22)
+for
+
+
+[Title] (page 22)
+and the
+
+
+[Title] (page 22)
+of
+
+
+[Title] (page 22)
+Successfulcompletionof treatment
+
+
+[Title] (page 22)
+1-4years
+
+
+[NarrativeText] (page 22)
+the Increase proportion of patients with cure (sustained viral response)
+
+
+[Title] (page 22)
+in
+
+
+[NarrativeText] (page 22)
+Timelinessoffollow- patient up, adherence to treatmentregimen.
+
+
+[Title] (page 22)
+Changes chronic in hepatitis C prevalence figures
+
+
+[Title] (page 22)
+Trendinthecrude prevalence of chronichepatitisC
+
+
+[NarrativeText] (page 22)
+Timelydetectionand treatment cause a decreaseintherisk oftransmission.
+
+
+[Title] (page 22)
+Short(1-4),medium(5-9),long(10ormore)
+
+
+[Title] (page 22)
+8 Communicationstrategies
+
+
+[Title] (page 22)
+Eachinstitutionwilluseitsmechanismsforthedisseminationoftheprojectandparticipatory
+
+
+[Title] (page 22)
+strategiesthatitdeterminesappropriateaccordingtothetypeofclinicalresearchandits
+
+
+[Title] (page 22)
+institutionalpoliciesafterconsultationwiththeColombianAssociationofHepatology.
+
+
+[Title] (page 22)
+9 Trajectoryoftheresearchersparticipatingintheresearchproject
+
+
+[Title] (page 22)
+JavierEnriqueHernándezBlanco.SpecialistinInternalMedicine,Gastroenterologyand
+
+
+[Title] (page 22)
+Digestive Endoscopy, Master in Liver Diseases and Clinical Epidemiology. University
+
+
+[Title] (page 22)
+ResearchProfessor,PresidentoftheColombianAssociationofHepatology(2021-2023).
+
+
+[Title] (page 22)
+ActiveparticipantintheNationalPlanfortheEliminationofViralHepatitis,nationallecturer
+
+
+[Title] (page 22)
+inViralHepatitisBandC,formeradvisorinpublichealthfortheSecretaryofDistrictHealth
+
+
+[Title] (page 23)
+community,co-authorColcienciasproject-CALL777:PrevalenceandmodelingofHepatitis
+
+
+[Title] (page 23)
+CVirusinfectioninColombia.
+
+
+[Title] (page 23)
+10 Scheduleofactivities
+
+
+[Title] (page 23)
+Thedurationoftheprojectwillbe11months.
+
+
+[Title] (page 23)
+Activities
+
+
+[Title] (page 23)
+Startdate
+
+
+[NarrativeText] (page 23)
+EndDate
+
+
+[NarrativeText] (page 23)
+Developmentofthefinalprotocol, consentreports,andapprovalby the ethics committees of each institution. Training of nursing staff for data capture,samplecollection,referral totreatment,andfollow-up Recruitment of participants - Identificationofat-riskpopulations tobescreened-Screeningtests- Entryofdatacollected Verification of the quality of the - Data information collected analysis Dataanalysis Presentationofafinalreport Writingandsubmissionofarticle forpublication
+
+
+[Title] (page 23)
+Month1
+
+
+[Title] (page 23)
+Month3
+
+
+[Title] (page 23)
+Month3
+
+
+[Title] (page 23)
+Month3
+
+
+[Title] (page 23)
+Month7 Month10
+
+
+[Title] (page 23)
+Month2
+
+
+[Title] (page 23)
+Month3
+
+
+[Title] (page 23)
+Month8
+
+
+[Title] (page 23)
+Month8
+
+
+[Title] (page 23)
+Month9 Month10
+
+
+[Title] (page 23)
+Month11
+
+
+[Title] (page 23)
+Month11
+
+
+[Title] (page 23)
+11 Budget
+
+
+[Title] (page 23)
+ThisprojectwillbeexecutedbytheColombianAssociationofHepatology(ACH),andisan
+
+
+[Title] (page 23)
+initiativeoftheACHinresponsetoitscommitmenttojoineffortstoachievetheWorldHealth
+
+
+[NarrativeText] (page 23)
+Organization's goal of eliminating viral hepatitis by 2030, and is financed with ACH
+
+
+[NarrativeText] (page 23)
+resources, which in turn are obtained from the association's activities and resources
+
+
+[NarrativeText] (page 23)
+obtainedincallsforprojectfunding.
+
+
+[Title] (page 23)
+AttheHospital,thestudyisunderthedirectionoftheleadphysicianandhospitalstaff
+
+
+[Title] (page 23)
+assignedtoperformtherapidtestsandpaidforwithprojectresources.Thehospitalwill
+
+
+[Title] (page 23)
+incurnoadditionalcostsfortheconductoftheprojectbeyondallowingtheuseofitsphysical
+
+
+[Title] (page 23)
+areaforpatientrecruitmentandpoint-of-carerapidtestingoutsidetheclinicallaboratory.
+
+
+[Title] (page 23)
+ThecostofperformingviralloadswillalsobebornebytheACH,forwhichacontracthas
+
+
+[NarrativeText] (page 23)
+alreadybeenestablishedwiththeCOLCANreferencelaboratory,buttheycouldalsobe
+
+
+[NarrativeText] (page 24)
+performedinthelaboratoryofthesameinstitutionatthecostoftheprojectatarateofCOP
+
+
+[Title] (page 24)
+238,000(USD49,96)foreachviralloadiftheinstitutionallaboratoryexpressesinterestin
+
+
+[Title] (page 24)
+processingtheviralloadsamplesofthecaseswithpositiveantibodiesandaftersigningan
+
+
+[Title] (page 24)
+agreement.
+
+
+[Title] (page 24)
+Leadershipinthecommunicationandmanagementofprojectresourcesvis-à-vishealthcare
+
+
+[NarrativeText] (page 24)
+institutions is provided by the ACH, its board of directors, and the acting president or
+
+
+[Title] (page 24)
+designee,alongwithalignmentwitheachparticipatingprojectinstitutionleader.
+
+
+[Title] (page 24)
+ACHistheauthoroftheprojectandwillprovidetheresourcesfortheexecutionofthe
+
+
+[Title] (page 24)
+project.Theitemscoveredintheexecutionofthestudydonotincludethecostsoftreatment
+
+
+[NarrativeText] (page 24)
+or any clinical management procedure (for example, visits to the doctor, or follow-up
+
+
+[Title] (page 24)
+laboratories)sincetheyarepartoftheusualtreatmentforhepatitisCvirusinfectionandit
+
+
+[Title] (page 24)
+iscontemplatedintheColombianregulationsthatoncethecaseofconfirmedhepatitisCis
+
+
+[NarrativeText] (page 24)
+notified to SIVIGILA (file 340), every quarter the High Cost Account downloads that
+
+
+[Title] (page 24)
+establishescommunication/auditwiththeBenefitPlanManagementCompany(EAPB)to
+
+
+[NarrativeText] (page 24)
+which the patient belongs and guarantees their linkage to treatment, treatment against
+
+
+[Title] (page 24)
+hepatitisCwhichisfree,atnocosttotheEAPBorout-of-pocketexpenseforthepatient
+
+
+[Title] (page 24)
+andwhichisacquiredinannualpurchasesbytheCACsince2017throughthecentralized
+
+
+[Title] (page 24)
+purchasingmechanismfromthePanAmericanHealthOrganization.
+
+
+[Title] (page 25)
+12 Annexes
+
+
+[Title] (page 25)
+12.1 Annex1.Datacollectioninstrument
+
+
+[Title] (page 25)
+AdultscreeningforhepatitisCandlinkagetotreatmentinColombianhospitals
+
+
+[Title] (page 25)
+Patient'sname: Age(inyears): Contactphonenumber:
+
+
+[Title] (page 25)
+Identificationnumber: Sex:Male:Female: Residenceaddress: DepartmentofResidence: Municipalityofresidence:
+
+
+[Title] (page 25)
+Affiliationscheme: 0.Uninsured: 1.Subsidized: 2.Contributory: 3.Special: 4.Exception:
+
+
+[Title] (page 25)
+Institucinprestadoradeserviciodesalud(IPS):
+
+
+[Title] (page 25)
+Fundacincardioinfantil
+
+
+[Title] (page 25)
+FundacinSantaf
+
+
+[Title] (page 25)
+ClínicaColombia
+
+
+[Title] (page 25)
+HospitalUniversitarioSanIgnacio
+
+
+[Title] (page 25)
+FundacinValledeLili
+
+
+[Title] (page 25)
+HospitalPabloTobnUribe
+
+
+[Title] (page 25)
+Hospital Universitario Julio Mndez Barreneche E.S.E.
+
+
+[Title] (page 25)
+E-mail:Nationality: Receivedbloodtransfusionbefore1996: YESNO Name of EAPB or Entity obliged compensate:
+
+
+[Title] (page 25)
+Yearoftransfusion:
+
+
+[Title] (page 25)
+to
+
+
+[Title] (page 25)
+Tattoos: YesNo
+
+
+[NarrativeText] (page 25)
+Manwhohassexwithmen: YesNo KnownHIVinfection: YesNo Abnormallivertestsorwithliverdisease: Healthcare workers or members of public
+
+
+[Title] (page 26)
+YesNo
+
+
+[Title] (page 26)
+person who
+
+
+[NarrativeText] (page 26)
+A hemodialysis: YESNO DiagnosisofCryoglobulinemia: YESNO Diagnosisofrenalfailure: YESNO Populationdeprivedoflibertyorpreviouslyincarceratedpersons:YESNO HCVantibodydetectiontest: Non-reactive: Reactive: Viralloadtest: Positive: Negative: Notapplicable:(inallcaseswhereHCVantibodyscreeningtestisnon-reactive). CasereportedtoSivigilaYESNO ThepositivecasehasbeenfollowedupYESNO ThepatienthashadaccesstoaspecializedconsultationYESNOWhy ThepatientwasabletoaccesstreatmentYESNOWhy Dateofcompletion: Nameofthepersondoingthediligence:
+
+
+[NarrativeText] (page 26)
+has
+
+
+[Title] (page 26)
+undergone
+
+
+[Title] (page 26)
+Diagnosisofcoronaryarterydisease: YESNO
+
+
+[Title] (page 26)
+12.2 Annex2.InformationsecurityforwebapplicationsinHostingerwithMySQL
+
+
+[Title] (page 26)
+anddesktopapplications.Thissectionaimstoprovideanoverviewofbestpracticesand
+
+
+[Title] (page 26)
+securitymeasuresimplementedandbestpracticestobeperformedduringprojectexecution
+
+
+[Title] (page 26)
+toprotectsensitiveinformationandensuretheavailabilityandintegrityoftheapplication.
+
+
+[Title] (page 26)
+I.AuthenticationandAuthorization
+
+
+[Title] (page 26)
+1.Applicationaccesspassword:Secureandcomplexpasswordsmustbeused.Theuseof
+
+
+[NarrativeText] (page 26)
+combinations of upper- and lower-case letters, numbers, and special characters is
+
+
+[NarrativeText] (page 26)
+recommended.Thepasswordwillbeassigneddirectlyatthetimeofusercreation.
+
+
+[Title] (page 26)
+2.Two-factorauthentication(2FA):Implementtwo-factorauthenticationtoaddalayerof
+
+
+[Title] (page 26)
+securitytoapplicationanddatabaseaccess.Two-factorauthenticationwillworkforaccess
+
+
+[NarrativeText] (page 27)
+to Hostinger, where the VPS server administration, MySql database, and web hosting
+
+
+[NarrativeText] (page 27)
+configurationarelocated.
+
+
+[Title] (page 27)
+3.Role-basedauthorizationforHostinger:Establishappropriaterolesandpermissionsto
+
+
+[NarrativeText] (page 27)
+ensureaccesstothedashboardandadministrationoftheserver,hosting,anddatabaseof
+
+
+[Title] (page 27)
+theproject.TheadministrationwillbeinchargeofCrecemos-LaboratoriodeEstrategias
+
+
+[Title] (page 27)
+DigitalesSAS,astrategicallyforthedigitalmanagementoftheAssociation,workingon
+
+
+[NarrativeText] (page 27)
+management issues, updates, software patches, and product updates. Access and
+
+
+[NarrativeText] (page 27)
+permissions to additional users will be requested and established by the Colombian
+
+
+[Title] (page 27)
+AssociationofHepatology.
+
+
+[Title] (page 27)
+4.Role-basedauthorizationfortheapplication:Establishappropriaterolesandpermissions
+
+
+[NarrativeText] (page 27)
+toensurethatusersonlyhaveaccesstothepartsoftheapplicationaccordingtotheir
+
+
+[Title] (page 27)
+responsibility. Three
+
+
+[NarrativeText] (page 27)
+roles were
+
+
+[NarrativeText] (page 27)
+defined with
+
+
+[Title] (page 27)
+the
+
+
+[NarrativeText] (page 27)
+following
+
+
+[Title] (page 27)
+permissions:
+
+
+[Title] (page 27)
+a.SUPERADMINISTRATOR:Willhavefullaccesstothewebapplicationwherehe/shecan
+
+
+[Title] (page 27)
+andviraltestupload.
+
+
+[Title] (page 27)
+b.ADMINISTRATOR:Willhavepartialaccesstothewebapplicationwherehe/shewillhave
+
+
+[Title] (page 27)
+accesstothedashboardfilteredbythemedicalinstitutiontowhichhe/shebelongsandwill
+
+
+[Title] (page 27)
+beabletodownloadthecorrespondinginformation,uploadquicktests,anduploadviral
+
+
+[Title] (page 27)
+tests.
+
+
+[Title] (page 27)
+c.OPERATIVE:Willhavepartialaccesstothewebapplicationwherehe/shewillbeableto
+
+
+[Title] (page 27)
+accessthedashboardfilteredbythemedicalinstitutiontowhichhe/shebelongs,uploadthe
+
+
+[Title] (page 27)
+rapidtest,anduploadtheviraltest.
+
+
+[Title] (page 27)
+5.Authorizationandremoteaccesstothedatabase:Directaccesstothedatabasethrough
+
+
+[NarrativeText] (page 27)
+some database viewer or terminal, you will have to access with user credentials, and
+
+
+[Title] (page 27)
+passwordandhaveSSHauthentication,whichwillbemanagedbyHostingeradministrator
+
+
+[Title] (page 27)
+staff.Itisrecommendednottoaccessdirectlytothedatabaseinthisway.
+
+
+[Title] (page 27)
+II.DataProtection
+
+
+[ListItem] (page 27)
+1. Data Encryption: HTTPS (SSL/TLS) implementation to encrypt the communication
+
+
+[Title] (page 27)
+betweentheclientandtheserver.Also,aproprietaryAPIwasimplementedtochannel
+
+
+[NarrativeText] (page 27)
+communications with the database, and the storage of confidential information was
+
+
+[Title] (page 27)
+configuredespeciallyforsensitiveinformation:
+
+
+[Title] (page 28)
+a.Autoincrementalandauto-generatedIDforrecordsinthedatabase.
+
+
+[Title] (page 28)
+b.RelationoftheinformationemployingIDSsspecifictoeachrecord.
+
+
+[Title] (page 28)
+c.Patient'sIDonlyforlinkingrapidloadtestwithviralloadtest.
+
+
+[Title] (page 28)
+d.Confidentialityofthepatient'snameinthedatabasestorage.
+
+
+[ListItem] (page 28)
+2. API Implementation: Development and implementation of a proprietary API Rest
+
+
+[Title] (page 28)
+(backend)tochannelandcontroldirectcommunicationswiththedatabase.TheAPIhas
+
+
+[Title] (page 28)
+accesstothedatabaseinsecretandencryptedfilesinsidethesameserver.
+
+
+[Title] (page 28)
+Authenticationandauthorizationmiddlewareswereimplementedforuseraccessandalayer
+
+
+[Title] (page 28)
+ofDTOs(DataTransferObject)wasimplementedtovalidatetheinformationthattheAPI
+
+
+[Title] (page 28)
+receivesandrespondstothecapturewebapplication(client).Theconnectiontotheprivate
+
+
+[NarrativeText] (page 28)
+API is made by the capture web application (client) using its encrypted keys. The
+
+
+[Title] (page 28)
+communicationprotocolsallowedbytheAPI:
+
+
+[Title] (page 28)
+a.GET:Getinformation,downloadinformation
+
+
+[Title] (page 28)
+b.POST:Uploadquicktestform,uploadviraluploadform,andusercreation.
+
+
+[Title] (page 28)
+c.PUTEditusers
+
+
+[Title] (page 28)
+d.DELETE:Nodeletecommandsareallowed.
+
+
+[Title] (page 28)
+III.UpdatesandPatches
+
+
+[ListItem] (page 28)
+1. Keep Software Updated: Keep the operating system, the web server, the MySQL
+
+
+[Title] (page 28)
+database,andalllibrariesandframeworksusedupdatedwiththelatestsecuritypatches.
+
+
+[ListItem] (page 28)
+2. Audit Code: Perform regular security audits of application code to identify potential
+
+
+[Title] (page 28)
+vulnerabilitiesandcorrectthempromptly.
+
+
+[Title] (page 28)
+IV.AttackProtection
+
+
+[Title] (page 28)
+FirewallsandSecurityFilters:Configurationoffirewallsandsecurityfilterstoblockmalicious
+
+
+[Title] (page 28)
+featuresDDoSprotectionandaconfigurablefirewallforSSHandHTTPprotocolsandport
+
+
+[Title] (page 28)
+definition.
+
+
+[Title] (page 28)
+SecurityMonitoring:Periodicsecuritymonitoringtodetectunusualorpotentiallymalicious
+
+
+[Title] (page 28)
+activityandgeneratealerts.
+
+
+[Title] (page 29)
+V.BackupandRecovery
+
+
+[Title] (page 29)
+1.Backups:SchedulingregularbackupsoftheMySQLdatabaseandapplicationfiles.
+
+
+[NarrativeText] (page 29)
+Storage of these copies in secure locations. Full server backups perform automated
+
+
+[Title] (page 29)
+snapshotseveryweekandeventhepossibilityofgeneratingmanualsnapshotsondemand
+
+
+[Title] (page 29)
+orapplicationupdates.Incaseofanyvulnerabilityorinconvenience,itispossibletorevert
+
+
+[Title] (page 29)
+toapreviousversionquickly.
+
+
+[Title] (page 29)
+2.BusinessContinuityPlan:Incaseofanysecurityincident,accessvulnerability,oreven
+
+
+[Title] (page 29)
+serverdowntime,thefollowingrecoveryandbusinesscontinuityproceduresareinplace:
+
+
+[Title] (page 29)
+a.BackupsandcopiesofthedatabasesinaserveroutsideHostinger.
+
+
+[Title] (page 29)
+b.Repositoriesofthecapturewebapplication(Frontend)andtheAPI(Backend)inGitbuh
+
+
+[Title] (page 29)
+forrapiddeploymentonadifferentserver.
+
+
+[Title] (page 29)
+c.Nodependencyonaspecificservertobeabletodeployandruntheapplicationagain.
+
+
+[Title] (page 29)
+d.Restorationofthelatestdatabasebackupversion.
+
+
+[Title] (page 29)
+VI.EducationandAwareness
+
+
+[Title] (page 29)
+Userandstafftraining:EducateUsersAssociationstaffandprojectparticipantsfromeach
+
+
+[Title] (page 29)
+medicalinstitutionaboutsecuritypractices,theimportanceofstrongpasswords,andhow
+
+
+[Title] (page 29)
+torecognizephishingattacksandotherfraudattempts.
+
+
+[Title] (page 29)
+VII.LegalCompliance
+
+
+[Title] (page 29)
+andSouthAmerica.Eachserverusedforhostingwebpages,webapplications,andother
+
+
+[NarrativeText] (page 29)
+services has encryption and
+
+
+[NarrativeText] (page 29)
+aforementioned document is defined with the architecture and security protocols as
+
+
+[Title] (page 29)
+requestedintheacceptancecriteriaofthecapturewebapplication.
+
+
+[Title] (page 29)
+Conclusion
+
+
+[NarrativeText] (page 29)
+Information security is an ongoing and constantly evolving endeavor. This document
+
+
+[Title] (page 29)
+providesafoundationforensuringthesecurityofawebapplicationhostedbyHostingerwith
+
+
+[Title] (page 29)
+aMySQLdatabase,butitisessentialtocontinuetomonitorandupdatesecuritymeasures
+
+
+[NarrativeText] (page 29)
+asthesecuritythreatevolves.
+
+
+[Title] (page 29)
+the
+
+
+[NarrativeText] (page 30)
+In addition to the measures mentioned above, it is recommended to perform regular
+
+
+[Title] (page 30)
+penetrationtestingandcollaboratewithinformationsecurityprofessionalstoidentifyand
+
+
+[Title] (page 30)
+addresspotentialvulnerabilities.
+
+
+[Title] (page 30)
+Informationsecurityisanongoingcommitmentandasharedresponsibilityforeveryone
+
+
+[Title] (page 30)
+involvedinthedevelopment,management,andoperationofthewebapplication.
+
+
+[Title] (page 30)
+13 References
+
+
+[Title] (page 30)
+DivisionofViralHepatitis,NationalCenterforHIVVH,STD,andTBPrevention,. 1. ViralHepatitis:HepatitisCAtlanta:CentersforDiseaseControlandPrevention(CDC);2020 [Availablefrom:https://www.cdc.gov/hepatitis/hcv/.
+
+
+[ListItem] (page 30)
+2. [07 marzo sheets/detail/hepatitis-c.
+
+
+[Title] (page 30)
+OrganizacinMundialdelaSalud.HepatitisC[Internet.Ginebra,Suiza:OMS;2022 https://www.who.int/es/news-room/fact-
+
+
+[Title] (page 30)
+de
+
+
+[ListItem] (page 30)
+2023. Available
+
+
+[Title] (page 30)
+from:
+
+
+[NarrativeText] (page 30)
+World Health Organization. WHO publishes updated guidance on hepatitis C 3. infection–withnewrecommendationsontreatmentofadolescentsandchildren,simplified service delivery and diagnostics. Geneva, Switzerland: WHO; 2022 [Available from: https://www.who.int/news/item/24-06-2022-WHO-publishes-updated-guidance-on- hepatitis-C-infection.
+
+
+[ListItem] (page 30)
+4. WorldHealthOrganization.GlobalHealthSectorStrategyonViralhepatitis2016- 2021.Towardsendingviralhepatitis.Geneva:Switzerland:WorldHealthOrganization; 2016.
+
+
+[ListItem] (page 30)
+5. MountImprobable.Clinicalliverdisease.2020;16(6):254-61.doi:10.1002/cld.978
+
+
+[Title] (page 30)
+Dhiman RK, Premkumar M. Hepatitis C Virus Elimination by 2030: Conquering
+
+
+[ListItem] (page 30)
+6. LazarusJV,Safreed-HarmonK,ThurszMR,DillonJF,El-SayedMH,Elsharkawy AM, et al. The Micro-Elimination Approach to Eliminating Hepatitis C: Strategic and Operational Considerations. Semin Liver Dis. 2018;38(03):181-92. doi:10.1055/s-0038- 1666841 FondoColombianodeEnfermedadesdeAltoCosto.Díamundialdelahepatitis
+
+
+[ListItem] (page 30)
+7. 2022.BogotáD.C.,Colombia:CAC;202228dejuliode2022.
+
+
+[ListItem] (page 30)
+8. coinfeccin/superinfeccin doi:https://doi.org/10.33610/infoeventos.56 Hepatitis
+
+
+[ListItem] (page 30)
+8. coinfeccin/superinfeccin doi:https://doi.org/10.33610/infoeventos.56 Hepatitis
+
+
+[NarrativeText] (page 30)
+Instituto Nacional de Salud. Protocolo de Vigilancia de Hepatitis B, C y 5:19. B-Delta.
+
+
+[ListItem] (page 30)
+9. Online:CDAF;2023.
+
+
+[Title] (page 30)
+CDAFoundation.PolarisObservatory:HCVYearofArchievingEliminationTargets.
+
+
+[Title] (page 30)
+Lpez-OsorioMC,BeltránM,NavasMC.Epidemiologíadelainfeccinporelvirus 10. delahepatitisCenColombia.Revistapanamericanadesaludpublica=PanAmerican
+
+
+[ListItem] (page 31)
+11. FondoColombianodeEnfermedadesdeAltoCosto.SituacindelahepatitisC crnica en los regímenes subsidiado y contributivo de Colombia 2021. Bogotá D.C., Colombia:CuentadeAltoCosto(CAC);2022.
+
+
+[NarrativeText] (page 31)
+DoreGJ,BajisS.HepatitisCviruselimination:layingthefoundationforachieving 12. reviews Gastroenterology & hepatology. 2021;18(2):91-2. targets. Nature 2030 doi:10.1038/s41575-020-00392-3
+
+
+[ListItem] (page 31)
+13. HiebertL,HechtR,Soe-LinS,MohamedR,ShabaruddinFH,SyedMansorSM,et al.AStepwiseApproachtoaNationalHepatitisCScreeningStrategyinMalaysiatoMeet theWHO2030Targets:ProposedStrategy,Coverage,andCosts.ValueinHealthRegional Issues.2019;18:112-20.doi:https://doi.org/10.1016/j.vhri.2018.12.005 PawlotskyJM,RamersCB,DillonJF,FeldJJ,LazarusJV.SimplificationofCarefor 14. ChronicHepatitisCVirusInfection.SeminLiverDis.2020;40(4):392-402.doi:10.1055/s- 0040-1713657
+
+
+[ListItem] (page 31)
+16. RobleroJP,ArabJP,MezzanoG,MendizabalM.HepatitisCVirusInfection:What AreWeCurrentlyDoinginLatinAmericaAboutWHO'sProposalsfor2030Clinicalliver disease.2021;18(2):72-5.doi:10.1002/cld.1084
+
+
+[ListItem] (page 31)
+17. versusnewinfectionsin91countries.Journalofviruseradication.2017;3(3):117-23.
+
+
+[Title] (page 31)
+HillAM,NathS,SimmonsB.TheroadtoeliminationofhepatitisC:analysisofcures
+
+
+[Title] (page 31)
+GhanyMG,MorganTR.HepatitisCGuidance2019Update:AmericanAssociation 18. fortheStudyofLiverDiseases-InfectiousDiseasesSocietyofAmericaRecommendations forTesting,Managing,andTreatingHepatitisCVirusInfection.Hepatology(Baltimore,Md). 2020;71(2):686-721.doi:10.1002/hep.31060
+
+
+[ListItem] (page 31)
+19. TordrupD,HutinY,StenbergK,LauerJA,HuttonDW,ToyM,etal.Additional resourceneedsforviralhepatitiseliminationthroughuniversalhealthcoverage:projections in 67 low-income and middle-income countries, 2016–30. The Lancet Global Health. 2019;7(9):e1180-e8.doi:10.1016/S2214-109X(19)30272-4 PiquJ.AASLD2021:LaprevalenciamundialdelahepatitisCseredujoencasi7
+
+
+[ListItem] (page 31)
+20. millonesentre2015y2020.2021.
+
+
+[ListItem] (page 31)
+21. PiazzollaAV,ParoniG,BazzocchiF,CasseseM,CisterninoA,CiuffredaL,etal. HighRatesofHiddenHCVInfectionsamongHospitalizedPatientsAged55-85.Pathogens (Basel,Switzerland).2021;10(6).doi:10.3390/pathogens10060695
+
+
+[Title] (page 31)
+BlachS,DuganE,Razavi-ShearerD,Razavi-ShearerK,EstesC,CaiZ,etal.Global
+
+
+[NarrativeText] (page 32)
+status update on the HCV prevalence and cascade of care entering 2020. Hepatology (Baltimore,Md).2021;74(S1):68.doi:https://doi.org/10.1002/hep.32187
+
+
+[NarrativeText] (page 32)
+Polaris Observatory HCVC. Global change in hepatitis C virus prevalence and 23. cascadeofcarebetween2015and2020:amodellingstudy.ThelancetGastroenterology &hepatology.2022;7(5):396-415.doi:10.1016/S2468-1253(21)00472-6
+
+
+[ListItem] (page 32)
+24. infeccinporelVHCenespaa.Revistaespaoladesaludpblica.2020;94:1-10.
+
+
+[Title] (page 32)
+GonzálezRubioR,LabradorCaadasMV,AmoValeroJd.Laguíadecribadodela
+
+
+[ListItem] (page 32)
+25. RainaSK,ChauhanV,ThakurS.StateoftheGlobe:HepatitisC-Opportunistic versus Organized Screening. Journal of global infectious diseases. 2017;9(2):39-40. doi:10.4103/jgid.jgid7117
+
+
+[ListItem] (page 32)
+26. KondiliLA,CraxìL,AndreoniM,MenniniFS,RazaviH.Opportunisticco-screening forHCVandCOVID-19-relatedservices:Acreativeresponsewithaneedforthoughtful reflection.Liverinternational:officialjournaloftheInternationalAssociationfortheStudyof theLiver.2022;42(5):960-2.doi:10.1111/liv.15243 Rosato V, Kondili LA, Nevola R, Perillo P, Mastrocinque D, Aghemo A, et al. 27. EliminationofHepatitisCinSouthernItaly:AModelofHCVScreeningandLinkagetoCare among Hospitalized Patients at Different Hospital Divisions. Viruses. 2022;14(5). doi:10.3390/v14051096
+
+
+[ListItem] (page 32)
+28. Safreed-HarmonK,BlachS,AlemanS,BollerupS,CookeG,DalgardO,etal.The Consensus Hepatitis C Cascade of Care: Standardized Reporting to Monitor Progress Toward 2019;69(12):2218-27. Infectious doi:10.1093/cid/ciz714 Clinical
+
+
+[ListItem] (page 32)
+29. LeaskJD,DillonJF.Reviewarticle:treatmentasprevention–targetingpeoplewho injectdrugs as a pathway towards hepatitis Ceradication. AlimentaryPharmacology & Therapeutics.2016;44(2):145-56.doi:https://doi.org/10.1111/apt.13673
+
+
+[ListItem] (page 32)
+30. D.C., Colombia: Cuenta https://cuentadealtocosto.org/site/hepatitis-c/. de Alto Costo
+
+
+[Title] (page 32)
+FondoColombianodeEnfermedadesdeAltoCosto.QuesHepatitisCBogotá, from:
+
+
+[Title] (page 32)
+[Available

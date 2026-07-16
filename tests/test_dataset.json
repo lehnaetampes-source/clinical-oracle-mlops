@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the primary endpoint of this clinical trial?",
+    "expected_keywords": ["primary endpoint", "protocol"]
+  },
+  {
+    "question": "What are the inclusion criteria for patient enrollment?",
+    "expected_keywords": ["inclusion criteria", "years", "consent"]
+  },
+  {
+    "question": "What are the main safety outcomes monitored in the study?",
+    "expected_keywords": ["adverse", "safety"]
+  },
+  {
+    "question": "What statistical methods are used to analyze the results?",
+    "expected_keywords": ["statistical", "significan"]
+  },
+  {
+    "question": "What is the sample size and how was it calculated?",
+    "expected_keywords": ["sample size", "patients"]
+  }
+]

@@ -1,0 +1,447 @@
+
+[NarrativeText] (page 2)
+Ovarian cancer poses challenges for middle-aged and older patients, impacting physical
+
+
+[NarrativeText] (page 2)
+and self-conceptual aspects. A research gap exists on the impact of online support groups
+
+
+[NarrativeText] (page 2)
+(SPs) on identity synthesis and Health-Related Quality of Life (HRQOL) for these
+
+
+[NarrativeText] (page 2)
+patients. This research aims to understand the effect of a mobile online support group in
+
+
+[NarrativeText] (page 2)
+developing a recovery identity and enhancing HRQOL among middle-aged and older
+
+
+[NarrativeText] (page 2)
+ovarian cancer patients. Additionally, the research seeks to discern and compare the
+
+
+[Title] (page 2)
+intervention effects between the online support group and a traditional offline support
+
+
+[Title] (page 2)
+group.
+
+
+[Title] (page 2)
+Intervention
+
+
+[NarrativeText] (page 2)
+Inspired by SIMIC, we developed the theoretical framework of both the online
+
+
+[NarrativeText] (page 2)
+support group and the offline support group which is illustrated in Figure 2. The
+
+
+[NarrativeText] (page 2)
+intervention is designed with aim to prevent identity loss and foster a new identity for
+
+
+[NarrativeText] (page 2)
+ovarian cancer patients to enhance health outcomes. Both interventions incorporate core
+
+
+[NarrativeText] (page 2)
+features of education and peer support, with an added function for recording symptoms
+
+
+[NarrativeText] (page 2)
+and emotions. With those core features will appear in offline support group in form of
+
+
+[NarrativeText] (page 2)
+segment of the workshop, and will appear in online support group in form of function of a
+
+
+[NarrativeText] (page 2)
+mobile health product. To ensure the usability of the online support group solution, the
+
+
+[NarrativeText] (page 2)
+prototype designed carefully by following the Universal Design Mobile Interface
+
+
+[NarrativeText] (page 2)
+Guideline Version 2 (UDMIG v2.0) for design tailored to the aging demographic (Ruzic
+
+
+[Title] (page 2)
+The experiment group (the mobile online support group)
+
+
+[NarrativeText] (page 2)
+In the experiment group, participants studied the patient education materials that
+
+
+[NarrativeText] (page 2)
+provided in both word content and video format by themselves. Weekly reminder was
+
+
+[NarrativeText] (page 2)
+sent to remind patients to study one of the education materials. The video format
+
+
+[NarrativeText] (page 2)
+education materials were presented and video recorded by the healthcare professionals
+
+
+[NarrativeText] (page 3)
+which each last around 10 minutes. Inspired by the Group 4 Health workshop rooted in
+
+
+[NarrativeText] (page 3)
+offline support group, comprise four mandatory courses derived from scientific research
+
+
+[Title] (page 3)
+on physical, emotional, and role management knowledge relevant to the rehabilitation of
+
+
+[NarrativeText] (page 3)
+ovarian cancer patients (Graziani & Tsakos, 2020). These materials underwent a
+
+
+[NarrativeText] (page 3)
+comprehensive review process involving researchers and healthcare professionals,
+
+
+[NarrativeText] (page 3)
+including a head nurse, an attending physician from the in-hospital ovarian cancer
+
+
+[NarrativeText] (page 3)
+department, and a registered psychological therapist specializing in geriatric psychology.
+
+
+[NarrativeText] (page 3)
+This thorough review aimed to ensure the content's reliability and readability. The first
+
+
+[NarrativeText] (page 3)
+class introduced the management of physical and mental symptoms, and the importance
+
+
+[NarrativeText] (page 3)
+of role management. The second class facilitated the identification of existing group
+
+
+[NarrativeText] (page 3)
+memberships. In the third and fourth classes, participants explored ways to enhance
+
+
+[NarrativeText] (page 3)
+existing meaningful group memberships and acquire new ones, respectively.
+
+
+[NarrativeText] (page 3)
+To nurture a sense of belonging and enhance peer support between patients, the
+
+
+[NarrativeText] (page 3)
+online support group provided online community function to enables patients to share
+
+
+[NarrativeText] (page 3)
+their daily feelings, activities, or questions. Patient interaction included replies, "likes,"
+
+
+[NarrativeText] (page 3)
+and private communication through the online chat room. System-generated invitations
+
+
+[NarrativeText] (page 3)
+for posting was sent twice weekly to encourage regular engagement.
+
+
+[NarrativeText] (page 3)
+The symptom recording feature aligned with the health-related quality of life
+
+
+[NarrativeText] (page 3)
+questionnaire for ovarian cancer patients (QLQ-OV28) and assessed symptoms such as
+
+
+[Title] (page 3)
+fatigue, gastrointestinal issues, constipation or diarrhea, night sweats, and skin problems.
+
+
+[NarrativeText] (page 3)
+Patients recorded symptoms on a three-point scale ranging from "no symptoms" to
+
+
+[NarrativeText] (page 3)
+"severe symptoms.” Emotional status was recorded on a five-point scale, ranging from
+
+
+[NarrativeText] (page 3)
+"depression" to “happy.” Notifications prompt participants to complete symptom
+
+
+[NarrativeText] (page 3)
+recording twice a week.
+
+
+[Title] (page 4)
+The control group (the offline support group)
+
+
+[NarrativeText] (page 4)
+The offline support group shared similar functionalities with its mobile online
+
+
+[NarrativeText] (page 4)
+counterpart. Weekly group interventions were conducted, each lasting for 1 to 1.5 hours.
+
+
+[NarrativeText] (page 4)
+Participants in the control group were divided into two subgroups, each comprising 17
+
+
+[NarrativeText] (page 4)
+participants. Patient education sessions were conducted during the initial 10 minutes of
+
+
+[NarrativeText] (page 4)
+the workshop. Subsequently, participants were allotted approximately 4 minutes each to
+
+
+[NarrativeText] (page 4)
+express their thoughts and concerns to health professionals and fellow participants. A
+
+
+[NarrativeText] (page 4)
+hard-copy form was distributed to participants during the first session, where they were
+
+
+[NarrativeText] (page 4)
+instructed to document their daily emotions and symptoms. Peers who delivered offline
+
+
+[NarrativeText] (page 4)
+support group were healthcare workers who had completed deception in nursing or
+
+
+[Title] (page 4)
+psychology
+
+
+[Title] (page 4)
+Measure
+
+
+[Title] (page 4)
+Identity synthesis (primary outcome)
+
+
+[NarrativeText] (page 4)
+The measure of recovery identity included the assessment of patients' acceptance
+
+
+[NarrativeText] (page 4)
+of their illness identity and their self-esteem derived from their social identities. The
+
+
+[NarrativeText] (page 4)
+acceptance of illness identity was measured using the Illness Identity Questionnaire's
+
+
+[NarrativeText] (page 4)
+acceptance sub-scale, consisting of 6 items (Oris et al., 2016). The maintenance of former
+
+
+[NarrativeText] (page 4)
+social identities was measured using the Maintenance of Group Memberships sub-scale of
+
+
+[NarrativeText] (page 4)
+meaningful social identity was measured using the New Group Memberships sub-scale of
+
+
+[NarrativeText] (page 4)
+the Exeter Identity Transition Scales, which includes 4 questions. Responses were rated
+
+
+[NarrativeText] (page 4)
+on a scale from 1 to 5, with higher scores indicating a higher level of acceptance of the
+
+
+[NarrativeText] (page 4)
+identity. The recovery identity is calculated as the sum of each average score of
+
+
+[Title] (page 4)
+acceptance of illness identity, maintenance of former identity and new identity.
+
+
+[NarrativeText] (page 4)
+Health-related quality of life (secondary outcome)
+
+
+[Title] (page 5)
+HRQOL was measured using the Short Form Health Survey 12 (SF-12)
+
+
+[NarrativeText] (page 5)
+(Jakobusson, 2007), which includes twelve questions. Each item is transformed into a
+
+
+[NarrativeText] (page 5)
+scale ranging from 0 to 100 according to a specific scoring algorithm. These scores are
+
+
+[NarrativeText] (page 5)
+then aggregated to generate two summary scores: the Physical Component Summary
+
+
+[NarrativeText] (page 5)
+(PCS) and the Mental Component Summary (MCS). The resulting scores are norm-based,
+
+
+[NarrativeText] (page 5)
+comparing an individual's health status to population norms. HRQOL is calculate as the
+
+
+[NarrativeText] (page 5)
+summary of PCS and MCS. Higher scores indicate better HRQOL, with scores around 50
+
+
+[NarrativeText] (page 5)
+representing the average.
+
+
+[Title] (page 5)
+Participant Engagement
+
+
+[NarrativeText] (page 5)
+In the experimental group, the peer support was calculated based on system-
+
+
+[NarrativeText] (page 5)
+recorded time spent on relevant pages, while health record and patient education
+
+
+[NarrativeText] (page 5)
+involvement were gauged by the frequency of actions, encompassing symptom recording
+
+
+[NarrativeText] (page 5)
+and engagement with educational materials. Conversely, in the control group, participant
+
+
+[NarrativeText] (page 5)
+engagement was evaluated by calculating peer support based on session duration. Health
+
+
+[NarrativeText] (page 5)
+record involvement was quantified by the number of symptom and emotion record
+
+
+[NarrativeText] (page 5)
+entries, and patient education engagement was measured by the number of attended
+
+
+[Title] (page 5)
+lessons.
+
+
+[Title] (page 5)
+Data collection and analysis
+
+
+[NarrativeText] (page 5)
+Data collection occurred at three time points: before the intervention, immediately
+
+
+[NarrativeText] (page 5)
+after the intervention, and at a three-month follow-up. Questionnaires were administered
+
+
+[NarrativeText] (page 5)
+through a website link hosted on Sojump, and data were stored in Excel and analyzed
+
+
+[NarrativeText] (page 5)
+using SPSS 26.0. The determination of the sample size involved a statistical power
+
+
+[NarrativeText] (page 5)
+analysis, considering a two-sided test with a significance level (α = 0.05) and a desired
+
+
+[NarrativeText] (page 5)
+statistical power of 80% (1-β). A minimum of 34 individuals per intervention arm was
+
+
+[NarrativeText] (page 5)
+deemed necessary.
+
+
+[NarrativeText] (page 6)
+Participant engagement was assessed through comparing the number of courses
+
+
+[NarrativeText] (page 6)
+undertaken, average time spent on peer communication, and instances of health recording
+
+
+[NarrativeText] (page 6)
+behaviors. The assessment of the intervention's impact on shaping participants' recovery
+
+
+[NarrativeText] (page 6)
+identity and improving HRQOL involved comparing scores for identity synthesis and
+
+
+[Title] (page 6)
+HRQOL before and after the experiment.
+
+
+[NarrativeText] (page 6)
+T-tests or non-parametric test were employed to ascertain the significance of the
+
+
+[NarrativeText] (page 6)
+observed changes, and for assessing the differences in intervention effects between
+
+
+[NarrativeText] (page 6)
+groups. Additionally, Cohen!s d effect size representing the mean-level difference in
+
+
+[NarrativeText] (page 6)
+scores between groups was calculated as the mean difference between interventions on
+
+
+[NarrativeText] (page 6)
+each outcome divided by the pooled standard deviation. Regression coefficients and 95%
+
+
+[NarrativeText] (page 6)
+confidence interval were measured through regression analysis to understand the
+
+
+[NarrativeText] (page 6)
+difference in treatment effects. Associations between recovery identity and HRQOL were
+
+
+[NarrativeText] (page 6)
+examined through Pearson correlation coefficients. Hierarchical regression analyses were
+
+
+[NarrativeText] (page 6)
+conducted to evaluate the predictive value of demographic factors and recovery identity
+
+
+[Title] (page 6)
+for HRQOL.

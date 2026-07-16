@@ -1,0 +1,91 @@
+{
+  "averages": {
+    "faithfulness": 8.8,
+    "relevance": 9.4,
+    "completeness": 8.4,
+    "citation": 10.0,
+    "overall": 9.15
+  },
+  "details": [
+    {
+      "question": "What is the primary endpoint of this clinical trial?",
+      "query_used": "\"Identify clinical trials that report the primary endpoint for studies involving [specific population, e.g., 'adults with type 2 diabetes'] and describe the measured outcome.\"",
+      "avg_similarity": "53.13%",
+      "answer_preview": "**Primary Endpoint of the Clinical Trial:**\n\n- **Information not found in available documents.**\n\n**Confidence Score:** 95%\n*Reasoning: The retrieved context does not explicitly mention the primary endpoint of the clinical trial. While some documents discuss statistical analysis plans, safety monito...",
+      "scores": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "completeness": 10,
+        "citation": 10,
+        "overall": 10.0,
+        "completeness_missing": "nothing missing",
+        "faithfulness_issues": "none",
+        "feedback": "The answer correctly identifies the lack of information in the retrieved context and provides a high-confidence justification for this conclusion."
+      }
+    },
+    {
+      "question": "What are the inclusion criteria for patient enrollment?",
+      "query_used": "\"Find clinical trial protocols that specify the inclusion criteria for enrolling patients in studies.\"",
+      "avg_similarity": "61.03%",
+      "answer_preview": "**Inclusion Criteria for Patient Enrollment**\n\n- **Source: NCT06152900_Prot_SAP_000.txt**\n  - The study population will consist of males and females aged 18–60 years who have chosen to participate in this clinical trial as evidenced by execution of the informed consent document.\n  - Written informed...",
+      "scores": {
+        "faithfulness": 7,
+        "relevance": 8,
+        "completeness": 5,
+        "citation": 10,
+        "overall": 7.5,
+        "completeness_missing": "The answer does not include the pre-treatment recruiting/screening sources (e.g., 'Subjects will be recruited from...' or 'The investigator must ensure...') which likely contain additional inclusion criteria beyond age and consent.",
+        "faithfulness_issues": "none",
+        "feedback": "Expand the answer to include all inclusion criteria from the pre-treatment recruiting/screening sections (e.g., recruitment sources, investigator responsibilities) to improve completeness."
+      }
+    },
+    {
+      "question": "What are the main safety outcomes monitored in the study?",
+      "query_used": "\"Which clinical trial protocols report the primary safety outcomes, including adverse events and serious adverse events, for the study population under investigation?\"",
+      "avg_similarity": "65.97%",
+      "answer_preview": "### Main Safety Outcomes Monitored in the Study\n\n- **Adverse Events (AEs)**:\n  - Spontaneous reports of AEs and immediate response reports by the principal investigator will be analyzed.\n  - MedDRA coding will be used to describe all spontaneously reported or study-related AEs.\n  - Summaries will in...",
+      "scores": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "completeness": 9,
+        "citation": 10,
+        "overall": 9.75,
+        "completeness_missing": "The context mentions 'Safety Endpoints' (page 7) and 'Study Treatment (Visits 1-12)' (page 9), but the generated answer does not explicitly list these as safety outcomes. Additionally, the context includes 'Acute Responses' (page 9) as a title, but the answer does not elaborate on what these responses entail.",
+        "faithfulness_issues": "none",
+        "feedback": "Consider explicitly listing 'Safety Endpoints' and 'Acute Responses' as monitored safety outcomes, as these are directly referenced in the context."
+      }
+    },
+    {
+      "question": "What statistical methods are used to analyze the results?",
+      "query_used": "\"Which statistical methods are employed to analyze clinical trial outcomes in NIH protocols?\"",
+      "avg_similarity": "53.24%",
+      "answer_preview": "### Statistical Methods Used to Analyze Results\n\n- **Descriptive Statistics**:\n  - Endpoints will be summarized using descriptive statistics including mean score, standard deviation, standard error, and range (NCT06152900_Prot_SAP_000.txt, page 26).\n  - Frequency and percentage of subjects within ea...",
+      "scores": {
+        "faithfulness": 7,
+        "relevance": 9,
+        "completeness": 8,
+        "citation": 10,
+        "overall": 8.5,
+        "completeness_missing": "The context mentions 'uncontrolled study' and 'small' sample size, which could imply limitations on inferential methods (e.g., no formal hypothesis testing planned), but this is not addressed in the answer.",
+        "faithfulness_issues": "The generated answer incorrectly states 'Wilcox t-test' (Wilcoxon test is non-parametric, not a 't-test'). The context does not explicitly mention a t-test or Wilcoxon test, only that 'multiple imputation or modeling' may be used for missing data.",
+        "feedback": "Clarify the specific inferential methods (e.g., Wilcoxon test vs. t-test) and explicitly address the limitations of an uncontrolled small study when discussing statistical methods."
+      }
+    },
+    {
+      "question": "What is the sample size and how was it calculated?",
+      "query_used": "\"Find clinical trial protocols that report the sample size calculation method and the determined sample size for the study population.\"",
+      "avg_similarity": "53.63%",
+      "answer_preview": "- **Sample Size:**\n  - This specific information was not found in the retrieved documents.\n\n- **Sample Size Calculation Method:**\n  - This specific information was not found in the retrieved documents.\n\n**Confidence Score:** 0% (No relevant information found in the provided context.)...",
+      "scores": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "completeness": 10,
+        "citation": 10,
+        "overall": 10.0,
+        "completeness_missing": "nothing missing",
+        "faithfulness_issues": "none",
+        "feedback": "The answer correctly identifies the absence of relevant information in the provided context and maintains high standards for faithfulness, relevance, and completeness."
+      }
+    }
+  ]
+}

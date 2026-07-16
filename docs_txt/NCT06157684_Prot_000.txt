@@ -1,0 +1,219 @@
+
+[Title] (page 1)
+Principal investigator: Dr. Anna Whelan Faculty sponsor/Co-PI: Dr. Martha Kole-White
+
+
+[ListItem] (page 1)
+1. OBJECTIVES, SPECIFIC AIMS, BACKGROUND, AND SIGNIFICANCE
+
+
+[NarrativeText] (page 1)
+Objective: To assess the effect of postprandial ambulation on birth weight in patients with gestational diabetes as compared to routine activity.
+
+
+[NarrativeText] (page 1)
+Background/Introduction: Gestational Diabetes Mellitus (GDM) affects 6-8% of pregnancies in the United States(1). Patients who are diagnosed with GDM are unable to maintain euglycemia due to insulin resistance, particularly postprandially(2). This postprandial hyperglycemia has been tied to numerous clinical outcomes including increased risk for hypertensive disorders, cesarean delivery, shoulder dystocia, increased birthweight and large for gestational age (LGA) neonates(2). The initial treatment of GDM includes lifestyle changes including daily exercise and adoption of the American Diabetes Association (ADA) diet(3). Exercise has been shown to improve glucose levels in patients with gestational diabetes(4, 5). However an optimal exercise regimen has yet to be established. As elevated postprandial glucose levels have been associated with increasing birthweight, it may be inferred that an intervention aimed to decrease postprandial glucose may assist in carbohydrate metabolism and thus decrease the percentage of large for gestational age neonates.
+
+
+[NarrativeText] (page 1)
+A prior small pilot study done in Denmark assessed glucose trends in patients who exercised for 20 minutes after each meal and showed a significant decrease in postprandial glucose. As walking is a safe, low-impact exercise that requires no equipment and can be done outside or inside, this would be an intervention that is accessible to almost all patients. At Women and Infants Hospital in the Division of Maternal Fetal Medicine we care for a large volume of patients with gestational diabetes and are well poised to assess how a simple intervention such as postprandial ambulation can impact maternal and neonatal outcomes.
+
+
+[NarrativeText] (page 1)
+Hypothesis: We hypothesize that postprandial ambulation in patients with gestational diabetes will be associated with a decrease in neonatal birth percentile as compared to patients who do not ambulate postprandially.
+
+
+[ListItem] (page 1)
+2. STUDY DESIGN, METHODS, AND PROCEDURES
+
+
+[ListItem] (page 1)
+Study design:
+
+
+[NarrativeText] (page 1)
+o This is a randomized controlled trial of postprandial ambulation to decrease birthweight
+
+
+[Title] (page 1)
+percentile in patients with GDM
+
+
+[NarrativeText] (page 1)
+o Patients who are diagnosed with GDM and enrolled in the Diabetes in Pregnancy Program in the Division of Maternal Fetal Medicine at Women and Infants Hospital of Rhode Island will be approach for inclusion in the study. After consent is obtained, patients with GDM will be randomized into one of two groups.
+
+
+[NarrativeText] (page 1)
+▪ Group 1: intervention group: 20 minutes of walking after meals ▪ Group 2: non-intervention group: routine activity
+
+
+[NarrativeText] (page 1)
+o Randomization will occur via computer generated randomization in blocks of 10. After consent is obtained (either by signing consent form on REDCap or printed form) the participants will open a sealed envelope which will reveal which intervention they are
+
+
+[NarrativeText] (page 2)
+allocated to. They will then receive counseling specific to their group. They will be provided with an activity monitor and instructed on how to use as well as charge and upload data. They will be provided with the information from the manufacturer as well as trouble shooting guide.
+
+
+[NarrativeText] (page 2)
+o As is the standard of care in this clinic, both groups would be equipped with glucometers and
+
+
+[NarrativeText] (page 2)
+diabetic testing supplies. Both groups would receive the same diabetes and nutrition counseling from qualified nursing staff. Additionally, all participants will be provided with Bluetooth enabled pedometers. Those participants assigned to the intervention group would be instructed to walk for 20 minutes within the first two hours following each meal, while those assigned to the routine activity group will receive standard exercise counseling per ACOG and the ADA.
+
+
+[NarrativeText] (page 2)
+o Patients will touch base weekly (either in person or by email) with diabetic nurse educators as
+
+
+[NarrativeText] (page 2)
+is the standard management in this clinic. The decision to start insulin for glucose management will remain up to the discretion of the participant’s medical doctor. In addition to review of their glucose logs, patients will review activity log and pedometer data with research staff on a weekly or biweekly basis.
+
+
+[NarrativeText] (page 2)
+o Delivery data will be collected on all patients including routine postpartum laboratory data.
+
+
+[Title] (page 2)
+Inclusion and exclusion criteria: •
+
+
+[NarrativeText] (page 2)
+Inclusion Criteria: Patients who are diagnosed with gestational diabetes and receive care at the Maternal Fetal Medicine Diabetes in Pregnancy Program and who are fluent in English or Spanish.
+
+
+[ListItem] (page 2)
+Exclusion Criteria: Pre-existing type 1 or type 2 diabetes, and those diagnosed with gestational diabetes in the first trimester. Patients who are either physically unable to ambulate or who have other contraindications to ambulation.
+
+
+[NarrativeText] (page 2)
+Special Populations: • As this study is designed to evaluate the effect of ambulation on birth weight of neonates in patients with gestational diabetes, pregnant patients and fetuses will be involved. As light exercise (walking included) is recommended in pregnancy we believe this intervention to be safe and of minimal risk.
+
+
+[NarrativeText] (page 2)
+Sample size calculation: Using the mean birthweight for diabetics as reported in the Hyperglycemia and Adverse Pregnancy Outcomes study of 3292 gm (+/- 529 gm)(6) we calculated that for an 80% power at an alpha of 0.05 we would need 41 participants in each group (total of 82 participants). However, to account for ~10% dropout rate. We will recruit a total of 90 participants.
+
+
+[NarrativeText] (page 2)
+Setting: • Participants will be approached, consented and enrolled at the Women and Infants Obstetrics and Gynecology Care Center (OGCC) or the Women and Infants Prenatal Diagnosis Center (PDC). Additionally, data from delivery and postpartum course at Women and Infants Hospital of Rhode Island will be collected. If a participant delivers at an outside institution, the research team will attempt to attain the outside records (with participant permission).
+
+
+[NarrativeText] (page 2)
+Recruitment methods: • Patients who are pregnant at >20 weeks gestation and <32 weeks who are referred to the Diabetes in Pregnancy Program in the Division of Maternal Fetal Medicine will be recruited for this study.
+
+
+[ListItem] (page 2)
+A preparatory to research waiver will be requested as patients will be identified by chart review. • Patients will receive a copy of the consent form at the time or recruitment.
+
+
+[Title] (page 2)
+Consent Process:
+
+
+[ListItem] (page 3)
+After patients have been approached, a member of the research team will sit with them in person and review the consent form during their visit with the Diabetes in Pregnancy Program.
+
+
+[ListItem] (page 3)
+Patients will be counseled that their decision to participate will not affect their medical care. They will not receive compensation for their inclusion in the study but will receive a Bluetooth-enabled pedometer and be able to retain it after the completion of the study.
+
+
+[NarrativeText] (page 3)
+Data Collection Procedures: • Demographic data will be determined via a combination of chart review and participant report. Chart review will also be performed to collect data on pregnancy and medical history, delivery and neonatal data, and postpartum glucose testing.
+
+
+[ListItem] (page 3)
+Data from monitoring of blood glucose will be obtained from patient recorded flowsheets which are scanned into the medical record.
+
+
+[ListItem] (page 3)
+Data on activity level (steps taking) and timing of activity will be collected from patient recorded flowsheets as well as from pedometer report.
+
+
+[ListItem] (page 3)
+Data on feasibility and acceptability will be collected after delivery.
+
+
+[NarrativeText] (page 3)
+Source of Materials: • CNE Electronic health records, including scanned copies of blood glucose logs (see data abstraction
+
+
+[Title] (page 3)
+form for full details).
+
+
+[ListItem] (page 3)
+Pedometer: patient recorded flowsheet and review of pedometer application data. • Feasibility measures7 o Propotion of patients who enroll: proportion of patients who enroll out of all approached,
+
+
+[Title] (page 3)
+eligible patients
+
+
+[NarrativeText] (page 3)
+o Recruitment rate: number of patients successfully enrolled per month during the study o Time to enrollment: number of months to target sample size o Dropout rate: number of enrolled patients who drop out of study participation prior to
+
+
+[Title] (page 3)
+delivery
+
+
+[NarrativeText] (page 3)
+o Retention rate: proportion of enrolled patients who use FitBit device at least 75% of days
+
+
+[Title] (page 3)
+from enrollment to delivery
+
+
+[Title] (page 3)
+o Participant adherence:
+
+
+[ListItem] (page 3)
+Acceptability measures:
+
+
+[NarrativeText] (page 3)
+o 3 question survey administered postpartum (see data collection addendum)7
+
+
+[NarrativeText] (page 3)
+Records/Data to be reviewed: The PI and all research team members eligibility, obtain informed consent and perform data abstraction
+
+
+[Title] (page 3)
+for most participants.
+
+
+[NarrativeText] (page 3)
+Specimen collection and banking: Not applicable, no specimens will be collected
+
+
+[ListItem] (page 3)
+3. Data management: Demographics, health history, pregnancy, delivery and neonatal data will be collected from the medical record. Blood glucose logs and pedometer data will be collected as well and entered into RedCap electronic data capture tools hosted at our institution. REDCap (Research Electronic Data Capture) is a secure, web-based application designed to support data capture for research studies, to provide automated export procedures for data downloads to common statistical packages and to import data from multiple external sources.
+
+
+[NarrativeText] (page 4)
+All participants will be assigned a study ID when they are enrolled. Throughout the study, this ID will be used to link their de-identified study data to the study key which will include PHI and identifiable data that are collected on the data form. The remainder of the data which will by associated with the study ID will be collected in REDCap. The study key will be kept in a secure file in a password protected folder on the hospital network drive. The key will be destroyed upon completion of the manuscript. The coded data, however will be kept after the completion of the study for use in future research.
+
+
+[ListItem] (page 4)
+4. Material/Specimen Management No specimens will be used. Participants will be allowed to keep their activity tracker for personal use at the end of the study.
+
+
+[ListItem] (page 4)
+5. Provisions to monitor the data to ensure the safety of subjects This study is not greater than minimal risk. The risks involved are breach of confidentiality, however the plan for mitigation can be reviewed under the second titled “Data management”. The intervention involves changing the timing of the routinely prescribed activity. The activity we recommend is walking and is a low-intensity exercise which is supported during pregnancy both by ACOG and by the Institute of Medicine. We will monitor for any accidents that could occur (such as trips/slips/falls) each month by chart review and by following up with patients at routine prenatal appointments.
+
+
+[ListItem] (page 4)
+6. Withdrawal of subjects The study participants will be told that they can voluntarily withdraw from the study at any time. The use of their data if already collected is described in detail in the consent form.
+
+
+[ListItem] (page 4)
+7. References
+
+
+[ListItem] (page 4)
+1. Moyer VA, Force USPST. Screening for gestational diabetes mellitus: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med 2014 Mar 18;160(6):414-20. 2. Brown J, Alwan NA, West J, Brown S, McKinlay CJ, Farrar D, et al. Lifestyle interventions for the treatment of women with gestational diabetes. Cochrane Database Syst Rev 2017 May 4;5:CD011970. 3. ACOG Practice Bulletin No. 190: Gestational Diabetes Mellitus. Obstet Gynecol 2018 Feb;131(2):e49- e64. 4. Davenport MH, Sobierajski F, Mottola MF, Skow RJ, Meah VL, Poitras VJ, et al. Glucose responses to acute and chronic exercise during pregnancy: a systematic review and meta-analysis. Br J Sports Med 2018 Nov;52(21):1357-66. 5. Harrison AL, Shields N, Taylor NF, Frawley HC. Exercise improves glycaemic control in women diagnosed with gestational diabetes mellitus: a systematic review. J Physiother 2016 Oct;62(4):188-96. 6. Catalano PM, McIntyre HD, Cruickshank JK, McCance DR, Dyer AR, Metzger BE, et al. The hyperglycemia and adverse pregnancy outcome study: associations of GDM and obesity with pregnancy outcomes. Diabetes Care 2012 Apr;35(4):780-6. 7. Larsen et al. “Feasibility and Acceptability of a Counseling- and mHealth-Based Physical Activity Intervention for Pregnant Women with Diabetes: The Fit for Two Pilot Study.”JMIR Mhealth Uhealth. 2020 Oct; 8(10):e18915.

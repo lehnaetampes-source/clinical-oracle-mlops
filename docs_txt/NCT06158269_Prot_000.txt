@@ -1,0 +1,535 @@
+
+[NarrativeText] (page 1)
+Phase II clinical study of daratumumab combined with bortezomib,
+
+
+[Title] (page 1)
+lenalidomide and dexamethasone (DVRd) in the treatment of patients
+
+
+[NarrativeText] (page 1)
+with newly diagnosed double-hit multiple myeloma
+
+
+[Title] (page 1)
+(Study Protocol)
+
+
+[Title] (page 1)
+Last updated: Mar 15th 2023
+
+
+[ListItem] (page 1)
+1. Protocol summary
+
+
+[Title] (page 1)
+Study topic
+
+
+[NarrativeText] (page 1)
+Phase II clinical study of daratumumab combined with bortezomib, lenalidomide and dexamethasone (DVRd) in the treatment of patients with newly diagnosed double-hit multiple myeloma (MM)
+
+
+[Title] (page 1)
+Study applicant
+
+
+[Title] (page 1)
+Chinese Academy of Medical Sciences, Institute of Hematology & Blood Diseases Hospital
+
+
+[Title] (page 1)
+Study objective
+
+
+[NarrativeText] (page 1)
+Evaluate the efficacy of DVRd protocol in patients with newly diagnosed double-hit MM and the feasibility of tailored maintenance therapy under residual disease (MRD) guidance
+
+
+[NarrativeText] (page 1)
+Study population Patients with newly diagnosed double-hit MM (with ≥ 2 high-risk cytogenetic abnormalities)
+
+
+[Title] (page 1)
+Study endpoints
+
+
+[NarrativeText] (page 1)
+Primary endpoints:  Negative rate of MRD (after maintenance therapy) Secondary endpoints:  Duration of negative MRD (From the first record of negative MRD to the first record of positive MRD or the end of follow-up, whichever came first, assessed up to 3 year) sCR
+
+
+[Title] (page 1)
+response) + Partial response (PR)
+
+
+[NarrativeText] (page 1)
+ Duration of response (DOR): The duration from the first observation of achieving at least PR to the occurrence of progressive disease (PD) or death caused by PD, whichever occurs first
+
+
+[NarrativeText] (page 1)
+ Mobilization success rate, high-quality mobilization rate and poor-quality mobilization Progression-free survival (From date of enrollment of patients until the date of first  documented progression or date of death from any cause, whichever came first, assessed up to 3 year)
+
+
+[NarrativeText] (page 1)
+cause, whichever came first, assessed up to 3 year)
+
+
+[Title] (page 1)
+Study design
+
+
+[NarrativeText] (page 1)
+This study is a single arm phase II study using the DVRd protocol in patients with newly
+
+
+[NarrativeText] (page 1)
+diagnosed double-hit MM. This study enrolled a total of 40 patients with double-hit MM who
+
+
+[NarrativeText] (page 1)
+are suitable for autologous stem cell transplantation (ASCT) to evaluate the efficacy of
+
+
+[NarrativeText] (page 1)
+DVRd and the feasibility of tailored maintenance therapy under MRD guidance. The study
+
+
+[NarrativeText] (page 1)
+protocol is: DVRd induction therapy for 4 cycles, followed by ASCT, followed by DVRd
+
+
+[NarrativeText] (page 1)
+consolidation therapy for 4 cycles, followed by DVR maintenance therapy. MRD monitoring
+
+
+[Title] (page 2)
+Inclusion and exclusion criteria
+
+
+[NarrativeText] (page 2)
+is conducted after induction therapy, 60 to 90 days after ASCT, after consolidation therapy,
+
+
+[NarrativeText] (page 2)
+and every 4 cycles during maintenance therapy. Patients who have sustained MRD negativity
+
+
+[NarrativeText] (page 2)
+for at least 12 months will enter the maintenance phase 2 of lenalidomide monodrug therapy.
+
+
+[NarrativeText] (page 2)
+Otherwise, DVR will last for a total of 24 cycles or until disease progression, death,
+
+
+[Title] (page 2)
+intolerance, withdrawal due to other reasons, or the termination/end of the study.
+
+
+[NarrativeText] (page 2)
+The subjects will participate in the screening period, treatment period, and follow-up period. The screening period lasts for a maximum of 28 days before medication. The treatment period lasts from the first day of the first cycle to the termination of treatment. The follow- up period starts at the end of treatment and lasts for 12 months.
+
+
+[Title] (page 2)
+Inclusion criteria:
+
+
+[ListItem] (page 2)
+1. Understanding and voluntarily signing the Informed Consent Form (ICF).
+
+
+[ListItem] (page 2)
+2. Age: ≥ 18 years old and < 70 years old.
+
+
+[ListItem] (page 2)
+3. Newly diagnosed MM according to International Working Group on Myeloma (IMWG)
+
+
+[NarrativeText] (page 2)
+criteria, with measurable lesions that meet at least one of the following criteria:The
+
+
+[NarrativeText] (page 2)
+serum M protein detected by serum protein electrophoresis (SPEP) is ≥ 1g/dL (≥ 10 g/L),
+
+
+[NarrativeText] (page 2)
+or if it is IgA or IgD myeloma, quantitative levels of IgA or IgD can be used as a
+
+
+[NarrativeText] (page 2)
+(FLC) ratio is abnormal, the affected serum FLC ≥ 100 mg/L (normal FLC ratio: 0.26 to
+
+
+[ListItem] (page 2)
+4. Have two or more high-risk cytogenetic abnormalities:
+
+
+[NarrativeText] (page 2)
+threshold is 20%, translocation threshold is 10%)
+
+
+[ListItem] (page 2)
+5. The Eastern Cooperative Oncology Group (ECOG) score is 0, 1, or 2 points. The ECOG
+
+
+[NarrativeText] (page 2)
+score of 3 points due to myeloma bone disease can be included.
+
+
+[ListItem] (page 2)
+6. Subjects had not received anti-MM related chemotherapy, except those who accepted
+
+
+[Title] (page 2)
+bortezomib, lenalidomide and dexamethasone three-drug induction therapy for no more
+
+
+[NarrativeText] (page 2)
+than 14 days. Subjects had not received large-area pelvic irradiation (more than half of
+
+
+[NarrativeText] (page 2)
+the pelvic area), and anti-MM hormone treatment in the past, except those who used
+
+
+[NarrativeText] (page 2)
+hormone for no more than 14 days to control symptoms.
+
+
+[ListItem] (page 2)
+7. The liver function test meets the following criteria: total bilirubin < 1.5 × upper limit of
+
+
+[NarrativeText] (page 2)
+normal (ULN) (total bilirubin in patients with Gilbert's syndrome will be broaden to <3
+
+
+[NarrativeText] (page 2)
+× ULN), and aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤
+
+
+[ListItem] (page 2)
+8. The renal function test meets the following criteria: creatinine clearance rate ≥ 30
+
+
+[NarrativeText] (page 2)
+mL/min (calculated by Cockroft and Gault formulas).
+
+
+[ListItem] (page 2)
+9. Blood routine test within 7 days before C1D1 meets the following criteria: white blood cell (WBC) count ≥ 1.5×109/L, absolute neutrophil count ≥ 1.0×109/L, hemoglobin ≥ 75 g/L, and platelet count ≥ 75×109/L (if bone marrow plasmacyte < 50%) or platelet count
+
+
+[Title] (page 2)
+≥ 50×109/L (if bone marrow plasmacyte ≥ 50%).
+
+
+[ListItem] (page 2)
+10. Patients receiving hematopoietic growth factor support, including erythropoietin,
+
+
+[NarrativeText] (page 2)
+granulocyte colony stimulating factor (G-CSF), granulocyte macrophage colony
+
+
+[NarrativeText] (page 3)
+stimulating factor (GM-CSF), platelet agonists (for example, eltrombopag, TPO,
+
+
+[NarrativeText] (page 3)
+interleukin-11), must have a 2-week interval between receiving growth factor support
+
+
+[NarrativeText] (page 3)
+and screening assessment.
+
+
+[ListItem] (page 3)
+11. Patients receiving blood product transfusions: at least 2 weeks between hemoglobin
+
+
+[Title] (page 3)
+platelet assessment in the screening period and the last platelet transfusion.
+
+
+[ListItem] (page 3)
+12. The subjects are suitable to receive preventive anticoagulant therapy recommended by
+
+
+[Title] (page 3)
+the study.
+
+
+[ListItem] (page 3)
+13. Female subjects who may become pregnant must meet the following two conditions:
+
+
+[NarrativeText] (page 3)
+agree to take effective contraceptive measures during the use of the study drug and within
+
+
+[NarrativeText] (page 3)
+3 months after the last administration of the study drug from the date of signing the ICF;
+
+
+[NarrativeText] (page 3)
+the serum pregnancy test should be negative in the screening period.
+
+
+[Title] (page 3)
+Exclusion criteria:
+
+
+[ListItem] (page 3)
+1. Patients who are definitely diagnosed as primary plasma cell leukemia.
+
+
+[ListItem] (page 3)
+2. Patients with primary or secondary amyloidosis.
+
+
+[ListItem] (page 3)
+3. Patients with central nervous system (CNS) involvement.
+
+
+[ListItem] (page 3)
+4. Patients planning to receive allogeneic hematopoietic stem cell transplantation.
+
+
+[ListItem] (page 3)
+5. At baseline, accompanied by > grade 2 peripheral neuropathy or ≥ grade 2 peripheral
+
+
+[NarrativeText] (page 3)
+neuropathy with pain, regardless of whether the patient is currently receiving drug
+
+
+[Title] (page 3)
+therapy.
+
+
+[ListItem] (page 3)
+6. Known
+
+
+[Title] (page 3)
+intolerance, allergy or contraindication
+
+
+[NarrativeText] (page 3)
+to glucocorticoid, bortezomib,
+
+
+[Title] (page 3)
+lenalidomide and daratumumab.
+
+
+[ListItem] (page 3)
+7. Heart diseases with clinical significance, including myocardial infarction before
+
+
+[NarrativeText] (page 3)
+randomization, or unstable or uncontrollable diseases related to or affecting cardiac
+
+
+[NarrativeText] (page 3)
+Heart Function). Uncontrolled arrhythmia or clinically significant electrocardiogram
+
+
+[NarrativeText] (page 3)
+(ECG) abnormalities. During screening, the 12-lead ECG showed a QT interval (QTc)
+
+
+[Title] (page 3)
+of > 470 msec after baseline correction.
+
+
+[ListItem] (page 3)
+8. Patients with poor control of diabetes and hypertension.
+
+
+[ListItem] (page 3)
+9. Patients with a history of other malignant tumors within 5 years.
+
+
+[ListItem] (page 3)
+10. Known active human immunodeficiency virus (HIV) infection or positive serum HIV.
+
+
+[ListItem] (page 3)
+11. Active hepatitis B or C infection. Hepatitis serological test should be performed during
+
+
+[NarrativeText] (page 3)
+screening. If hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (HBcAb)
+
+
+[NarrativeText] (page 3)
+of patients are positive, DNA polymerase chain reaction (PCR) tests should be negative
+
+
+[NarrativeText] (page 3)
+before enrollment. If the hepatitis C antibody of patients is positive, RNA PCR test
+
+
+[NarrativeText] (page 3)
+should be performed, and the results should be negative before enrollment.
+
+
+[ListItem] (page 3)
+12. Pregnant or lactating women.
+
+
+[ListItem] (page 3)
+13. Expected life span < 6 months.
+
+
+[ListItem] (page 3)
+14. Any active gastrointestinal dysfunction that affects the patient's ability to swallow tablets
+
+
+[NarrativeText] (page 3)
+or may affect the absorption of study drug.
+
+
+[Title] (page 4)
+Study duration
+
+
+[Title] (page 4)
+Study protocol
+
+
+[ListItem] (page 4)
+15. The subjects have accepted major surgery (such as that requiring general anesthesia)
+
+
+[NarrativeText] (page 4)
+within 2 weeks before screening, or will not fully recover from the surgery, or are
+
+
+[NarrativeText] (page 4)
+scheduled for surgery during the planned study period. Kyphoplasty or vertebroplasty is
+
+
+[NarrativeText] (page 4)
+not considered as a major surgery. Notes: Subjects who plan to undergo surgical
+
+
+[NarrativeText] (page 4)
+procedures under local anesthesia can participate in the study.
+
+
+[ListItem] (page 4)
+16. Patients who received attenuated alive vaccines within 4 weeks prior to the first
+
+
+[Title] (page 4)
+administration of the study drug.
+
+
+[ListItem] (page 4)
+17. Any active serious mental illness, medical illness, or other symptoms/conditions that
+
+
+[NarrativeText] (page 4)
+may affect treatment, compliance, or the ability to provide informed consent according
+
+
+[Title] (page 4)
+to the researcher’s judgment.
+
+
+[ListItem] (page 4)
+18. Patients with contraindications to any concomitant drugs or supportive therapy.
+
+
+[ListItem] (page 4)
+19. Patients with any diseases or complications that may interfere with the study procedure.
+
+
+[ListItem] (page 4)
+20. Patients who are unwilling or unable to follow the protocol.
+
+
+[NarrativeText] (page 4)
+The enrollment period for this study is expected to be 12 months. When all patients complete
+
+
+[NarrativeText] (page 4)
+a 36-month visit/follow-up period starting from the use of the study drug, or the last patient
+
+
+[NarrativeText] (page 4)
+dies, loses follow-up, or withdraws ICF, whichever occurs first, the study ends.
+
+
+[NarrativeText] (page 4)
+The patients receive 4 cycles of DVRd induction therapy. After achieving PR or better
+
+
+[NarrativeText] (page 4)
+response, hematopoietic stem cells are collected and ASCT is performed. Then, DVRd
+
+
+[NarrativeText] (page 4)
+consolidation therapy is performed for 4 cycles, and DVR maintenance therapy is performed.
+
+
+[NarrativeText] (page 4)
+The endpoint of triple drug maintenance therapy is sustaining MRD negativity for at least 12
+
+
+[NarrativeText] (page 4)
+months. Those who meet this condition enter the maintenance stage of lenalidomide
+
+
+[NarrativeText] (page 4)
+monotherapy. Otherwise, the triple drug maintenance therapy is continued for a total of 24
+
+
+[Title] (page 4)
+termination/end of the study.
+
+
+[NarrativeText] (page 4)
+Induction and consolidation therapy (28 days as one treatment cycle, cycles 1-8) DVRd protocol dose: Daratumumab 16 mg/kg, d1,8,15,22 (cycles 1-2); d1,15 (cycles 3-6); d1 (cycles 7-8) Bortezomib 1.3 mg/m2, d1,8,15,22 Lenalidomide 25 mg, d1-21 Dexamethasone 20 mg, biw Maintenance therapy (28 days as one treatment cycle, cycles 9-32) Phase 1 maintenance therapy (DVR): Daratumumab 16 mg/kg, d1 Bortezomib 1.3-1.0 mg/m2, d1,15 Lenalidomide 10 mg, d1-21 Phase 2 maintenance therapy (R): Lenalidomide 10 mg, d1-21 Dynamic stem cell mobilization protocol: HD-CTX 50 mg/kg d1-2 + PEG-G-CSF 12 mg
+
+
+[Title] (page 4)
+± Plerixafor 0.24 mg/kg
+
+
+[NarrativeText] (page 4)
+Static stem cell mobilization protocol: PEG-G-CSF 12 mg ± Plerixafor 0.24 mg/kg Expected number of stem cells: ≥ 2×106 CD34+ cells/kg, preferably capable of collecting ≥
+
+
+[Title] (page 4)
+4×106 CD34+ cells/kg
+
+
+[Title] (page 5)
+Efficacy evaluation
+
+
+[NarrativeText] (page 5)
+Follow-up plan
+
+
+[Title] (page 5)
+Statistical analysis
+
+
+[NarrativeText] (page 5)
+ASCT pretreatment protocol: Melphalan (Mel) 200 mg/m2 Efficacy evaluation parameters include serum immunoglobulin quantification, blood/urine M protein (protein electrophoresis and immunofixation electrophoresis), blood biochemical total protein, 24h urine protein, bone marrow plasmacyte ratio (aspirate+biopsy immunohistochemistry), serum FLC, bone disease examination, and extramedullary plasmacytoma evaluation. MRD monitoring parameters include next-generation sequencing, next-generation multi- parameter flow cytometry, and if necessary, PET-CT test.
+
+
+[NarrativeText] (page 5)
+At any time, subjects can voluntarily withdraw from the study treatment or terminate the treatment based on the researcher's judgment. All subjects receiving the study treatment should terminate the visit after treatment. All subjects receiving the study treatment (except for death, loss of follow-up, and withdrawl of ICF) are required to monitor adverse events (AEs) and concomitant medication or non-drug therapy (including anti-tumor therapy) after the end of treatment. If the subject terminates the study treatment due to AEs, he should be evaluated until the AEs disappear or improve. After all treatments are completed, patients are followed up every 3 months until PD, new anti-tumor therapy, death, loss of follow-up, withdrawl of ICF, and at least 3 years after the first treatment of the last subject.
+
+
+[NarrativeText] (page 5)
+Unless otherwise specified, all statistical tests are conducted using bilateral tests, and P ≤ 0.05 is considered statistically significant for the differences tested. The quantitative parameters are described by mean, standard deviation, median, minimum, and maximum. The categorical parameters are described by the number and percentage of cases for each category. The effectiveness analysis is based on full analysis set (FAS) and per protocol set (PPS). The primary and secondary study endpoints are evaluated by an independent review committee. All subjects who have received study treatment are included in the safety analysis. All AEs are classified using the MedDRA classification system. The severity of toxic reactions is graded based on NCI CTCAE v5.0. The same AE is summarized according to the most severe NCI CTCAE grade. The AEs leading to death or termination of treatment, Grade 3 or 4 AEs by NCI CTCAE, AEs related to study treatment, AEs related to study drug and serious adverse events are summarized separately. The frequency of AEs is listed according to human organ system and preferred terms. In the subject-by-subject analysis, subjects who experienced the same AE more than once are only counted once. Descriptive statistical data (mean, median, standard deviation, minimum, and maximum) are provided for vital signs and weight. Only data within 28 days prior to the last medication are analyzed in the safety assessment. However, if the subject terminates the study treatment due to AEs, he should be evaluated until the AEs disappear or improve. Even if it exceeds 28 days prior to the last medication, the data should be included in the analysis.

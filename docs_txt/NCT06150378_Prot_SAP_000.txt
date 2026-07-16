@@ -1,0 +1,1735 @@
+
+[Title] (page 1)
+Version October 10, 2023
+
+
+[Title] (page 1)
+Comparison Corticosteroids Tendinopathy
+
+
+[Title] (page 1)
+between for
+
+
+[Title] (page 1)
+Platelet Rich
+
+
+[Title] (page 1)
+the Treatment
+
+
+[Title] (page 1)
+and of Rotator Cuff
+
+
+[Title] (page 1)
+Plasma
+
+
+[Title] (page 1)
+Randomized Controlled Double Blind Clinical Trial
+
+
+[Title] (page 1)
+IRB number: 5269
+
+
+[Title] (page 2)
+Index
+
+
+[Title] (page 2)
+Secondary objective ............7
+
+
+[Title] (page 2)
+Materials and methods ...........9
+
+
+[Title] (page 2)
+Masking-intervention…..…….9
+
+
+[Title] (page 2)
+Preparation of thePRP………..12
+
+
+[NarrativeText] (page 2)
+Variables to be measured and documentation of the
+
+
+[Title] (page 2)
+Ethical considerations ................18
+
+
+[Title] (page 2)
+Damage or complications ...........19
+
+
+[Title] (page 2)
+Annex 1: Informed consent. (separate sheet)
+
+
+[Title] (page 2)
+Annex 2: ASES Score
+
+
+[Title] (page 2)
+Annex 3: Constant Score
+
+
+[Title] (page 2)
+Appendix 4 : Pittsburgh Sleep Quality Index.
+
+
+[Title] (page 2)
+Annex 5: Insurance for clinical trial
+
+
+[Title] (page 3)
+Introduction
+
+
+[NarrativeText] (page 3)
+Rotator cuff tendinopathy represents the most common pathology of the shoulder, and
+
+
+[NarrativeText] (page 3)
+is the main reason for outpatient consultation for pathologies related to the shoulder
+
+
+[NarrativeText] (page 3)
+girdle.1,2 First-line treatment for rotator cuff tendinopathy usually consists of activity
+
+
+[NarrativeText] (page 3)
+stretching and strengthening exercises, oral
+
+
+[Title] (page 3)
+anti-inflammatory
+
+
+[NarrativeText] (page 3)
+medications.3-6 When these initial measures are not effective, a second line of
+
+
+[NarrativeText] (page 3)
+treatment consists of
+
+
+[Title] (page 3)
+local
+
+
+[Title] (page 3)
+infiltrations with corticosteroids.3-6 Corticosteroid
+
+
+[NarrativeText] (page 3)
+injections are often used as an inexpensive and effective treatment to reduce pain and
+
+
+[NarrativeText] (page 3)
+improve movement. However, most of the studies evaluating the effectiveness of
+
+
+[NarrativeText] (page 3)
+corticosteroids in patients with rotator cuff tendinopathy show that the clinical results
+
+
+[NarrativeText] (page 3)
+are usually short-lived.6-7 In addition, corticosteroids do not have any biological effect
+
+
+[NarrativeText] (page 3)
+that helps to regenerate or reverse the structural changes that occur in the rotator cuff
+
+
+[Title] (page 3)
+tendons as a consequence of chronic inflammation. 6-7
+
+
+[NarrativeText] (page 3)
+In this sense, platelet-rich plasma (PRP) emerges as a promising alternative due to its
+
+
+[NarrativeText] (page 3)
+ability to release pro-regenerative growth factors (FsC) and cytokines at the lesion site
+
+
+[NarrativeText] (page 3)
+(cite).8-9 Platelet Rich Plasma is considered a minimal handling product. It
+
+
+[NarrativeText] (page 3)
+commonly used in the United States, Europe and all of America. According to the
+
+
+[NarrativeText] (page 3)
+FDA it falls within the scope of section 361 (Public Health Service Law, Code 21 of
+
+
+[NarrativeText] (page 3)
+Federal Regulation 1271) of minimally manipulated therapies and according to
+
+
+[NarrativeText] (page 3)
+ANMAT under law 16463 and decree 9763/64. In addition, the centrifuge that will be
+
+
+[NarrativeText] (page 3)
+used in the following study at the Hospital Italiano de Buenos Aires is approved by
+
+
+[NarrativeText] (page 3)
+the ANMAT in (RegenLab disposition 13735). Specifically, at the Hospital Italiano de
+
+
+[NarrativeText] (page 3)
+Buenos Aires (HIBA), platelet-rich plasma has been used for more than 10 years for
+
+
+[NarrativeText] (page 3)
+is
+
+
+[NarrativeText] (page 4)
+different surgical procedures. Its use is framed within Rule 789; code 5851121. The
+
+
+[NarrativeText] (page 4)
+main indications for which PRP is used in the HIBA orthopedic service and for which
+
+
+[NarrativeText] (page 4)
+favorable results have been published are: muscle tears, diabetic foot ulcers, knee and
+
+
+[Title] (page 4)
+hip osteoarthritis, osteochondral knee lesions, partial lesions of the anterior cruciate
+
+
+[Title] (page 4)
+ligament, glenohumeral osteoarthritis and rotator cuff pathology.8-12
+
+
+[NarrativeText] (page 4)
+FsCs released by platelets have been shown to perform pro-regenerative functions in
+
+
+[NarrativeText] (page 4)
+vitro, including promoting stem and progenitor cell proliferation and recruitment, as
+
+
+[NarrativeText] (page 4)
+well as modulating inflammatory responses and stimulating angiogenesis.13-15
+
+
+[NarrativeText] (page 4)
+Furthermore, FsCs released by platelets have been shown not only to increase the
+
+
+[NarrativeText] (page 4)
+proliferation of rotator cuff-derived tenocytes but also to promote the production of
+
+
+[NarrativeText] (page 4)
+key extracellular matrix proteins, including collagen types I, II, and X; decorin;
+
+
+[NarrativeText] (page 4)
+aggrecan; and biglycan.14 In addition, PRP is also known to offer protection against
+
+
+[NarrativeText] (page 4)
+oxidative stress, which prevents cell apoptosis after injury, and also inhibits the
+
+
+[Title] (page 4)
+inflammatory effects of
+
+
+[NarrativeText] (page 4)
+interleukin-1b (IL1b), which can lead to cuff tendon
+
+
+[Title] (page 4)
+degeneration. rotator.15
+
+
+[NarrativeText] (page 4)
+Several small cohort studies and randomized controlled trials have examined the
+
+
+[NarrativeText] (page 4)
+clinical benefit of PRP for treating patients with rotator cuff tendinopathy, however
+
+
+[NarrativeText] (page 4)
+their results have been confounded by small patient samples, lack of a control group,
+
+
+[Title] (page 4)
+variable or insufficient data from the PRP preparations and short-term follow-up.16
+
+
+[NarrativeText] (page 4)
+clinical trials using
+
+
+[NarrativeText] (page 4)
+Different autologous PRP formulations to treat patients with rotator cuff tendinopathy
+
+
+[NarrativeText] (page 4)
+have yielded controversial results.16 Recently, Hurley et al.16 performed a systematic
+
+
+[NarrativeText] (page 4)
+review of randomized controlled trials on the use of PRP for the non-surgical
+
+
+[NarrativeText] (page 5)
+treatment of rotator cuff disease. Five randomized controlled trials met the inclusion
+
+
+[NarrativeText] (page 5)
+criteria, with 108 patients treated with PRP and 106 treated with a control. Two
+
+
+[NarrativeText] (page 5)
+studies found that PRP produced better outcomes, mainly pain scores, compared to a
+
+
+[NarrativeText] (page 5)
+control. One study showed no difference in clinical outcomes and two other studies
+
+
+[NarrativeText] (page 5)
+reported that PRP alone produced inferior results to control groups.16. Controlled trials
+
+
+[NarrativeText] (page 5)
+were needed to further investigate the benefits of PRP in early rotator cuff disease.16
+
+
+[NarrativeText] (page 5)
+Finally, regarding the safety of platelet-rich plasma, it has been shown to be a safe
+
+
+[NarrativeText] (page 5)
+product in multiple clinical trials. A recent Chocrane meta-analysis evaluated the
+
+
+[NarrativeText] (page 5)
+study included patients who had undergone surgery for multiple orthopedic conditions
+
+
+[NarrativeText] (page 5)
+including rotator cuff tears, anterior cruciate ligament tears, Achilles and patellar
+
+
+[NarrativeText] (page 5)
+tendinopathy, and epicondylitis. The percentage of complications associated with
+
+
+[NarrativeText] (page 5)
+treatment was 1.1% (12/1088 patients). In 15 of the 19 clinical trials there were no
+
+
+[NarrativeText] (page 5)
+adverse effects or complications related to PRP. Reported complications were
+
+
+[NarrativeText] (page 5)
+generally mild, including injection site hyperesthesia, local edema, and superficial
+
+
+[NarrativeText] (page 5)
+injection site infections. No severe complications associated with the procedure were
+
+
+[NarrativeText] (page 5)
+reported in any of the 1088 patients.17
+
+
+[NarrativeText] (page 5)
+The purpose of this study is to perform a double-blind randomized controlled trial,
+
+
+[NarrativeText] (page 5)
+comparing PRP with corticosteroids to provide pain relief and improve function in
+
+
+[NarrativeText] (page 5)
+patients with rotator cuff tendinopathy. The hypothesis of this study is that PRP would
+
+
+[NarrativeText] (page 5)
+provide improved pain relief and function in patients with rotator cuff tendinopathy
+
+
+[NarrativeText] (page 5)
+compared to standard treatment of CS injections.
+
+
+[Title] (page 7)
+Hypothesis
+
+
+[Title] (page 7)
+In patients with rotator cuff tendinopathy, PRP subacromial
+
+
+[NarrativeText] (page 7)
+injections produce
+
+
+[Title] (page 7)
+significantly greater improvement
+
+
+[Title] (page 7)
+in shoulder pain and function than standard
+
+
+[Title] (page 7)
+treatment with corticosteroid subacromial injection.
+
+
+[Title] (page 7)
+Goals
+
+
+[Title] (page 7)
+primary objective
+
+
+[NarrativeText] (page 7)
+To evaluate in patients with rotator cuff tendinopathy whether a subacromial
+
+
+[NarrativeText] (page 7)
+infiltration with PRP produces a significant improvement in pain (measured through
+
+
+[NarrativeText] (page 7)
+the visual analogue scale (VAS) for pain) compared to a control group treated with
+
+
+[Title] (page 7)
+standard corticosteroid therapy.
+
+
+[Title] (page 7)
+secondary objective
+
+
+[ListItem] (page 7)
+2. To assess whether the use of PRP applied as a subacromial infiltration in patients
+
+
+[NarrativeText] (page 7)
+with rotator cuff tendinopathy improves the functional results (measured using the
+
+
+[Title] (page 7)
+American Shoulder and Elbow Surgeons (ASES) score) 18 and Constant's score,19
+
+
+[NarrativeText] (page 7)
+compared to a control group that underwent
+
+
+[Title] (page 7)
+subacromial
+
+
+[Title] (page 7)
+infiltration with
+
+
+[Title] (page 7)
+corticosteroids.
+
+
+[ListItem] (page 7)
+3. To assess whether the use of PRP applied as a subacromial infiltration in patients
+
+
+[NarrativeText] (page 7)
+with rotator cuff tendinopathy improves the sleep disorders (measured using the
+
+
+[NarrativeText] (page 7)
+Pittsburgh score) 20 compared to a control group that underwent subacromial
+
+
+[Title] (page 7)
+infiltration with corticosteroids.
+
+
+[ListItem] (page 8)
+4. Confirm that platelet-rich plasma is a proceduresafe through the systematic
+
+
+[NarrativeText] (page 8)
+recording of adverse effects and complications associated with its use.
+
+
+[Title] (page 8)
+Materials and methods
+
+
+[Title] (page 8)
+Design
+
+
+[NarrativeText] (page 8)
+Randomized controlled clinical trial, with intervention group and control group, usual
+
+
+[NarrativeText] (page 8)
+treatment, blind for the treatment received by the patient and for clinical and
+
+
+[Title] (page 8)
+radiological evaluation.
+
+
+[Title] (page 8)
+Scope
+
+
+[NarrativeText] (page 8)
+The entire study will be carried out at
+
+
+[Title] (page 8)
+the Hospital Italiano de Buenos Aires
+
+
+[Title] (page 8)
+headquarters.
+
+
+[NarrativeText] (page 8)
+Schedule - masking - intervention
+
+
+[NarrativeText] (page 8)
+Stage 1: All patients with rotator cuff tendinopathy, clinically diagnosed and
+
+
+[NarrativeText] (page 8)
+confirmed by MRI, will be invited to participate in this study.
+
+
+[NarrativeText] (page 8)
+After confirming that
+
+
+[NarrativeText] (page 8)
+the patient meets the inclusion criteria, the study will be
+
+
+[NarrativeText] (page 8)
+explained in detail through the informed consent process (See Consent Annex 1).
+
+
+[NarrativeText] (page 8)
+Stage 2: Once the patient agrees to participate and has signed the informed consent,
+
+
+[NarrativeText] (page 8)
+they will be randomized (see randomization).
+
+
+[Title] (page 8)
+To the patients of group 1: (control) a subacromial infiltration with corticosteroids
+
+
+[NarrativeText] (page 8)
+(betamethasone 2 mg) will be performed under ultrasound control.
+
+
+[NarrativeText] (page 8)
+To the patients of group 2: (Intervention) a subacromial infiltration with PRP will be
+
+
+[NarrativeText] (page 8)
+performed under ultrasound control.
+
+
+[NarrativeText] (page 8)
+The week prior to the infiltration, all patients will undergo a prior ultrasound to
+
+
+[NarrativeText] (page 8)
+confirm rotator cuff tendinopathy and rule out associated supraspinatus ruptures.
+
+
+[NarrativeText] (page 9)
+Masking of patients:
+
+
+[NarrativeText] (page 9)
+At the time of blood collection, patients will be placed in a hemotherapy extraction
+
+
+[NarrativeText] (page 9)
+chair with a screen that will prevent the patient from seeing their arm at the time of
+
+
+[NarrativeText] (page 9)
+blood collection. All patients will have a local anesthetic (cutaneous lidocaine) placed
+
+
+[NarrativeText] (page 9)
+in the crease of the elbow at the extraction site. The patients in the intervention group
+
+
+[NarrativeText] (page 9)
+will be injected with the extraction needle and 20 ml of blood will be obtained for the
+
+
+[Title] (page 9)
+preparation of the PRP.
+
+
+[NarrativeText] (page 9)
+On the other hand, the patients in the control group (corticosteroid) will be given
+
+
+[NarrativeText] (page 9)
+anesthetic and a dermal micro-puncture will be performed with the vacutainer
+
+
+[NarrativeText] (page 9)
+simulating blood extraction. After this, they will wait 1 minute, simulating the time it
+
+
+[NarrativeText] (page 9)
+takes for the extraction bag to fill with 20 ml.
+
+
+[NarrativeText] (page 9)
+In this way, we will ensure the masking of the treatment received, an essential
+
+
+[NarrativeText] (page 9)
+condition in this type of study since the scores used and validated for the clinical
+
+
+[NarrativeText] (page 9)
+evaluation of this pathology have a subjective component that could be altered or
+
+
+[NarrativeText] (page 9)
+biased if the patient knows which treatment received. On the other hand, the control
+
+
+[NarrativeText] (page 9)
+group, although it has active masking, only consists of a skin micropuncture with a
+
+
+[NarrativeText] (page 9)
+previous local anesthetic, which does not present complications or adverse effects and
+
+
+[NarrativeText] (page 9)
+may not be perceived by the patient due to the local anesthesia.
+
+
+[NarrativeText] (page 9)
+Both procedures will be carried out under antiseptic conditions by a Hemotherapy
+
+
+[Title] (page 9)
+technician in the procedure room of the Hemotherapy Service.
+
+
+[NarrativeText] (page 9)
+Subsequently, the patients will be accompanied to the procedure room where the
+
+
+[NarrativeText] (page 9)
+assigned treatment will be applied under ultrasound control by the principal
+
+
+[NarrativeText] (page 9)
+investigator. For patients in the CS group, 1 vial of 2 ml of Betamethasone will be
+
+
+[NarrativeText] (page 10)
+applied. The injection will be performed through a posterolateral approach. The CS
+
+
+[NarrativeText] (page 10)
+will infiltrate the subacromial bursa. For patients in the PRP group, a volume of 5 ml
+
+
+[NarrativeText] (page 10)
+will also be injected through a posterolateral approach. Patients will be informed
+
+
+[NarrativeText] (page 10)
+about possible adverse reactions to both injections. Patients will be allowed to
+
+
+[NarrativeText] (page 10)
+continue activity as tolerated after the injection and each patient will receive a specific
+
+
+[NarrativeText] (page 10)
+exercise program to do at home. Patients will not know what treatment they received,
+
+
+[NarrativeText] (page 10)
+meaning they will be blinded to the intervention. For this, at the time of injection, the
+
+
+[NarrativeText] (page 10)
+syringe will be covered with black insulating tape so that the patient cannot see the
+
+
+[Title] (page 10)
+contents of the syringe.
+
+
+[NarrativeText] (page 10)
+stage 3: Once the intervention is finished, all the patients will be rehabilitated by the
+
+
+[NarrativeText] (page 10)
+rehabilitation protocol will be the one recommended by the American Shoulder and
+
+
+[NarrativeText] (page 10)
+Elbow Society (ASES).21which is commonly used in the hospital.
+
+
+[NarrativeText] (page 10)
+patient will be objectively evaluated with the analogous visual scale, the ASES score,
+
+
+[Title] (page 10)
+months post-infiltration. The physician in charge of the objective evaluation and
+
+
+[NarrativeText] (page 10)
+documentation of the patient's scores will be the shoulder improvement fellow who
+
+
+[NarrativeText] (page 10)
+will be blind to the intervention received by the patient.
+
+
+[Title] (page 11)
+Population
+
+
+[ListItem] (page 11)
+1. Adults between 18 and 50 years with rotator cuff tendinopathy.
+
+
+[Title] (page 11)
+Selection criteria
+
+
+[Title] (page 11)
+Inclusion criteria
+
+
+[ListItem] (page 11)
+1. Adults between 18 and 50 years old with rotator cuff tendinopathy defined as
+
+
+[NarrativeText] (page 11)
+clinically compatible and confirmed by ultrasound.
+
+
+[ListItem] (page 11)
+2. At
+
+
+[NarrativeText] (page 11)
+least 3 months of failed conservative treatment (decreased activity,
+
+
+[Title] (page 11)
+anti-inflammatories, kinesiology for at least 3 months before diagnosis).
+
+
+[Title] (page 11)
+Exclusion criteria
+
+
+[ListItem] (page 11)
+1. Refusal to participate or informed consent,
+
+
+[ListItem] (page 11)
+2. previous shoulder surgery,
+
+
+[ListItem] (page 11)
+3. Partial or total tears of the rotator cuff,
+
+
+[ListItem] (page 11)
+4. Patients with shoulder osteoarthritis > 2 according to the Samilson and Prieto
+
+
+[Title] (page 11)
+classification
+
+
+[ListItem] (page 11)
+5. Advanced fatty infiltration of the rotator cuff muscles (STAGE 3 or 4
+
+
+[NarrativeText] (page 11)
+according to Goutallier)32
+
+
+[ListItem] (page 11)
+6. Systemic or rheumatoid arthritis,
+
+
+[ListItem] (page 11)
+7. uncontrolled diabetes,
+
+
+[ListItem] (page 11)
+8. Acute or chronic infections of the shoulder to be operated on
+
+
+[ListItem] (page 11)
+9. Ongoing cancer chemotherapy therapies
+
+
+[ListItem] (page 11)
+10. Sepsis, septic arthritis, osteomyelitis or other ongoing infectious processes;
+
+
+[ListItem] (page 11)
+11. Patients with autoimmune diseases;
+
+
+[ListItem] (page 11)
+12. pregnant,
+
+
+[NarrativeText] (page 12)
+Eligible patients will be enrolled in the study by giving their informed consent.
+
+
+[Title] (page 12)
+Preparation of platelet-rich plasma
+
+
+[NarrativeText] (page 12)
+Lausanne, Switzerland) will be used. According to the manufacturer's manual, 10 ml
+
+
+[NarrativeText] (page 12)
+of venous blood will be drawn into a blood collection tube containing a sodium citrate
+
+
+[NarrativeText] (page 12)
+anticoagulant and a proprietary separating gel (thixotropic gel) to isolate the red and
+
+
+[NarrativeText] (page 12)
+white blood cells from the PRP. Samples will be centrifuged at 1500g for 5 minutes to
+
+
+[NarrativeText] (page 12)
+produce approximately 7 mL of 80% platelets at 1.6x concentration. The
+
+
+[NarrativeText] (page 12)
+manufacturer reports a filtration of 99.7%, 87 to 89%, 70 to 75%, and 96.5% of red
+
+
+[Title] (page 12)
+blood cells, white blood cells, mononuclear cells, and granulocytes, respectively. The
+
+
+[NarrativeText] (page 12)
+supernatant is then resuspended by inverting the tube several times and withdrawn
+
+
+[Title] (page 12)
+into a separate 5 mL syringe for subacromial injection.
+
+
+[NarrativeText] (page 12)
+This procedure will be performed 2 times in each patient. The product from the first
+
+
+[NarrativeText] (page 12)
+kit will be injected into the patient. Instead, the product from the second kit will be
+
+
+[NarrativeText] (page 12)
+used to evaluate the final composition of the PRP. These specific measurements will
+
+
+[NarrativeText] (page 12)
+include: the final average of platelets, leukocytes and erythrocytes, and the specific
+
+
+[NarrativeText] (page 12)
+formula of leukocytes and growth factors. This will allow us to establish a correlation
+
+
+[NarrativeText] (page 12)
+Variables to be measured and data documentation
+
+
+[NarrativeText] (page 12)
+All the variables to be measured will be recorded in a RedCap database specially
+
+
+[NarrativeText] (page 12)
+designed for this clinical trial.
+
+
+[NarrativeText] (page 12)
+A) Demographic and related to the injury.
+
+
+[NarrativeText] (page 12)
+They will be recorded by the principal investigator 24-48 hours prior to the infiltration.
+
+
+[ListItem] (page 13)
+Sex: male - female ● Age: Age in years on the day of infiltration ● Smoking: yes-no
+
+
+[Title] (page 13)
+B) Cynic variables
+
+
+[NarrativeText] (page 13)
+Pre-infiltration evaluation: It will be in charge of the principal investigator and it
+
+
+[NarrativeText] (page 13)
+will be carried out 24-48 hours before the infiltration in the orthopedics office.
+
+
+[NarrativeText] (page 13)
+In it will be evaluated:
+
+
+[Title] (page 13)
+disorders (Pittburgh Score)
+
+
+[NarrativeText] (page 13)
+Imaging variables: Chronic tendinopathy will be defined as the presence of a
+
+
+[NarrativeText] (page 13)
+hyperintense signal in the supraspinatus on magnetic resonance imaging (carried out a
+
+
+[NarrativeText] (page 13)
+supraspinatus with increased intratendon Doppler
+
+
+[Title] (page 13)
+flow. The presence of
+
+
+[NarrativeText] (page 13)
+tendinopathy will be confirmed by ultrasound the week prior to the infiltration to rule
+
+
+[NarrativeText] (page 13)
+evaluate the presence of flow within the supraspinatus as a sign of tendinopathy with
+
+
+[Title] (page 13)
+echodoppler.
+
+
+[Title] (page 13)
+Post-infiltration evaluation:
+
+
+[NarrativeText] (page 13)
+In it will be evaluated:
+
+
+[NarrativeText] (page 13)
+Score) at one month, 3 months and 6 months postinfiltration. It will be in charge of
+
+
+[NarrativeText] (page 13)
+the Shoulder Fellow who will not know to which branch of treatment the patient was
+
+
+[NarrativeText] (page 13)
+assigned. That is to say it will beblinded to intervention.
+
+
+[Title] (page 13)
+the
+
+
+[NarrativeText] (page 14)
+Imaging variables: The presence of vascular flow within the tendon will be measured
+
+
+[NarrativeText] (page 14)
+will be in charge of a doctor specialized in musculoskeletal ultrasound who does not
+
+
+[NarrativeText] (page 14)
+will know to which treatment arm the patient was assigned. That is to say it will
+
+
+[NarrativeText] (page 14)
+beblinded to intervention.
+
+
+[NarrativeText] (page 14)
+The variables that will be evaluated are described below:
+
+
+[ListItem] (page 14)
+Mobility:The 4 mobility parameters will be measured in degrees with a
+
+
+[Title] (page 14)
+goniometer
+
+
+[ListItem] (page 14)
+Anterior flexion
+
+
+[ListItem] (page 14)
+Abduction
+
+
+[ListItem] (page 14)
+External Rotation with the arm at 900of abduction
+
+
+[ListItem] (page 14)
+Internal Rotation with the arm at 900of abduction
+
+
+[ListItem] (page 14)
+Pain: The visual analogue scale (VAS) will be used to assess the level of pain during
+
+
+[NarrativeText] (page 14)
+activities of daily living. 0 will be considered as "absence of pain" and 10 as "the
+
+
+[Title] (page 14)
+worst pain of your life".
+
+
+[ListItem] (page 14)
+General
+
+
+[Title] (page 14)
+function of
+
+
+[Title] (page 14)
+the shoulder:The ASES (American Shoulder and Elbow
+
+
+[NarrativeText] (page 14)
+Surgeons) score will be used.15 (Annex 2) and Constant's score16
+
+
+[Title] (page 14)
+(Annex 3) Both
+
+
+[NarrativeText] (page 14)
+scores evaluate the general functionality of the shoulder in different activities of daily
+
+
+[NarrativeText] (page 14)
+living, the global mobility of the shoulder, and pain with usual tasks. They are scores
+
+
+[NarrativeText] (page 14)
+ranging from 0 to 100. Both scores are validated and are the reference scores for
+
+
+[Title] (page 14)
+clinical research on rotator cuff pathology.15,16
+
+
+[ListItem] (page 14)
+Sleep disorders:The Pittsburgh score will be used.20(Annex 4)
+
+
+[Title] (page 15)
+c) Imaging variables
+
+
+[ListItem] (page 15)
+Magnetic resonance imaging (MRI) of the affected shoulder:
+
+
+[NarrativeText] (page 15)
+The preinfiltration MRI will measure the presence of pathological hyperintensity
+
+
+[NarrativeText] (page 15)
+The resonance must have been performed a maximum of 6 months prior to the clinical
+
+
+[NarrativeText] (page 15)
+diagnosis of the tendinopathy. Otherwise it will be repeated.
+
+
+[Title] (page 15)
+Ultrasound 1 week before infiltration and 6 months after infiltration:
+
+
+[NarrativeText] (page 15)
+The shoulder musculoskeletal ultrasound that will be performed on all patients 1
+
+
+[NarrativeText] (page 15)
+week before infiltration will confirm the diagnosis of cuff tendinopathy and the
+
+
+[NarrativeText] (page 15)
+absence of partial or total cuff tears. In addition, an echodoppler will be performed
+
+
+[NarrativeText] (page 15)
+to determine the presence of
+
+
+[Title] (page 15)
+intratendinous flow as a manifestation of
+
+
+[Title] (page 15)
+tendinopathy. In the post-infiltration control musculoskeletal ultrasound 3 months
+
+
+[NarrativeText] (page 15)
+after the infiltration, tendon healing will be evaluated, which will be defined as the
+
+
+[NarrativeText] (page 15)
+absence of intratendinous vascular flow. Both MRI and ultrasound are part of the
+
+
+[NarrativeText] (page 15)
+study and routine follow-up of patients treated for rotator cuff tendinopathy.
+
+
+[NarrativeText] (page 15)
+d) Variables related to security
+
+
+[Title] (page 15)
+Adverse effects and immediate post-infiltration complications, one month, 3 months
+
+
+[NarrativeText] (page 15)
+and 6 months post-infiltration will be recorded.
+
+
+[NarrativeText] (page 15)
+In the event that the patient presents a complication, they will have the contact
+
+
+[NarrativeText] (page 15)
+number of the principal investigator to be attended by him or by a surgeon from the
+
+
+[NarrativeText] (page 15)
+the doctors on duty will be informed about
+
+
+[Title] (page 15)
+the development of the
+
+
+[NarrativeText] (page 15)
+following protocol in order to notify the principal investigator or a member of the
+
+
+[NarrativeText] (page 15)
+team in the event that a patient presents any post-infiltration complication.
+
+
+[Title] (page 16)
+Evaluator
+
+
+[Title] (page 16)
+Variables Clinics
+
+
+[Title] (page 16)
+Imaging variables
+
+
+[NarrativeText] (page 16)
+variables that will be recorded
+
+
+[Title] (page 16)
+pre-infiltration (24-48 hours prior) Principal investigator
+
+
+[ListItem] (page 16)
+Demographic -Mobility -Pain -Functional Scores (ASES – Constant - Pittsburgh) Magnetic nuclear resonance Ecodoppler musculoesquel ético
+
+
+[Title] (page 16)
+1 month post-infiltration
+
+
+[Title] (page 16)
+Shoulder Fellow
+
+
+[ListItem] (page 16)
+Mobility -Pain -Functional Scores (ASES – Constant-Pittsbu rgh) -complications
+
+
+[Title] (page 16)
+3 months post-infiltration
+
+
+[NarrativeText] (page 16)
+Shoulder Fellow (clinical variables) Sonographer (imaging variables) -Mobility -Pain -Functional Scores (ASES – Constant-Pittsburgh) -complications
+
+
+[Title] (page 16)
+Ecodoppler musculoesquelético
+
+
+[Title] (page 16)
+6 months post-infiltration
+
+
+[Title] (page 16)
+Shoulder Fellow (clinical variables)
+
+
+[ListItem] (page 16)
+Mobility -Pain -Functional Scores (ASES – Constant-Pittsburg h) -complications
+
+
+[NarrativeText] (page 17)
+Statistical analysis raised
+
+
+[NarrativeText] (page 17)
+Quantitative variables will be presented as mean and standard deviation or median
+
+
+[NarrativeText] (page 17)
+and interquartile interval according to the observed distribution. Categorical variables
+
+
+[NarrativeText] (page 17)
+will be presented as proportions. The 95% confidence intervals will be calculated for
+
+
+[Title] (page 17)
+each of the estimators.
+
+
+[NarrativeText] (page 17)
+The comparison of continuous data between two groups will be analyzed with the t
+
+
+[NarrativeText] (page 17)
+test if the distribution of the variables is normal or with the Mann-Withney-Wilcoxon
+
+
+[NarrativeText] (page 17)
+test if it is not. The analysis of categorical data will be carried out with the chi-square
+
+
+[NarrativeText] (page 17)
+test. Statistical analysis will be performed with STATA MP version 16 (Stata
+
+
+[NarrativeText] (page 17)
+Corporation, College Station, TX). A p value less than 0.05 will be considered
+
+
+[Title] (page 17)
+statistically significant.
+
+
+[Title] (page 17)
+Sample size
+
+
+[NarrativeText] (page 17)
+To calculate the sample size, the expected values of the variable "pain" represented by
+
+
+[NarrativeText] (page 17)
+the VAS, which is the main outcome variable, are used. The minimal clinically
+
+
+[NarrativeText] (page 17)
+relevant difference (MCID) was previously described in the setting of rotator cuff
+
+
+[NarrativeText] (page 17)
+shoulder pain.22 We will work with a type I error probability of 5% and a power of
+
+
+[NarrativeText] (page 17)
+90%. Using these parameters in a superiority formula, a sample size of 45 patients per
+
+
+[NarrativeText] (page 17)
+group was calculated. Considering the possibility of a loss to follow-up of 10% of the
+
+
+[NarrativeText] (page 17)
+patients per group, 50 patients per group will be included, with a total final sample of
+
+
+[NarrativeText] (page 17)
+100 patients. The sample size was calculated using the formula of Fleiss et al.23
+
+
+[Title] (page 18)
+Randomization
+
+
+[NarrativeText] (page 18)
+All included patients will be randomized after obtaining informed consent. Each
+
+
+[NarrativeText] (page 18)
+patient will be randomly assigned a treatment arm using the online randomizer
+
+
+[Title] (page 18)
+(http://protocolos.hospitalitaliano.org.ar)
+
+
+[Title] (page 18)
+to treatment
+
+
+[Title] (page 18)
+arms 1 (control) or 2
+
+
+[Title] (page 18)
+(intervention)
+
+
+[Title] (page 18)
+ethical considerations
+
+
+[NarrativeText] (page 18)
+Participation in the study will be in all cases voluntary and certified by the informed
+
+
+[NarrativeText] (page 18)
+consent process. The study will be carried out in full accordance with current national
+
+
+[Title] (page 18)
+and international
+
+
+[Title] (page 18)
+regulations: Declaration of Helsinki of
+
+
+[Title] (page 18)
+the World Medical
+
+
+[Title] (page 18)
+Association, Provision 6677/10 of ANMAT, and the Standards of Good Clinical
+
+
+[Title] (page 18)
+Practices ICH E6.
+
+
+[NarrativeText] (page 18)
+The proposed intervention does not frequently present adverse events and there are
+
+
+[NarrativeText] (page 18)
+known contraindications for its application. The procedure will be paid for by the
+
+
+[NarrativeText] (page 18)
+it will not imply any cost to the patient or their health
+
+
+[NarrativeText] (page 18)
+coverage. The costs of monitoring and periodic evaluations will be borne by the study
+
+
+[Title] (page 18)
+investigators.
+
+
+[NarrativeText] (page 18)
+All study data will be treated with the utmost confidentiality, with restricted access
+
+
+[NarrativeText] (page 18)
+only to authorized personnel for the purposes of the study in accordance with current
+
+
+[Title] (page 18)
+legal regulations National Law on Protection of Personal Data 25,326 (Habeas Data
+
+
+[Title] (page 18)
+Law.
+
+
+[Title] (page 19)
+Damage or complications
+
+
+[NarrativeText] (page 19)
+The coverage for the risk of Institutional Malpractice is attached, of the Clinical Trial
+
+
+[NarrativeText] (page 19)
+that will be contracted to carry out the following study once approved by the Ethics
+
+
+[NarrativeText] (page 19)
+Committee.(Annex 5) In the same Coverage is granted to the claim or claims that
+
+
+[NarrativeText] (page 19)
+occur due to any injury, illness or death of Patients, caused or alleged to have been
+
+
+[NarrativeText] (page 19)
+caused, by: The administration of medicinal products indicated in the Investigation
+
+
+[NarrativeText] (page 19)
+Protocol, By acts of Medical Praxis committed during the execution of the Clinical
+
+
+[Title] (page 19)
+Trial (negligence, incompetence, imprudence and non-observance of duties). In this
+
+
+[NarrativeText] (page 19)
+multidisciplinary work, 2 Orthopedics and Hemotherapy services will be included.
+
+
+[NarrativeText] (page 19)
+Each service will be responsible for the costs of interventions free of charge and with
+
+
+[Title] (page 19)
+overtime.
+
+
+[NarrativeText] (page 19)
+In the case of the preparation of the PRP, they will be carried out free of charge by a
+
+
+[Title] (page 19)
+Hemotherapy service plant doctor.
+
+
+[NarrativeText] (page 19)
+The infiltrations will be carried out by a doctor of the Shoulder Pathology team of the
+
+
+[Title] (page 19)
+Orthopedics and Traumatology Service of the Italian Hospital of Buenos Aires
+
+
+[NarrativeText] (page 19)
+The rehabilitation will be carried out with the standard HIBA kinesiology protocol for
+
+
+[NarrativeText] (page 19)
+patients with chronic rotator cuff tendinopathy and will be carried out by the
+
+
+[Title] (page 19)
+rehabilitation team of the HIBA Kinesiology service.
+
+
+[Title] (page 20)
+References
+
+
+[ListItem] (page 20)
+1. Garving C, Jakob S, Bauer I, Nadjar R, Brunner UH. Impingement Syndrome of
+
+
+[Title] (page 20)
+the Shoulder. Dtsch Doctors Int 2017;114(45):765-776.
+
+
+[ListItem] (page 20)
+2. Rossi LA, Ranalletta M. Subacromial Decompression Is Not Beneficial for the
+
+
+[NarrativeText] (page 20)
+Management of Rotator Cuff Disease. JBJS Reviews 2020;8(1):e0045
+
+
+[ListItem] (page 20)
+3. Diercks R, Bron C, Dorrestijn O, et al. Guideline for diagnosis and treatment of
+
+
+[Title] (page 20)
+subacromial pain syndrome: a multidisciplinary review by the Dutch Orthopaedic
+
+
+[Title] (page 20)
+Association. Acta Orthop 2014;85(3):314-322.
+
+
+[Title] (page 20)
+Gutierrez-Espinoza H, Araya-Quintanilla
+
+
+[Title] (page 20)
+Cereceda-Muriel
+
+
+[Title] (page 20)
+Alvarez-Bueno C, Martinez-Vizcaino V, Cavero-Redondo I. Effect of supervised
+
+
+[Title] (page 20)
+physiotherapy versus home exercise program in patients with subacromial
+
+
+[NarrativeText] (page 20)
+impingement syndrome: A systematic review and meta -analysis. Phys Ther Sports
+
+
+[Title] (page 20)
+Larsson R, Bernhardsson S, Nordeman L. Effects of eccentric exercise in
+
+
+[Title] (page 20)
+patients with subacromial
+
+
+[Title] (page 20)
+impingement
+
+
+[Title] (page 20)
+syndrome: a systematic review and
+
+
+[Title] (page 20)
+meta-analysis. BMC Musculoskelet Disord 2019;20(1):446.
+
+
+[Title] (page 20)
+Takeno K, Glaviano NR, Norte GE, Ingersoll CD. Therapeutic Interventions
+
+
+[Title] (page 20)
+for Scapular Kinematics and Disability in Patients With Subacromial Impingement: A
+
+
+[Title] (page 20)
+Systematic Review. Journal of Athletic Training 2019;54(3):283-295.
+
+
+[ListItem] (page 20)
+7. Lin MT, Chiang CF, Wu CH, Huang YT, Tu YK, Wang TG. Comparative
+
+
+[Title] (page 20)
+Effectiveness of Injection Therapies in Rotator Cuff Tendinopathy: A Systematic
+
+
+[Title] (page 20)
+Review, Pairwise and Network Meta-analysis of Randomized Controlled Trials. Arch
+
+
+[ListItem] (page 20)
+8. Rossi LA, Molina Rómoli AR, Bertona Altieri BA, Burgos Flor JA, Scordo WE,
+
+
+[NarrativeText] (page 20)
+Elizondo CM. Does platelet-rich plasma decrease time to return to sports in acute
+
+
+[NarrativeText] (page 20)
+muscle tear? A randomized controlled trial. Knee Surg Sports Traumatol Arthrosc.
+
+
+[ListItem] (page 21)
+9. Rossi LA, Piuzzi NS, Shapiro SA. Glenohumeral Osteoarthritis: The Role for
+
+
+[Title] (page 21)
+Orthobiologic Therapies: Platelet-Rich Plasma and Cell Therapies. JBJS Rev.
+
+
+[ListItem] (page 21)
+10. Rossi LA, Murray IR, Chu CR, Muschler GF, Rodeo SA, Piuzzi NS.
+
+
+[NarrativeText] (page 21)
+Classification systems for platelet-rich plasma. Bone Joint J. 2019;101-B(8):891-896.
+
+
+[ListItem] (page 21)
+11. Zicaro JP, Yacuzzi C, Losino A, Costa Paz M. Use of Platelet Rich Plasma for the
+
+
+[NarrativeText] (page 21)
+treatment of patellar tendinopathy. AATD Magazine Volume 25 - N°1 - 2018:30-34
+
+
+[ListItem] (page 21)
+12. Nally, F. J., Zanotti, G., Buttaro, M. A., Dilernia, F. D., Mansilla, I. G., Comba, F.
+
+
+[NarrativeText] (page 21)
+M., & Piccaluga, F. (2018). THA conversion rate comparing decompression alone,
+
+
+[NarrativeText] (page 21)
+with autologous bone graft or stem cells in osteonecrosis. HIP International, 28(2),
+
+
+[ListItem] (page 21)
+13. Murray IR, LaPrade RF, Musahl V, et al. Biologic Treatments for Sports Injuries
+
+
+[Title] (page 21)
+II Think Tank-Current Concepts, Future Research, and Barriers to Advancement, Part
+
+
+[ListItem] (page 21)
+14. Wang D, Rodeo SA. Platelet-Rich Plasma in Orthopaedic Surgery: A Critical
+
+
+[Title] (page 21)
+Analysis Review. JBJS Rev 2017;5(9):e7.
+
+
+[ListItem] (page 21)
+15. Sadoghi P, Lohberger B, Aigner B, et al. Effect of platelet-rich plasma on the
+
+
+[NarrativeText] (page 21)
+biologic activity of the human rotator-cuff fibroblasts: A controlled in vitro study. J
+
+
+[ListItem] (page 21)
+16. Hurley ET, Hannon CP, Pauzenberger L, Fat DL, Moran CJ, Mullett H.
+
+
+[Title] (page 21)
+Nonoperative Treatment of Rotator Cuff Disease With Platelet-Rich Plasma: A
+
+
+[Title] (page 21)
+Systematic Review of Randomized Controlled Trials. Arthroscopy.
+
+
+[ListItem] (page 21)
+17. Moraes VY, Lenza M, Tamaoki MJ, Faloppa F, Belloti JC. Platelet-rich therapies
+
+
+[Title] (page 21)
+for musculoskeletal soft
+
+
+[Title] (page 21)
+tissue injuries. Cochrane Database Syst Rev. 2014 Apr
+
+
+[ListItem] (page 22)
+18. Michener LA, McClure PW, Sennett BJ. American Shoulder and Elbow Surgeons
+
+
+[NarrativeText] (page 22)
+standardized shoulder assessment form, patient self-report section: reliability, validity,
+
+
+[Title] (page 22)
+and responsiveness. J Shoulder Elbow Surg. 2002;11(6):587-594.
+
+
+[ListItem] (page 22)
+19. Constant CR, Gerber C, Emery RJ, Søjbjerg JO, Gohlke F, Boileau P. A review of
+
+
+[NarrativeText] (page 22)
+the Constant score: modifications and guidelines for its use. J Shoulder Elbow Surg.
+
+
+[ListItem] (page 22)
+20. Backhaus J, Junghanns K, Broocks A, Riemann D, Hohagen F. Test-retest
+
+
+[ListItem] (page 22)
+21. Thigpen CA, Shaffer MA, Gaunt BW, Leggin BG, Williams GR, Wilcox RB 3rd.
+
+
+[Title] (page 22)
+The American Society of Shoulder and Elbow Therapists' consensus statement on
+
+
+[NarrativeText] (page 22)
+rehabilitation following arthroscopic rotator cuff repair. J Shoulder Elbow Surg.
+
+
+[ListItem] (page 22)
+22. Tashjian RZ, Deloach J, Porucznik CA, Powell AP. Minimal clinically important
+
+
+[Title] (page 22)
+differences
+
+
+[Title] (page 22)
+(MCID) and patient acceptable symptomatic state (PASS) for visual
+
+
+[NarrativeText] (page 22)
+analog scales (VAS) measuring pain in patients treated for rotator cuff disease. Journal
+
+
+[Title] (page 22)
+of Shoulder and Elbow Surgery. 2009;18(6):927-932.
+
+
+[ListItem] (page 22)
+23. Senn S. Review of Fleiss, statistical methods for rates and proportions. Res Synth

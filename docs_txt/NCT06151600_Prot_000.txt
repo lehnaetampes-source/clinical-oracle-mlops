@@ -1,0 +1,1163 @@
+
+[Title] (page 1)
+ClinicalStudyProtocol
+
+
+[Title] (page 1)
+Title
+
+
+[Title] (page 1)
+StudySponsor
+
+
+[NarrativeText] (page 1)
+SponsorContact
+
+
+[Title] (page 1)
+LeadPrincipalInvestigator
+
+
+[NarrativeText] (page 1)
+ProtocolVersionandDate
+
+
+[Title] (page 1)
+ConfidentialityStatement
+
+
+[NarrativeText] (page 1)
+Thisdocumentisconfidentialandistobedistributedforreviewonlytoinvestigators,potential investigators,consultants,studystaff,andapplicableindependentEthicsCommitteesand/or InstitutionalReviewBoards.Thecontentsofthisdocumentshallnotbedisclosedtoothers withoutwrittenauthorizationfromElpidaTherapeutics(orauthorizeddesignees)unlessitis necessarytoobtaininformedconsentfrompotentialstudyparticipants.
+
+
+[Title] (page 2)
+SIGNATUREPAGE/STATEMENTOFCOMPLIANCE
+
+
+[Title] (page 2)
+Title:
+
+
+[Title] (page 2)
+ProtocolNo:
+
+
+[Title] (page 2)
+AProspectiveNaturalHistoryandOutcomeMeasureDiscoveryStudy ofCharcot-Marie-ToothDisease,Type4J TBD
+
+
+[NarrativeText] (page 2)
+ElpidaTherapeutics ThetrialwillbeconductedinaccordancewiththeInternationalConferenceonHarmonisation(ICH) E6andtheCodeofFederalRegulationsontheProtectionofHumanSubjects(45CFRPart46).Except wherenecessarytoeliminateanimmediatehazard(s)tothetrialsubjects,thePrincipalInvestigatorwill assurethatnodeviationfrom,orchangestotheprotocolwilltakeplacewithoutprioragreementfrom thesponsoranddocumentedapprovalfromtheInstitutionalReviewBoard(IRB)and/orIndependent EthicsCommittee(IEC).AllpersonnelinvolvedintheconductofthisstudyhavecompletedHuman SubjectsProtectionTraining. Iagreetoensurethatallstaffmembersinvolvedintheconductofthisstudyareinformedabouttheir obligationsinmeetingtheabovecommitments. PrincipalInvestigator: Name: (Print)
+
+
+[Title] (page 2)
+Date
+
+
+[Title] (page 2)
+TerryPirovolakis CEO&Founder
+
+
+[Title] (page 2)
+Date
+
+
+[Title] (page 2)
+Signature
+
+
+[Title] (page 3)
+INTRODUCTION:BACKGROUNDINFORMATIONANDSCIENTIFIC
+
+
+[Title] (page 3)
+STUDYELIGIBILITY,ENROLLMENTANDCONSENTING............................10
+
+
+[Title] (page 3)
+ConsentingProcessandReviewofGeneticDiagnosis.........................................11
+
+
+[Title] (page 4)
+12 ETHICALCONSIDERATIONS(ANDINFORMEDCONSENT).........................25
+
+
+[Title] (page 5)
+LISTOFABBREVIATIONSANDACRONYMS
+
+
+[NarrativeText] (page 5)
+ADL AE ALT AST BUN BUN/Cr CBC CIDP CMT CMT1A CMT4J CMT-FOM CMTHI CMTNSv2 CMTPedS CRF CRP CTCAE DSMB EDB EOS ESR FEF FEV FF FIG4 FVC GCP GGT IRB MFF MRI NCS ONLS pCMT-QOL PEDI PEDICAT PedsQL PFT PRO PT/INR PTT SAE TA TUG
+
+
+[NarrativeText] (page 5)
+ActivitiesofDailyLiving adverseevent alaninetransaminase aspartatetransaminase bloodureanitrogen BUN/creatineratio completebloodcount chronicinflammatorydemyelinatingpolyneuropathy Charcot-Marie-Toothdisease Charcot-Marie-Toothdisease,type1A Charcot-Marie-Toothdisease,type4J CMTFunctionalOutcomeMeasure CMTHealthIndex CMTNeuropathyScore,secondversion CMTPediatricScale casereportform c-reactiveprotein commonterminologycriteriaforadverseevents DataandSafetyMonitoringBoard extensordigitorumbrevismuscle endofstudy erythrocytesedimentationrate forcedexpiratoryflow forcedexpiratoryvolume fatfraction Factor-inducedGene4 forcedvitalcapacity GoodClinicalPractice gamma-glutamyltransferase InstitutionalReviewBoard musclefatfraction magneticresonanceimaging nerveconductionstudy OverallNeuropathyLimitationScale pediatricCMTqualityoflife PediatricEvaluationofDisabilityInventory PEDIComputerAdaptiveTest PediatricQualityofLifeInventory pulmonaryfunctiontest patient-reportedoutcome prothrombintimetestandinternationalnormalizedratio partialthromboplastintimetest seriousadverseevent tibialisanteriormuscle TimedUp&Go
+
+
+[Title] (page 6)
+CLINICALPROTOCOLSYNOPSIS
+
+
+[Title] (page 6)
+StudyTitle
+
+
+[Title] (page 6)
+Sponsor
+
+
+[Title] (page 6)
+AProspectiveNaturalHistoryandOutcomeMeasureDiscoveryStudyof Charcot-Marie-ToothDisease,Type4J ElpidaTherapeuticsSPC
+
+
+[NarrativeText] (page 6)
+TrialPhase
+
+
+[Title] (page 6)
+Observational
+
+
+[Title] (page 6)
+StudyPopulation
+
+
+[Title] (page 6)
+SubjectswithageneticallyconfirmeddiagnosisofCMT4Jwillbeincluded.
+
+
+[Title] (page 6)
+InvestigationalSite
+
+
+[Title] (page 6)
+4USsites • University of Texas Southwestern Medical Center /Children’s Health
+
+
+[ListItem] (page 6)
+UniversityofIowa
+
+
+[ListItem] (page 6)
+NIH(NationalInstituteofNeurologicalDisordersandStroke)
+
+
+[ListItem] (page 6)
+StanfordSchoolofMedicine
+
+
+[Title] (page 6)
+StudyObjectives
+
+
+[ListItem] (page 6)
+Togainabetterunderstandingofthecourseofillness • Tocollectdataaboutgenotype-phenotypecorrelationstoallowforbetter predictionofdiseaseprogressionbasedongeneticinformation
+
+
+[ListItem] (page 6)
+Toinvestigateandfollowatlongtermdifferentoutcomemeasurements
+
+
+[Title] (page 6)
+(e.g.,motor,qualityoflife,radiologicandelectrophysiological)
+
+
+[ListItem] (page 6)
+Toexpediteresearchandaccesstonewtherapiesforrareconditionslike
+
+
+[Title] (page 6)
+CMT4J
+
+
+[Title] (page 6)
+StudyDesign
+
+
+[Title] (page 6)
+Amulticenter,longitudinal,prospectiveobservationalnaturalhistorystudyof subjectswithamolecularconfirmeddiagnosisofCMT4J
+
+
+[Title] (page 6)
+EligibilityCriteria
+
+
+[Title] (page 6)
+InclusionCriteria:
+
+
+[ListItem] (page 6)
+1. Maleorfemale,allages 2. Amolecularly-confirmeddiagnosisofCMT4J(confirmedbyaCLIA certified,CE-marked,orequivalentlab):GenomicDNAmutation analysisdemonstrating1)bi-allelicpathogenicand/orlikely pathogenicvariants(byACMGcriteria)intheFIG4gene,or2)bi- allelicvariantswithonepathogenicand/orlikelypathogenicvariant intranswithavariantofuncertainsignificanceiflaboratoryevidence andexpertconsensusexitsinsupportoflossofFIG4functionexists.
+
+
+[ListItem] (page 6)
+3. Informedconsentfrompatients18yearsorolderwhoareableto provideconsentandfromcaregivers;parent(s)/guardian(s)providing consentforsubjectsyoungerthan18yearsatScreeningandpatients olderthan18yearsunabletoprovideinformedconsent
+
+
+[ListItem] (page 6)
+4. Informedassentofpatientsyoungerthan18yearsatScreeningwho areabletoprovideassent
+
+
+[ListItem] (page 6)
+5. Ableandwillingtocomplywiththestudyprotocol,includingtravel toStudyCenter,procedures,measurementsandvisits
+
+
+[Title] (page 6)
+ExclusionCriteria:
+
+
+[ListItem] (page 6)
+1. Anyknowngeneticabnormality,includingchromosomalaberrations thatconfoundtheclinicalphenotype
+
+
+[ListItem] (page 6)
+2. Currentparticipationinaninterventionalortherapeuticstudy 3. Receivinganinvestigationaldrugwithin90daysoftheBaselineVisit
+
+
+[ListItem] (page 7)
+4. Priororcurrenttreatmentwithgeneorstemcelltherapy 5. Anyotherdiseaseswhichmaysignificantlyinterferewiththe assessmentofCMT4J
+
+
+[ListItem] (page 7)
+6. Haveanyotherconditions,which,intheopinionoftheInvestigator orSponsorwouldmakethesubjectunsuitableforinclusionorcould interferewiththesubjectparticipatinginorcompletingthestudy
+
+
+[Title] (page 7)
+StudyDuration
+
+
+[Title] (page 7)
+Assessments
+
+
+[NarrativeText] (page 7)
+Subjectvisitswilloccurevery12months+4weeksforupto2yearsforthe initialperiodwithextensionofupto60monthsiffeasible.Noinvestigational productwillbeusedduringthestudy. ClinicalAssessments: • Electrophysiology • NerveConductionStudies(NCS) • PulmonaryFunctionTests(PFTs) • ScoliosisseriesX-ray • MagneticResonanceImaging
+
+
+[ListItem] (page 7)
+1. Thighandcalfmusclewithoutcontrast 2. Brainwithoutcontrast
+
+
+[Title] (page 7)
+NeuropsychologicalAssessments: • VinelandAdaptiveBehaviorScore,3rdedition • BayleyScalesofInfantandToddlerDevelopment-III • WechslerAbbreviatedScaleofIntelligenceSecondEdition/Wechsler Preschool&PrimaryScaleofIntelligenceFourthEdition(WASI-II/ WPPSI-IV)
+
+
+[ListItem] (page 7)
+Stanford-BinetV(SB5)
+
+
+[NarrativeText] (page 7)
+PhysicalTherapyAssessments: • PEDICAT • CMTPedSforsubjects5to17yearsofage • CMTInfS(<4yearsold) • CMTNSv2forsubjects>18yearsofage • CMT-FOMforsubjects>18yearsofage • TimedUpandGoTest(TUG) Questionnaires: • PedsQL(2-18years) • ONLS(18yearsandolder) • pCMT-QOLPRO(8-18years) • pCMT-QOLparentproxy(8-18years) • pCMT-QOLparentproxy(0-7years) • CMTHealthIndex(CMTHI)for>18yearsofage
+
+
+[Title] (page 8)
+ExploratoryAssessments: • Bloodcollectionforexploratorybiomarker • Wearabledevices • Optionalskinbiopsy
+
+
+[Title] (page 8)
+STATISTICAL CONSIDERATIONS
+
+
+[NarrativeText] (page 8)
+Thesamplesizeof20subjectsisexpectedtoprovidesufficientinsightsinto the natural history of individuals with CMT4J, a rare disease, to provide exploratoryanddescriptiveresultsandguidethedesignoffuturestudiesof CMT4J. No formal sample size estimation was performed for this study. Parametric and non-parametric tests will be used to analyze possible associationsbetweenclinical,radiographic,andlaboratorydata.Thetestswill beselectedbasedonthequestionbeingaskedofthedatabase.Thisdatabase willbeusedtoanalyzemultiplemedicalissuesamongsubjectswithconfirmed CMT4J.
+
+
+[Title] (page 9)
+INTRODUCTION:BACKGROUNDINFORMATIONANDSCIENTIFIC RATIONALE
+
+
+[Title] (page 9)
+IntroductionandPurpose
+
+
+[NarrativeText] (page 9)
+Charcot-Marie-Tooth(CMT)diseaseisagroupofinheritedperipheralneuropathies,affecting1in 1,214(1)to2,500(2).CMTcanaffectbothfemalesandmalesofallethnicities. CMTisclassifiedaccordingtothetypeofnervedamage(demyelinatingvs.axonal)anditstypeof inheritance(autosomalrecessive,dominantorX-linked).Mutationsinmorethan80genescauseCMT. MostoftheCMTneuropathiesaredemyelinating,especiallyCMT1Awhichcomprises60to65%of cases. CMT4Jisarareautosomalrecessive,peripheralmotordemyelinatingneuropathycausedbybiallelic pathogenicvariantsintheFIG4gene.CMT4Jischaracterizedbychildhoodonsetgaitabnormalities andbalancedifficulties,thatrapidlyprogresstomuscleweaknessandmuscleatrophyduringtheteen or adult years. Onset can be acute or sub-acute, mimicking an acquired neuropathy and often misdiagnosed as chronic inflammatory demyelinating polyneuropathy (CIDP), or a subacute presentationofGuillain-BarreSyndrome.Involvementcanbeasymmetricandcanaffectdistalaswell asproximalmusculature.Althoughsensorysymptomsareminimal,examinationmayrevealdecreased responsetotouch,pinprick,orvibrationdistally.Bulbarandcranialnervefunctionsareoftenspared; intellectisoftennormal. ThisstudyisdesignedtoinvestigatetheclinicalcharacteristicsandnaturalhistoryofCMT4J.Weaim to follow subjects with a molecularly confirmed diagnosis of CMT4J longitudinally to collect standardizedclinicaldatatoevaluateepidemiologicalcharacteristics,clinicalcourse,andtoidentify potentialoutcomemeasureswhichmaybeusedinfutureclinicaltrials.Clinicaldatacollectionwill includemedicalhistoryandphysicalexam,hematologyandbiochemicalanalyses,calfmuscleimaging, nerveconductionstudies,pulmonaryfunctiontestingandneuropsychologicalassessments. Thestudywillbeconductedinaccordancewiththeprotocol,GoodClinicalPractice(GCP),andthe applicableregulatoryrequirements.
+
+
+[Title] (page 9)
+1.2 BackgroundandRationale
+
+
+[NarrativeText] (page 9)
+ThereisnocausativetreatmentavailableforCMT,buttherapeuticclinicaltrialsforthemostcommon types of CMT, like CMT1A, are ongoing. Most recently, animal models have demonstrated the possibilityoftreatingsometypesofCMT,likeCMT4J,withgenetransfertherapythroughviral vectors.Tobeabletounderstandtheconditionovertimeandevaluatethesetherapiesatlongterm, naturalhistorystudiesareindispensable.ThisstudyinvestigatesthenaturalhistoryofCMT4J.
+
+
+[Title] (page 9)
+1.3 ConciseSummaryofProject
+
+
+[NarrativeText] (page 9)
+Thisisamulticenter,longitudinal,prospectiveobservationalnaturalhistorystudyofsubjectswitha molecularlyconfirmeddiagnosisofCMT4J.Weplantoenroll20subjectsofanyageintoauniform protocolforfollow-upandevaluations.Wewillobtaindemographicandmedicalhistoryinformation. Natural history data will be collected prospectively on an annual basis and may include physical/neurological exams, standard laboratory tests, CMT outcome and disability measures, neuropsychological tests, nerve conduction studies (NCS), and imaging studies (muscle MRI). Pulmonaryfunctiontest(PFT)andscoliosisseriesx-raySubjectvisitswilloccurevery12months
+
+
+[NarrativeText] (page 10)
++4weeksforupto2years.SubjectswhoterminatefromthestudypriortoVisit3willundergoanearly termination/endofstudyvisit(EOS)ifpossible.Theearlytermination/endofstudyvisitiscomprised oftheVisit3assessments.Ifneeded,theInvestigatormayconductunscheduledvisitswithSponsor’s approval.Noinvestigationalproductwillbeusedduringthestudy. SinceCMT4Jisararedisease,thereisahighlikelihoodthatbothnationalandinternationalfamilies maybeinterestedinstudyparticipation.
+
+
+[Title] (page 10)
+OBJECTIVES
+
+
+[Title] (page 10)
+1.4 StudyObjectives
+
+
+[ListItem] (page 10)
+
+
+
+[ListItem] (page 10)
+
+
+
+[ListItem] (page 10)
+
+
+
+[Title] (page 10)
+TogainabetterunderstandingoftheCMT4Jdiseasecourseandphenotypic spectrum. ToexploreCMT4Jgenotype-phenotypecorrelationstoallowforbetterpredictionof diseaseprogressionbasedongeneticinformation. Toevaluatecandidateclinicaltrialoutcomemeasuresrelatedtomotorfunction, qualityoflife,radiology,andelectrophysiology.Toexpediteresearchandaccessto newtherapiesforrareconditionslikeCMT4J.
+
+
+[Title] (page 10)
+2 STUDYELIGIBILITY,ENROLLMENTANDCONSENTING
+
+
+[Title] (page 10)
+2.1 TargetandStudyPopulation
+
+
+[Title] (page 10)
+SubjectswithapriordiagnosisofCMT4Jwillbeincluded.CMT4Jdiagnosiswillbemadebyboth clinicalmanifestationsandaconfirmedgeneticconfirmation.Examplesofclinicalmanifestations consistentwithCMT4J,includebutarenotlimitedto,childhoodonsetgaitabnormalities,poorbalance, andaccelerated,mostcommonlyasymmetric,limbweaknessandmuscleatrophy,involvingdistaland proximalmusculature.
+
+
+[Title] (page 10)
+2.2 SubjectInclusionCriteria
+
+
+[Title] (page 10)
+InclusionCriteria:
+
+
+[ListItem] (page 10)
+1. Maleorfemale,allages 2. Amolecularly-confirmeddiagnosisofCMT4J(confirmedbyaCLIAcertified,CE-marked, orequivalentlab):GenomicDNAmutationanalysisdemonstrating1)bi-allelicpathogenic and/orlikelypathogenicvariants(byACMGcriteria)intheFIG4gene,or2)bi-allelic variantswithonepathogenicand/orlikelypathogenicvariantintranswithavariantof uncertainsignificanceiflaboratoryevidenceandexpertconsensusexitsinsupportoflossof FIG4functionexists.
+
+
+[ListItem] (page 10)
+3. Informedconsentfrompatients18yearsorolderwhoareabletoprovideconsentandfrom caregivers;parent(s)/guardian(s)providingconsentforsubjectsyoungerthan18yearsat Screeningandpatientsolderthan18yearsunabletoprovideinformedconsent
+
+
+[ListItem] (page 10)
+4. Informedassentofpatientsyoungerthan18yearsatScreeningwhoareabletoprovideassent
+
+
+[NarrativeText] (page 11)
+procedures,measurementsandvisits
+
+
+[Title] (page 11)
+ExclusionCriteria:
+
+
+[ListItem] (page 11)
+1. Anyknowngeneticabnormality,includingchromosomalaberrationsthatconfoundthe clinicalphenotype
+
+
+[ListItem] (page 11)
+2. Currentparticipationinaninterventionalortherapeuticstudy 3. Receivinganinvestigationaldrugwithin90daysoftheBaselineVisit 4. Priororcurrenttreatmentwithgeneorstemcelltherapy 5. AnyotherdiseaseswhichmaysignificantlyinterferewiththeassessmentofCMT4J 6. Haveanyotherconditions,which,intheopinionoftheInvestigatororSponsorwouldmake thesubjectunsuitableforinclusionorcouldinterferewiththesubjectparticipatinginor completingthestudy
+
+
+[Title] (page 11)
+2.3 RecruitmentMethods
+
+
+[NarrativeText] (page 11)
+Weplantoenrollupto20subjectsintothestudy.Thegender,race,andethnicdistributionofthe accruedstudypopulationmaynotberepresentativeofthegeneralpopulationbutisexpectedtoreflect thoseaffectedwiththediseaseunderstudy.Patientswhocurrentlyseekmedicalcareatastudysite maybeapproachedtoparticipateinthestudy.Forthosepatientswhoarefollowedatastudysite,their treatingphysicianwillinformthepatientand/orfamilyofthestudy.Shouldthepatient/familybe amenabletolearningmoreaboutthestudy,thenamemberoftheresearchstaffwillspeakwiththem aboutstudyparticipation.Thepatient/familywillbegivenampletimetoreviewtheconsentformand askquestions.Thepatientmayenrollintothestudyatanytimeduringtheircare. Participants will be recruited through clinician or self-referral. The study will be posted at clinicaltrials.govtoaidrecruitment.AnIRB-approvedstudyadvertisementwillalsobemadeavailable to patient and professional organizations such as Cure CMT4J and the Inherited Neuropathies Consortium, respectively. The approved advertisement may be posted on patient organization websites/social media accounts and may also be made available at scientific/medical/patient conferences. ParticipantselectionwillbeequitableconsideringtherarityofCMT4J.Allageswithinthespecified range,races,andbothsexeswillbeaccepted.Therewillbenorestrictionbasedongeographiclocation. Thestudyteamwillenhanceretentionbysendingemailreminderstoparticipantspriortoscheduled visitsandwillbeavailabletoansweranystudy-relatedquestionsbetweenvisits. Ifapatient/familycontactsthestudypersonnel,theywillsendaconsentformtothepatient/familyand answertheirquestionsaccordingly.Ifthepatient/familyisinterestedinestablishingcareatastudysite, thestudystaffwillconnectthemwiththeproperdepartment.
+
+
+[Title] (page 11)
+2.4 ConsentingProcessandReviewofGeneticDiagnosis
+
+
+[NarrativeText] (page 12)
+andanytravelexpensesincurredbythesubject(e.g.,meals,tolls,parkingfees,etc.)willbereimbursed tothesubject.Onlythetravelexpensesofthesubjectanduptotwocaregiverswillbecovered.The Investigatormustconfirmeligibilityofthesubjectpriortoanytraveloron-sitevisitsbeingarranged. Thesubjectwillbeaskedtosignavendor-specificdatauseconsentpriortoanytravelarrangements. Onceapotentialsubjectexpressesinterestinstudyparticipationandchoosestotraveltothesite,the studystaffwillconnectthesubjecttothevendorcoordinatortosignthevendordatauseconsentand proceed with travel arrangements. This may be done prior to the subject signing the study’s informed consentdocument. Informed consent will be obtained from all subjects with sufficient capacity or from legal guardians/representativesofsubjectswithinsufficientcapacitytoconsent.Writtenorverbalassentwill beobtainedinaccordancewithInstitutionalReviewBoard(IRB)guidelines.Dissentfromallsubjects willberespected.
+
+
+[Title] (page 12)
+2.5 WithdrawalfromtheStudy
+
+
+[Title] (page 12)
+ReasonsforWithdrawalorTermination
+
+
+[NarrativeText] (page 12)
+Participationinthestudyisstrictlyvoluntary.Subjectshavetherighttowithdrawfromthestudyatany timeandforanyreason,withoutpenalty.SitePrincipalInvestigatorsand/ordesigneesmay,ather/their discretion, withdraw a subject from continuing in the study if it is in the subject’s best interest, or if the subjectisnotwillingorabletocomplywiththestudyrequirements.Thereasonforwithdrawalwillbe documented.
+
+
+[Title] (page 12)
+HandlingofSubjectWithdrawalsorTermination
+
+
+[Title] (page 12)
+Everyeffortwillbemadetoundertake protocol-specifiedsafetyfollow-upprocedurestocapture protocolspecifiedassessments.Aninvestigatormaydiscontinueorwithdrawaparticipantfromthe studyforthefollowingreasons:
+
+
+[ListItem] (page 12)
+Significantnon-compliance •
+
+
+[NarrativeText] (page 12)
+If the participant meets an exclusion criterion (either newly developed or not previously recognized)thatprecludesfurtherstudyparticipation
+
+
+[ListItem] (page 12)
+Subjecthascompletedthestudyfollow-upperiod • Death • ScreeningFailure
+
+
+[NarrativeText] (page 12)
+The reasonforparticipant discontinuation or withdrawal from the study willbe recorded onthe discontinuation/withdrawalCaseReportForm(CRF). Aparticipantwillbeconsideredlosttofollow-upifafollowupvisitismissedandtheparticipantis unabletobecontactedbythestudysitestafffollowingatleastthreeattempts(wherepossible,three telephone calls and, if necessary, a certified letter to the participant’s last known mailing address or localequivalentmethods).
+
+
+[Title] (page 12)
+3 STUDYPROCEDURESANDSCHEDULE
+
+
+[Title] (page 12)
+Thefrequencyofthefollowingassessmentswillbeaccordingtothescheduleofstudyproceduresin Appendix1.Notallthefollowingassessmentsneedtobeperformedateveryvisit,onlythosethatthe subjectisabletoperform.
+
+
+[ListItem] (page 13)
+1. 4.1MedicalInformation
+
+
+[NarrativeText] (page 13)
+MedicalHistory:Medicalhistoryofparticipatingsubjectswillberecordedinordertoobtainthe followingdata:basicdemographicinformation(sex,ethnicity),pastmedicalhistory,birthhistory, surgicalhistory,developmentalhistory,medicationsandfamilyhistory.Wewillalsocollecttimeof symptomsonset(e.g.,motor,language,etc.)andprogression,ageatdiagnosisandgeneticresults. PhysicalandNeurologicalExamination:Ateachvisit,aphysicalexamwillberecordedincludingbut notlimitedtoevaluationoftheears,nose,throat,heart,lungs,abdomen,back,andextremities,motor andsensory,andvitalsignswhichwillincludebloodpressure(measuredinonearmor,ifnecessary, oneleg,afterthesubjecthasbeenseatedforapproximately5minutes),pulse,temperature,height, weight,andheadcircumference. Adetailedneurologicalexaminationincludingbutnotlimitedtoevaluationofcranialnerves,muscle tone, muscle strength, sensation, gait, coordination and deep tendon reflex testing will also be performed.Handhelddynamometrywillalsobeperformedduringclinicvisitsinmusclesoftheupper andlowerextremities.Theexaminationisanticipatedtotakeapproximately30minutes.
+
+
+[Title] (page 13)
+3.1 OutcomeMeasures
+
+
+[NarrativeText] (page 13)
+CMTPediatricScale(CMTPedS):TheCMTPedSisaclinicaltoolusedtosupplementaneurological examinationandcapturefunctionallyrelevantlimitationscausedbyCMTinthepediatricpopulation. Itisintendedtohavebroadapplicationinnaturalhistorystudiesandclinicaltrialsofrehabilitative (e.g., orthoses, stretching,strengthening), pharmacological (e.g., curcumin, anti-progesterone) and surgical(e.g.,footandhandtendontransfer,arthrodesis,hipdysplasia)interventions(3).Thisscale willbeusedforsubjectsaged5to17years11months(lessthan18years). CMT Infant Scale (CMTInfS): The CMTInfS is avalidatedclinicaltool and requires 20minto administerandisareliableandsensitive15-itemfunctionaloutcomemeasureforearlyonsetCMTand relatedneuropathies.TheCMTInfScanbeimplementedinnaturalhistorystudiestounderstandthe rate of progression at the earliest stages of disease in preparation for therapeutic trials of early interventions. The CMTPedS involves some difficult items that require advanced levels of comprehension,sohighvariabilityisseeninchildren<4yearsofage.Therefore,forchildrenaged3 years,theCMTInfSmaybemoresensitivetodiseaseseverityandclinicalimpression. CMTNeuropathyScore,secondversion(CMTNSv2):TheCMTNSv2isavalidatedclinicaloutcome measuredevelopedforuseinclinicaltrialstomonitordiseaseimpairment,severityandprogressionin affectedCMTsubjects(4).Thisscalewillbeusedforsubjects18yearsofageorolder. CMTFunctionalOutcomeMeasure(CMT-FOM):TheCMT-FOMisaperformance-basedoutcome assessmentwhichmeasureslimitationsinfunctionalabilitiesinadultswithCMT1A(5).Itwasbased onthevalidatedCMTPedSandfurtherdevelopedusingreviewoftheliterature,patientinterviewsand asurveyof407adultswithCMT,andsubjects18yearsofageorolder. CMTHealthIndex(CMTHI):TheCMTHIisadisease-specific,patientreportedoutcomemeasure designedtocapturethediseaseburdenofinheritedneuropathies,inthecontextofaclinicaltrial(6). Thisscalewillbeusedforsubjects18yearsofageorolder. VinelandAdaptiveBehaviorScale,3rdEdition:Thecaregiverinterviewformwillbeusedtoevaluate communication, socialization, and daily living skills of subjects to assess their overall adaptive
+
+
+[NarrativeText] (page 14)
+functioning.TheitemsintheVinelandAdaptiveBehaviorScalerequiresthecaregivertobefamiliar with the subject’s day-to-dayfunctioninginareasofcommunication,socializing,anddailylivingskills. Assuch,forsubjectswhoresideindependently,theraterwhoadministerstheassessmentshould determineifthecaregiver,ifhe/sheisavailableduringthevisit,hassufficientknowledgeofthe subject’s day-to-dayfunctioningtobeabletocompletetheinterview.Ifthecaregiverisnotfamiliar with the subject’s day-to-dayfunctioningskills,thentheassessmentshouldnotbecompleted.The motorsubdomainwillbeadministeredtothoseuptoage9years.Thisassessmentisaninterviewof thecaregiverbyaqualifiedrater(8).Thesemi-structuredinterviewswillberecordedinastandardized manner. BayleyScalesofInfantandToddlerDevelopmentThirdEdition(Bayley-III):Thecomprehensivetool has5developmentaldomains,ofwhichwewillutilize4:CognitiveScale,whichassessesattentionto familiarandunfamiliarobjects,lookingforafallenobject,andpretendplay,LanguageScale,which focusesonrecognitionofobjectsandpeople,followingdirections,andnamingobjectsandpictures, MotorScale,whichassessesgrossandfinemotorskillssuchasgrasping,sitting,stackingblocks,and climbingstairs,andSocial-EmotionalScale,whichmeasuresachild'sabilitytoengagewithothers socially,self-calmandtakespartinage-appropriateplay.WewillnotmakeuseoftheAdaptive BehaviorScaletoavoidduplicationofthesameinformation.Rawscoresofsuccessfullycompleted itemsareconvertedtoscalescoresandtocompositescores.Thesescoresareusedtodeterminethe child'sperformancecomparedwithnormstakenfromtypicallydevelopingchildrenoftheirage(in months).TheBayley-IIIwillbeperformedthrough42monthsofage. WechslerAbbreviatedScaleofIntelligenceSecondEdition/WechslerPreschool&PrimaryScaleof IntelligenceFourthEdition(WASI-II/WPPSI-IV):Atestofintellectualfunctioningcomprisedof verbalandvisualreasoningsubtestsaswellastasksofworkingmemoryandprocessingspeed. Stanford-Binet FifthEdition(SB5):TheStanford-Binettest Vis anexaminationmeanttogauge intelligence through five factors of cognitive ability. These five factors include fluid reasoning, knowledge,quantitativereasoning,visual-spatialprocessingandworkingmemory.Bothverbaland nonverbalresponsesaremeasured.Eachofthefivefactorsisgivenaweightandthecombinedscoreis oftenreducedtoaratioknowncommonlyastheintelligencequotient,orIQ.Forchildrenages2to5, usetheearlySB5. TimedUp&GoTest(TUG):TheTimedUpandGoTest(TUG)isameasureofmobility.Patientsare askedtositinaregularchairanduponcommandrisefromthechair,walkattheirnormalpacetoaline onthefloor10feet(3meters)awayfromthechair,returntothechairandsitdownagain.Thetime requiredbythepatienttocompletetheassessmentismeasuredandrecorded.TheTUGshouldbe performedintriplicateateachvisitandthebestperformancewillbeusedforanalyses.TheTUGis administeredbyaPhysician,aPhysicalTherapist,ordesigneefamiliarwiththetest.Everyattempt shouldbemadethatthesameassessorisadministeringtheTUGinagivenpatientthroughoutthestudy. TUGwillbeadministeredtoambulatorypatientsinthisStudy. PediatricEvaluationofDisabilityInventory-ComputerAdaptiveTest(PEDICAT):PEDI,originally publishedin1992byHaleyetal.andrevisedasacomputeradaptivetest(CAT)–thePEDI-CAT,isa parent/clinicianfunctionaltestthatmeasuresabilitiesin4contentdomains:dailyactivities,mobility, social/cognitive,responsibility.Itwillbecompletedbythecaregiverwithsupportfromaqualified studycenterstaff,forsubjectsyoungerthan20yearsofage(9). PediatricQualityofLifeInventory(PedsQL)-FamilyImpactModule:Measuresparentself-reported physical,emotional,social,andcognitivefunctioning,communication,andworry(10).TheModule
+
+
+[NarrativeText] (page 15)
+alsomeasuresparent-reportedfamilydailyactivitiesandfamilyrelationships.Thisassessmentwillbe usedinsubjectsbetween2and18yearsofage. Overall Neuropathy Limitation Scale (ONLS): The scale was derived by modifying the Overall DisabilitySumScore(ODSS)slightlytoavoidtheceilingeffect.Itsinter-raterreliabilitywasfoundto behigh,aswasitscorrelationwiththeODSS(11).Itisusedtoassessthelimitationsofsubjectswith immune-mediatedperipheralneuropathies.Itfocusesonupperandlowerlimbfunctionsandconsists ofachecklistforinterviewingsubjects.Thisscalewillbeusedinsubjects18yearsofageorolder. PediatricCMT-specificQualityofLifePatient-reportedOutcomeMeasure(pCMT-QOLPRO)and parentproxy(pCMT-QOLparentproxy):Measurespatient-reportedphysical(symptoms,function, socialactivities)andsocial(feelings,cognition,andsocialskills)domainsspecificforchildrenwith CMT(12).Thisscalewillbeusedinsubjects8to18yearsofage. PediatricCMT-specificQualityofLifeParent-proxyOutcomeMeasure(pCMT-QOL0to7years parent-proxy):Measureparent-reportedphysical(symptoms,function,socialactivities)andsocial (feelings,cognition,andsocialskills)domainsspecificforchildrenwithCMT(13).Thisscalewillbe usedinsubjects7yearsofageoryounger.
+
+
+[Title] (page 15)
+3.2 Procedures
+
+
+[NarrativeText] (page 15)
+MagneticResonanceImaging(MRI):AnMRIscan(withoutcontrast)ofthebilateralthighandcalf muscleswillbeperformedtocharacterizethepatternofmuscleinvolvementandevaluatethemuscle fatfraction(MFF).Three-pointDixonMRIoflegmuscleswillbeperformedtogeneratefatfraction (FF)mapsasdescribedinthedetailedCMT47Imagingprotocol.AllMRimagingwillbesupervised byanattendingpediatricneuroradiologisttoensureacquisitionofcomplete,high-qualityscans.MR imagingwillbeacquiredatbaselineandatmultipletimepoints.Thedatawillbetransferredtoacentral siteforqualitycontrolandanalysis. NerveConductionStudy(NCS):NCSisanelectrophysiologicaltesttoevaluatethesensoryandmotor responses in the upper and lower extremities. The specific measurements include distal latency, amplitudeandconductionvelocity.Serialmeasurementscanshowprogressionofthedisease,asin axonalanddemyelinatingconditions.Ideally,NCSwillbeperformedontheleftarmandleftleg.The samelimbswillbeassessedateveryvisit.Thefollowingnerveswillbestudied:medianmotor,radial sensoryandperonealmotorresponseattheextensordigitorumbrevis(EDB)andthetibialisanterior (TA). PulmonaryFunctionTest,sittingandlying(PFT):Theprimarypurposeofpulmonaryfunctiontesting istoidentifytheseverityandprogressionofpulmonaryimpairment.Thespecificmeasurementsare lungvolumes(ForcedVitalCapacity-FVC,ForcedExpiratoryVolume-FEVandForcedExpiratory Flow-FEF)andmaximalrespiratorypressures(inspiratoryandexpiratory).PFTswillbeperformedin subjects older than 5 years of age based on the evaluator’s assessment of subject’s compliance and/or abilitytofollowinstructions.TheevaluatorshouldcompletetheseatedPFTpriortothesupinePFT. ScoliosisSeriesX-ray:ThescoliosisX-rayincludesthethoracicspine(upperback)andthelumbar spine(lowerback).ThescoliosisX-raywillnotbecompletedonsubjectsolderthan17yearsofage. PregnancyTest-(individualsofchildbearingpotentialonly)Urinepregnancytestforfemalesofchild- bearing potential (Subject has experienced onset of menses and is not postmenopausal) will be collected.Resultsofurinepregnancytestmustbereviewedandconfirmedtobenegativepriorto
+
+
+[NarrativeText] (page 16)
+proceedingwithanyassessmentsinvolvingradiation.Ifaurinepregnancytestispositive,itmustbe confirmed by a serum pregnancy test. If the subject’s urine or serum pregnancy test is positive, assessmentsinvolvingradiationshouldnotbeperformed.
+
+
+[Title] (page 16)
+3.3 SkinBiopsy(Optional)
+
+
+[NarrativeText] (page 16)
+Anoptionalskinsamplewillbetakenforexploratoryresearchpurposes.Iftheparticipantconsents, theneurologistwilltakeasmallskinsampleviapunchbiopsy(approximately3-4mm).Lidocaine creamwillmaybeapplied30minspriortotheareatobebiopsiedtoanesthetizetheskin.Theskin samplewillbesenttospecializedlaboratoryforfibroblastculturingandsubsequentlytheparticipants fibroblastswillbestoredforfutureuse.
+
+
+[Title] (page 16)
+3.4 SubjectWithdrawal
+
+
+[Title] (page 16)
+Subjectsmaybewithdrawnfromthestudyforanyofthefollowingreasons: • Withdrawaloftheinformedconsent • • Withdrawalattheinvestigator’s discretion
+
+
+[Title] (page 16)
+Losttofollow-up
+
+
+[NarrativeText] (page 16)
+Subjectsshouldbewithdrawnatanytimeifthe investigator concludes that it would be in the subjects’ bestinterestforanyreason.Subjectsmayvoluntarilywithdrawfromthestudyforanyreasonatany time.Theymaybeconsideredwithdrawniftheystateanintentiontowithdraw,orfailtoreturnfor visits,orbecomelosttofollowupforanyotherreason.Protocoldeviationsshouldnotleadtosubject withdrawal unless they indicate a significant risk to the subject’s safety. If premature subject withdrawaloccursforanyreason,theinvestigator must determine the primary reason for a subject’s prematurewithdrawalfromthestudyandrecordthisinformationonthecasereportform(CRF).For subjectswhoarelosttofollow-up(i.e.,thosesubjectswhosestatusisunclearbecausetheyfailtoappear forstudyvisitswithoutstatinganintentiontowithdraw),theinvestigatorshouldshowduediligence bydocumentinginthesourcedocumentsstepstakentocontactthesubject,e.g.,datesoftelephone calls,registeredletters,etc.Inthecaseofdeath,asubjectwillbeconsideredwithdrawn. Subjects who terminate from the study prior to Visit 3, if they agree, will undergo an early termination/endofstudyvisitifpossible.Theearlytermination/endofstudyvisitiscomprisedofthe Visit3assessments.Subjectscanvoluntarilywithdrawfromparticipationinthisresearchstudyatany time.Theymayalsorequestthattheirinformationberemovedanddestroyedfromthestudyandthat theirdatanotbeusedintheanalysis,evaluationorpublicationofthisresearchstudy.Thatrequest wouldneedtobeinawrittenformat,directedandsubmittedtothePrincipalInvestigator.
+
+
+[Title] (page 16)
+3.5 UnscheduledVisit(s)
+
+
+[NarrativeText] (page 16)
+Subjects who experience any serious adverse effects (per21cFR312.32) or severe adverse events (CTCA>grade3) or experience another event of concern to the site PrincipalInvestigator can be scheduledforanadditionalvisitforfurtherevaluation.Ifanunscheduledvisitoccurs,amemberofthe clinicalstudyteam(PI,sub-investigator,nursecoordinator,orclinicalnurse)willevaluatethesubject todeterminethecauseofthevisitandprovidecareasneeded.Allproceduresand/orsamplecollections shouldbedocumentedwithininunscheduledvisitCRF.
+
+
+[Title] (page 16)
+4 POTENTIALRISKS
+
+
+[NarrativeText] (page 16)
+MedicalHistoryandRecordReview:Theremaybepsychologicaldistressassociatedwithproviding medicalandfamilyhistory.Frequentbreaksorevencessationoftheinterviewmaybetakentoreduce
+
+
+[NarrativeText] (page 17)
+riskofdistress.Thereisariskofpotentiallossofconfidentialityandpersonalhealthinformation.Every effort will be made to keep the subject’s information confidential; however, this cannot be guaranteed. Physical and Neurological Examination: There is a small risk of mild pain or discomfort from positioning,activities,equipment,andproceduresfortheneurologicexamination. NeuropsychologicalTestsandQualityofLifeMeasures:Thesetestsdonotinvolveanymedical procedures and have no inherent risks. However, subjects may experience mild frustration or nervousnessduetocognitivelychallengingtasks.Subjectsandparentsmayexperiencemildlevelsof psychologicaldiscomfortwhencompletingratingformsontopicsincludingschoolperformance,mood, andqualityoflife. NCS:Electricalstimulationmaycausemusclecontractionthatmaybeuncomfortable.Also,theremay be mild muscle soreness after muscle testing. This may last for one to two days. Subjects may experiencesomeslightdiscomfortfromhavingtolayorsitstillduringtheprocedure. MRI:SubjectsareatriskforinjuryfromtheMRImagnetiftheyhavepacemakersorotherimplanted electricaldevices,brainstimulators,sometypesofdentalimplants,aneurysmclips,metallicprostheses, permanenteyeliners,implanteddeliverypump,orshrapnelfragments.Weldersandmetalworkersare alsoatriskforinjurybecauseofpossiblesmallmetalfragmentsintheeyeofwhichtheymaybe unaware.Individualswillbescreenedfortheseconditionsandimplantsbeforehavinganyscan,andif theyhaveany,theywillnotreceiveanMRIscan(orpertheclinicaljudgementofacertifiedradiologist andradiologystaff,mayhaveamodifiedMRIthatisdeemedsafe).Inaddition,allmagneticobjects mustberemovedbeforeenteringtheMRIscanroom.Wedonotplantoadministergadoliniumcontrast aspartofthisimagingprotocol. SubjectswithfearofconfinedspacesmaybecomeanxiousduringanMRI.Thosewithbackproblems orsignificantcontracturesmayhavepainordiscomfortfromlyinginthescanner.Thenoisefromthe scannerisloudenoughtodamagehearing.EveryonehavinganMRIscanwillbefittedwithhearing protection.Therearenoknownlong-termrisksofMRIscans. X-Ray:Thisisarelativelypainlessandsafestudy.Subjectsareexposedtoaminimalamountof radiationduringthescoliosisseriesX-raytocreatedetailedimagesofthespine. PulmonaryFunctionTests:Therearenoknownrisks.Subjectsmayfeeltiredaftertheproceduredue totherespiratoryeffort. Physicaltherapyassessments:Theoutcomemeasures(CMTPedSandCMTNSv2)carryaverysmall riskofmildpain,fatigueordiscomfortfrompositioning,activitiesandequipment. Bloodcollection:Subjectsmayexperienceminorpainandbruisingduringroutinephlebotomy.All properprecautionswillbetaken,andonlyqualifiedindividualswillperformblooddraws. Lossofconfidentiality:Thereisariskthatconfidentialitymaybebreachedduringthestudy.These risks are mitigated by anonymizing data and using secure servers and databases. If there is a confidentialityordatabreach,thesubjectwillbeinformedassoonasitisdiscovered. Unforeseenrisks:Apreviouslyunknownproblemcouldresultfromparticipationinthisobservational study.Itisnotpossibletoestimatethechanceofsuchproblemsorhowseriousproblemscouldbe.
+
+
+[Title] (page 18)
+ProceduresandRisks
+
+
+[NarrativeText] (page 18)
+NeurologyClinicVisit
+
+
+[Title] (page 18)
+Description
+
+
+[NarrativeText] (page 18)
+Vitalsigns, anthropometrics,history ofpresentillnessand interiminformationwill beobtained. Physicalexamination includinggeneral, neurologicalexam (includingMMT)and hand-helddynamometry Validatedclinical outcomemeasuresto monitorprogressionof sensorimotorfunction, disease-burdenand qualityoflifeinCMT subjects
+
+
+[Title] (page 18)
+Risk
+
+
+[Title] (page 18)
+Discomfortor psychologicalstress.
+
+
+[NarrativeText] (page 18)
+Noknownrisks. Mayexperiencemild frustrationorfatigue withchallengingtasks. Mayexperiencemild psychological discomfortwhen completingrating formsontopics includingschool performance,mood, andqualityoflife.
+
+
+[NarrativeText] (page 18)
+Mitigation measures Subjects allowedtotake breaks.
+
+
+[Title] (page 18)
+Subjects allowedtotake breaks.
+
+
+[Title] (page 18)
+Index(CMTHI) for>18yearsof age Electrophysiology NerveConduction Studies(NCS)
+
+
+[Title] (page 18)
+MagneticResonance Imagingofthethighand calfmusclewithout contrast BrainMRIwithout contrast
+
+
+[NarrativeText] (page 18)
+Evaluatessensoryand motorresponsesinthe upperandlower extremitiesincluding distallatency,amplitude andconductionvelocity.
+
+
+[NarrativeText] (page 18)
+MRIscanofthethighand calfmuscleto characterizethestructural abnormalitiesinCMT4J. MRIscanofthebrain.
+
+
+[NarrativeText] (page 18)
+Riskofdiscomfort withmuscle contractionfrom stimulation. Mildmusclesoreness andfatigue. Discomfortfrom stayingstillduringthe procedure. Riskforinjuryfrom theMRImagnetif present:pacemakersor otherimplanted electricaldevices, brainstimulators,some dentalimplants, aneurysmclips, metallicprostheses, permanenteyeliners, implanteddelivery pump,magnetic devices(suchas
+
+
+[NarrativeText] (page 18)
+Procedure expectations willbe communicated withthe subjectsand timewillbe givenbetween stimulations. Individualsare screenedto ensureMRI safety proceduresare metbeforea scan Hearing protectionfor riskofhearing damage
+
+
+[Title] (page 19)
+Neuropsychologicaland Physicaltherapy Assessments
+
+
+[NarrativeText] (page 19)
+Aseriesofperformance- basedactivitiestoassess psychomotorfunctioning andqualityoflife.This includes:
+
+
+[NarrativeText] (page 19)
+magneticspine growingrods)or shrapnelfragments. Riskofdiscomfort fromlayingonhard surfaceoranxietyif fearofconfinedspaces orloudnoises Discomfortor psychologicalstress andtiredness.
+
+
+[Title] (page 19)
+Subjects allowedtotake breaks.
+
+
+[ListItem] (page 19)
+Vineland Adaptive BehavioralScale
+
+
+[ListItem] (page 19)
+PEDICAT • PedsQL • ONLS • pCMT-QOL • Bayley-III, • WASI-II, WPPSI-IV • Stanford-Binet
+
+
+[NarrativeText] (page 19)
+testV • TUG
+
+
+[Title] (page 19)
+PulmonaryFunction Tests(PFTs)
+
+
+[Title] (page 19)
+ScoliosisseriesX-ray
+
+
+[NarrativeText] (page 19)
+PFTstoidentifyseverity andprogressionof pulmonarydysfunction. Lungvolume measurements:Forced VitalCapacity-FVC, ForcedExpiratory Volume-FEV,andForced ExpiratoryFlow-FEF. PressureMeasurements: maximalinspiratoryand expiratory. ScoliosisseriesX-ray includesthethoracic spine(upperback)and thelumbarspine(lower back)toidentifyareasof spinecurvature.
+
+
+[Title] (page 19)
+Noknownrisks.May feeltiredafterthe procedure.
+
+
+[Title] (page 19)
+Exposuretominimal amountofradiation.
+
+
+[Title] (page 19)
+Subjects allowedtotake breaks.
+
+
+[Title] (page 19)
+Adherenceto theminimum exposureto radiationas permittable.
+
+
+[Title] (page 19)
+Bloodcollection
+
+
+[Title] (page 19)
+Exploratoryblooddraw
+
+
+[Title] (page 19)
+Minorpainand bruising
+
+
+[NarrativeText] (page 19)
+Adherenceto maximumblood volumes permittedin
+
+
+[Title] (page 20)
+Skinbiopsy(optional)
+
+
+[Title] (page 20)
+Smallpunchbiopsyfor futureexploratoryuse
+
+
+[Title] (page 20)
+Exposuretolidocaine creamandasmall irritationtotheskinfor thepunchbiopsy
+
+
+[NarrativeText] (page 20)
+pediatric subjects Onlytrained individualscan performaskin biopsy
+
+
+[Title] (page 20)
+5 SUBJECTSAFETYANDDATAMONITORING
+
+
+[Title] (page 20)
+ThisstudywillnotinvolveaninvestigationaldruganddoesnotrequireaDSMB.
+
+
+[NarrativeText] (page 20)
+Clinicaldatacollectedwillbeenteredintoa21CFR11-compliantdatabasebyeachstudysite.CRFs willbeassociatedwitheachscheduledvisitandallprotocol-relatedresearchassessments. Aspartoftheconsentprocess,subjectswillbeinformedthattheirde-identifieddatawillbeshared withvariousthirdparties,includingRegulatoryAuthorities,IRBsorotheracademicresearchersand collaboratingbiotechnologycompanieswithoutfutureconsentrequests.Futureuseofdataandsamples, includingsharingwiththirdparties(e.g.,regulatoryauthorities), will be governed by each site’s local informedconsentform.
+
+
+[NarrativeText] (page 20)
+6 PROCEDURESTOMAINTAINCONFIDENTIALITY Subjectsenrolledinthenaturalhistorystudywillbegivenauniqueidentifierthatincludestheproject (disease),asitenumberthatcorrespondstothesite,andasequentiallyassignedsubjectnumber(ex: CMT4J-001-001). Collaborationwithotherinstitutionsand/orresearchersmayoccur.Inthiscase,allsubjectinformation sharedwithcollaboratorswillbede-identified.Identifiableinformationmaybesharedwithother studiesifapprovedbytheIRBorotherregulatorybody. Studyrecordsareconfidential,andtheywillbekeptinasecureenvironmentandprotectedtothefull extentofthelaw. Thestudymonitor,representativesoftheInstitutionalReviewBoard(IRB),and/orregulatoryagencies mayinspectalldocumentsandrecordsrequiredtobemaintainedbythesitePrincipalInvestigators, includingbutnotlimitedto,medicalrecords(office,clinic,orhospital)andpharmacyrecordsforthe participantsinthisstudy.Theclinicalstudysiteswillpermitaccesstosuchrecords. The study participant’s contact information will be securely stored at each clinical site for internal use duringthestudy.Attheendofthestudy,allrecordswillcontinuetobekeptinasecurelocationforas longaperiodasdictatedbythereviewingIRB,Institutionalpolicies,orsponsorrequirements. Studyparticipantresearchdata,whichisforpurposesofstatisticalanalysisandscientificreporting, willbetransmittedtoandstoredwithinanelectronicdatacapturesystemwhichis21CFR11compliant. The electronic case report form will not include the participant’s contact or identifying information. Rather,individualparticipantsandtheirresearchdatawillbeidentifiedbyauniquestudyidentification number.
+
+
+[Title] (page 20)
+7 POTENTIALBENEFITS Participationinthisresearchstudymaynotprovideadirectbenefittoparticipants.Thisstudymay expandourknowledgeaboutthegenotyperangeandphenotypicexpressionofCMT4J.Itwillalso
+
+
+[Title] (page 21)
+yieldinformation about othersysteminvolvementand thefrequency ofthis in the CMT4J/FIG4 population.Thelong-termobjectiveistobeabletoprovideinformationaboutnaturalhistoryand outcomemeasurevalidity,whichisessentialforfuturetherapeuticclinicaltrials.
+
+
+[NarrativeText] (page 21)
+8 PROTOCOLDEVIATIONS Amajorprotocoldeviationisadeviationthatmayadverselyaffecttherights,safetyorwell-beingof thesubjectsand/orthequalityandintegrityofdataormay affect the subject’s willingness to have consented in the study. “May” in this paragraph refers to a “reasonable possibility” of having such an effect;itdoesnotrequirethatsuchaneffecthasunequivocallyoccurred. Majorprotocoldeviationsincludebutarenotlimitedto:enrolmentofineligiblesubjects,factorsthat mayconfoundmeasurementorinterpretationofkeyoutcomemeasures(e.g.,afinalstudyendpointor several smaller “during study” outcome measures), safety or efficacy assessments notperformed,ora pattern or frequency of “minor” deviations that together meet criteria described herein for a major deviation. Aminorprotocoldeviationisadeviationthatisunlikelytoadverselyaffecttherights,safetyorwell- beingofthesubjects and/or the compromise the quality and integrity of data or affect the subject’s willingnesstoparticipateinthestudy.Anexampleofaminorprotocoldeviationwouldbeamissed laboratorytestoramissedstudyvisit.
+
+
+[Title] (page 21)
+9 SAFETY
+
+
+[Title] (page 21)
+9.1 DefinitionofAdverseEvent
+
+
+[NarrativeText] (page 21)
+AnAEisanyuntowardmedicaloccurrenceinasubjectafteradministrationofaninvestigational vaccineandthatdoesnotnecessarilyhaveacausalrelationshipwiththeinvestigationalvaccine.As thisstudyisanobservationalstudywithnoinvestigationalproduct,anymedicalconditionordiagnosis thatispresentatthetimebeforethesubjectisconsentedwillberecordedasMedicalHistory.Anynew orworseningofanychronicmedicalconditionthatisexpectedinthecourseofthediseaseoccurring afterconsentwillnotbereportedasanAEbutrecordedasongoingmedicalhistory.Anysignificant eventthatemergesasaresultofparticipationinthisstudy,thatisnotasymptomorconditionrelated tothenaturalcourseofthedisease,willbereportedasanadverseevent.
+
+
+[Title] (page 21)
+9.2 DefinitionofSeriousAdverseEvent(SAE)
+
+
+[Title] (page 21)
+ASAEisanyAEthatresultsinanyofthefollowingoutcomes:
+
+
+[ListItem] (page 21)
+1. Death.Adeaththatoccursorthatcomestotheattentionoftheinvestigator. 2. Alife-threateningevent.Alife-threateningeventisanyadverseexperiencethat,inthe viewoftheinvestigator,placesthestudysubjectatimmediateriskofdeathfromthe reactionasitoccurred.(Note:Thisdoesnotrefertoaneventthatcouldhypothetically havecauseddeathhaditbeenmoresevere).
+
+
+[ListItem] (page 21)
+3. Aninpatienthospitalizationorprolongationofexistinghospitalization.Hospitalizationis definedasaninpatientadmission,regardlessoflengthofstay.
+
+
+[ListItem] (page 21)
+4. Persistentorsignificantdisability/incapacity. 5. Congenitalanomaly/birthdefect. 6. Animportantmedicaleventthatmaynotresultindeath,belifethreatening,orrequire hospitalizationmaybeconsideredanSAEwhen,basedonappropriatemedicaljudgment, itmayjeopardizethesubjectandmayrequiremedicalorsurgicalinterventiontoprevent
+
+
+[Title] (page 22)
+oneoftheoutcomeslistedabove.(Examplesofsuchmedicaleventsincludeallergic bronchospasmrequiringintensivetreatmentinanemergencyroomorathome,blood dyscrasiasorconvulsionsthatdonotresultininpatienthospitalization.)
+
+
+[Title] (page 22)
+RegardlessoftherelationshipoftheAEtothestudy,theeventwillbereportedtothesponsorasan SAEifitmeetsanyoftheabovedefinitions. Eventsnotconsideredtobeseriousadverseeventsarehospitalizationsfor:
+
+
+[ListItem] (page 22)
+Aprocedureforprotocol/disease-relatedinvestigations.However,hospitalizationor prolongedhospitalizationforacomplicationofsuchproceduresremainsareportable seriousadverseevent.
+
+
+[ListItem] (page 22)
+Hospitalizationorprolongationofhospitalizationfortechnical,practical,orsocial reasons,inabsenceofanadverseevent.
+
+
+[ListItem] (page 22)
+Aprocedurethatisplanned(i.e.,plannedpriortothestartingoftreatmentonstudy); mustbedocumentedinthesourcedocumentandtheeCRF.Hospitalizationorprolonged hospitalizationforacomplicationremainsareportableseriousadverseevent.
+
+
+[ListItem] (page 22)
+Anelectivetreatmentoforanelectiveprocedureforapre-existingmedicalconditionthat doesnotworsen.
+
+
+[ListItem] (page 22)
+Emergencyoutpatienttreatmentorobservationthatdoesnotresultinadmission,unless fulfillingotherseriousnesscriteriaabove.
+
+
+[Title] (page 22)
+9.3 Collecting,Recording,andManagingAdverseEvents
+
+
+[Title] (page 22)
+IdentifyingAdverseEvents
+
+
+[Title] (page 22)
+AnyAEthatoccursfromthemomentthesubjecthassignedtheconsentformuntiltheendofthestudy visitorthefinalassessmentatthetimeofdropoutordiscontinuationfromthestudyvisitwillbe recordedandisreportable. Adverseeventsmaybediscoveredthroughanyofthesemethods:
+
+
+[ListItem] (page 22)
+Observingthesubject, • Questioningthesubjectorcaregiverwithstandardizedquestions/procedures, • Receivinganunsolicitedcomplaintfromthesubjectorcaregiver, • Anabnormalvalueorresultforaclinicallaboratoryevaluation. RecordingAE/SAEs
+
+
+[NarrativeText] (page 22)
+ThroughoutthestudyallidentifiedAEs(seriousandnon-serious)willberecordedonallappropriate sourcedocumentsandAEorSAECRFregardlessoftheirseverityorrelationtothestudy.SAEswill includeanarrativeoftheeventsignedanddatedbytheprincipalinvestigator. AcompletedescriptionofallAEswillincludeeventdescription,investigatorassessmentofseverity, relationshiptostudyprocedures,diagnosis,datestarted/stopped,outcome,andtreatmentrequired.A changeintheseverityoftheAEwillalsobedocumented.
+
+
+[Title] (page 22)
+ManagingAdverseEvents
+
+
+[NarrativeText] (page 23)
+ThesiteinvestigatormustapplyhisorherclinicaljudgmentastowhetheranAEisofsufficientseverity torequirethatthesubjectimmediatelybewithdrawnfromthestudy.Theinvestigatormustinstitute anynecessarymedicaltherapytoprotectasubjectfromanyimmediatedangers. AnAEwillbefolloweduntilanyofthefollowingtakesplace:a)itisresolved,b)subjectisstable,or c)aminimumof30daysaftersubjectisdiscontinuedfromthestudy,whichevercomesfirst. Adverseeventsassessedasrelatedtostudyprocedureandseriousadverseeventswillbefollowedfor as long as necessary to adequately evaluate the subject’s safety, or until the event stabilizes, is otherwise explained,deathoccurs,orthesubjectislosttofollowup.Ifresolved,aresolutiondateshouldbe provided.
+
+
+[Title] (page 23)
+GradingCriteria
+
+
+[NarrativeText] (page 23)
+Assessmentshouldincludetheintensity(severity)oftheAE,whetherclinicalorlaboratory,andthe relationshiptostudyprocedure(s). TheseverityofAEsexperiencedbystudysubjectswillbegradedaccordingtothecriteriasetforthin the National Cancer Institute’s Common Terminology Criteria for Adverse Events Version (version 5.0 2017-11-27)unlessotherwiseindicated.Thisdocument(referredtohereinastheNCI-CTCAEmanual) providesacommonlanguagetodescribelevelsofseverity,toanalyzeandinterpretdata,andto articulate the clinical significance of all AEs. These criteria have been reviewed by the study investigatorsandthesponsorandhavebeendeterminedappropriateforthisstudypopulation. AllAEswhetherornotlistedintheNCI-CTCAEwillbegradedonascalefrom1to5accordingtothe followingstandardsintheNCI-CTCAEmanual(Asemi-colon indicates ‘or’ within the description of thegrade.):
+
+
+[ListItem] (page 23)
+Grade1=Mild;asymptomaticormildsymptoms;clinicalordiagnosticobservationsonly; interventionnotindicated.
+
+
+[ListItem] (page 23)
+Grade 2 = Moderate; minimal, local or noninvasive intervention indicated; limiting age- appropriateinstrumentalActivitiesofDailyLiving(ADL).
+
+
+[ListItem] (page 23)
+Grade3=Severeormedicallysignificantbutnotimmediatelylife-threatening;hospitalization orprolongationofhospitalizationindicated;disabling;limitingself-careADL.
+
+
+[ListItem] (page 23)
+Grade4=Life-threateningconsequences;orurgentinterventionindicated. • Grade5=Death.
+
+
+[NarrativeText] (page 23)
+ForadditionalinformationandaprintableversionoftheNCI-CTCAEmanual,NCI-CTCAEwebsite: http://ctep.cancer.gov/reporting/ctc.htmlwillbeconsulted).
+
+
+[Title] (page 23)
+DefinitionofAttribution
+
+
+[NarrativeText] (page 23)
+TheattributionofanAEtothestudywillbedeterminedbythesiteinvestigator.Thesiteinvestigator willrecordthedeterminationofattributionontheappropriateAEorSAECRF. RelationshipofanAEorSAEistobedeterminedbytheinvestigatorbasedonthefollowing definitions:
+
+
+[Title] (page 24)
+Descriptor
+
+
+[Title] (page 24)
+Definition(guidelines)
+
+
+[Title] (page 24)
+UNRELATEDCATEGORY
+
+
+[Title] (page 24)
+Unrelated
+
+
+[Title] (page 24)
+Unlikely
+
+
+[Title] (page 24)
+TheAEisclearlynotrelatedtothestudyortodiseaseprogression. TheAEiscompletelyrelatedtoanetiologyotherthanthestudy procedures(thealternativeetiologymustbedocumentedinthe study subject’s medical record) or disease progression. TheAEisdoubtfullyrelatedtothestudyortodiseaseprogression andlikelytoberelatedtofactorsotherthanstudyprocedures.
+
+
+[Title] (page 24)
+RELATEDCATEGORIES
+
+
+[Title] (page 24)
+Possible
+
+
+[Title] (page 24)
+Probable
+
+
+[Title] (page 24)
+Definite
+
+
+[NarrativeText] (page 24)
+TheAEmayberelatedtoastudyprocedureortodisease progression.Thereisanassociationbetweentheeventandthe studyproceduresandthereisaplausiblemechanismfortheevent toberelatedtothestudyprocedures;theremaybealsoan alternative etiology, such as characteristics of the subject’s clinical statusand/orunderlyingdisease. TheAEislikelyrelatedtoastudyprocedureortodisease progression.Thereis(1)anassociationbetweentheeventandthe studyprocedures,(2)aplausiblemechanismfortheeventtobe relatedtothestudyprocedures,and(3)theeventcouldnotbe reasonably explained by known characteristics of the subject’s clinicalstatusand/oranalternativeetiologyisnotapparent. TheAEisclearlyrelatedtoastudyprocedureortodisease progression.Thereis(1)anassociationbetweentheeventandthe studyprocedures,(2)aplausiblemechanismfortheeventtobe relatedtotherelatedtothestudyprocedure,and(3)causesother thanthestudyprocedureshavebeenruledoutand/ortheeventre- appearedonre-exposuretothestudyprocedure.
+
+
+[Title] (page 24)
+SAEReportingCriteriaandProcedures
+
+
+[NarrativeText] (page 24)
+ThefollowingprocessforreportingaSAEensurescompliancewiththeICHguidelines.Whenan investigatoridentifiesaSAE,heorshemustnotifythesponsorswithin24hoursofdiscoveringthe event.Inaddition,theinvestigatormustensurethattheseeventsareenteredintheelectronicdata captureplatform. All serious adverse events will be reported through completion of the adverse event eCRF. The InvestigatorwillberesponsibleforreportingseriousadverseeventstothecentralIRBandlocalIRB (perlocalIRBpolicy) 10 STATISTICALCONSIDERATIONS SampleSizeandPowerCalculations:Thesamplesizeofapproximately20subjectsisexpectedto providesufficientinsightsintothenaturalhistoryofindividualswithCMT4Jtoprovideexploratory anddescriptiveresults andguidethedesignoffuturestudiesofCMT4J. Noformalsamplesize estimationwasperformedforthisstudy.Parametricandnon-parametrictestswillbeusedtoanalyze possibleassociationsbetweenclinical,radiographic,andlaboratorydata.Thetestswillbeselected basedonthequestionbeingaskedofthedatabase.Thisdatabasewillbeusedtoanalyzemultiple
+
+
+[Title] (page 25)
+medicalissuesamongsubjectswithconfirmedCMT4J.Allanalysiswillbeconsideredexploratoryin nature.
+
+
+[Title] (page 25)
+10.1 DataManagement
+
+
+[NarrativeText] (page 25)
+Qualitycontrolauditsofallkeysafety,laboratory,andclinicaldatainthedatabasewillbemadeafter dataentryhasbeencompleted.Coexistentmedicalconditions,AEsandothermedicaleventswillbe codedusingMedDRAdictionary.ConcomitantmedicationswillbecodedusingtheWorldHealth OrganizationDrugDictionary(WHO-DD).Whenthedatabasehasbeendeclaredtobecompleteand accurate,thedatabasewillbelocked.Anychangestothedatabaseafterthattimecanonlybemadeby jointwrittenagreementofthestudyteam.
+
+
+[Title] (page 25)
+11.1 EthicalStandard
+
+
+[Title] (page 25)
+TheInvestigatorwillensurethatthisstudyisconductedinfullconformitywiththeprinciplessetforth inTheBelmontReport:EthicalPrinciplesandGuidelinesfortheProtectionofHumanSubjectsof ResearchoftheUSNationalCommissionfortheProtectionofHumanSubjectsofBiomedicaland BehavioralResearch(April18,1979)andcodifiedin45CFRPart46and/ortheICHE6;62Federal Regulations25691(1997).
+
+
+[Title] (page 25)
+11.2 InstitutionalReviewBoard
+
+
+[NarrativeText] (page 25)
+Thelocalinstitutionmustprovideforthereviewandapprovalofthisprotocolandtheassociated informedconsentdocumentsbyanappropriateethicsreviewcommitteeorIRB.Anyamendmentsto theprotocolorconsentmaterialsmustalsobeapprovedbeforetheyareplacedintouseunlessitisin the best interest of the subjects’ safety to implement changes prior to approval. In both the USandin othercountries,onlyinstitutionsholdingacurrentU.S.Federal-WideAssuranceissuedbytheOffice forHumanResearchProtections(OHRP)mayparticipate.
+
+
+[NarrativeText] (page 25)
+Priortoenrollmentofsubjectsintothisclinicalstudy,theprotocolandtheinformedconsentform(s) (ICF)willbereviewedandapprovedbytheappropriateIRB.Anyamendmentstotheprotocolor consentmaterialswillalsobereviewedandapprovedbytheappropriateIRB.Theresponsibleofficial fortheIRBwillsigntheIRBletterofapprovaloftheprotocolpriortothestartofthisclinicalstudy.If amendmentstotheprotocolarerequired,theamendmentswillbesubmittedtotheIRB;anIRBletter ofapprovaloftheamendmentmustbeobtainedpriortoimplementingtheamendment.
+
+
+[Title] (page 26)
+SCHEDULEOFEVENTS
+
+
+[Title] (page 26)
+StudyDay no
+
+
+[Title] (page 26)
+Screening
+
+
+[Title] (page 26)
+Baseline ()
+
+
+[Title] (page 26)
+Month12 ()
+
+
+[Title] (page 26)
+Month24 ()
+
+
+[NarrativeText] (page 26)
+InformedConsent MedicalInformation Demographics MedicalHistory FamilyHistory CMT4JDiagnosisandHistory ClinicalProcedures Inclusion/ExclusionCriteria VitalSignsa HeightandWeight PhysicalExamb NeurologicalExamc UrinePregnancy(forfemale subjects)d BloodCollectionforFuture ExploratoryAnalysise Skinbiopsy(optional,anyvisit, onlyonce) AdverseEvents ConcomitantMedications CMTScales* CMTPedSf CMTInfSg CMTNSv2h CMT-FOMh CMTHealthIndex(CMTHI)h ClinicalStudies ThighandCalfMRIwithout contrast BrainMRIwithoutcontrast NerveConductionStudy(NCS)i PulmonaryFunctionTest(PFT)j ScoliosisSeriesX-rayk NeuropsychologicalandPhysical TherapyAssessments VinelandAdaptiveBehaviorScale PEDICATl BaileyIII WASI-IIorWPPSI-IV StanfordBinet–V Timedupandgo(TUG) Wearabledevices Questionnaires PedsQLm OverallNeuropathyLimitation Scale(ONLS)(18yearsandolder) pCMT-QOLPRO(8to18years) pCMT-QOL(8to18yearsparent- proxy) pCMT-QOL(0to7yearsparent- proxy)
+
+
+[Title] (page 26)
+X X
+
+
+[Title] (page 26)
+X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X X X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X
+
+
+[Title] (page 26)
+X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X X X
+
+
+[Title] (page 26)
+X X X X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X
+
+
+[Title] (page 26)
+X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X X X
+
+
+[Title] (page 26)
+X X X X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X
+
+
+[Title] (page 26)
+X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X X X X
+
+
+[Title] (page 26)
+X X X X X X X X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[Title] (page 26)
+X
+
+
+[NarrativeText] (page 27)
+aTemperature,pulse,bloodpressuremeasuredinonearmorlegafterthepatienthasbeenseatedfor5minutes. bExamofheart,lungs,abdomen,back,andextremities;heightandweight;headcircumference cIncludesevaluationofcranialnerves,muscletone,musclestrength,sensation,gait,coordinationanddeeptendonreflextesting,handhelddynamometry dUrinepregnancytestforfemalesofchild-bearingpotential.Resultsofurinepregnancytestmustbereviewedandconfirmedtobenegativepriorto proceedingwithanyassessmentsinvolvingradiation.Ifaurinepregnancytestispositive,itmustbeconfirmedbyaserumpregnancytest.Ifthesubject’s urineorserumpregnancytestispositive,assessmentsinvolvingradiationshouldnotbeperformed. eWithsubjectconsent,bloodandbloodproductsmaybestoredlong-termforexploratorypurpose;thesesampleswillbemaintainedforupto10years fSubjectsaged5to17years11months(lessthan18years)
+
+
+[Title] (page 27)
+gSubject<4yearsofage
+
+
+[NarrativeText] (page 27)
+hSubjectsaged18yearsandolder iIdeally,performedontheleftarmandleg,thesamelimbswillbeassessedateachvisit jSubjectsolderthan5yearsofagebasedonthephysiotherapist’sassessmentofsubject’scomplianceand/orabilitytofollowinstructions kThoracicandlumbarspine lSubjects<20years mSubjects2to18years *VideocapturewillbeusedforsomepartsoftheCMTscales.
+
+
+[Title] (page 28)
+12 REFERENCES
+
+
+[ListItem] (page 28)
+1. BraathenG,SandJ,LobatoA,HyerH,RussellM.GeneticepidemiologyofCharcot-Marie- Toothinthegeneralpopulation.EurJNeurol.2011;18(1):39–48.
+
+
+[ListItem] (page 28)
+2. SkreH.GeneticandclinicalaspectsofCharcot-Marie-Tooth’s disease. Clin Genet.1974;6(2): 98-118.
+
+
+[ListItem] (page 28)
+3. BurnsJ,OuvrierR,EstilowT,ShyR,LauraM,PallantJF,LekM,MuntoniF,ReillyMM, PareysonD,AcsadiG,ShyME,FinkelRS.ValidationoftheCharcot-Marie-Toothdisease pediatricscaleasanoutcomemeasureofdisability.AnnNeurol.2012;71(5):642-652.
+
+
+[ListItem] (page 28)
+4. MurphySM,HerrmannDN,McDermottMP,SchererSS,ShyME,ReillyMM,PareysonD. ReliabilityoftheCMTneuropathyscore(secondversion)inCharcot-Marie-Toothdisease.J PeripherNervSyst.2011;16(3):191-198.
+
+
+[ListItem] (page 28)
+5. EichingerK,BurnsJ,CornettK,BaconC,ShepherdM,MountainJ,SowdenJ,ShyR,Shy ME,HerrmannDN.TheCharcot-Marie-ToothFunctionalOutcomeMeasure(CMT-FOM). Neurology.2018;91(15):e1381-e1384.
+
+
+[ListItem] (page 28)
+6. JohnsonNE,HeatwoleC,CreighP,McDermottMP,DilekN,HungM,BounsangaJ,Tang W,ShyME,HerrmannDN.TheCharcot-Marie-ToothHealthIndex:EvaluationofaPatient ReportedOutcome.AnnNeurol.2018;84(2):225-233.
+
+
+[ListItem] (page 28)
+7. MorrowJM,EvansMRB,GriderT,SinclairCDJ,ThedensD,ShahS,YousryTA,Hanna MG,NopoulosP,ThorntonJS,ShyME,ReillyMM.ValidationofMRCCentreMRIcalf musclefatfractionprotocolasanoutcomemeasureinCMT1A.Neurology 2018;91(12):1125-1129.
+
+
+[ListItem] (page 28)
+8. SparrowSS,CichettiDV,BallaDA,DollEA.(2005).VinelandAdaptiveBehaviorScales, secondeditionmanual.Bloomington,MN:PsychCorp.
+
+
+[ListItem] (page 28)
+9. HaleySM,CosterWJ,DumasHM,Fragala-PinkhamMA,NiPS,KramerJ,FengT,Kao YC,MoedR,LudlowLH.AccuracyandprecisionofthePediatricEvaluationofDisability Inventorycomputeradaptivetests(PEDI-CAT).DevMedChildNeurol.2011;53(12):1100- 1106.
+
+
+[Title] (page 28)
+10.VarniJW,SeidM,RodeCA.ThePedsQL:measurementmodelforthepediatricqualityof
+
+
+[Title] (page 28)
+11.GrahamRCandHughesRAC.Amodifiedperipheralneuropathyscale:theOverall NeuropathyLimitationsScale.JNeurolNeurosurgPsychiatry.2006;77(8):973-976.
+
+
+[Title] (page 28)
+ShyME,ChildhoodCMTStudyGroup.Developmentandvalidationofthepediatric Charcot-Marie-Toothdiseasequalityoflifeoutcomemeasure.AnnNeurol.2021;89(2):369- 379.
+
+
+[NarrativeText] (page 28)
+13.WuTT,FinkelSR,SiskindCE,FeelySM,BurnsJ,ReillyMM,MuntoniF,MilevE,Estilow T,ShyME,RamchandrenS,ChildhoodCMTStudyGroupoftheInteritedNeuropathy Consortium.Validationoftheparenty-proxyversionofthepediatricCharcot-Marie-Tooth diseasequalityoflifeinstrumentforchildrenaged0-7years.JPeripherNervSyst.2023;May 11.doi:10.1111/jns.12557.
+
+
+[Title] (page 28)
+Version:1 Date:1August2023
+
+
+[Title] (page 28)
+ConfidentialPage28of28

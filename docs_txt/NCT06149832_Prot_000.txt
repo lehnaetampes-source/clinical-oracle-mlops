@@ -1,0 +1,391 @@
+
+[Title] (page 1)
+Version: v1.0
+
+
+[Title] (page 1)
+Date: September 13, 2023
+
+
+[Title] (page 1)
+Treatment of Oral Chronic Graft-versus-host Disease With Human
+
+
+[Title] (page 1)
+Umbilical Cord Mesenchymal Stem Cell Dressing
+
+
+[Title] (page 1)
+Principal Investigator: Gao Lei
+
+
+[Title] (page 1)
+Research Institution: Second Affiliated Hospital of Army Medical
+
+
+[Title] (page 1)
+University (formerly Third Military Medical University)
+
+
+[Title] (page 1)
+Department: Hematology
+
+
+[Title] (page 1)
+Participating Institution and Responsible Person: Chongqing
+
+
+[Title] (page 1)
+Southwest Hospital，ShiCangYu
+
+
+[Title] (page 1)
+Confidentiality Statement:
+
+
+[NarrativeText] (page 1)
+The information contained in this research proposal is provided
+
+
+[Title] (page 1)
+solely for the review by the researchers, ethics committee, and
+
+
+[NarrativeText] (page 1)
+relevant institutions of this project. Without the approval of the
+
+
+[NarrativeText] (page 1)
+Principal Investigator (PI), it is strictly prohibited to disclose any
+
+
+[Title] (page 1)
+information to third parties unrelated to this research.
+
+
+[Title] (page 2)
+Version: v1.0
+
+
+[Title] (page 2)
+Date: September 13, 2023
+
+
+[Title] (page 2)
+1.Research Background
+
+
+[NarrativeText] (page 2)
+Allogeneic-hematopoietic stem cell transplantation (allo-HSCT) is an important protocol for the treatment of benign and malignant hematological diseases such as acute leukemia, severe aplastic anemia, thalassemia, etc. chronic graft versus host disease (cGVHD) is a clinicopathological syndrome caused by donor lymphocytes attacking the recipient's organs in the process of reestablishing donor immunity after allo-HSCT, with an incidence of about 30%-70%[1,2]. The clinical manifestations of cGVHD are diverse, individual differences are large, and the course of the disease is prolonged, which may affect the quality of life of patients at least, and affect the long-term survival at worst. Among them, oral cGVHD is the most common type, which mainly presents with lichen planus, oral ulcers, mucosal atrophy, erythema and pain. At present, the treatment of oral cGVHD is based on systemic treatment and local hormone-containing gargling solution and local photochemotherapy [3]. The former is prone to be complicated by local oral fungal infection, while the latter has no such equipment in China at present. Therefore, it is urgent to establish a simple, effective and low-toxicity local treatment for oral cGVHD.
+
+
+[NarrativeText] (page 2)
+Recent studies have found that the expression of Th2 cytokines (such as IL-4 and IL-5) is associated with a large number of T lymphocyte infiltration and severe tissue damage in oral lesions of patients with cGVHD, and is involved in the occurrence and development of oral cGVHD [4]. Inhibiting the accumulation and secretion of Th2 cells in the oral cavity may be an effective method to treat oral cGVHD. mesenchymal stem cells (MSCs) are a kind of pluripotent stem cells with the ability of self-renewal and multidirectional differentiation [5]. It is one of the most widely used cell products in clinic at present. Combined application with hematopoietic stem cells can improve the success rate of transplantation and accelerate hematopoietic reconstruction [6]. The applicant team previously completed a national multi-center clinical study on MSCs prevention of cGVHD, which proved that sequential infusion of MSCs can effectively reduce the incidence of cGVHD, and the mechanism is that MSCs regulate Th1: Th2 balance and promote the differentiation of T cells to Th1 direction [7]. Our previous mechanism study provides an important theoretical basis for MSCs treatment of oral cGVHD. According to the clinical needs and the rich experience of our research group in the field of MSCs clinical research, we plan to use dressing containing MSCs for the local treatment of oral cGVHD, so as to improve the lesion degree of oral cGVHD and improve the quality of life of allo-HSCT patients, and provide clinical experience for reference for the local treatment of MSCs graft-versus-host disease.
+
+
+[NarrativeText] (page 2)
+[1] Friedenstein AJ, Petrakova KV, Kurolesova AI, et al. Hetero typic transplants of bone marrow: analysis of precursor cells for osteogenic and hematopoietic tissues. Transplantation, 1968, 6 (2): 230-247.
+
+
+[NarrativeText] (page 2)
+[2] Cheng L, Qasba P, Vanguri P, et al. Human mesenchymal stem cells support megacaryocyte and prop latelet formation from CD34+ hematopoietic progenitor cells. J Cell Physiol, 2000, 184 (1) : 58-59.
+
+
+[NarrativeText] (page 2)
+[3] Cammarota F, Laukkanen MO. Mesenchymal stem/stromal cells in stromal
+
+
+[NarrativeText] (page 2)
+evolution and cancer progression. Stem cell Int. 2015; 2015: 427350
+
+
+[Title] (page 3)
+Version: v1.0
+
+
+[Title] (page 3)
+Date: September 13, 2023
+
+
+[NarrativeText] (page 3)
+[4] Cheng Zhang, Shi-Jie Yang, Qin Wen, Jiang F Zhong, Xue-Lian Chen, Andres Stucky, Michael F Press, Xi Zhang.Human-derived normal mesenchymal stem/stromal cells in anticancer therapies, Journal of Cancer, 2017; 8(1): 85-96
+
+
+[NarrativeText] (page 3)
+[5] Li Gao et al, The immunosuppressive properties of non-cultured dermal-derived mesenchymal stromal cells and the control of graft-versus-host disease. Biomaterials 2014,(35):3582-3588
+
+
+[NarrativeText] (page 3)
+[6] Peilong Lai, Jianyu Weng, Liyan Guo, et al. Novel insights into MSC-EVs
+
+
+[NarrativeText] (page 3)
+therapy for immune diseases. Biomarker Research, 2019,7:6.
+
+
+[NarrativeText] (page 3)
+[7] Zhang B, Yin Y, Lai RC, Tan SS, Choo AB, Lim SK. Mesenchymal stem cells
+
+
+[NarrativeText] (page 3)
+secrete immunologically active exosomes. Stem Cells Dev. 2014;23(11):1233–44
+
+
+[Title] (page 3)
+2.Clinical Trial Objective
+
+
+[NarrativeText] (page 3)
+Local treatment of oral cGVHD with MSCs dressing can improve the lesion degree of oral cGVHD and improve the quality of life of allo-HSCT patients.
+
+
+[Title] (page 3)
+3.Clinical Trial Design
+
+
+[NarrativeText] (page 3)
+To design a single-center, prospective, open, self-controlled clinical trial to explore the efficacy of human umbilical cord mesenchymal stem cell dressings in the treatment of chronic oral graft-versus-host disease.
+
+
+[Title] (page 3)
+4.Study Population
+
+
+[Title] (page 3)
+4.1 Number of Cases
+
+
+[NarrativeText] (page 3)
+A total of 38 patients will be enrolled.
+
+
+[NarrativeText] (page 3)
+Paired Wilcoxon sign-rank test was used: unilateral test α=0.05, 1-β=0.9, superior efficacy limit δ=1, actual difference between groups δ=1.4, and paired difference standard deviation σ=0.7. Calculated n=30, according to the 20% shedding rate, the actual sample size needs N=38.
+
+
+[Title] (page 4)
+Version: v1.0
+
+
+[Title] (page 4)
+Date: September 13, 2023
+
+
+[Title] (page 4)
+4.2 Inclusion Criteria
+
+
+[NarrativeText] (page 4)
+The following criteria must be met for patient inclusion:
+
+
+[NarrativeText] (page 4)
+Allo-HSCT occurrence score ≥ 2 points in patients with oral cGVHD (refer to 2014NIHcGVHD standards and 2021cGVHD expert consensus), and met the following inclusion criteria:
+
+
+[NarrativeText] (page 4)
+Patients undergoing allogeneichematopoietic stem cell transplantation. Both genders, aged ≥18 and ≤60.
+
+
+[NarrativeText] (page 4)
+Karnofsky Performance Status (KPS) score >60, estimated survival period >3 months. No severe systemic impairment of vital organ function.
+
+
+[Title] (page 4)
+No contraindications to other hematopoietic stem cell participation and informed consent.
+
+
+[Title] (page 4)
+transplantation. Voluntary
+
+
+[Title] (page 4)
+4.3 Exclusion Criteria
+
+
+[NarrativeText] (page 4)
+Patients meeting any of the following criteria are not eligible for inclusion: Severe heart, kidney, or liver dysfunction.
+
+
+[NarrativeText] (page 4)
+Patients requiring treatment for other malignancies.
+
+
+[NarrativeText] (page 4)
+severe psychiatric disorders that affect
+
+
+[NarrativeText] (page 4)
+Patients unable to complete the required treatment plans and follow-up observations. Patients with severe acute allergic reactions.
+
+
+[NarrativeText] (page 4)
+Clinically uncontrolled active infections.
+
+
+[NarrativeText] (page 4)
+Patients currently participating in other clinical trials.
+
+
+[NarrativeText] (page 4)
+Participants deemed unsuitable for the clinical trial by the researchers.
+
+
+[Title] (page 4)
+4.4 Criteria for Removal or Dropout:
+
+
+[NarrativeText] (page 4)
+Patients experiencing disease progression unrelated to the experimental factors or death during the treatment and follow-up period will be unable to continue the observation.
+
+
+[Title] (page 4)
+4.5 Termination Criteria:
+
+
+[Title] (page 4)
+Occurrence of severe adverse reactions or intolerability.
+
+
+[Title] (page 4)
+Participant's voluntary withdrawal.
+
+
+[Title] (page 4)
+Disease progression or relapse during the trial period.
+
+
+[NarrativeText] (page 4)
+Participants deemed unsuitable for further treatment by the researchers.
+
+
+[Title] (page 4)
+5.Treatment Protocol
+
+
+[Title] (page 4)
+5.1 Methods of stem cell administration
+
+
+[NarrativeText] (page 4)
+The patient's mouth (including buccal mucosa, tongue and lip) was applied with MSCs: MSCs (1×10^9/ml) dressing was applied 4 times/day for 2 weeks.
+
+
+[Title] (page 4)
+5.2 Raw materials and preparation process of stem cell dressing
+
+
+[Title] (page 5)
+Version: v1.0
+
+
+[Title] (page 5)
+Date: September 13, 2023
+
+
+[NarrativeText] (page 5)
+(1) Raw materials: The absorbable gelatin sponge commonly used in clinic is used as the raw material for dressing. In clinic, gelatin sponge has been widely used in local hemostasis including the mouth, nasal cavity and other parts.
+
+
+[NarrativeText] (page 5)
+(2) Ingredients: Absorbable gelatin sponge is a collagen product with a protein content of 70%.
+
+
+[NarrativeText] (page 5)
+(3) Properties: white or yellowish, light, soft and porous sponge, with water absorption; Although it is rubbed heavily, it will not crumble and is insoluble in water.
+
+
+[NarrativeText] (page 5)
+(4) Usage and dosage: MSCs (1× 109/ml) solution was dropped on the surface of gelatin sponge, and then applied locally to the oral lesions, so that MSCs could stay in the lesions for a longer time and better play the role of MSCs in the treatment of chronic oral graft versus host disease.
+
+
+[NarrativeText] (page 5)
+(5)Specifications: According to the size of the lesion, there are two specifications to choose from: ①3cm×3cm×1cm; ②2cm×2cm×1cm.
+
+
+[Title] (page 5)
+5.3 Indicator Observation
+
+
+[NarrativeText] (page 5)
+The oral lesions of patients were recorded every 2 days during treatment and scored. Oral saliva was retained for cytokine detection (destroyed after the study); Observe and record possible complications of treatment; Whole-body cGVHD score was performed at the end of treatment to record infection status. After treatment, oral cGVHD score and systemic cGVHD score were performed every 2, 4 and 6 weeks to evaluate safety, and the changes of infection, disease status and survival were recorded.
+
+
+[Title] (page 5)
+6.Evaluation criteria of curative effect
+
+
+[NarrativeText] (page 5)
+Effectiveness evaluation: The effective criterion was to reduce the oral cGVHD score by 1 point at the end of treatment. Safety evaluation basis Safety will be measured and evaluated by daily recording of potential adverse reactions to the treatment, and patients will be tested for potential toxicity that may come from the treatment through medical history, physical examination, blood tests, etc.
+
+
+[Title] (page 5)
+7.Adverse reactions and serious adverse events
+
+
+[NarrativeText] (page 5)
+In this study, there were no significant expected adverse reactions to topical treatment, and adverse events during treatment were recorded. All adverse events were followed until resolved, stabilized, or until it was confirmed that study treatment or participation was not a problem. Any serious adverse events occurring after the study that may be related to the study treatment or study participation need to be recorded and reported promptly.
+
+
+[Title] (page 5)
+8.Statistical analysis
+
+
+[NarrativeText] (page 5)
+If the measurement data followed the normal distribution, the mean ± standard deviation was used to describe it, the paired T-test was used for comparison between groups, and 95% confidence interval was calculated for cGVHD score difference between groups. Repeated measurement design ANOVA was used for repeated measurement data. If the measurement data did not follow normal distribution, the median (P25,P75) was used to describe the inter-group comparison, and the Wilcoxon
+
+
+[Title] (page 6)
+Version: v1.0
+
+
+[Title] (page 6)
+Date: September 13, 2023
+
+
+[NarrativeText] (page 6)
+signed rank sum test was used for inter-group comparison. Counting data were described by component ratio, and comparison between groups was performed by McNemar test. Kaplan-Meier method was used to calculate OS and EFS. SPSS 27 and R 4.2 were used as statistical software.
+
+
+[Title] (page 6)
+9.Follow-up plan and implementation measures
+
+
+[NarrativeText] (page 6)
+During the treatment, the oral lesions of the patients were recorded and scored by taking photos every 2 days, and oral saliva was retained for cytokine detection (destroyed at the end of the study). The records were kept for 2 weeks, and the self-control was made before and after treatment. After treatment, oral cGVHD score and systemic cGVHD score were performed every 2, 4 and 6 weeks to evaluate safety, and the changes of infection, disease status and survival were recorded.
+
+
+[Title] (page 6)
+10.Test management
+
+
+[NarrativeText] (page 6)
+This study will be conducted in accordance with the National Medical Products Administration of China (NMPA) on the Management of Drug Clinical Trials (GCP). Subject's personal information is confidential. Samples collected will be identified by study number number and subject name and will not be disclosed to members outside the study group. When the results of the study are published, no identifying information about the subjects will be disclosed.
+
+
+[Title] (page 6)
+11.Ethics in relation to research
+
+
+[NarrativeText] (page 6)
+This study will be conducted in accordance with the GCP of the National Drug Administration of China (NMPA) and after obtaining the approval of the Clinical trial Ethics Committee of the Army Military Medical University for the trial protocol, informed consent, subject recruitment method/process, case report form, etc. Pilot program will be registered on http://ClinicalTrials.gov.
+
+
+[NarrativeText] (page 6)
+The investigator must ensure that the subject or his legal representative is clear and fully informed about the purpose, content, benefits, and risks of the clinical study, and that each subject will sign an informed consent form approved by the Ethics Committee before entering the study.
+
+
+[NarrativeText] (page 6)
+12.The expected schedule and completion date of the clinical trial
+
+
+[NarrativeText] (page 6)
+2023.09 - 2023.12: Passed ethical review and registered Clinical Research number
+
+
+[NarrativeText] (page 6)
+2024.01- 2024.12: Enrolled patients, interim data analysis
+
+
+[NarrativeText] (page 6)
+2025.01- 2025.12: Completed patient enrollment and condition observation, statistical analysis of data, and wrote articles

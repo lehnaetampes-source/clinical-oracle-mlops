@@ -1,0 +1,50 @@
+name: CI - Clinical Oracle RAG (validation qualité)
+
+# Correspond au schéma "Pipeline déploiement et qualité" :
+# push -> CI (pytest + Evidently, offline) -> ok -> merge autorisé sur main
+#
+# Le déploiement (CD) n'est plus géré ici : Streamlit Community Cloud est
+# connecté directement au repo GitHub et redéploie automatiquement à chaque
+# push sur `main`. La garantie "aucun déploiement sans validation qualité"
+# est assurée par une règle de protection de branche sur `main` qui exige
+# que ce workflow passe avant tout merge (Settings > Branches > Branch
+# protection rules > Require status checks to pass before merging).
+
+on:
+  push:
+    branches: [main, dev]
+  pull_request:
+    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  test:
+    name: Test qualité RAG (pytest + Evidently AI)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Installer les dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest evidently pandas
+
+      - name: Lancer les tests qualité (jeu de test JSON + LLM-as-Judge + Evidently)
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+        run: pytest tests/ -v
+
+      - name: Publier le rapport Evidently comme artefact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: evidently-quality-report
+          path: reports/

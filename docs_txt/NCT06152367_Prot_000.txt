@@ -1,0 +1,1119 @@
+
+[NarrativeText] (page 1)
+INSTITUTE OF BIOMEDICAL SCIENCES (ICBM) “PROF. DR. EDUARDO CRUZ-COKE LASSABE” DISCIPLINARY PROGRAM OF IMMUNOLOGY
+
+
+[Title] (page 1)
+Clinical Hospital of UNIVERSIDAD DE CHILE
+
+
+[Title] (page 1)
+Santiago, Julio de 2001
+
+
+[NarrativeText] (page 2)
+Cancer continues to be one of the leading causes of death, especially among inhabitants of highly developed countries. Modern surgical and transplant techniques, new and more effective drugs, and improved radiation methods have yielded promising results in treating some of these conditions. However, some malignant cells often survive these therapies and spread throughout the body, necessitating the development of new treatments as an alternative or complement to current ones. One such approach would be manipulating the immune system to combat tumors, known as cancer immunotherapy. The use of modified immune system cells for oncological treatment, such as dendritic cells (DCs), is well-documented by international studies that have tested and are exploring various clinical protocols.
+
+
+[NarrativeText] (page 2)
+Over the past five years, accumulated evidence has demonstrated that modified dendritic cell vaccines produce significant clinical and immunological responses in diseases such as malignant melanoma, non-Hodgkin's lymphoma, and other neoplasms in stages of the disease where no practical alternative therapy exists.
+
+
+[NarrativeText] (page 2)
+On the other hand, experimental therapies based on Interleukin-2 (IL-2) have been used with relative success in some neoplasms since 1985. However, problems related to the toxicity of IL-2 are still under investigation. Although recombinant human IL-2 like PROLEUKIN has proven to be one of the most effective strategies in treating advanced renal carcinoma and melanoma, therapy based on high-dose intravenous IL-2 is not suitable for all patients. Our direct experience, based on clinical studies conducted at the Karolinska Institute in Sweden and international experience with PROLEUKIN, indicates that low doses (2.4x106 IU/m2) administered subcutaneously maintain the same beneficial effects for patients while almost wholly eliminating adverse effects. Therefore, we have decided to present to the respective committee a second protocol, leveraging the experience gained and the recent funding obtained from FONDEF, to develop an optimized protocol that alternates dendritic cell vaccines with the use of low doses of IL-2 as a complement to strengthen the immune system.
+
+
+[NarrativeText] (page 2)
+For some time now, we have established a multidisciplinary group of professionals at the Faculty of Medicine of the University of Chile, involving the participation of preclinical and clinical researchers. We have recently completed a phase I clinical protocol for treating malignant melanoma using DCs loaded with tumor extracts. This study, the first of its kind in Chile and probably in Latin America, serves as the basis for the presentation of this project.
+
+
+[NarrativeText] (page 2)
+The results can be summarized as follows: No adverse effects were observed from the subcutaneous application of dendritic cells, except for one patient who showed mild fever and arthralgia. Immunological effects were observed in vitro in 60% of the treated patients through an increase in specific T lymphocyte precursors against tumor cells in the patient's blood measured by ELISPOT, in addition to delayed-type hypersensitivity reactions (DTH) in 50% of the treated patients when tumor extract was injected subcutaneously after vaccinations. Finally, partial regression or mixed response was observed in two patients. One showed regression of lung metastases, and the other showed regression of cutaneous metastases. In most cases, disease stability was observed, although it cannot be concluded that a significant relationship exists between vaccination and the survival of treated patients. These results motivate further exploration of the methodology, primarily intending to provide therapeutic alternatives to patients with no other options.
+
+
+[NarrativeText] (page 3)
+Theoretical Formulation of the Project Melanoma is a malignant tumor of neuroectodermal origin whose incidence has progressively increased in the last century. The only way to cure a malignant melanoma is early detection and appropriate surgical treatment, as once it reaches an advanced state, it is highly resistant to conventional treatments such as surgery, radiotherapy, and chemotherapy (1-3). Globally, melanoma is the fastest-growing and most deadly type of skin cancer in Europe and the United States among various cutaneous cancer types. This situation is also observed in Chile; only in Santiago, between 1992 and 1996, 318 malignant melanoma cases were detected, representing 10.6% of all types of skin cancer (1). While it is true that malignant melanoma is almost entirely curable (>95%) when detected early, the survival probability in patients with metastatic melanoma decreases significantly (<15%). Although surgery, chemotherapy, and radiotherapy are the primary conventional methods for treating this disease, implementing new therapies is essential, especially in patients with stage III and IV melanoma, where chemotherapy and radiotherapy are ineffective.
+
+
+[NarrativeText] (page 3)
+Cancer remains one of the leading causes of death, especially among residents of highly developed countries. Modern surgical techniques and transplants, new and more effective drugs, and improved irradiation methods have allowed promising results in treating some diseases. A clear example of this progress is reflected in the treatment of childhood leukemia with a new generation of anti-cancer drugs (2). Often, some malignant cells survive these therapies and spread throughout the body, necessitating the development of new treatments as alternatives or complements to current ones. One such approach is manipulating the immune system to combat tumors, known as cancer immunotherapy. Since the 1980s, when cytotoxic T lymphocytes (CTL) with antitumor activity were isolated from peripheral blood, lymph nodes, and tumor tissue of melanoma patients, there has been growing interest in using the immune system in cancer treatment. Cytokines such as Interleukin-2 (IL-2) and Interferon gamma (IFN-γ) are commonly used as alternative therapies (4,5) in some neoplasms, and adoptive therapies, using in vitro stimulated CTL, have been tested in some clinical protocols with varying responses (6).
+
+
+[NarrativeText] (page 3)
+Over the last thirty years, significant progress has been made in understanding the functioning of the immune system, especially regarding antigen recognition (3,7). On the other hand, the significant advances in molecular biology techniques that facilitate gene cloning and the production of recombinant proteins have allowed for identifying tumor-associated antigens (AAT) and their subsequent characterization.
+
+
+[NarrativeText] (page 3)
+Cytotoxic T Lymphocytes and Antitumor Immune Response Historically, pioneering experiments demonstrated that the growth of syngeneic tumors in mice could be prevented through prior immunization with the same tumor (8,9). Guided by these studies in animal models, it has been observed that human T lymphocytes have also shown the ability to lyse autologous tumors in vitro (10,11) specifically. Furthermore, T cells are capable of proliferating in response to stimulation with autologous tumor cells, secreting cytokines such as IL-2, interferon-gamma (IFN-γ), granulocyte-macrophage colony- stimulating factor (GM-CSF), and tumor necrosis factor-alpha (TNF-α) (12). Antitumor T cells can be expanded in large quantities in vitro and adoptively transferred to treat significant tumor burdens in mice and humans (6). These observations have enabled the identification of tumor antigens recognized by human autologous T cells using molecular cloning techniques (13,14). These results provide undeniable evidence of a T cell-mediated response against autologous tumors. Cytotoxic T lymphocytes (CTLs, CD8+) can recognize tumors through 8-10 amino acid peptide fragments derived from cytoplasmic or nuclear proteins associated with major histocompatibility complex (MHC) class I (15). Melanoma-specific CTLs, either adoptively transferred or activated in vivo by melanoma-associated antigen epitopes, have therapeutic potential, capable of inducing the regression of tumors and their micrometastases (16,17).
+
+
+[NarrativeText] (page 3)
+Melanoma-Associated Antigens Over the past five years, several melanoma-associated antigens (MAAs) recognized by CTLs have been identified, and their peptide epitopes are characterized using genetic (13,14) and biochemical methods (18). The cloning of genes encoding human MAAs has allowed their characterization and classification into different types. The first category consists of so-called tumor-specific antigens, among which the MAGE gene family stands out (19-21). These antigens are derived from proteins whose genes are actively transcribed in various types of tumors but not in normal adult tissue cells and are related to the primary stages of embryonic development (19- 21). Another tumor-specific antigen in melanoma consists of those originating from mutated genes. A few examples of such antigens have been described in melanoma, with one of them being derived from cyclin- dependent kinase 4 (CDK4) (22). The primary group of antigens, whose CTL response has been most frequently
+
+
+[NarrativeText] (page 4)
+described in melanoma patients, comprises differentiation antigens, also known as tissue-associated antigens. This category includes melanosomal antigens MART-1/Melan A, gp100, and Tyrosinase (23-28). Genes encoding these antigens are expressed not only in melanomas but also in normal melanocytes and the pigmented epithelium of the retina, making them autoantigens (23-28). CTLs specific for these antigens can be isolated from lymph nodes, tumor-infiltrating lymphocytes (TILs), or peripheral blood lymphocytes (PBLs) of melanoma patients (26- 28). This T-cell recognition has been interpreted as a breakdown of immunological tolerance against self-antigens, perhaps due to the overexpression of these proteins in tumor cells.
+
+
+[NarrativeText] (page 4)
+Dendritic Cells: Key Professional Antigen-Presenting Cells A T cell-mediated response induction requires antigen presentation in a specialized cellular context provided by antigen-presenting cells (APCs) (14). These specialized cells trigger a primary immune response and include macrophages, B cells, and dendritic cells (DCs). DCs play a fundamental role in generating an antitumor T cell- mediated response, as they can capture tumor antigens and present them in association with MHC molecules (15– 17). Additionally, they express many co-stimulatory molecules, which provide crucial signals ensuring the effectiveness of the T cell-mediated response (18). DCs, also called professional APCs, are strategically located at antigen concentration sites, efficiently internalizing, processing, and presenting soluble antigens in the context of MHC class I and II, being the most efficient in inducing a primary T cell response (19–21). DCs were first visualized in the skin as Langerhans cells in 1868, but their characterization began only 25 years ago. DCs are also potent stimulators of B cells and mediate the isotype switching of immunoglobulins. The main obstacles to the characterization and utilization of DCs (low relative frequency and the lack of specific cellular markers) have recently been overcome. Indeed, relatively high quantities of DCs can be obtained in vitro from peripheral blood monocytes stimulated with GM-CSF and interleukin-4 (IL-4) (29). The cells generated in this way have the same characteristics as immature primary DCs isolated in vivo. They have low expression of MHC and other co-stimulatory molecules like CD86 and CD40 but are highly well-equipped to capture antigens (29) through mechanisms that include endocytosis, pinocytosis, and membrane fusion (30).
+
+
+[NarrativeText] (page 4)
+Interleukin-2 Interleukin-2 (IL-2) is a 15 kDa glycoprotein primarily synthesized and secreted by helper T lymphocytes (Th) as a result of activation mediated by mitogens or the interaction between the TCR/CD3 complex and the MHC complex on the surface of antigen-presenting cells (31-35). The response of T lymphocytes to activation is the induction of IL-2 production and the expression of its receptor (IL-2R) on the cell membrane, leading to the clonal expansion of T lymphocytes specific to the antigen. IL-2 can act as an autocrine factor, stimulating the expansion of the producing cells themselves, or as a paracrine factor, stimulating the activation of other immune system cells, such as CD8+ T lymphocytes, B cells (36,37), and natural killer (NK) cells (38-46). Furthermore, so-called lymphocyte-activated killer cells (LAK) (47,48), used in adoptive therapies, are believed to derive from NK cells and CD8+ lymphocytes activated by IL-2 in vitro. Other cellular subtypes influenced by IL-2 include neutrophils (49,50), monocytes (51), and gamma-delta T lymphocytes (52), which have shown increased activation, enhanced effector functions, and improved cell survival. IL-2 was first biologically characterized in JURKAT cells, a human leukemia cell line. In its natural state, IL-2 is differentially glycosylated, and these changes in glycosylation levels explain the variations in its molecular weight, ranging from 15 to 18 kDa (53). The IL-2 gene was later cloned and expressed in eukaryotic cells (53) and E. coli (54). The recombinant analog of IL-2 is known as PROLEUKIN® (aldesleukin).
+
+
+[NarrativeText] (page 4)
+Given the pivotal role of IL-2's interaction with IL-2R in mediating the immune response, it is evident that research and manipulation of this system for therapeutic or diagnostic purposes are crucial. IL-2 has shown promising effects as an anti-cancer drug due to its ability to activate and proliferate LAK cells and tumor-infiltrating lymphocytes (TILs) (55-58). IL-2-mediated effects observed in renal carcinoma and melanoma since 1985 have earned recent approval by the United States Food and Drug Administration (FDA) for treating these neoplasms (59-63).
+
+
+[NarrativeText] (page 4)
+However, issues related to IL-2 toxicity are still under investigation (64). Although PROLEUKIN IL-2 has proven to be one of the most effective strategies in treating advanced renal carcinoma and melanoma, high-dose intravenous IL-2 therapy is unsuitable for all patients. Its use is restricted to adult patients in good overall health. The basic biology of IL-2-based strategies for treating infectious diseases, transplants, and AIDS has been reviewed recently (65,66).
+
+
+[NarrativeText] (page 5)
+IL-2 has grown over the years, treating physicians have become familiar with most of the side effects that have arisen and have learned to manage them appropriately. In most patients, these effects occur during treatment and are controlled within seventy-two hours after treatment completion. Therefore, it is recommended that intravenous IL-2 administration be carried out with the patient hospitalized.
+
+
+[NarrativeText] (page 5)
+Most of the side effects of IL-2 use described in the literature are based on experiences with high doses (18 million units per square meter of body surface area) and intravenous administration, as reviewed in Table 1. Our direct experience, based on clinical studies conducted at the Karolinska Institute in Sweden (67), as well as international experience (68-70), indicates that low doses (2.4 million units per square meter of body surface area) and subcutaneous administration maintain the same beneficial effects for patients while nearly eliminating adverse effects (67-70).
+
+
+[NarrativeText] (page 5)
+Significance of these Studies Several preclinical studies have documented the ability of certain genetically modified tumors to induce protective immunity against a challenge of native tumors (71-73). Based on this data and shared antigens recognized by CTLs, several clinical studies have been developed using vaccines with modified allogeneic tumor lines expressing cytokines such as IL-2 or co-stimulatory molecules like B7-1 (74). There is ample evidence and substantial preclinical and clinical data indicating the importance of T cell-mediated responses in immune- dependent tumor regression (6,9-12). These results have stimulated research, leading to the development of vaccines against defined antigens.
+
+
+[NarrativeText] (page 5)
+Several vectors containing defined antigens, such as MAGE1, MAGE3, gp100, and Tyrosinase, have been produced for clinical studies. Due to the lack of knowledge about the best immunization methods and the absence of appropriate animal models, various immunization protocols have been clinically tested.
+
+
+[NarrativeText] (page 5)
+Recently, therapies based on immunization with peptides derived from the gp100 antigen modified to increase their HLA affinity (75) or dendritic cell vaccines pulsed with peptides (76) or melanoma extracts (77) have been shown to induce specific CTL responses in most treated melanoma patients, along with objective regressions of their tumor masses (76-79). This type of therapy has also been used in other types of neoplasms. In the case of Follicular Lymphoma, the positive effects of chemotherapy
+
+
+[NarrativeText] (page 6)
+have been combined with subsequent immunotherapy based on dendritic cells pulsed with anti-idiotypic antigens. The results in treating minimal residual disease have been more than satisfactory, with 8 out of 11 treated patients eliminating residual malignant cells after vaccination (80).
+
+
+[NarrativeText] (page 6)
+Vaccination of Melanoma Patients Using DCs Loaded with Allogeneic Melanoma Extracts In Chile, we have completed the first phase I clinical trial for treating advanced malignant melanoma using dendritic cell vaccines loaded with allogeneic tumor extracts. Since chemotherapy and radiotherapy only offer palliative effects in advanced melanoma, resulting in an inferior prognosis for these patients, we intended to develop a protocol that would adapt to the reality of our country, allowing for a combination of high technology and low costs. In summary, the results obtained in the Phase I clinical trial, which were published in (Escobar et al. Clin. Exp. Immunol. 2005. doi:10.1111/j.1365-2249.2005.02948.x), can be summarized as follows: 1- No adverse effects to the subcutaneous application of dendritic cells were observed, except for one patient who showed mild fever and arthralgia, probably not associated with the vaccine, as shown in Table 2- Immunological effects were observed in vitro in 60% of the treated patients, through an increase in precursor T lymphocytes specific to tumor cells in the patient's blood, as measured by ELISPOT. 3- Delayed-type hypersensitivity reactions (DTH) were observed in 50% of the treated patients when tumor extract was injected subcutaneously after vaccinations. 4- Partial regression or mixed response were observed in 2 patients. One showed regression of lung metastases, and the other showed regression of cutaneous metastases (Table 3). In most cases, disease stability was observed, although it cannot be concluded that a significant relationship exists between vaccination and the survival of treated patients.
+
+
+[NarrativeText] (page 6)
+The idea of this Phase I/II clinical trial will be an adaptation of the protocol by Nestle and colleagues. After obtaining approval from the human research ethics committee, we recruited 80 patients (Table 2) who were duly informed about the scope of these protocols and the realistic prospects of success. They then underwent a comprehensive health check to assess their overall health. The selected patients underwent leukapheresis at the blood bank of the Clinical Hospital of the University of Chile. Peripheral blood mononuclear cells (PBMCs) were isolated using a Ficoll-Hypaque gradient in the laboratory of Dr. Flavio Salazar at the Institute of Biomedical Sciences of the University of Chile. Some of the cells were cryopreserved in liquid nitrogen for future use. According to the protocol, approximately 1.8x108 PBMCs were placed in 6-well culture plates and incubated for two hours at 37°C and 7% CO2. The suspended cells, peripheral blood lymphocytes (PBLs), were removed and frozen for later use. The monocytes adhering to plastic were incubated for seven days in serum-free culture medium (AIM-V therapeutic, GIBCO, BRL) in the presence of 500 U/ml of IL-4 and 800 U/ml of GM-CSF, as described in detail in the Materials and Methods section. On the sixth day, the DCs were pulsed with tumor extracts from allogeneic melanoma cell lines, previously checked for sterility, and incubated for 6 hours at 37°C and 7% CO2, followed by maturation with TNF-alpha for 12 to 18 hours. Mature DCs were characterized by flow cytometry. Approximately 5 to 15 x 106 pulsed DCs were subcutaneously injected. This routine was repeated weekly for at least four times and a maximum of 6 times. After the fourth dose, the patient's general condition, possible clinical regressions, adverse side effects, and the effects of the treatment on the immune system were evaluated. This evaluation was done through in vivo delayed-type hypersensitivity (DTH) assays using melanoma extracts and their respective controls. Planned in vitro assays included the detection of anti-melanoma CTL precursors by ELISPOT (77), cytokine production, proliferation assays, and quantifying the CD4/CD8 ratio by flow cytometry.
+
+
+[NarrativeText] (page 6)
+Several obstacles must be overcome to make this type of treatment effective in patients. First, immunization is hindered in patients due to the state of immunosuppression that many experience due to tumor burden, chemotherapy (81,82), or other as-yet-undetermined factors. The heterogeneity of antigenic expression in tumors must also be considered, so vaccination with tumor extracts guarantees immunization with multiple antigens. Another difficulty to be considered is the ability of tumors to evade immune system recognition (83). These escape strategies range from inhibiting antigen presentation to producing immunosuppressive substances such as TGF- beta and IL-10 (84). The relative importance of these potential mechanisms in reducing the potential of vaccine- based immunotherapy has yet to be established. Nevertheless, it is crucial to investigate these obstacles and develop appropriate clinical protocols that harness the full potential of cellular vaccine-based immunotherapy, which has been convincingly demonstrated in murine models. Therefore, we have decided to present a second study to the respective committee, building on the experience gained and the recently obtained funding from FONDEF, to develop an optimized protocol that alternates dendritic cell vaccines with the use of low doses of IL-
+
+
+[NarrativeText] (page 7)
+2 as a complement to strengthen the immune system. This optimization is based on studies by Steve Rosenberg of the NIH, which showed improved responses by combining dendritic cell vaccines loaded with modified antigenic peptides in the presence of IL-2 (75). Additionally, as previously described, the use of high-dose IL-2 has side effects that, while manageable, are severe and temporarily affect patients' quality of life. Therefore, based on our own experience (67) and that of others (68-70), we have decided to use low doses of subcutaneously administered IL-2, which do not produce marked adverse effects (67,70). Few studies worldwide have been conducted in this area, one recent in renal carcinoma (70). Overall, most studies demonstrate that IL-2 enhances the ability of dendritic cells to induce an immune response (68-70). Finally, the received funding will allow us to conduct these studies in GMP (good manufacturing procedure) laboratories with high biological safety, complying with all international standards for clinical studies.
+
+
+[Title] (page 7)
+REFERENCES
+
+
+[ListItem] (page 7)
+1. 2. 3. choriomeningitis within a syngeneic or semiallogeneic system. Nature. 248:701. 4. Vey N, Viens P, Fossat C, Olive D, Sainty D, Baume D, Stoppa AM, Bouabdallah R, Brandely M, Gastaut JA, Maraninchi D, Blaise D. 1997. Clinical and biological effects of gamma interferon and the combination of gamma interferon and interleukin-2 after autologous bone marrow transplantation. Eur Cytokine Netw. 8:389. 5. alfa for the treatment of metastatic melanoma. J Clin Oncol. 17: 651. 6. Rosenberg SA, Packard BS, Aebersold PM, Solomon D, Topalian SL, Toy ST, et al. 1988. Use of tumor-infiltrating lymphocytes and interleukin-2 in the immunotherapy of patients with metastatic melanoma. (Preliminary report) N Engl J Med. 319:1676. Richards JM, Gale D, Mehta N, Lestingi T. 1999. Combination of chemotherapy with interleukin-2 and interferon
+
+
+[NarrativeText] (page 7)
+Comunicación personal, Servicio de Dermatología Hospital Clínico José Joaquín Aguirre. Silverman LB. Weinstein HJ. 1997. Treatment of childhood leukemia. [Review]. Curr. Opin. Oncol. 9:26. Zinkernagel RM. Doherty PC. 1974. Restriction of in vitro T cell-mediated cytotoxicity in lymphocytic
+
+
+[ListItem] (page 8)
+7. 42:457. 8. 9. sarcomas in the primary autochthonous host. Cancer Res 1960;20:1561. 10. Itoh K, Platsoucas DC, Balch CM. 1988. Autologous tumor-specific cytotoxic T lymphocytes in the infiltrate of human metastatic melanomas: activation by interleukin 2 and autologous tumor cells and involvement of the T cell receptor. J Exp Med. 168:1419. 11. melanomas. J Immunol 142:3714. 12. in tumor regressions mediated by murine CD8+ tumor-infiltrating lymphocytes. J Exp Med. 173:647. 13. lymphocytes. Annu Rev Immunol. 12:337. 14. 1995;16:334. 15. Falk K. Rotzschke O. Deres K. Metzger J. Jung G. Rammensee HG. 1991. Identification of naturally processed viral nonapeptides allows their quantification in infected cells and suggests an allele-specific T cell epitope forecast. J. Exp. Med. 174:425. 16. tumor-infiltrating lymphocytes. Science. 233:1318. 17. Mayordomo JI. Zorina T. Storkus WJ. Zitvogel L. Celluzzi C. Falo LD. Melief CJ. Ildstad ST. Kast WM. Deleo AB. et al. 1995. Bone marrow-derived dendritic cells pulsed with synthetic tumor peptides elicit protective and therapeutic antitumor immunity. Nature Med. 1:1297. 18. by HLA-A2.1-restricted CTL is mediated by at least six shared peptide epitopes. J. Immunol. 150:2955. 19. Traversari C. van der Bruggen P. Luescher IF. Lurquin C. Chomez P. Van Pel A. De Plaen E. Amar-Costesec A. Boon T. 1992. A nonapeptide encoded by human gene MAGE-1 is recognized on HLA-A1 by cytolytic T lymphocytes directed against tumor antigen MZ2-E. J. Exp. Med. 176:1453. 20. Gaugler, B., B. van den Eynde, P. Van der Bruggen, P. Romero, J. J. Gaforio, E. de Plaen, B. Lethé, F. Brasseur, and T. Boon. 1994. Human gene MAGE-3 codes for an antigen recognized on a melanoma by autologous cytolytic T lymphocytes. J. Exp. Med. 179:921. 21. promiscuous T-cell epitope encoded by multiple members of the MAGE family. Cancer Res. 59:266. 22. Wölfel T. Hauer M. Schneider J. Serrano M. Wölfel C. Klehmann-Hieb E. De Plaen E. Hankeln T. Meyer zum Buschenfelde KH. Beach D. 1995. A p16INK4a-insensitive CDK4 mutant targeted by cytolytic T lymphocytes in a human melanoma. Science. 269:1281. 23. P. Szikora, J. -P. Renault, and T. Boon. 1994. A new gene coding for a differentiation antigen recognized by autologous cytolytic T lymphocytes on HLA-A2 melanomas. J. Exp. Med. 180:35. 24. Kawakami, Y., S. Eliyahu, C. H. Delgado, P. F. Robbins, K. Sakaguchi, E. Appella, J. Yannelli, G. J. Adema, T. Miki, and S. A. Rosenberg. 1994. Identification of a human melanoma antigen recognized by tumor-infiltrating lymphocytes associated with in vivo tumor rejection. Proc. Natl: Acad. Sci. USA. 91:6458. 25. Kawakami, Y., S. Eliyahu, C. H. Delgado, P. F. Robbins, L. Rivoltini, S. L. Topalian, T. Miki, and S. A. Rosenberg. 1994. Cloning of the gene coding for a shared human melanoma antigen recognized by autologous T cells infiltrating into tumor. Proc. Natl: Acad. Sci. USA. 91:3515. 26. Kawakami, Y., S. Eliyahu, K. Sakaguchi, P. F. Robbins, L. Rivoltini, J. Yannelli, E. Appella, and S. A. Rosenberg. 1994. Identification of the immunodominant peptides of the Mart-1 human melanoma antigen recognized by the majority of HLA-A2 restricted tumor infiltrating lymphocytes. J. Exp. Med.. 180:347. 27. Kawakami, Y., S. Eliyahu, C. Jennings, K. Sakaguchi, X. Kang, S. Southwood, P. Robbins, A. Sette, E. Appella, and S. A. Rosenberg. 1995. Recognition of multiple epitopes in the human melanoma antigen gp100 by tumor infiltrating T lymphocytes associated with in vivo tumor regression. J. Immunol. 154:3961. 28. gene coded for an antigen recognized by autologous cytolytic T lymphocytes on HLA-A2 + melanoma. J. Exp. Med. 178:489. 29. Banchereau J., Steiman R.M., 1998. Dendritic cells and the control of immunity. (Review) Nature 392:245. Coulie, P. G., V. Brichard, A. Van Peal, T. Wolfel, J. Schneider, C. Traversari, S. Mattei, E. De Plaen, C. Lurquin, J. -
+
+
+[NarrativeText] (page 8)
+Townsend AR. Gotch FM. Davey J. 1985. Cytotoxic T cells recognize fragments of the influenza nucleoprotein. Cell.
+
+
+[NarrativeText] (page 8)
+Prehn RT, Main JM. 1957. Immunity to methylcholanthrene-induced sarcomas. J Natl Cancer Inst. 18:769. Klein G, Sjogren HO, Klein E, Hellstrom KE. Demonstration of resistance against methylcholanthrene-induced
+
+
+[NarrativeText] (page 8)
+Topalian SL, Solomon D. Rosenberg SA. 1989. Tumor-specific cytolysis by lymphocytes infiltrating human
+
+
+[NarrativeText] (page 8)
+Barth RJ, Jr., Mule JJ, Spiess PJ, Rosenberg SA. 1991. Interferon-gamma and tumor necrosis factor have a role
+
+
+[NarrativeText] (page 8)
+Boon T, Cerottini JC, Van den Eynde B, van der Bruggen P, Van Pel. 1994. Tumor antigens recognized by T
+
+
+[NarrativeText] (page 8)
+Boon T, Gajewski TF, Coulie PG. From defined human tumor antigens to effective immunization? Immunol Today
+
+
+[NarrativeText] (page 8)
+Rosenberg SA, Spiess P, Lafreniere R. 1986. A new approach to the adoptive immunotherapy of cancer with
+
+
+[NarrativeText] (page 8)
+Slingluff, C. L., A. L Cox, R. A Henderson, D. F. Hunt, V. H. Endelhard. 1993. Recognition of human melanoma cells
+
+
+[ListItem] (page 9)
+30. intact allogenic human leukocyte antigen molecules by human dendritic cells. Blood 95:3473. 31. marrows. Science 193:1007. 32. 33. and Roberts, A.B., eds. Springer-Verlag, New York, p. 523. 34. 35. and IL-1 beta. Eur Cytokine Netw. 5:513. 36. J. Exp. Med. 160:1450. 37. express receptors for, and proliferate in response to, pure interleukin 2.J. Exp. Med. 160:117038. 38. 291:335. 39. Tsudo M, Goldman CK, Bongiovanni KF, Chan WC, Winton EF, Yagita M, Grimm EA, Waldmann TA. 1987. The p75 peptide is the receptor for interleukin 2 expressed on large granular lymphocytes and is responsible for the interleukin 2 activation of these cells. Proc. Natl. Acad. Sci. USA 84:5394. 40. human peripheral blood natural killer cells to interleukin 2. J. Exp. Med., 160: 1147. 41. Ortaldo, J.R., A.T. Mason, J.P. Gerard, L.E. Henderson, W. Farrar, R.F. Hopkins III, R.B. Herberman, and H. Rabin. 1984. Effects of natural and recombinant IL-2 on regulation of IFN, production and natural killer activity: lack of involvement of the TAC antigen for these immunoregulatory effects. J. Immunol. 133:779. 42. LAK, NK, and proliferative activities. Science 238:75. 43. Exp. Med. 171:173. 44. Lotsova, ed., CRC Press, Boca Raton, Fla., p. 184. 45. in human bone marrow. Blood 81:1819. 46. Spagnoli G. C., Juretic A., Schultz-Thater E., Dellabona P., Filgueira L., Horig H., Zuber M., Garotta G., Heberer M. 1993. On the relative roles of interleukin-2 and interleukin-10 in the generation of lymphokine-activated killer cell activity.Cell. Immunol. 146:391. 47. autologous tumor by human lymphocytes cultured in T-cell growth factor. Cancer Res. 41: 4420. 48. Grimm EA, Mazumder A, Zhang HZ, Rosenberg SA. 1982. Lymphokine-activated killer cell phenomenon. Lysis of natural killer-resistant fresh solid tumor cells by interleukin 2-activated autologous human peripheral blood lymphocytes. J. Exp. Med. 155:1823. 49. : Djeu JY, Liu JH, Wei S, Rui H, Pearson CA, Leonard WJ, Blanchard DK. 1993. Function associated with IL-2 receptor- beta on human neutrophils. Mechanism of activation of antifungal activity against Candida albicans by IL-2. J. Immunol. 150:960. 50. . Kjeldsen-Kragh, J., A. J. Quayle, B. S. Skalhegg, M. Sioud, O. Forre. 1993. Selective activation of resting human gamma delta T lymphocytes by interleukin-2. Eur. J. Immunol. 23:2092. 51. monocyte activation . J. Leukoc. Biol. 57:13. 52. 53. expression of a cloned cDNA for human interleukin-2. Nature 302:305. 54. recombinant human interleukin-2 produced in Escherichia coli. Science 22:1412. 55. Rosenberg, MT Lotze, LM Muul, AE Chang, FP Avis, S Leitman, WM Linehan, CN Robertson, RE Lee, JT Rubin, and et al. 1987 A progress report on the treatment of 157 patients with advanced cancer using lymphokine-activated killer cells and interleukin-2 or high-dose interleukin-2 alone. N. Eng. J. Med. 316:889. Shibuya A, Kojima H, Shibuya K et al. 1993. Enrichment of interleukin-2-responsive natural killer progenitors
+
+
+[NarrativeText] (page 9)
+Morgan DA, Ruscetti FW, Gallo R. 1976. Selective in vitro growth of T lymphocytes from normal human bone
+
+
+[NarrativeText] (page 9)
+Smith, K.A. T-cell growth factor. 1980. Immunol. Rev. 51:33733. Hatakeyama, M. and T. Taniguchi 1990. "Interleukin-2" in Peptide Growth Factors and Their Receptors I, Sporn, M.B.
+
+
+[NarrativeText] (page 9)
+Smith, K.A. 1988 . Interleukin-2: inception, impact, and implications. Science 240:1169. Dinarello, C. A. 1994. To Sheldon M. Wolff, as we commemorate the 10th anniversary of the clonings of IL-1 alpha
+
+
+[NarrativeText] (page 9)
+Waldmann TA, Goldman CK, Robb RJ, et al. 1984. Expression of interleukin 2 receptors on activated human B cells.
+
+
+[NarrativeText] (page 9)
+Zubler, R. H., J. W. Lowenthal, F. Erard, N. Hashimoto, R. Devos, and H. R. MacDonald. 1984 Activated B cells
+
+
+[NarrativeText] (page 9)
+Henney CS, Kuribayashi K, Kern DE, Gillis S. 1981. Interleukin-2 augments natural killer cell activity. Nature
+
+
+[NarrativeText] (page 9)
+Trinchieri G., Matsumoto-Kobayashi M., Clark S. C., Seehra J., London L., Perussia B. 1984. Response of resting
+
+
+[NarrativeText] (page 9)
+Siegel JP, Sharon M, Smith PL, Leonard WJ . 1987. The IL-2 receptor beta chain (p70): role in mediating signals for
+
+
+[ListItem] (page 10)
+56. Surg. 208:121. 57. SC Yang, EA Grimm, DR Parkinson, J Carinhas, KD Fry, A Mendiguren-Rodriguez, J Licciardello, LB Owen- Schaub, WK Hong, and JA Roth. 1991. Clinical and immunomodulatory effects of combination immunotherapy with low-dose interleukin 2 and tumor necrosis factor-alpha in patients with advanced non-small cell lung cancer: a phase I trial. Cancer Res. 51:3669. 58. associated with interleukin-2 therapy.Br. J. Haematol. 88:892. 59. Rosenberg SA, Lotze MT, Muul LM, et. Al. 1987. A progress report on the treatment of 157 patients with advanced cancer using lymphokine-activated killer cells and Interleukin-2 or high-dose Interleukin-2 alone. New England Journal of Medicine 316: 889. 60. activated killer cells: a phase II clinical trial. Annals of Internal Medicine 108: 518. 61. Weiss GR, Margolin KA, Aronson FR, et al. 1992. A randomized phase II trial of continuous infusion interleukin-2 or bolus injection interleukin-2 plus lymphokine-activated killer cells for advanced renal cell carcinoma. Journal of Clinical Oncology. 10:275. 62. renal cell cancer using high-dose bolus interleukin 2. JAMA: Journal of the American Medical Association 271: 907. 63. combination with interferon alfa-2b in advanced renal cell carcinoma. Journal of Clinical Oncology. 11:661. 64. Rubin, J.T. 1993. Interleukin-2: its biology and clinical application in patients with cancer. Cancer Invest. 11:460. 65. Smith, K.A. 1993. Lowest dose interleukin-2 immunotherapy. Blood 81:1414. 66. Simpson MA, Young-Fadok TM, Madras PN, Freeman RB, Dempsey RA, Shaffer D, et al. 1991. Sequential interleukin 2 and interleukin 2 receptor levels distinguish rejection from cyclosporine toxicity in liver allograft recipients. Arch. Surg. 126:717. 67. Masucci G., Svensson A., Hansson M., Hansson J., Nakazawa T., Salazar F., Petersson M., Kiessling R.. 1997. Efficient Harvest of in vivo Il-2-activated CD3+ lymphocytes for adoptive immunotherapy by selective leukapheresis (lymphocytapheresis). J Hematother 6:253. 68. Fenton RG, Steis RG, Madara K, Zea AH, Ochoa AC, Janik JE, Smith JW 2nd, Gause BL, Sharfman WH, Urba WJ, Hanna MG, DeJager RL, Coyne MX, Crouch RD, Gray P, Beveridge J, Creekmore SP, Holmlund J, Curti BD, Sznol M, Longo DL. 1996. A phase I randomized study of subcutaneous adjuvant IL-2 in combination with an autologous tumor vaccine in patients with advanced renal cell carcinoma. J Immunother Emphasis Tumor Immunol.;19(5):364-74. 69. Rosenberg SA, Zhai Y, Yang JC, Schwartzentruber DJ, Hwu P, Marincola FM, Topalian SL, Restifo NP, Seipp CA, Einhorn JH, Roberts B, White DE. 1998. Immunizing patients with metastatic melanoma using recombinant adenoviruses encoding MART-1 or gp100 melanoma antigens. J Natl Cancer Inst. Dec 16;90(24):1894-900. 70. Oosterwijk-Wakka JC, Tiemessen DM, Bleumer I, de Vries IJ, Jongmans W, Adema GJ, Debruyne FM, de Mulder PH, Oosterwijk E, Mulders PF. 2002. Vaccination of patients with metastatic renal cell carcinoma with autologous dendritic cells pulsed with autologous tumor antigens in combination with interleukin-2: a phase 1 study. J Immunother. Nov- Dec;25(6):500-8. 71. Fearon ER, Pardoll DM, Itaya T, et al. 1990. Interleukin-2 production by tumor cells bypasses T helper function in the generation of an antitumor response. Cell. 60:397. 72. engineered to secrete interleukin-4. Science. 254:713. 73. Dranoff G, Jaffee E, Lazenby A, et al. 1993. Vaccination with irradiated tumor cells engineered to secrete murine granulocyte-macrophage colony-stimulating factor stimulates potent, specific, and long-lasting antitumor immunity. Proc Natl Acad Sci USA. 90:3539. 74. Fenton RT, Sznol M, Luster DG, Taub DD, Longo DL. 1995. A phase I trial of B7-transfected or parental lethally irradiated allogeneic melanoma cell lines to induce cell-mediated immunity against tumor-associated antigen presented by HLA-A2 or HLA-A1 in patients with stage IV melanoma: NCI protocol T93-0161, BRMP protocol 9401. Hum Gene Ther. 6:87. 75. Rosenberg, S. A., J. C. Yang, D. J. Schwartzentruber, P. Hwu, F. M. Marincola, S. L. Topalian, N. P. Restifo, M. E. Dudley, S. L. Schwarz, P. J. Spiess, J. R. Wunderlich, M. P. Parkhurst, Y. Kawakami, C. A. Seipp, J. H. Einhorn, and D. E. White. 1998. Immunologic and therapeutic evaluation of a synthetic peptide vaccine for the treatment of patients with metastatic melanoma. Nature Med. 4(3):321. 76. Baar J. 1999. Clinical applications of dendritic cell cancer vaccines. Oncologist. 4:140.
+
+
+[NarrativeText] (page 10)
+Rosenberg, S.A. 1988. The development of new immunotherapies for the treatment of cancer using interleukin-2. Ann.
+
+
+[NarrativeText] (page 10)
+Oleksowicz L, Strack M, Dutcher JP, Sussman I, Caliendo G, Sparano J, Wiernik PH. 1994. A distinct coagulopathy
+
+
+[NarrativeText] (page 10)
+Fisher RI, Coltman CA, Doroshow JH, et al. 1988. Metastatic renal cancer treated with interleukin-2 and lymphokine-
+
+
+[NarrativeText] (page 10)
+Rosenberg SA, Yang JC, Topalian SL, et al. 1994. Treatment of 283 consecutive patients with metastatic melanoma or
+
+
+[NarrativeText] (page 10)
+Atkins MB, Sparano J, Fisher RI, et al. 1993. Randomized phase II trial of high-dose interleukin-2 either alone or in
+
+
+[ListItem] (page 11)
+77. of melanoma patients with peptide- or tumor lysate-pulsed dendritic cells. Nature Med. 4(3):328. 78. Schuler-Thurner B., Dieckmann D., Keikavoussi P., Bender A., Maczek Ch., Jonuleit H., Röder C., Haendle I., Leisgang W., Dunbar R., Cerundolo V., Driesch P., Knop J., Bröcker E., Enk A., Kämpgen E., Schuler G. 2000. Mage-3 and influenza-matrix peptide-specific cytotoxic T cells are inducible in terminal stage HLA-A2.1+ melanoma patients by mature monocyte-derived dendritic cells. J immunol 165:3492. 79. Intravenous Peptide-Pulsed Dendritic Cells in Patients with Metastatic Melanoma. J. Immunotherapy 24(1):66. 80. Bendandi M., Gocke C.D., Kobrin C.B., Benko F.A., Sternas L.A., Pennington R., Watson T.M., Reynolds C.W., Gause B.L., Duffey P.L., Jaffe E.S., Creekmore S.P., Longo D.L., Kwak L.W. 1999. Complete molecular remissions induced by patient-specific vaccination plus granulocyte-monocyte colony-stimulating factor against lymphoma. Nature Med 5(10): 1171. 81. intensive chemotherapy. N Engl J Med. 332:143. 82. chemotherapy for cancer. Blood. 84:2221. 83. recognition: immunogenetherapy and the cell biology of major histocompatibility complex class I. J Immunother. 14:182. 84. Oncol 16: 86. intensive
+
+
+[NarrativeText] (page 11)
+Lau R., Wang F., Jeffery G., Marty V., Kuniyoshi J., Bade E., Ryback M., and Weber J. 2001. Phase I Trial
+
+
+[NarrativeText] (page 12)
+TABLE 1: Side effects reported in clinical trials with PROLEUKIN IL-2, involving a total of 525 patients with either renal carcinoma or metastatic melanoma System
+
+
+[Title] (page 12)
+GRADE 3
+
+
+[Title] (page 12)
+GRADE 4
+
+
+[Title] (page 12)
+ALL EVENTS
+
+
+[Title] (page 12)
+General
+
+
+[Title] (page 12)
+Chills
+
+
+[Title] (page 12)
+Fever
+
+
+[Title] (page 12)
+Malaise Infection
+
+
+[Title] (page 12)
+Cardiovascular System
+
+
+[Title] (page 12)
+Hypotension
+
+
+[Title] (page 12)
+Cardiovascular Disorders
+
+
+[Title] (page 12)
+Digestive System
+
+
+[Title] (page 12)
+Diarrhea Vomiting
+
+
+[Title] (page 12)
+Nausea
+
+
+[Title] (page 12)
+Nausea and Vomiting
+
+
+[Title] (page 12)
+Hematological
+
+
+[Title] (page 12)
+Thrombocytopenia
+
+
+[Title] (page 12)
+Anemia
+
+
+[Title] (page 12)
+Metabolic and Nutritional
+
+
+[Title] (page 12)
+Bilirubinemia Creatinine Increase
+
+
+[Title] (page 12)
+SGOT Increase
+
+
+[Title] (page 12)
+Central Nervous System
+
+
+[Title] (page 12)
+Confusion
+
+
+[Title] (page 12)
+Somnolence
+
+
+[Title] (page 12)
+Respiratory System
+
+
+[Title] (page 12)
+Dyspnea
+
+
+[Title] (page 12)
+Respiratory Disorders
+
+
+[Title] (page 12)
+Urogenital System
+
+
+[Title] (page 12)
+Oliguria
+
+
+[NarrativeText] (page 12)
+13 (1%) Grade 3 and 4 Adverse Effects in > or equal to 3% of treated patients (n=525). Grade 4 Adverse Effects are those that compromise the lives of patients.
+
+
+[Title] (page 12)
+Anuria
+
+
+[NarrativeText] (page 12)
+The rate of drug-related death in 255 patients with metastatic renal carcinoma who received PROLEUKIN IL-2 was 4% (11/255). The rate of drug-related death in 270 patients with metastatic melanoma who received PROLEUKIN IL-2 was 2% (6/270).
+
+
+[Title] (page 13)
+Patient CT001
+
+
+[Title] (page 13)
+Age 34
+
+
+[Title] (page 13)
+Gender F
+
+
+[Title] (page 13)
+Time of Evolution Before Starting Protocol 36 months
+
+
+[Title] (page 13)
+Clinical Stage IV
+
+
+[Title] (page 13)
+Primary Thorax
+
+
+[Title] (page 13)
+Metastasis In transit and gland
+
+
+[Title] (page 13)
+M
+
+
+[Title] (page 13)
+M
+
+
+[Title] (page 13)
+ND
+
+
+[Title] (page 13)
+12 months
+
+
+[Title] (page 13)
+IV
+
+
+[Title] (page 13)
+IV
+
+
+[Title] (page 13)
+Back
+
+
+[Title] (page 13)
+Osseous (Vertebral) Lung
+
+
+[Title] (page 13)
+M M
+
+
+[Title] (page 13)
+60 months 36 months
+
+
+[Title] (page 13)
+IV IV
+
+
+[Title] (page 13)
+Back EII
+
+
+[Title] (page 13)
+Multiple Lung
+
+
+[Title] (page 13)
+M
+
+
+[Title] (page 13)
+F
+
+
+[Title] (page 13)
+F
+
+
+[Title] (page 13)
+36 months
+
+
+[Title] (page 13)
+6 months
+
+
+[Title] (page 13)
+36 months
+
+
+[Title] (page 13)
+IV
+
+
+[Title] (page 13)
+III
+
+
+[Title] (page 13)
+IV
+
+
+[Title] (page 13)
+Thorax
+
+
+[Title] (page 13)
+EII
+
+
+[Title] (page 13)
+EII
+
+
+[NarrativeText] (page 13)
+Subcutaneous inguinal left Inguinal lymph nodes Pulmonary
+
+
+[NarrativeText] (page 13)
+left
+
+
+[Title] (page 13)
+F
+
+
+[Title] (page 13)
+M
+
+
+[Title] (page 13)
+F
+
+
+[Title] (page 13)
+8 months
+
+
+[Title] (page 13)
+60 months
+
+
+[Title] (page 13)
+30 months
+
+
+[Title] (page 13)
+III
+
+
+[Title] (page 13)
+IV
+
+
+[Title] (page 13)
+IV
+
+
+[Title] (page 13)
+Back
+
+
+[Title] (page 13)
+Malar
+
+
+[Title] (page 13)
+Back
+
+
+[NarrativeText] (page 13)
+Axillary right lymph nodes Local dissemination Liver
+
+
+[Title] (page 13)
+CT012 CT013 Note: ND stands for "Not Determined."
+
+
+[Title] (page 13)
+F M
+
+
+[Title] (page 13)
+14 months 36 months
+
+
+[Title] (page 13)
+IV IV
+
+
+[Title] (page 13)
+Plant left Scalp
+
+
+[Title] (page 13)
+In transit Lung
+
+
+[Title] (page 13)
+Previous Treatment Surgery anterior mammary
+
+
+[Title] (page 13)
+Surgery
+
+
+[Title] (page 13)
+Surgery, IL2 Surgery
+
+
+[Title] (page 13)
+Surgery
+
+
+[Title] (page 13)
+Surgery
+
+
+[Title] (page 13)
+Surgery
+
+
+[Title] (page 13)
+Surgery
+
+
+[Title] (page 13)
+Enucleation
+
+
+[Title] (page 13)
+Surgery
+
+
+[Title] (page 13)
+Surgery, IL2 Surgery
+
+
+[Title] (page 14)
+Patient
+
+
+[Title] (page 14)
+No. DC/Dose 3-5 x 10^6 Negative
+
+
+[Title] (page 14)
+Adverse Reactions
+
+
+[Title] (page 14)
+3-5 x 10^6 Negative
+
+
+[Title] (page 14)
+Elispot DTH Vaccination Objective
+
+
+[Title] (page 14)
+Nd
+
+
+[Title] (page 14)
+Nd
+
+
+[Title] (page 14)
+2nd cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Regressions Regression of pulmonary nodules -
+
+
+[Title] (page 14)
+Post-Therapy Disease Progression of pulmonary nodules
+
+
+[Title] (page 14)
+Deceased
+
+
+[Title] (page 14)
+3-5 x 10^6 Negative
+
+
+[Title] (page 14)
+3rd cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Deceased
+
+
+[Title] (page 14)
+3-5 x 10^6 Negative
+
+
+[ListItem] (page 14)
+
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+1st cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Stable disease
+
+
+[NarrativeText] (page 14)
+arthralgias AAN and RF (-)
+
+
+[ListItem] (page 14)
+
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+1st cycle
+
+
+[Title] (page 14)
+Regression of cutaneous metastasis
+
+
+[Title] (page 14)
+Progression of cutaneous metastasis
+
+
+[Title] (page 14)
+3-5 x 10^6 Negative
+
+
+[Title] (page 14)
+2nd cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Progression
+
+
+[Title] (page 14)
+3-5 x 10^6 Negative
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+1st cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Stable disease
+
+
+[Title] (page 14)
+10 x 10^6 Negative
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Withdrawal (1st dose)
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Deceased
+
+
+[Title] (page 14)
+10 x 10^6 Negative
+
+
+[Title] (page 14)
+1st cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Stable disease
+
+
+[Title] (page 14)
+10 x 10^6 Negative
+
+
+[Title] (page 14)
+Nd
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+1st cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Progression
+
+
+[Title] (page 14)
+10 x 10^6 Negative
+
+
+[Title] (page 14)
+Nd
+
+
+[Title] (page 14)
+1st cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Stable disease
+
+
+[Title] (page 14)
+10 x 10^6 Negative
+
+
+[Title] (page 14)
+Nd
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+2nd cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Progression
+
+
+[Title] (page 14)
+10 x 10^6 Negative
+
+
+[Title] (page 14)
+Nd
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+1st cycle
+
+
+[ListItem] (page 14)
+
+
+
+[Title] (page 14)
+Progression
+
+
+[NarrativeText] (page 14)
+Note: Nd = not determined.
+
+
+[NarrativeText] (page 15)
+Treatment of Malignant Melanoma with Dendritic Cells Pulsed with Tumor Extracts. Clinical Study Design
+
+
+[NarrativeText] (page 15)
+PHASE I/II TRIAL IN STAGE IV MALIGNANT MELANOMA This protocol is ethically justified as advanced melanoma patients, once their tumor invasion has extended beyond the lymphatic lymph node barrier, are not amenable to satisfactory treatment with traditional methods such as surgery, radiotherapy, or conventional chemotherapy. Disseminated tumors are refractory to all standard treatments. 100% of patients who develop distant metastases will die due to their disease, either from complications or cachexia. Therefore, immunological stimulation with immunocompetent dendritic cells, combined with immunological reinforcement using IL-2, may, according to evidence from ongoing clinical protocols, lead to prolonged survival with improved quality of life and, in some cases, complete tumor regression.
+
+
+[NarrativeText] (page 15)
+immunotherapy based on
+
+
+[NarrativeText] (page 15)
+GENERAL AIM: To study the clinical and immunological response of patients treated with vaccines based on autologous dendritic cells loaded with tumor antigens derived from autologous or allogeneic melanoma extracts, supplemented with the intermittent use of low doses of recombinant human interleukin 2 (rhIL2) PROLEUKIN® (aldesleukin).
+
+
+[ListItem] (page 15)
+SAFETY: Safety in administering dendritic cell preparations; local and systemic toxicity estimation. Determination of adverse reactions such as fever, nausea, allergy, neurological and cardiovascular symptoms. Local toxicity at the administration site. IMMUNE RESPONSE MEASUREMENT: Observe the immune response based on in vivo and in vitro parameters: •
+
+
+[ListItem] (page 15)
+
+
+
+[NarrativeText] (page 15)
+In vivo response: Measure the Delayed-Type Hypersensitivity response (DTH). It involves a cross-test comparing in vivo tissue response between dendritic cells sensitized with tumor extracts and their respective control dendritic cells without loading. In vitro response: ELISPOT assays, measuring IFN-γ production in the peripheral blood of treated patients. Compare specific immune responses after each therapy cycle by measuring IFN-γ production by tumor-specific CTLs. Radioactive chromium releases cytotoxic assays to measure CTL and NK-mediated antitumor response. After each therapy cycle, ELISA assays for quantifying cytokines (IFN-γ, IL-10) in patient serum.
+
+
+[ListItem] (page 15)
+
+
+
+[ListItem] (page 15)
+CLINICAL RESPONSE MEASUREMENT: To observe the objective response rate. The percentage of patients with complete response (CR) and patients with partial response (PR) will be reported.
+
+
+[Title] (page 15)
+SECONDARY SPECIFIC AIMS: To evaluate:
+
+
+[ListItem] (page 15)
+Overall Survival. • Disease-Free Survival. • Quality of Life (assessed using EORTC global QLQ-C30 and EORTC disease-specific QLQ). • Performance status response: The percentage of patients with a 20% or more significant increase in activity measured by the Karnofsky index will be reported.
+
+
+[NarrativeText] (page 15)
+MATERIAL AND METHODS Dendritic Cell Generation: Patient leukocytes will be obtained through leukapheresis at the Blood Bank of the Clinical Hospital of the UNIVERSITY OF CHILE, following the standard protocols used in that unit. Peripheral blood mononuclear cells (PBMCs) will be isolated from peripheral blood using a Ficoll-Hypaque gradient. PBMCs will be cultured for 2 hours at 37ºC and 5% CO2 in a suitable serum-free clinical research medium, AIM- V Clinical Research® (Life Technologies, USA). Non-adherent cells will be discarded, and adherent cells (monocytes) will be cultured in AIM-V supplemented with 500 U/ml of recombinant IL-4 (R&D Systems, INC., MN, USA) and 800 U/ml of GM-CSF (R&D Systems, INC., MN, USA). On the sixth day, monocytes differentiated into dendritic cells will be pulsed with melanoma extracts and then matured with TNF-α (R&D Systems, INC., MN, USA). Flow cytometry will confirm mature dendritic cells' CD14-, CD36low, and CD83high phenotype characteristics. Mature DCs will be washed twice and resuspended in 300 µl of sterile saline. All cell manipulation procedures for vaccine production will be performed under GMP conditions, as indicated. Melanoma Extracts: The melanoma cell lines used in this study were established by Dr. Flavio Salazar at The Institute of Biomedical Sciences, Universidad de Chile. These cell lines have been previously checked to ensure they are free from viruses or other contaminants. Cells are maintained under strict sterile conditions in the Immunology Laboratory of the Biomedical Sciences Institute at the University of Chile. When possible, tumor
+
+
+[NarrativeText] (page 16)
+tissue obtained from the patient will be directly treated to obtain autologous tumor antigens. Dendritic cells will be loaded with lysates from three melanoma lines, 1x106 cell/per line. The lysate will be obtained by three freeze- thaw cycles, irradiated with a dose of 60 Gy, and sonicated for one 30-second cycle. The cell extract will be resuspended in 600 µl of sterile saline. Dendritic cells, approximately 6x106 per 6-well plate, will be pulsed with 100 µl of this extract per culture well for 6 hours at 37ºC and 5% CO2.
+
+
+[NarrativeText] (page 16)
+Interleukin 2: PROLEUKIN (recombinant human Interleukin-2) will be administered in a dose of 2.4 x 106 IU/m2 (millions of international units per square meter of body surface), subcutaneously, reconstituted according to the manufacturer's instructions, for two days, after each vaccination for three consecutive days. The administration will be carried out by trained personnel in the appropriate facilities of the Clinical Hospital of the UNIVERSITY OF CHILE.
+
+
+[NarrativeText] (page 16)
+Vaccination: The preparation of autologous dendritic cells loaded with tumor extract (approximately 10-20 x 106 cells/dose) will be administered subcutaneously to selected patients in a volume of 300 µl of sterile saline solution, in a plastic container, labeled with the patient identification number, date, number of dendritic cells inoculated and dose. Patients will receive their first dose seven days after undergoing the leukapheresis procedure, which will be considered day 0, their second dose on day 10, followed by IL2 at the indicated doses on days 12, 13, and 14. Subsequently, their third dose will be injected on day 30, followed by IL2 on days 32, 33, 34, and its fourth dose on day 50, followed by IL2 on days 52, 53, and 54 (see scheme).
+
+
+[Title] (page 16)
+IL2
+
+
+[Title] (page 16)
+IL2
+
+
+[Title] (page 16)
+IL2
+
+
+[ListItem] (page 16)
+7
+
+
+[Title] (page 16)
+Leukapheresis 1st DCV
+
+
+[Title] (page 16)
+2nd DCV
+
+
+[Title] (page 16)
+3th DCV
+
+
+[Title] (page 16)
+4th DCV
+
+
+[Title] (page 16)
+DCV= Dendritic Cell Vaccination
+
+
+[NarrativeText] (page 16)
+Preclinical Trials: CELL LINES AND MEDIA: The melanoma cell lines Mel-1, Mel-2 and Mel-3 were established at the Institute of Biomedical Sciences, Faculty of Medicine, University of Chile and screened to ensure viruses' absence. The T2 cell line, a TAP-deficient cell line derived from a T-cell/ B-cell leukemia hybrid and C1R-A2, a cell line deficient in MHC class I expression and transfected with HLA-A2, will be maintained in RPMI 1640 medium (GIBCO BRL.) supplemented with 10% Fetal Bovine Serum (FBS) (GIBCO BRL.), 1% L-glutamine (GIBCO BRL.), and 1% Penicillin-Streptomycin (GIBCO BRL.).
+
+
+[NarrativeText] (page 16)
+ISOLATION OF MONONUCLEAR CELLS FROM PERIPHERAL BLOOD: Leukocyte concentrates from patients (leukapheresis) will be mixed in equal parts with sterile PBS. Each sample will be separated into 50 ml conical tubes containing 10 ml of Limphoprep® (NYCOMED PHARMA, Oslo, Norway.) and then centrifuged for 20 minutes at 1200 rpm without brake at 18°C using a refrigerated IEC MP4R centrifuge (MA, USA). The mononuclear cell layer will then be transferred with a pipette to conical tubes and washed three times in 20 ml of PBS for 5 minutes at 1200 rpm, resuspended in a final volume of 20 ml for quantification and viability determination by Trypan Blue exclusion. 1.8 x 108 PBMCs per 6 well plate will generate DCs; the rest will be cryopreserved for future use.
+
+
+[NarrativeText] (page 17)
+ELISPOT ASSAY FOR IFNγ RELEASE BY ANTIGEN-SPECIFIC CTLs: In brief, 96-well plates (Multiscreen; Millipore, MAIP N45) will be sensitized with 2 µg/ml of primary anti-IFNγ monoclonal antibody (acMo) (Mabtech 1-DIK) overnight at 4°C, washed, and blocked with 1% PBS/BSA for 2 hours at 37°C. Effector and target cells will be added to the wells for 4 hours at 40°C, followed by washing before incubation for 20 hours at 4°C with 75 µl of secondary antibody (0.75 µg/ml biotin-conjugated anti-IFNγ acMo; Mabtech, 7-B6-biotin). Streptavidin-ALP will be added for 1 hour at room temperature in the dark. The wells will then be washed and incubated for 5 minutes with NBT/BCIP for complex visualization. Spots will be counted using a microscope. The response will be considered positive if there are >10 spot-forming cells (SFC) per 2x105 respective controls. TYPING OF CD8, CD4, AND NK CELL POPULATIONS IN PATIENT BLOOD: To detect cellular markers in PBMCs from melanoma patients, the cells to be analyzed will be washed three times with ice-cold PBS and then incubated with 2 µg/ml of either FITC- or PE-conjugated anti-CD3, anti-CD4, anti-CD8, and anti-CD56 monoclonal antibodies (Pharmigen). The tests will be analyzed using the FAScan instrument (Beckton Dickinson, CA, USA) at the Disciplinary Program of Immunology at the ICBM, University of Chile. ELISA ASSAY FOR THE DETERMINATION OF IL-10 AND IFNγ IN PATIENT SERUM: In brief, plates sensitized with primary anti-IFN-γ monoclonal antibody (acMo) (OptEIA, Pharmigen) and primary anti-IL-10 monoclonal antibody (acMo) will be blocked with 1% PBS/BSA for 1 hour at room temperature. Then, 100 µl of each patient's serum will be added to each well and incubated for 2 hours at room temperature. The wells will then be washed and incubated for one hour at room temperature with 100 µl of secondary antibody (0.75 µg/ml biotin-conjugated anti-IFN-γ acMo Avidin-HRP (Pharmigen)). Substrate (TMB and hydrogen peroxide) will be added for 30 minutes at room temperature in the dark. The wells will then be washed, and the STOP solution will be added. Absorbance at 450 nm will be read using an ELISA reader (BIORAD, model 3550) at the Disciplinary Program of Immunology at the ICBM, University of Chile.
+
+
+[NarrativeText] (page 17)
+Dose and Dosing Rationale: Selected patients will be treated with four cycles of therapy over 60 days. In each dose, 10 to 20 x 106 DCs loaded with extracts from 3x106 allogeneic melanoma cells will be injected. The extracts will be prepared from irradiated melanoma cells lysed through continuous freezing, thawing, and sonication. This dose is estimated to be sufficient to induce an antitumor immune response, as preclinical and clinical trials have demonstrated clinical and Laboratory immune responses, supporting the method's safety. To support the patient's immune system stimulation, interleukin-2 (IL-2) will be administered subcutaneously at 2.4 x 106 IU/m2 two days after the second vaccine dose for three consecutive days. This regimen will be repeated after each vaccination. Currently, standard protocols administer between 18 x 106 and 9 x 106 IU/m2 of IL-2 per dose (recommended by distributor CHIRON BV Holland). The low doses used in this study are based on the project director's experience, supported by studies published in international journals and recent literature (67-70). The intention is to avoid IL- 2-mediated side effects while preserving its beneficial effects.
+
+
+[Title] (page 17)
+Treatment:
+
+
+[NarrativeText] (page 17)
+a) Treatment Regimen: For administering each dendritic cell dose, the treating investigator will observe and treat patients on an outpatient basis in an adequately equipped outpatient clinic. The 300 µl dose in a sterile saline solution will be injected subcutaneously, preferably near the primary tumor or near unaffected lymph nodes. b) Immediately after treatment, the patient must be monitored. Vital signs should be taken 15 minutes before and after each treatment, and the patient should be observed in the clinic for at least one hour. After the observation period, the patient will be sent home. c) Interleukin-2 will be administered subcutaneously, on an outpatient basis, in a properly equipped outpatient clinic for three consecutive days. Vital signs will be monitored, and the patient will be observed in the clinic for 30 minutes. d) Patients will be followed to detect and evaluate potential toxic reactions to treatment. The next dose can be repeated the following week if: - There was no grade IV toxicity with the previous treatment, - There was no obvious disease progression - The patient does not meet the exclusion criteria for the protocol.
+
+
+[NarrativeText] (page 17)
+Inclusion Criteria: • Patients with histologically confirmed melanoma of the skin: Breslow, Clark, histological type. Location of the primary, clinical, or pathological regional status. • Complete staging demonstrating the presence of distant metastases, either visceral or in soft tissues or bone tissue: Brain, Lung, Abdomen, and Pelvis CT and bone scintigraphy. • Objectively measurable disease by clinical or radiological means • Karnofsky's Performance Status is more significant than 70% • Life expectancy greater than three months • Patients over 18 years old • Informed consent from the patient to participate in the protocol
+
+
+[NarrativeText] (page 18)
+Exclusion Criteria: Patients meeting any of the following criteria will be removed from the study:
+
+
+[ListItem] (page 18)
+Age greater than or equal to 65 years • Ongoing active infections, including viral immunodeficiency • Previous chemotherapy within less than two months • Concomitant malignant tumors (e.g., Chronic Lymphocytic Leukemia, etc.) • Uncontrolled concomitant diseases (Hypertension, unstable Diabetes mellitus, renal diseases requiring dialysis) • Situations or conditions requiring urgent surgical intervention, such as intestinal obstruction due to metastasis • Pregnancy or lactation • Concurrent participation in other therapeutic research protocols • Any condition that compromises the objectives of this study. Removal Criteria from the Study: Patients will be removed from this study if any of the following conditions occur:
+
+
+[ListItem] (page 18)
+By the patient's decision to discontinue the study. • Intolerable adverse reactions, according to WHO Criteria Grading Toxicities • Intercurrent illness that may compromise the patient's life or interfere with the treatment study evaluation • Requirements for concomitant medication that may interfere with study results. • Failure to complete the study entirely • Failure to follow up on the patient. Sample Size
+
+
+[NarrativeText] (page 18)
+Recruitment will be conducted to terminate the study after a specific number of patients have been enrolled if a minimum number of responses have not been observed. The lowest significant response rate will be 20% (alpha = 0.10; beta 0.10). If at least the minimum number of objective responses are observed to complete recruitment, 30 evaluable patients will be enrolled. For example, if there is no response in any of the first 12 treated patients or only 1 out of the first twenty, the study should be terminated. The confidence interval for the response rate is >20%.
+
+
+[NarrativeText] (page 18)
+Evaluable Patient: An evaluable patient meets the inclusion criteria, does not meet any of the removal criteria, receives all four vaccination cycles, and has been clinically and radiologically followed until the end of this trial.
+
+
+[Title] (page 18)
+Study Conduct
+
+
+[ListItem] (page 18)
+Signing of informed consent • Complete medical history • Complete physical examination • Karnofsky Performance Status measurement • Estimation of survival quality using the EORTC scale • If applicable, photographs of the tumor and metastases • Hematological studies, including albumin and total proteins. • Electrocardiogram • CD3, CD4, CD8 cell counts, and total lymphocyte count • Blood sample collection for in vitro immunological studies. • Staging radiological studies: Computed tomography of the brain, lungs, abdomen, and pelvis, and bone scintigraphy • Estimation of metastasis size through physical and radiological examination • Delayed hypersensitivity test (DTH)
+
+
+[NarrativeText] (page 19)
+Enrollment After the procedures mentioned above, each eligible patient will be enrolled. Each patient will be given an identification number. Data will be maintained in a computerized file with restricted access for the research team for each patient.
+
+
+[NarrativeText] (page 19)
+Patient Monitoring Patients will be clinically monitored once a week through the following parameters: • Weight • Karnofsky Index • Vital signs • EORTC Quality of Life Index • Comprehensive physical examination • Monitoring for toxicity symptoms according to WHO Criteria Grading Toxicities and reporting adverse effects Additionally, they will be evaluated through ELISPOT and ELISA assays, with blood samples taken before each vaccination, to assess the response of specific CTLs to DC stimulation and the presence of cytokines in the patient's serum.
+
+
+[NarrativeText] (page 19)
+Measurement at the End of Treatment • Clinical evaluation of the patient • Estimation of clinical or radiological tumor response: determining tumor volume • Comprehensive physical examination • Karnofsky Index • Photography • Quality of life and pain assessments • Delayed hypersensitivity test (DTH): for in vivo response measurement • Hematological and chemical tests: Assays for measuring in vitro immune response.
+
+
+[NarrativeText] (page 19)
+Long-Term Follow-Up Once the patient has completed the full four-cycle treatment, they must be followed up every four weeks for one year. Every two months during the second year. The date of death must be determined in applicable cases. During each visit: • Directed physical examination • Karnofsky Index • Estimation of clinical and radiological tumor size • Photography • EORTC Quality of Life Assessment • Reporting of adverse effects Clinical Response Assessment
+
+
+[NarrativeText] (page 19)
+TUMOR RESPONSE CRITERIA CR: Complete disappearance of the tumor PR: Tumor regression > 50% MR: Tumor regression > 25% - <50% SD: Decrease or growth < 25% PD: Increase in tumor size during treatment
+
+
+[NarrativeText] (page 19)
+Statistical Analysis The primary objective of this study is to estimate the objective response and toxicity associated with treatment using dendritic cells loaded when administered to patients with disseminated melanoma. A stratified recruitment design will be used in this study. In the first stage, 12 patients will be enrolled and treated with loaded dendritic cells. If none of the patients responds to the treatment, enrollment for this study will be terminated. If at least one patient responds to the treatment, the treatment will continue. If, after the enrollment of patient number 20, at least two patients respond to the treatment, the study should continue until a minimum of 30 evaluable patients with 3 out of 4 completed cycles. Assuming that the study will be completed with thirty patients as planned, the 90% confidence interval for the estimated response rate will be 12%, assuming a 20% response rate. If sufficient evidence indicates that the valid response rate is greater than 20%, it would be given if the lower limit of the confidence interval is more significant than 0.20 (alpha = 0.05, 1-tailed -test).
+
+
+[NarrativeText] (page 20)
+Primary Efficacy Analysis Because this uncontrolled study enrolls a small number of patients, formal hypothesis tests are not planned. However, comparing different subgroups may generate hypotheses that can be studied in subsequent clinical trials.
+
+
+[Title] (page 20)
+Infrastructure and Equipment Provided by the Sponsor Academic Units for the Project
+
+
+[NarrativeText] (page 20)
+This project will primarily utilize the Tumor Immunology Laboratory's infrastructure and the Immunology Program facilities at the Institute of Biomedical Sciences, Faculty of Medicine, University of Chile. This Laboratory is equipped for the culture and expansion of cell lines in a Good Manufacturing Practice (GMP) compliant culture room. This system ensures that our vaccines are produced and continuously monitored according to international standards, verifying sterility and quality control (World Health Organization TRS 908, Annex 4). Additionally, there are suitable conditions for molecular and biochemical studies. The Laboratory is equipped for working with low-activity radioisotopes such as 3H and 51Cr. Furthermore, the group of researchers involved has the necessary experience, as reflected in their publications.
+
+
+[ListItem] (page 20)
+1. Tumor Immunology Laboratory: Analytical and precision balances, spectrophotometer, refrigerators, - 20°C and -70°C freezers, immunodot and immunoelectrotransfer multi-analysis system, gradient former, Eppendorf centrifuge, refrigerated centrifuge, magnetic stirrers, vortex, thermostatic bath with agitation, power supplies, PCR thermocycler, microscope, digital camera, equipment for immunohistochemistry and immunofluorescence, chemical hood. Cell Culture Room: GMP-compliant culture room, temperature-regulated filtered air, laminar flow hoods, regulated CO2 incubators, inverted microscope, thermostatic bath, refrigerator, and liquid nitrogen tanks. The project includes a wide range of human cell lines, cytokines such as IL-2, IL-4, IL-10, GM-CSF, TNF, IFN-γ, IL-12, and IL-15, hybridomas, monoclonal antibodies specific for MHC class I and different haplotypes (HLA-A2, HLA-B7, among others), gene expression plasmids for receptors (MC1R, HER2/neu), human and murine IL-2, IL-4, and IL-10, as well as primers for T cell receptor repertoire detection with PCR and synthetic peptides of various melanoma-associated antigens.
+
+
+[ListItem] (page 20)
+2. High-Efficiency and Conventional Chromatography Laboratory: FPLC/HPLC system and columns, cold chamber, conventional columns, peristaltic pump, UV flow detector, fraction collectors, recorder.
+
+
+[ListItem] (page 20)
+3. Laboratory for Biological Probes Radiolabeled with High and Low-Energy Isotopes: Negative flow safety hood and volatile radioisotope absorption system with activated carbon, orbital shaker, visible light microscope, and safety cabinet for storing and decaying radioactive waste.
+
+
+[ListItem] (page 20)
+4. Flow Cytometry Room: Flow cytometer (FACSort), analysis computers. 5. Darkroom for Radioautographic Processing will be available, including a Polaroid camera, developing reagents, and radioautography cassettes.
+
+
+[ListItem] (page 20)
+6. Washing, Sterilization, Distilled Water, and Ice Room: Material drying oven, floor autoclave, flake ice maker, water distillers, water deionizer, ultra-pure water production system.
+
+
+[ListItem] (page 20)
+7. A Central Laboratory containing pH meters, a spectrophotometer, an ELISA reader, and a 10-head gamma counter will be available.
+
+
+[ListItem] (page 20)
+8. Immunology Library includes ten journal subscriptions, a database for bibliographic reference search, and over 100 immunology and related books.
+
+
+[ListItem] (page 20)
+9. Others: Word and graphics processing computer systems, fax, direct phone line, email, and internet access.
+
+
+[ListItem] (page 20)
+10. Central Services: In addition to the infrastructure within the Immunology Program, the Faculty of Medicine has other general-use equipment that may be relevant to this project, such as an ultra-centrifuge, scintillation counter, confocal microscope, peptide, and oligonucleotide synthesis and sequencing, among others. There is also a central animal facility designed for maintaining pure strains of mice, infected and immunized mice, and rabbits.
+
+
+[ListItem] (page 20)
+11. Clinical Hospital of the University of Chile: The infrastructure of the blood bank at the Clinical Hospital of the University of Chile is available, featuring equipment for leukapheresis sample collection and the Cryopreservation Laboratory equipped with a modern automated biological sample freezing system. 12. Associated Companies in the Project: Oncobiomed Ltda., Oncomed Ltda., and Tecnofarma S.A. have provided their clinics for the selection and treatment of some patients and their administrative teams for technological transfer, respectively. Funding: This study will be financially supported through contributions from the FONDEF Project No. DO2I1088: "Research and Development of Biological Vaccines for Oncological Immunotherapy," for 310 million Chilean pesos, for a duration of three years (2003-2005). Additionally, the project's associated companies,
+
+
+[NarrativeText] (page 21)
+ONCOMBIOMED Ltda. (85 million Chilean pesos) Furthermore, Tecnofarma S.A. (35 million Chilean pesos) has committed to providing funds through personnel financing and cytokine grants such as IL-2.

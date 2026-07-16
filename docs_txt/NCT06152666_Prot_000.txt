@@ -1,0 +1,971 @@
+
+[NarrativeText] (page 1)
+Understanding enablers, barriers, and unexpected outcomes associated with adoption of routine day-case surgery pathways for common endourology operations: Qualitative interviews with healthcare professionals.
+
+
+[Title] (page 1)
+Current Protocol Number:
+
+
+[Title] (page 1)
+Chief Investigator:
+
+
+[ListItem] (page 1)
+Mr John McGrath - Consultant Urologist and GIRFT Urology co-chair, Royal Devon University Healthcare NHS Foundation Trust and Getting It Right First Time.
+
+
+[Title] (page 1)
+Principal Investigator:
+
+
+[ListItem] (page 1)
+Mr Joseph John – Urology Registrar and Research Fellow, Royal Devon University
+
+
+[Title] (page 1)
+Healthcare NHS Foundation Trust and Getting It Right First Time.
+
+
+[Title] (page 1)
+Co- Investigators:
+
+
+[ListItem] (page 1)
+Mr Kieran O’Flynn - Consultant Urologist and GIRFT Urology co-chair, Northern Care
+
+
+[Title] (page 1)
+Alliance NHS Foundation Trust and Getting It Right First Time.
+
+
+[ListItem] (page 1)
+Mr William Keith Gray, Researcher and analyst, Getting It Right First Time. • Professor Sir Tim Briggs, Director for Clinical Improvement and Elective Recovery, NHS England
+
+
+[Title] (page 1)
+Sponsor:
+
+
+[ListItem] (page 1)
+Royal Devon University Healthcare NHS Foundation Trust
+
+
+[Title] (page 1)
+Funder:
+
+
+[ListItem] (page 1)
+Getting It Right First Time (GIRFT)
+
+
+[Title] (page 1)
+Infra structure support:
+
+
+[ListItem] (page 1)
+NIHR Peninsula Clinical Research Network • Royal Devon University Healthcare NHS Foundation Trust
+
+
+[NarrativeText] (page 2)
+SIGNATURE PAGE FOR CHIEF AND PRINCIPAL INVESTIGATOR For Protocol No.: V2 14.02.23
+
+
+[NarrativeText] (page 2)
+Understanding enablers, barriers, and unexpected outcomes associated with adoption of routine day-case surgery pathways for common endourology operations: Qualitative interviews with healthcare professionals.
+
+
+[NarrativeText] (page 2)
+I have read this protocol (xxxxx) and agree to conduct this trial in accordance with all stipulations of the protocol and in accordance with the principles of Good Clinical Practices (GCP), the Declaration of Helsinki (2000 Edinburgh), and applicable legal and regulatory requirements.
+
+
+[Title] (page 2)
+Chief Investigator
+
+
+[Title] (page 2)
+Signature
+
+
+[Title] (page 2)
+Date
+
+
+[Title] (page 2)
+Principal Investigator
+
+
+[Title] (page 2)
+Signature
+
+
+[Title] (page 2)
+Date
+
+
+[Title] (page 3)
+Title of Study
+
+
+[Title] (page 3)
+Protocol Number
+
+
+[Title] (page 3)
+Sponsor R&D No:
+
+
+[Title] (page 3)
+Number of Study Sites
+
+
+[Title] (page 3)
+Number of participants
+
+
+[Title] (page 3)
+Study Design
+
+
+[Title] (page 3)
+Participant population
+
+
+[Title] (page 3)
+Aim
+
+
+[Title] (page 3)
+Main Criteria for Inclusion
+
+
+[Title] (page 3)
+Study Duration
+
+
+[Title] (page 3)
+Study Period
+
+
+[Title] (page 3)
+Study Summary
+
+
+[NarrativeText] (page 3)
+Understanding enablers, barriers, and unexpected outcomes associated with adoption of routine day-case surgery pathways for common endourology operations: Qualitative interviews with healthcare professionals.
+
+
+[Title] (page 3)
+TBC
+
+
+[NarrativeText] (page 3)
+15, with plans to expand in increments of 3 until thematic saturation is reached
+
+
+[Title] (page 3)
+Semi-structured qualitative interviews
+
+
+[NarrativeText] (page 3)
+Consultant urologists, urology specialty registrars, theatre nurses, anaesthetists, day-case unit nurses, ward-based nurses, cancer specialist nurses, managers.
+
+
+[NarrativeText] (page 3)
+To identify what enables or prevents urology units from adopting day- case pathways for common endourology operations (transurethral resection of bladder tumour, prostate resection or enucleation, ureteroscopy and stone fragmentation), and understand unexpected outcomes associated with increasing day-case rates.
+
+
+[Title] (page 3)
+Inclusion Criteria:
+
+
+[ListItem] (page 3)
+Healthcare professionals as outlined above, involved in delivering care for patients undergoing one or more of the operations of interest.
+
+
+[ListItem] (page 3)
+Able and willing to provide informed consent
+
+
+[Title] (page 3)
+Exclusion Criteria:
+
+
+[ListItem] (page 3)
+Healthcare professionals involved with fewer than 10 of the operations of interest per year
+
+
+[Title] (page 3)
+10 Months
+
+
+[Title] (page 3)
+May 2023 – February 2024
+
+
+[NarrativeText] (page 3)
+A qualitative research study conducted in hospitals across England, in which staff members will be interviewed. We will interview staff who are directly or indirectly involved in delivering care for patients undergoing the operations of interest; namely bladder tumour resection, prostate resection or enucleation, and ureteroscopy for upper urinary tract stones. We hope to find out the reasons why some hospitals can perform day-case surgery with very high rates, and why others do not. We also hope to find out about any unexpected outcomes observed when performing day-case surgery for the operations of interest.
+
+
+[NarrativeText] (page 4)
+Staff working in a range of different hospitals from across England with varying day-case rates will be interviewed. Hospitals in large city and more rural areas will be assessed. Interviews are anticipated to take place over a six month period between April 2023 and October 2023. The study will end when “saturation” is achieved, whereby no new themes are identified through interviews. Saturation will be sought for each individual operation of interest.
+
+
+[NarrativeText] (page 4)
+Analysis and write up will take place from October 2023 – February 2024.
+
+
+[Title] (page 5)
+Table of Contents
+
+
+[Title] (page 7)
+Amendment History/Changes from previous version
+
+
+[Title] (page 7)
+Amendment Number
+
+
+[Title] (page 7)
+Amendment 1
+
+
+[NarrativeText] (page 7)
+Revised Protocol Version Number and date Version 1 (15.11.22) revised based on feedback to produce version 2 (14.02.23)
+
+
+[NarrativeText] (page 7)
+Details of key changes made (including justification if required)
+
+
+[NarrativeText] (page 7)
+Changes based on PPIE meeting 14.02.2023 - Remove assumptions around recovery in own home being preferable in PLS
+
+
+[ListItem] (page 7)
+Re-order questions in guide to help maintain
+
+
+[Title] (page 7)
+rapport
+
+
+[ListItem] (page 7)
+Wording modifications to questions for
+
+
+[Title] (page 7)
+clarity
+
+
+[ListItem] (page 7)
+Change wording from “unintended
+
+
+[NarrativeText] (page 7)
+consequences” to “unexpected good or bad outcomes” - To include anaesthetists in study population - Nursing interviewees to include admissions ward, inpatient ward, day case unit, theatre nurses, and cancer specialist nurses who might field patient concerns post- operatively
+
+
+[ListItem] (page 7)
+Have telephone interviews as an available options as well as video conferencing Specify that study is within NHS hospitals
+
+
+[ListItem] (page 7)
+- Discuss anaesthetic choice with anaesthetists
+
+
+[ListItem] (page 7)
+Question about information provided for
+
+
+[Title] (page 7)
+patients
+
+
+[NarrativeText] (page 7)
+Based on supervision from qualitative researcher - increase introductory questions - re-frame questions in more open format - reduce overall number of questions in order to achieve “semi-structured” interview aim
+
+
+[Title] (page 7)
+Amendment 2
+
+
+[NarrativeText] (page 8)
+Scientific Summary Safe day-case surgery pathways offer to reduce pressure on hospitals by avoiding overnight inpatient admission. This is particularly relevant given the intense pressures on hospital resources in the United Kingdom. Urological surgery includes a number of frequently performed operations for which safe day-case surgery pathways have been demonstrated. These include bladder tumour resection (TURBT), prostate resection or enucleation using diathermy or laser (TURP and TUEP), and ureteroscopy and laser for upper urinary tract stones (URS). All of these operation types involve endoscopic access to the bladder via the urethra, and do not involve skin incisions. They can be performed under general or spinal anaesthesia, although spinal anaesthesia is rarely used for ureteroscopy.
+
+
+[NarrativeText] (page 8)
+For the 12 months from December 2021, the national median day-case rate for transurethral resection of bladder tumour In England was 21.1%, and ranged from 0% to 87.3% at different hospitals, with an interquartile range (IQR) of 10.5% to 37.7%, and 23,071 cases performed in total. For bladder outflow obstruction surgery the median day-case rate was 7.7% (range 0% to 82.4%, IQR 4.4% to 19.1%, 18,912 cases), and this includes TURP and TUEP. For URS the median day case rate was 60.1% (range 0% to 87.9%, IQR 44.4% to 69.7%, 23,130 cases). This demonstrates that for these common operations there is significant variation in practice across England.
+
+
+[NarrativeText] (page 8)
+The Getting It Right First Time (GIRFT) Urology programme advocates for a “day-case by default” approach to TURBT and URS, and that day-case surgery should ideally be offered for prostate resection and enucleation. As well as reducing pressure on inpatient services, greater day-case adoption offers to reduce financial costs, shorten waiting lists by allowing greater access to day-case theatres away from the acute hospital, and reduce environmental impact by adopting a less resource-intensive approach. It also offers a more standardised patient experience.
+
+
+[NarrativeText] (page 8)
+National day-case rates for all of TURBT, TURP/TUEP and URS have increased over the past five years, however the wide variation in practice identifies a need to understand reasons underlying a significant observed divergence in practice. We want to understand why some hospitals have rapidly adopted day-case surgery whereas others have not. Furthermore, it is necessary to understand any positive and negative outcomes associated with the increased utilisation of day-case surgery. In order to explore this area we intend to perform qualitative research involving members of staff involved in the delivery of one or more of the operations of interest. We will interview staff from a range of different hospitals with differing day-case performances to further understand enablers and barriers associated with day-case adoption. We would also like to understand staff members’ experiences of any wider unexpected outcomes associated with day-case surgery adoption.
+
+
+[NarrativeText] (page 9)
+Plain English Summary Safe day-case surgery can lower pressure on hospitals by avoiding an overnight stay. It means patients can recover in their own home. It is likely to be cheaper and better for the planet as it uses less resource.
+
+
+[NarrativeText] (page 9)
+Urology is a branch of healthcare. It includes some common surgeries that can be performed as a day-case. These include bladder tumour treatment, prostate surgery to treat blockage, and ureteroscopy to treat stones. All of these involve treating the patient through their natural orifice (urethra). No cuts to the skin are made.
+
+
+[NarrativeText] (page 9)
+In England, the Getting It Right First Time (GIRFT) programme makes healthcare guidance. It suggests that these operations are done as a day-case. Despite this, there is wide variation in England. Most of these operations still involve an overnight hospital stay.
+
+
+[NarrativeText] (page 9)
+We want to know how some hospitals do lots of day-case bladder, prostate, and stone surgery. We also want to know why many hospitals do not do lots these as a day-case. Lastly, we want to know whether there are any unexpected outcomes when doing more day-case surgery. We will choose hospitals that do a lot or very little day-case surgery for bladder tumours or prostate resection. We will ask nurses, doctors, and mangers involved in the service if they would like to be interviewed.
+
+
+[NarrativeText] (page 9)
+We aim to find themes that will help hospitals to do more day-case surgery in future.
+
+
+[NarrativeText] (page 9)
+Research Question What are the enablers and barriers to performing day-case surgery for common endourology operations, and are there any unexpected outcomes associated with performing these operations as a day-case?
+
+
+[NarrativeText] (page 9)
+Rationale and background Resource constraints and evolving patient demographics mean that the waiting lists for elective surgery in the NHS are greater than ever. Nationally, the median average percentage of patients receiving transurethral resection of bladder tumour (TURBT) treatment within 62 days of referral is only 13.1% (1). For male patients requiring surgical treatment for acute urinary retention, the median average national hospital wait time exceeds five months, and this wait is over three months for patients awaiting treatment following emergency admission for an upper urinary tract stone (1).
+
+
+[NarrativeText] (page 9)
+Solutions are required to improve timely patient access to surgery. The approach will need to be multi-factorial, and increasing day-case rates by configuring safe and effective pathways is one proposed method (2). Performing common endourology operations as a day-case when possible, could take pressure off inpatient resources and allow these inpatient beds to be used for other purposes (3). It also means that these endourology operations could proceed without a reliance on inpatient bed availability, and this would
+
+
+[NarrativeText] (page 10)
+open opportunities to perform surgery in peripheral day-case units without inpatient beds (4). Furthermore, by utilising less resource intensive day-case pathways there would be cost savings, and potentially reduced associated greenhouse gas emissions (5). There is additionally reason to suppose that patients might have a superior experience by recovering at home instead of as a hospital inpatient, such as reduced opportunity to acquire an infection, although this has not yet been demonstrated in academic literature.
+
+
+[NarrativeText] (page 10)
+The Getting It Right First Time (GIRFT) programme is an expert clinician-led ad data-driven national quality improvement programme aiming to improve standards and decreased unwarranted variation in clinical care (6). Separate GIRFT workstreams exist for each medical and surgical specialty. The GIRFT urology programme advocates for increased day- case rates for common endourology operations and recommends a “day-case by default” approach to TURBT and URS. The GIRFT programme have recommended day-case adoption in the 2018 GIRFT Urology National Report and their GIRFT academy service delivery guides (7)(8)(9). At the intensive deep dive visits that GIRFT perform to every single urology unit in England, day-case pathways are commonly discussed as a target for quality improvement. In the five years since the 2018 report, trends towards increasing day-case rates have been observed, however there remains significant nationwide variation in the rates of day-case surgery performed for TURBT, TURP/TUEP and URS.
+
+
+[NarrativeText] (page 10)
+For the 12 months from December 2021, the national median day-case rate for transurethral resection of bladder tumour In England was 21.1%, and ranged from 0% to 87.3% at different hospitals, with an interquartile range (IQR) of 10.5% to 37.7%. For bladder outflow obstruction surgery the median day-case rate was 7.7% (range 0% to 82.4%, IQR 4.4% to 19.1%). For URS the median day case rate was 60.1% (range 0% to 87.9%, IQR 44.4% to 69.7%). The factors underpinning the wide variation in adoption of day- case pathways is unclear. It is possible that any of the following factors could contribute to this observed phenomenon; available hospital resource, geographic factors, staff values, beliefs and motivation, patient-related factors, available funding or expertise to support service development. By performing semi-structured qualitative interviews we plan to take an open approach to exploring the range of factors underpinning high or low degrees of day-case surgery adoption (10).
+
+
+[NarrativeText] (page 10)
+Iterative evaluation forms an important part of the GIRFT programme, both at a local and national level. It is therefore important to understand whether there have been any positive or negative unexpected outcomes associated with the increased utilisation of day-case surgery pathways following GIRFT recommendations. It is therefore our intention to also interview staff from units with high endourology day-case rates about their perceptions of any such outcomes.
+
+
+[NarrativeText] (page 11)
+Aims and Objectives Aim: To identify what enables or prevents urology units from adopting day-case pathways for common endourology operations, and understand unexpected outcomes associated with increasing day-case rates.
+
+
+[ListItem] (page 11)
+
+
+
+[ListItem] (page 11)
+
+
+
+[ListItem] (page 11)
+
+
+
+[NarrativeText] (page 11)
+Identify perceived patient and service factors that cause their urology service to deliver its current rate of day-case surgery. identify perceived factors that have enabled or prevented the implementation of day surgery pathways as default care. Identify unexpected outcomes experienced as a result of performing day-case surgery.
+
+
+[NarrativeText] (page 11)
+Hypothesis: We hypothesise that there are likely to be key success factors necessary to establishing effective day-case endourology pathways. We also hypothesise that there are likely to be a range of different barriers to establishing day-case endourology pathways, some of which might not be currently known about. Lastly, we hypothesise that there are unexpected positive and negative outcomes associated with performing day-case endourology operations.
+
+
+[NarrativeText] (page 11)
+Choice of study design: A multi-professional semi-structured qualitative interview design has been adopted in order to identify themes, some of which might not have been characterised previously. We see it as important to interview a range of professionals in different roles who are involved in delivering day-case endourology operations, so we can gain a broad range of perspectives. We will conduct interviews with professionals from a range of different hospitals with a range of different day-case rates because it is possible that factors affecting one hospital might not be the same in other hospitals.
+
+
+[Title] (page 11)
+Methods
+
+
+[NarrativeText] (page 11)
+Study Population Any of the following staff members from across a range of urology units:
+
+
+[ListItem] (page 11)
+Consultant and trainee urologists • Anaesthetists
+
+
+[ListItem] (page 12)
+Theatre nursing staff and healthcare assistants • Day-case unit nursing staff • Inpatient ward nursing staff • Cancer nurse specialists • Urology managers • Urology department clinical leads
+
+
+[Title] (page 12)
+Inclusion criteria
+
+
+[ListItem] (page 12)
+Staff members who are routinely involved, either directly or indirectly, in the
+
+
+[Title] (page 12)
+delivery of any of TURBT, TURP, TUEP, URS within NHS hospitals.
+
+
+[ListItem] (page 12)
+Willing and able to provide informed consent
+
+
+[Title] (page 12)
+Exclusion Criteria
+
+
+[ListItem] (page 12)
+Staff who are not regularly involved in any of TURBT, TURP, TUEP or URS, defined as
+
+
+[NarrativeText] (page 12)
+being involved in the operation less than 10 cases per year.
+
+
+[NarrativeText] (page 12)
+Potential participants will not be excluded on unfair grounds, however participants will be selected from a pool of willing individuals such that a representative cross section of different individuals are interviewed based on role and location.
+
+
+[NarrativeText] (page 12)
+Sampling and sample sizes: Urology units across England will be approached for participation and can be considered as fitting two broad categories: 1) Units with endourology day-case rates in the top quartile nationally for any of bladder tumour resection or prostate resection or ureteroscopy 2) Units that are not in the top quartile nationally for these operations Within each unit, the aim will be to interview a range of staff members as outlined above. Each type of professional will not necessarily be interviewed from each trust. Adequate sample size will be reached when saturation on thematic analysis is achieved, with thematic analysis and assessment for saturation being performed after 15 interviews.
+
+
+[NarrativeText] (page 12)
+Participant Identification: Screening and identification: Study sites of interest will be identified by analysing Hospital Episode Statistics (HES) data using the Model Hospital information dashboard. A representative selection of hospitals performing high, intermediate and low rates of day-case surgery for the operations of interest will be selected for potential recruitment. Representation of urban and rural areas, and patient population demographics will be considered to gain a representative cross section of English hospitals. Clinical leads at the urology units of interest will be contacted and asked for consent for site study participation. Participating clinical leads or their
+
+
+[NarrativeText] (page 13)
+nominated local collaborator will be asked to identify potentially willing interviewees based on the study population characteristics described above.
+
+
+[NarrativeText] (page 13)
+Potential participant details will be sent from their unit’s clinical lead or local study collaborator to the Principle Investigator (PI) via secure encrypted NHS email. The following details will be included; hospital, region, demographics, and professional role and operations that they are involved with. Willing participant contact details will be stored on a database on a secure server, and screened in order to gain interviews from a broad population.
+
+
+[NarrativeText] (page 13)
+Recruitment: The research team will then be responsible for the recruitment process. This will include providing potential recruits with an electronic study-specific participant information sheet (PIS). Expressions of interest from participants will be obtained by clinical leads or a nominated local collaborator at sites agreeable to study involvement. Willing potential participant's contact details (email address and telephone number) will be forwarded to the research team at the sponsor site, along with a very limited set of accompanying information (role, gender, operation types with which they are involved). Transfer of information will only take place with the potential participant's verbal consent. The sponsor site principle investigator will then contact potential participants in order to gain consent for participation and to arrange an interview time that is suitable for them.
+
+
+[NarrativeText] (page 13)
+Potential participants will be provided with the opportunity to discuss the project in detail with a member of the research team at the sponsor site. These discussions will include the nature and purpose of the study, participant involvement and potential risks. All potential participants will be given the time they deem necessary to make the decision to participate. The anticipated time commitment associated with undertaking the interview will be explained. Data on numbers of participants expressing interest to take part, invited to take part, and those actually taking part, will be recorded.
+
+
+[NarrativeText] (page 13)
+Informed consent: The participant information sheet contains sufficient detail in order for individuals to be able to make an informed decision about participation. Participants will be offered opportunities to ask any further questions that they might have either by email or over the telephone, with the sponsor site PI. If necessary, a physical PIS copy will be posted to potential participants if they are unable to access email.
+
+
+[NarrativeText] (page 13)
+Willing participants will be routinely contacted by telephone on a date ahead of the interview to answer any questions, confirm their willingness to participate, and arrange a suitable date and time for interview.
+
+
+[NarrativeText] (page 14)
+Since the interviews are largely planned to take place remotely either using video conferencing (MS teams) or over the telephone, verbal consent will be obtained and recorded prior to the interview. This will be on the day of the interview, after permission to record has been granted and before the interview questions commence.
+
+
+[NarrativeText] (page 14)
+On the day of the interview, before commencing the interview, the consent form will be read out to the participant. Each point will be read out in turn and ticked when the participant agrees to them. Opportunities to ask further questions will be offered after each point. The participant will be asked to provide verbal consent and this will be recorded on audio. The audio files of participation consent will be stored on a password protected secure server at the sponsor site, separate from the main body of their interview but linked via a pseudonymised participant identification number. On providing their verbal consent, the interviewer will also sign the consent form and send a copy via e-mail to the interviewee.
+
+
+[NarrativeText] (page 14)
+This same consent process will be carried out for participants being interviewed in a face to face capacity, for consistency of approach.
+
+
+[NarrativeText] (page 14)
+Recordings of consent will be saved and stored as separate files on a password protected encrypted server at the sponsor site (Royal Devon University Healthcare NHS Foundation Trust). A delegated member of the research team will maintain a record of all documented consent.
+
+
+[NarrativeText] (page 14)
+Only patients with capacity to consent to participate will be interviewed for the study. When verbal consent is gained before the study, capacity to consent will be informally assessed based on the participant's understanding about the reason to conduct the study, and their ability to articulate their willingness to be involved. The PI is a doctor and understands the principles pertaining to capacity to consent. A delegated member of the research team will maintain a record of all documented consent. Patients who lack capacity to consent will not be recruited. Local collaborators at PICs who are assisting with participant identification will be informed about this.
+
+
+[NarrativeText] (page 14)
+Participant withdrawal: Participants will be informed that they are free to withdraw from the study at any time. If a participant withdraws from the study the reason will be recorded anonymously. Criteria for discontinuing participation in the study are: ● Participant withdrawal of consent ● Participant unwilling to undergo audio recording of interview ● Investigator’s discretion that it is in the best interest of the participant to withdraw ● Termination of the study by the sponsor or funding body
+
+
+[NarrativeText] (page 15)
+Interviews Participants will be provided with the following options for interviews, being able to select the option of their preference:
+
+
+[ListItem] (page 15)
+Video conferencing using Microsoft Teams • Telephone call • In person face-to-face interview
+
+
+[NarrativeText] (page 15)
+Interviews will primarily be arranged to take place either using video-conferencing software or over the telephone. In certain circumstances in-person interviews will be arranged if remote options are not possible. Given that the interviews will be conducted by one researcher, and the study will take place in centres across England, it is neither practical not environmentally sustainable to conduct all interviews in person. Interviewees will be asked to situate themselves in a quiet room on their own and free from distraction for remote interviews, and the interviewer will also locate himself in a distraction-free environment. In- person interviews will be arranged to take place in a pre-booked interview room to avoid distractions.
+
+
+[NarrativeText] (page 15)
+Interviews will all be recorded after informing the participant and gaining their consent for this. For interviews conducted using Microsoft Teams, the integrated recording and transcription function will be used. For interviews conducted over the phone or in person, the Voice Memo iPhone app will be used on a password protected and encrypted iPhone. The audio and transcription files will be stored on an encrypted, password protected server with regular file back up. Interviews will last between 20 and 45 minutes, depending on the responses and the number of operations of interest with which the interviewee is involved in delivering. Participants will be informed of their right to terminate the interview at any time. Interviews will all be carried out by the principal investigator (JJ).
+
+
+[NarrativeText] (page 15)
+When relevant the interview will address all operations with which the interviewee is involved; TURBT, TURP, TUEP, URS. Questions broadly covering the participants views about day-case endourology operations will be asked and then explored in more detail. The feasibility of the question guide will be tested during an internal pilot study performed at the Royal Devon and Exeter Hospital (sponsor site).
+
+
+[NarrativeText] (page 15)
+Timing: Within the study timeline, interviews will be arranged at a time and date that is convenient for the interviewee.
+
+
+[NarrativeText] (page 15)
+Questions: A semi-structured interview format will be utilised. This involves using a pre-designed question guide, with themes explored in greater depth depending on the interviewee’s answers. The questions are designed to signpost areas of fundamental importance, as
+
+
+[NarrativeText] (page 16)
+established following consultation with clinicians, academics, and a patient and public involvement group. The study question guide is included in Appendix 1.
+
+
+[NarrativeText] (page 16)
+Descriptive data collection: A limited set of descriptive data will be collected alongside the interviews. This will describe the following; participant age, sex, ethnicity, hospital, region, role, years in current role.
+
+
+[NarrativeText] (page 16)
+Interview transcription: For interviews conducted using Microsoft Teams, the integrated recording and transcription function will be used. For interviews recorded using the phone or in person, the Voice Memos iphone app will be used to record audio. Third party transcription service will be utilised to transcribe interview audio into text. The audio files provided to this service will be in a pseudonymised format using a unique study number for each participant. A password protected spreadsheet stored at the sponsor site will contain the complete participant details.
+
+
+[NarrativeText] (page 16)
+Pilot study: Over two weeks a pilot study will be conducted with participants at the Royal Devon and Exeter hospital. As well as broadly assessing study feasibility, particular attention will be paid to the length of interviews and the degree to which it is feasible to interview participants about multiple different operation types. Generic feedback regarding the feasibility of the study will be gained during the pilot study. Transcription and thematic analysis will not be performed immediately following these interviews, however if the interview format remains similar after the pilot study then these interviews will be included in subsequent analysis. Generic participant feedback on the study will be gained during the pilot study.
+
+
+[NarrativeText] (page 16)
+Recruiting centres: For the purposes of the study, centres from whom participants will be identified will be considered to be Participant Identification Centres (PICs). They will not be a requirement for PIC’s involvement in the running of the study beyond the initial identification of potential participants.
+
+
+[Title] (page 16)
+Schedule of events
+
+
+[Title] (page 16)
+TIME POINT
+
+
+[Title] (page 16)
+Hospital identification
+
+
+[Title] (page 16)
+X
+
+
+[NarrativeText] (page 17)
+Consent clinical leads Candidate interviewee identification Interviewee expression of interest Inclusion/Exclusion Consent Interview Demographic data Transcription Interim thematic analysis Study conclusion (when thematic saturation is reached) Analysis Dissemination
+
+
+[Title] (page 17)
+X
+
+
+[Title] (page 17)
+X
+
+
+[Title] (page 17)
+X
+
+
+[Title] (page 17)
+X
+
+
+[Title] (page 17)
+X X X
+
+
+[Title] (page 17)
+X
+
+
+[Title] (page 17)
+X
+
+
+[Title] (page 17)
+X
+
+
+[Title] (page 17)
+X
+
+
+[Title] (page 17)
+Primary outcome measure:
+
+
+[ListItem] (page 17)
+Enablers of successful day-case endourology surgery pathways
+
+
+[Title] (page 17)
+Secondary outcome measures:
+
+
+[ListItem] (page 17)
+Barriers to successfully implementing day-case endourology surgery pathways • Unexpected outcomes associated with day-case endourology pathways
+
+
+[NarrativeText] (page 17)
+Statistical planning Since this is a qualitative study no prospective power calculation will be performed. After 15 interviews, audio transcription will be performed. Thematic analysis of these transcripts will be carried out. If thematic saturation and a representative sample of hospital sites and operations is achieved then the study will be ended. If not, then a further extension of the study will be registered with the HRA using IRAS, and interviews will be continued. Every 3 interviews further transcription and interim thematic analysis will be performed. Interviews will be discontinued and the study closed at whichever point that saturation of themes is reached, and a representative sample of hospital sites and operations is achieved.
+
+
+[NarrativeText] (page 17)
+Representative sampling: Interviews will be carried out in hospitals with the following characteristics: • Top quartile day-case rate for each of the operations of interest
+
+
+[Title] (page 17)
+X
+
+
+[ListItem] (page 18)
+Bottom two quartiles for day-case rate for each of the operations of interest • Large city hospital (population > 500,000) • Hospital serving low population density/rural area • Hospital serving population with higher-than-average ethnic minority population
+
+
+[NarrativeText] (page 18)
+This is to gain a representative understanding based on staff views and experiences from across a range of different NHS hospitals in England.
+
+
+[NarrativeText] (page 18)
+Thematic analysis: Transcripts will be coded and inductive thematic analysis performed, in accordance with the six step process described by Braun and Clarke. A validation subset of transcripts (10-20%) will be analysed additionally by a second researcher as well as the PPIE representative to assess for agreement about interpretation. Analysis will be performed using NVivo software.
+
+
+[NarrativeText] (page 18)
+Study management The day-to-day management of the study will be undertaken by the PI (JJ). There will be infrastructure and supervisory support from the GIRFT programme team and the NIHR Qualitative Research Design Service, and the sponsor site R&D team.
+
+
+[NarrativeText] (page 18)
+Monitoring and audit of the research conduct will take place using regular research meetings within study working group, and will be compliant with the usual governance processes involved with all research conducted at the sponsor site (Royal Devon University Healthcare NHS Foundation Trust).
+
+
+[NarrativeText] (page 18)
+Time scale The intended time scale involves study completion over a ten-month period, ending February 2024.
+
+
+[Title] (page 18)
+Milestones Ethical/Governance approvals
+
+
+[Title] (page 18)
+Recruitment
+
+
+[Title] (page 18)
+Data collection
+
+
+[Title] (page 18)
+Data analysis
+
+
+[Title] (page 18)
+Write-up
+
+
+[NarrativeText] (page 19)
+Budget Summary and costings This is a study being undertaken principally by the PI (JJ), who is a funded research fellow for the Getting It Right First Time Urology programme. Items that require funding are:
+
+
+[ListItem] (page 19)
+Transcription service; estimated cost £1000 – 2000 • Patient and Public Involvement, priced at NIHR recommended rate of £75 per half day activity. Estimated total time and associated cost being
+
+
+[NarrativeText] (page 19)
+o Two hour meeting with four PPI participants with pre-reading (£300 total, £75pp), two whole further days of input from a designated PPI member providing ongoing oversight and input (£300).
+
+
+[Title] (page 19)
+Estimated upper total cost = £2600
+
+
+[NarrativeText] (page 19)
+The funding will be provided by the GIRFT programme, which is part of NHS England.
+
+
+[NarrativeText] (page 19)
+Project development and user involvement The project was designed by the study team in recognition of a need to understand whether or not hospitals have the capacity to change in line with GIRFT recommendations, and whether there might be important underlying factors that warrant non-adoption of increased rates of day-case surgery. The study is seen as an important means of generating greater detailed understanding to supplement the observations made during routine GIRFT visits to hospitals. It could provide understanding necessary to be able to support further clinical transformation across England. It is also viewed as important by the GIRFT programme to understand whether unexpected outcomes have occurred as a result of action on GIRFT recommendations. The study therefore is a component of a wider evaluation process taking place for the GIRFT urology programme.
+
+
+[NarrativeText] (page 19)
+Starting with an initial broad remit of “qualitative evaluation of trusts’ ability to enact GIRFT- recommended change”, the project focus was narrowed to focus on day-case surgery for endourology operations. Increasing day-case surgery is a nationally defined clinical priority which is feasible for many endourology operations, and the operations of interest in this study are high volume operations with difficult to manage waiting lists. There is therefore scope to gain new understanding about important areas of clinical care that could result in improved care in the future. The project team were all involved in defining the scope of the study.
+
+
+[NarrativeText] (page 19)
+Protocol review: Independent external review has been conducted by an NIHR post-doctoral qualitative researcher working for the Southwest Peninsula NIHR qualitative research unit. The Royal
+
+
+[NarrativeText] (page 20)
+Devon University Healthcare NHS Foundation Trust’s Research and Development team have reviewed the protocol and provided verbal and written feedback.
+
+
+[NarrativeText] (page 20)
+The protocol has been reviewed within the research team which is a multi-centre researching group involving the following; consultant urologists at the Royal Devon and Exeter Hospital and Salford Royal Hospital, GIRFT urology national co-chairs, data analyst for GIRFT.
+
+
+[NarrativeText] (page 20)
+Patient and Public Involvement and Engagement (PPIE): A draft protocol and plain English summary were discussed at an initial PPIE meeting involving three PPIE representatives. A subsequent meeting was then held with four PPIE representatives, at which a draft study question guide was also reviewed, along with further logistical elements as defined within this protocol and described within the amendment history. Participant facing documents have been in line with PPIE recommendations.
+
+
+[NarrativeText] (page 20)
+Areas where the PPIE group provided input leading to changes in study design included:
+
+
+[ListItem] (page 20)
+Screening of potential participants will be undertaking with PPIE input - Changes to question order and wording to reduce ambiguity and appear non- judgemental
+
+
+[ListItem] (page 20)
+When to schedule interviews - How to conduct the interviews (to include telephone as an option and confirming
+
+
+[ListItem] (page 20)
+
+
+
+[NarrativeText] (page 20)
+that video conferencing is acceptable) Identified additional healthcare professionals to interview, who will have important insights into day surgery pathways; namely cancer nurse specialists who might be a first point of contact for patients at home following bladder tumour resection.
+
+
+[ListItem] (page 20)
+Proof-reading the participant facing information - Discussing the broad study concept and agreeing that this could be a practice changing study
+
+
+[NarrativeText] (page 20)
+A PPIE representative will be included in the study team throughout the duration. Their involvement will include:
+
+
+[ListItem] (page 20)
+Screening of potential participants will be undertaking with PPIE input - Analysis: The retained PPIE member will review 3-5 transcripts and perform thematic analysis to determine the degree or agreement with the other two researcher's interpretations. Any differences will be discussed with the wider study team to form agreement around thematic interpretation.
+
+
+[ListItem] (page 20)
+Dissemination of findings: The PPIE member will review any materials produced as part of dissemination, including abstracts, presentations and publications. The PPIE member will be given opportunity to present the study at relevant meetings that they might wish to attend. 20
+
+
+[ListItem] (page 20)
+Dissemination of findings: The PPIE member will review any materials produced as part of dissemination, including abstracts, presentations and publications. The PPIE member will be given opportunity to present the study at relevant meetings that they might wish to attend. 20
+
+
+[NarrativeText] (page 21)
+PPIE time will be reimbursed in accordance with NIHR-defined standards.
+
+
+[NarrativeText] (page 21)
+Data Management All participants will be assigned a unique Study ID number. All data collected will be recorded and stored under this ID number. Descriptive data will be initially recorded onto an electronic study specific Case Report Form and transferred onto a password-protected study specific database. Data files (spreadsheet, audio files, transcription files) will be stored on an encrypted, password protected Royal Devon and Exeter Hospital server. All paper and electronic data will be collected and stored in compliance with data protection guidelines, good clinical practice in research guidance and Trust clinical governance policy.
+
+
+[NarrativeText] (page 21)
+Data monitoring: The research team will undertake regular audits of raw data for both accuracy and completeness and research data will be cleansed before analysis is undertaken.
+
+
+[NarrativeText] (page 21)
+Data Confidentiality: All participant data will be held in a link-anonymised format, with personal identifiable data only accessible to personnel with training in data protection who require this information to perform their duties. Participants’ research and sample data will be identified by unique study ID numbers and all data will be held on password-protected computers. Only the CI and delegated members of the research team will have access to personal identifiable data. To comply with the Data Protection legislation information will be collected and used fairly, stored safely and not disclosed to any unauthorised person. This will apply to both manual and electronically held data. The CI will preserve the confidentiality of participants taking part in the study and ensure the EU General Data Protection Regulations (GDPR) in conjunction with the UK Data Protection Act 2018.
+
+
+[NarrativeText] (page 21)
+The following individuals will have access to participant's personal data during the study:
+
+
+[ListItem] (page 21)
+Chief investigator – access to all data - Principle investigator at sponsor site – access to all data - Research associates x 3 at sponsor site – access to complete set of pseudonymised
+
+
+[ListItem] (page 21)
+
+
+
+[ListItem] (page 21)
+PPIE representative – access to complete set of pseudonymised data - Qualitative research supervisor – access to complete set of pseudonymised data
+
+
+[NarrativeText] (page 21)
+Data will be analysed on password protected NHS computers at the sponsor site by the principle investigator and a further research associate. A small subset of pseudonymised transcripts will be emailed to the PPIE representative's university of Exeter email account for analysis on a University of Exeter computer.
+
+
+[NarrativeText] (page 22)
+Data Storage and Archiving: All electronic documentation of consent, electronic data collection forms, and audio/video files will be stored on an encrypted, password protected server at the Royal Devon and Exeter Hospital, with regular file backup. The server is stored in a dedicated secure facility. Data transfer to this server will be via password protected encrypted NHS email, or using a password protected encrypted USB storage device. Any paper copies of data will be stored in lockable filing cabinets within the RD&E Urology Department offices. Archiving will be undertaken as per current standard RD&E R&D protocols and procedures.
+
+
+[NarrativeText] (page 22)
+Ethical considerations We have identified the potential ethical considerations and addressed them below:
+
+
+[NarrativeText] (page 22)
+Time burden: Participants will be reassured that their involvement in the study is voluntary and that they are able to withdraw at any time. A convenient interview time will be arranged for each study participant.
+
+
+[NarrativeText] (page 22)
+Confidentiality: Caldicott principles will be followed throughout and only data directly relevant to the study will be obtained. Personal data will be stored in a link-anonymised format on a password protected encrypted server at the sponsor site and only accessed by trained individuals when necessary. The recorded audio files will be transcribed, and after this point audio and video will be deleted except for consent audio files. The transcripts will be stored using the participant's study ID number, with the corresponding personal details held separately.
+
+
+[NarrativeText] (page 22)
+We will reassure participants that they will not be identifiable by their responses, and that the results will be presented in such a way that participants could not be indirectly identified. We are aware that the interview asks participants to comment on their hospital’s practice in a way that might feel uncomfortable for them. We will clarify that the questions are intended only to enhance understanding and will not be utilised in such a way as to positively or negatively impact on the participant or their hospital.
+
+
+[NarrativeText] (page 22)
+Scrutiny: Whilst the GIRFT programme recommends day-case endourology surgery, it is accepted that their recommendations might be non-generalisable for reasons that are not understood. This forms the rationale for the study, and at the beginning of interview it will be explained to participants that the study is exploratory in nature and that negative judgement or scrutiny will not be applied with respect to their own or their hospital’s practices.
+
+
+[Title] (page 22)
+Psychological distress:
+
+
+[NarrativeText] (page 23)
+It is likely that professionals will feel a sense of ownership over the service to which they contribute. Asking questions about the performance of this service on a particular metric (day-case surgery rate) could therefore risk appearing judgemental if the questions are not handled sensitively. The interview guide has been addressed with this in mind. Some professionals might find it distressing to discuss their service, if they feel that the service does not meet their own desired standards that they would like to be able to deliver for their patients.
+
+
+[NarrativeText] (page 23)
+In the event of psychological harm experienced during the interview, immediate verbal support will be offered to the participant and the interview ended. Such adverse events will be recorded and discussed with the study team. With participant consent, arrangements will be made for local support to be offered at their hospital by way of contact with the hospital clinical lead. The study sponsor will be notified within 24 hours as per local NHS R&D procedures. An electronic copy of any adverse event form will be stored in the project specific site file.
+
+
+[NarrativeText] (page 23)
+Concern about adverse treatment by employer: The interview responses will be anonymised and when we publish the study results, we will take care to avoid presenting the findings in a way that could identify individuals based on their answers and information provided. As such, it would not be possible for employers to identify individual interviewee's responses.
+
+
+[NarrativeText] (page 23)
+Conflicts of interest: The principle investigator (Joseph John) will be conducting the interviews. Joseph is a urology specialty trainee. No conflicts of interest have been identified and the study is intended to be exploratory, with the aim of uncovering new themes.
+
+
+[NarrativeText] (page 23)
+Counteracting researcher bias: The interviews will be conducted by one researcher, who is a urology specialty trainee. In order to ensure that the interviews remain appropriately interviewee-led and that the interviewer is not directing the interview towards specific themes, anonymised audio footage will be reviewed by a trained NIHR qualitative researcher who is providing project supervision. This will be conducted for three initial pilot interviews performed with professionals working at the sponsor site. Subsequent feedback will be provided in interview technique. When performing thematic analysis of transcripts, 20% of transcripts will be analysed by an additional researcher, and a further small subset analysed by a PPIE representative. This is to ensure consistent interpretation of the data and identify any bias.
+
+
+[NarrativeText] (page 24)
+Adverse event recording and reporting: We do not anticipate adverse events associated with these non-interventional qualitative interviews. In the event of psychological harm experienced during the interview, immediate verbal support will be offered to the participant and the interview ended. Such adverse events will be recorded and discussed with the study team. With participant consent, arrangements will be made for local support to be offered at their hospital by way of contact with their hospital’s clinical lead/local study collaborator. The study sponsor will be notified within 24 hours as per local NHS R&D procedures. An electronic copy of any adverse event form will be stored in the project specific site file.
+
+
+[NarrativeText] (page 24)
+It is unlikely but possible that descriptions of medical malpractice could be described during an interview. In such an event, these concerns would be discussed within the study team, in particular with the GIRFT urology clinical leads, who would be able to raise with the relevant department’s clinical lead if necessary.
+
+
+[NarrativeText] (page 24)
+Participant feedback An opportunity for anonymous participant feedback will be offered following the interview using Survey Monkey. Feedback will be stored in the study file on the Royal Devon and Exeter Hospital encrypted server.
+
+
+[NarrativeText] (page 24)
+Dissemination/implementation of research Results will be written up and submitted for publication in a peer-reviewed journal. Abstracts will be submitted to national and international conferences. Results will be presented to clinical colleagues at regular in-house meetings. Results will be shared as part of future GIRFT reports and the findings might influence future GIRFT recommendations. Written information in the form of a letter outlining the key findings of the study will be sent to all participants and any stakeholders including PPIE representatives who were involved in the study design and implementation.
+
+
+[NarrativeText] (page 24)
+Potential impact and benefit of the proposed research: There is significant scope for the study findings to influence future patient care. New understanding about real-world implementation of day-case surgery pathways might be obtained, in which case this could inform future GIRFT recommendations and interventions in order to improve day-case surgery rates and overall access to surgery. Unexpected outcomes associated with day-case surgery might be identified in such a way that positive outcomes could be maximised and negative outcomes mitigated. Elective surgery recovery is a significant NHS priority and it is possible that these research findings could benefit the elective surgery recovery process. Lastly, because GIRFT workstreams exist for every
+
+
+[NarrativeText] (page 25)
+specialty, if this qualitative study design is successful it can be implemented across other GIRFT specialty areas to maximise impact.
+
+
+[NarrativeText] (page 25)
+End of Study The study will finish when data and interview has been completed for all participants (when thematic saturation is observed) and when analysis of data has been undertaken as timetabled on the Gantt chart.
+
+
+[Title] (page 25)
+References 1.
+
+
+[NarrativeText] (page 25)
+GIRFT. Model Hospital [Internet]. Model Health Website. 2022 [cited 2022 May 21]. Available from: https://model.nhs.uk/home GIRFT Urology. Urology : the path to recovery. GIRFT website. 2022;(April). National Health Service, British Association of Day Surgery. National day surgery delivery pack. 2020;(September):1–54. GIRFT. Urology: towards better care for patients with bladder outlet obstruction [Internet]. GIRFT website. 2022 [cited 2022 Jan 10]. Available from: https://gettingitrightfirsttime.co.uk/wp-content/uploads/2021/12/Urology_2021-12- 10_Guidance_Bladder-outlet-obstruction.pdf
+
+
+[ListItem] (page 25)
+2. 3.
+
+
+[ListItem] (page 25)
+5. Wise J. ENT surgery: increasing day cases could save money, release beds, and benefit
+
+
+[ListItem] (page 25)
+7. 8.
+
+
+[NarrativeText] (page 25)
+patients. BMJ. 2019;367(November):l6440. GIRFT. Getting It Right First Time (GIRFT) [Internet]. GIRFT website. 2022 [cited 2022 May 21]. Available from: https://www.gettingitrightfirsttime.co.uk Harrison S. Urology: GIRFT programme national specialty report. GIRFT website. 2018. GIRFT. Urology: towards better care for patients with bladder cancer. GIRFT website. 2022;(January). GIRFT. Urology: towards better care for patients with acute urinary tract stones. GIRFT website. 2022;(January):1–42.
+
+
+[ListItem] (page 25)
+10. Kiger ME, Varpio L. Thematic analysis of qualitative data : AMEE Guide. Med Teach.
+
+
+[Title] (page 26)
+Appendix 1. Question guide
+
+
+[NarrativeText] (page 26)
+Understanding enablers, barriers, and unexpected outcomes associated with adoption of routine day-case surgery pathways for common endourology operations: Qualitative interviews with healthcare professionals.
+
+
+[Title] (page 26)
+Question guide / script.
+
+
+[NarrativeText] (page 26)
+Introduction “Thank you for agreeing to this interview. It is kind of you to offer your time for it. We have asked you to talk to us because you are involved in delivering a service for patients with bladder cancer, bladder outflow obstruction, or upper urinary tract stones. We want to understand your views about, and experiences of, day-case surgery to resect bladder tumours or treat prostatic enlargement.
+
+
+[NarrativeText] (page 26)
+We will record the interview so that we can re-visit it later, and we will transcribe the interview in to text for analysis. The transcript will be anonymised. You can pause or end the interview at any time and there is no obligation to answer any of the questions.
+
+
+[NarrativeText] (page 26)
+Before we start, do you have any questions?
+
+
+[NarrativeText] (page 26)
+Are you happy for me to start recording and begin the interview?”
+
+
+[NarrativeText] (page 26)
+Opening questions (4 questions) "To start off, tell me about your role at the X hospital.”
+
+
+[NarrativeText] (page 26)
+“Can you tell me about your hospital?”
+
+
+[NarrativeText] (page 26)
+“Tell me about your patient population.”
+
+
+[NarrativeText] (page 26)
+“Tell me what you understand by the term “day-case surgery”?” [If 23 hour stay is included in answer, clarify that for this study we will specifically be considering instances where the patient leaves the hospital on the same day as the surgery, before midnight.]
+
+
+[NarrativeText] (page 27)
+Day-case endourology questions (9 questions) “What are your thoughts about performing endourology operations as a day- case?”
+
+
+[NarrativeText] (page 27)
+“Tell me about any benefits or disadvantages for patients by performing day- case endourology operations.”
+
+
+[NarrativeText] (page 27)
+“What are the potential advantages or disadvantages to performing day-case endourology operations for the hospital and its staff?”
+
+
+[NarrativeText] (page 27)
+“What characteristics do your patients have that allows them to undergo day- case surgery?”
+
+
+[NarrativeText] (page 27)
+“What are the key aspects of a service which allows it to delivery day-case endourology?”
+
+
+[NarrativeText] (page 27)
+“Looking at Model Hospital, I can see that over the last 12 months your hospital performed day-case surgery for; x% of its TURBTs y% of its TURPs / TUEPs z% of its ureteroscopies. w% of cystoscopy plus procedures, so that’s operations like bladder biopsies and urethral dilatation.
+
+
+[NarrativeText] (page 27)
+“What are your views on each of these day-case rates?”
+
+
+[NarrativeText] (page 27)
+“Tell me about any barriers you may have encountered to developing endourology services with a higher day-case rate?”
+
+
+[NarrativeText] (page 27)
+“Can you tell me about any unexpected good or bad outcomes that you have noticed by performing day-case endourology operations?”
+
+
+[NarrativeText] (page 27)
+“Is there anything else about day-case surgery that you think it would be useful for us to know?”

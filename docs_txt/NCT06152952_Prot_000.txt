@@ -1,0 +1,867 @@
+
+[Title] (page 1)
+Research Proposal Form
+
+
+[Title] (page 1)
+This section is for Official Use Only
+
+
+[Title] (page 1)
+Reference Code:
+
+
+[Title] (page 1)
+Date of application (dd/mm/yyyy):
+
+
+[NarrativeText] (page 1)
+This section is for the applicant to fill. • Use Times New Romans Font, size 11 and adjust line spacing to 1.5 all through the application form • Do not CAPITALIZE all words
+
+
+[Title] (page 1)
+Part 1: General
+
+
+[Title] (page 1)
+Master Degree
+
+
+[Title] (page 1)
+b. MD
+
+
+[Title] (page 1)
+c. Independent Research/Project
+
+
+[Title] (page 1)
+1.1 Applicant Name (responsible for all correspondences and accuracy of data):
+
+
+[Title] (page 1)
+Department:
+
+
+[Title] (page 1)
+Ahmed Dify Kamal Mohamed
+
+
+[Title] (page 1)
+General Surgery
+
+
+[Title] (page 1)
+e-mail address: ahmeddify94@gmail.com
+
+
+[NarrativeText] (page 1)
+اﻻﺳﻢ ﺑﺎﻟﻠﻐﺔ اﻟﻌﺮﺑﯿﺔ: أﺣﻤﺪ ﺿﯿﻔﻲ ﻛﻤﺎل ﻣﺤﻤﺪ
+
+
+[Title] (page 1)
+Home Phone:
+
+
+[Title] (page 1)
+1.3 Arabic Title (use the WHO Unified Medical Dictionary): www.emro.who.int/unified-medical -dictionary.html
+
+
+[NarrativeText] (page 1)
+ﺗﻘﯿﯿﻢ ﻧﺘﺎﺋﺞ اﻟﺴﺪﯾﻠﺔ اﻟﻤﻌﯿﻨﯿﺔ ﻓﻲ اﻟﻌﻼج اﻟﺠﺮاﺣﻲ ﻟﻠﻨﺎﺳﻮر اﻟﻌﺼﻌﺼﻲ اﻟﻤﺘﻜﺮر ﻣﻘﺎﺑﻞ اﻟﺨﯿﺎطﺔ اﻟﻌﻤﯿﻘﺔ
+
+
+[Title] (page 1)
+1.4 Do you need funding from Assiut Medical School Grants Office?
+
+
+[Title] (page 1)
+Yes
+
+
+[Title] (page 1)
+No
+
+
+[NarrativeText] (page 1)
+Mention other sponsoring agent(s) if any: …………………………………………...
+
+
+[Title] (page 2)
+Part 2: Research Details
+
+
+[NarrativeText] (page 2)
+2.1 Background (Research Question, Available Data from the literature, Current strategy for dealing with the problem, Rationale of the research that paves the way to the aim(s) of the work). (200-250 words max.)
+
+
+[NarrativeText] (page 2)
+Pilonidal disease derives its name from Latin- pilus meaning “hair,” and nidus meaning “nest” (1). The source of
+
+
+[NarrativeText] (page 2)
+pilonidal disease is thought to be a deep intergluteal sulcus. It is widely accepted that the establishment of the pilonidal
+
+
+[NarrativeText] (page 2)
+sinus results from the penetration of shed hair shafts through the skin, which ultimately leads to an acute or chronic
+
+
+[NarrativeText] (page 2)
+infected site (2).
+
+
+[NarrativeText] (page 2)
+Pilonidal disease is largely considered a surgical disease, especially in acute instances with secondary infection and
+
+
+[NarrativeText] (page 2)
+abscess. Infection or abscess requires incision and drainage. Definitive treatment is delayed the majority of the time if
+
+
+[NarrativeText] (page 2)
+there is an acute infection or abscess until after the infection has been addressed. Surgical options for chronic disease are
+
+
+[NarrativeText] (page 2)
+numerous and can include “pit picking,” curettage, aspiration, unroofing, or surgical excision. Defects can be closed
+
+
+[NarrativeText] (page 2)
+primarily, with flaps or grafts, or allowed to heal by secondary intention (3-5).
+
+
+[NarrativeText] (page 2)
+The most serious problem of the various surgical approaches proposed is the recurrence rate, ranging from 0% to 40% (6,
+
+
+[NarrativeText] (page 2)
+The surgical treatment of patients with recurrent disease does not differ from the surgical treatment of primary pilonidal
+
+
+[NarrativeText] (page 2)
+a flap based procedure may be indicated following sinus excision with scarring, like the rhomboid flap (8, 9).
+
+
+[NarrativeText] (page 2)
+To the best of our knowledge, the existing literature is poor with studies comparing flap-based techniques with deep
+
+
+[NarrativeText] (page 2)
+suturing (or primary closure) techniques in the management of recurrent pilonidal disease.
+
+
+[Title] (page 2)
+2.2 Aim(s) of the Research (50 words max):
+
+
+[NarrativeText] (page 2)
+This prospective clinical trial aims to compare the perioperative outcomes of rhomboid flap versus deep suturing in the
+
+
+[Title] (page 2)
+management of recurrent sacrococcygeal pilonidal disease.
+
+
+[Title] (page 2)
+2.3 Research Domain (Faculty Research Plan).
+
+
+[NarrativeText] (page 2)
+Evidence-based management of a common surgical problem.
+
+
+[Title] (page 2)
+2.4. Research Methods and techniques:
+
+
+[NarrativeText] (page 3)
+2.4.1- Type of the study: A randomized controlled Clinical Trial
+
+
+[Title] (page 3)
+2.4. 2- Study Setting: General Surgery Department, Assiut University Hospitals.
+
+
+[Title] (page 3)
+2.4. 3- Study subjects:
+
+
+[Title] (page 3)
+a. Inclusion criteria:
+
+
+[NarrativeText] (page 3)
+b. Adult patients aged between 18 and 60 years;
+
+
+[NarrativeText] (page 3)
+c. Patients with one or two small inactive sinuses will be included for easier excisional procedures;
+
+
+[Title] (page 3)
+d. Previous intervention for pilonidal disease whether surgical or non-surgical;
+
+
+[Title] (page 3)
+b. Exclusion criteria:
+
+
+[Title] (page 3)
+1- Patients with an acute abscess.
+
+
+[Title] (page 3)
+2- Patients with mall inactive pilonidal sinus disease.
+
+
+[Title] (page 3)
+3- Age beyond the previous limits.
+
+
+[Title] (page 3)
+4- Patients with primary pilonidal disease.
+
+
+[NarrativeText] (page 3)
+5- Refusal to participate in the study.
+
+
+[Title] (page 3)
+6- Unfit for anaesthesia and surgery.
+
+
+[Title] (page 3)
+7- Patients with malignant neoplasms or inflammatory bowel disease.
+
+
+[Title] (page 3)
+c. Sample Size Calculation:
+
+
+[NarrativeText] (page 3)
+The required sample size was calculated using the IBMª SPSSª Sample Powerª version 3.0.1 (IBMª Corp.,
+
+
+[NarrativeText] (page 3)
+Armonk, NY, USA). A previous study conducted by Cihan et al. reported that the incidence of recurrence after
+
+
+[NarrativeText] (page 3)
+Rhomboid Flap was 5.71% (9). Thus, it was estimated that a minimal sample size of 32 patients is required to
+
+
+[NarrativeText] (page 3)
+achieve a power of 80% to detect expected difference of 14 % in the incidence of recurrence, at a significance
+
+
+[NarrativeText] (page 3)
+level of 0.05. An equal number will be recruited in the deep closure group.
+
+
+[Title] (page 3)
+2.4.4 –Study tools (in detail, e.g., lab methods, instruments, steps, chemicals, …):
+
+
+[NarrativeText] (page 3)
+All patients will be subjected to complete history taking (focusing on the duration since the primary operation, symptoms
+
+
+[NarrativeText] (page 3)
+function, prothrombin time, random blood glucose). Additionally, conventional or magnetic resonance sinogram will
+
+
+[NarrativeText] (page 3)
+ordered when required.
+
+
+[Title] (page 3)
+The rhomboid flap Approach (32 patients)
+
+
+[NarrativeText] (page 3)
+The patient will be operated on under spinal anesthesia. The patients will be placed in prone jack-knife position on the
+
+
+[NarrativeText] (page 3)
+operating table with the legs slightly abducted and the buttocks strapped apart by adhesive tapes. The anus will be
+
+
+[NarrativeText] (page 3)
+excluded from the operative field by surgical drapes. The pathologic area to be excised will be marked. This area will be
+
+
+[NarrativeText] (page 4)
+enclosed by a rhombus shape with the long axis in the midline (ABCD). Lines AB = BC = CD = DA will be equal to
+
+
+[NarrativeText] (page 4)
+each other, with the axis AC being along the natal cleft. Line BD will be extended transversely and then the line EF will
+
+
+[NarrativeText] (page 4)
+be drawn equal in length. The rhombus containing the pilonidal sinus will be then excised down to the periosteum in the
+
+
+[NarrativeText] (page 4)
+midline and gluteal fascia laterally. Meticulous hemostasis will be done by means of electrocautery.
+
+
+[NarrativeText] (page 4)
+The flap will be dissected deep to the gluteal fascia (subfascial level) so as to raise thick a fasciocutaneous flap. This will
+
+
+[NarrativeText] (page 4)
+assure good vascularity of the flap without dead space. The rhomboid flap (CDEF) will be mobilized from the gluteal
+
+
+[NarrativeText] (page 4)
+fascia and sutured without tension in three layers (gluteal fascia with 2/0 Vicryl, subcutaneous fat with 3/0 Vicryl, and
+
+
+[NarrativeText] (page 4)
+the skin with 4/0 Prolene). As all sides will be equal in length, the flap fits in place without tension. A suction drain will
+
+
+[NarrativeText] (page 4)
+be left behind and the wound will be dressed as usual. Pressure wound dressing will be applied and removed on the third
+
+
+[Title] (page 4)
+postoperative day.
+
+
+[NarrativeText] (page 4)
+The deep suturing approach (32 patients)
+
+
+[NarrativeText] (page 4)
+A vertical elliptical incision encompassing all pilonidal pits will be made and excision of the sinus will be carried out
+
+
+[NarrativeText] (page 4)
+down to the level of the sacrococcygeal fascia. Tension will be released by a limited sharp dissection above the fascia.
+
+
+[NarrativeText] (page 4)
+After haemostasis is ensured using electrocautery, a suction drain will be inserted through a separate incision, then the
+
+
+[NarrativeText] (page 4)
+deep fascia will be approximated and the wound will be closed in layers using polyglactin 0 sutures. Finally, the skin will
+
+
+[NarrativeText] (page 4)
+be closed with 2/0 polypropylene interrupted mattress sutures.
+
+
+[NarrativeText] (page 4)
+Postoperative care and follow-up
+
+
+[NarrativeText] (page 4)
+Standard postoperative care, including mobilization and return to normal diet as quickly as possible will be
+
+
+[NarrativeText] (page 4)
+recommended. Early postoperative complications (bleeding and urine retention) will be noticed and recorded. Pain score
+
+
+[NarrativeText] (page 4)
+and early wound infection will be recorded. Post-operative pain will be assessed on the first, fourth postoperative day and
+
+
+[NarrativeText] (page 4)
+at stitch removal using a visual analogue scale (VAS) from zero (no pain) to 10 (worst pain imaginable) (10).
+
+
+[NarrativeText] (page 4)
+Patient will be discharged usually on the next day. Oral antibiotics and analgesics will be prescribed on patient’s
+
+
+[NarrativeText] (page 4)
+discharge. All the patients will be advised to shave the area around the operative site at least monthly.
+
+
+[NarrativeText] (page 4)
+All the patients will be recommended to visit the outpatient clinic twice weekly for two weeks then weekly for another
+
+
+[NarrativeText] (page 4)
+two weeks and then every 1 month during the follow-up period (6 months). During each visit, complete patient
+
+
+[NarrativeText] (page 4)
+assessment will be done. If any complications are detected (seroma, recurrence, wound dehiscence), it will be recorded as
+
+
+[Title] (page 4)
+well.
+
+
+[NarrativeText] (page 5)
+Infection will be considered as leakage of purulent secretion through the surgical wound and not only peri-incisional
+
+
+[NarrativeText] (page 5)
+hyperaemia. The suction drain will be removed when drainage became less than 20 mL per day (11). Seroma will be
+
+
+[NarrativeText] (page 5)
+defined as the formation of non-infected serous fluid collection beneath the flap and diagnosed by clinical examination
+
+
+[NarrativeText] (page 5)
+Duration of incapacity for work will be defined as the date on which patient returned to normal activities including
+
+
+[NarrativeText] (page 5)
+employment and leisure activities time from the date of surgery. In addition, patients will be asked to evaluate the
+
+
+[NarrativeText] (page 5)
+cosmetic appearance of the wound by looking at its picture using VAS ranging from 0-10 where 0 means the worst
+
+
+[NarrativeText] (page 5)
+cosmetic outcome and 10 indicates the best cosmetic outcome. A Turkish study used a 0 to 10 visual analogue scale
+
+
+[NarrativeText] (page 5)
+(VAS) scale to assess patient satisfaction with their cosmetic outcome (13).
+
+
+[Title] (page 5)
+2.4.5 –Research outcome measures:
+
+
+[Title] (page 5)
+a. Primary (main):
+
+
+[NarrativeText] (page 5)
+Postoperative recurrence rate. Recurrence will be defined as the additional outbreak of signs and symptoms of pilonidal disease after a disease-free interval following complete wound healing (8).
+
+
+[Title] (page 5)
+b. Secondary (subsidiary):
+
+
+[ListItem] (page 5)
+1. Operative time.
+
+
+[ListItem] (page 5)
+2. Postoperative pain.
+
+
+[ListItem] (page 5)
+3. The incidence of other complications.
+
+
+[ListItem] (page 5)
+4. Postoperative cosmetic outcome.
+
+
+[ListItem] (page 5)
+5. The duration to walk, sit on toilet free from pain.
+
+
+[ListItem] (page 5)
+6. The duration till complete daily activities.
+
+
+[NarrativeText] (page 5)
+2.5-Data management and analysis (Details needed): Data collection Data will be collected by the principal investigator from Assiut University Hospital from. Computer software We will use SPSS version 26 for analyzing the data. Statistical tests Quantitative data will be presented as means ± SD. Categorical and binary variables will be tested using the χ 2 test and Fisher’s exact test. Statistical significance will be assumed when p < 0.05.
+
+
+[NarrativeText] (page 5)
+2.6-References (max. 15) and written in Vancouver style: (1)Esposito C, Cerulo M, Esposito G, Turco A, Borgogni R, Carulli R, et al. Endoscopic Treatment of Pilonidal Sinus Disease in Children: A Systematic Review. Journal of Laparoendoscopic & Advanced Surgical
+
+
+[NarrativeText] (page 6)
+Techniques. 2023;33(5):512-7. (2)Konoplitskyi V, Shavliuk R, Dmytriiev D, Dmytriiev K, Kyrychenko O, Zaletskyi B, et al. Pilonidal disease: changes in understanding of etiology, pathogenesis and approach to treatment. Wiadomosci Lekarskie (Warsaw, Poland: 1960). 2019;72(8):1559-65. (3)Harries RL, Alqallaf A, Torkington J, Harding KG. Management of sacrococcygeal pilonidal sinus disease. International Wound Journal. 2019;16(2):370-8. (4)Grabowski J, Oyetunji TA, Goldin AB, Baird R, Gosain A, Lal DR, et al. The management of pilonidal disease: a systematic review. Journal of pediatric surgery. 2019;54(11):2210-21. (5)Saber A, Bayumi EK. Sacrococcygeal Pilonidal Sinus Disease. In: Shiffman MA, Low M, editors. Biofilm, Pilonidal Cysts and Sinuses. Cham: Springer International Publishing; 2020. p. 215-30. (6)Monson JRT, Weiser MR, Buie WD, Chang GJ, Rafferty JF, Buie WD, et al. Practice parameters for the management of rectal cancer (revised). Diseases of the Colon & Rectum. 2013;56(5):535-50. (7)Manigrasso M, Velotti N, Sosa Fernandez LM, Vertaldi S, Maione F, Gennarelli N, et al. Endoscopic approach to recurrent pilonidal sinus: a retrospective analysis. Journal of Laparoendoscopic & Advanced Surgical Techniques. 2021;31(1):1-5. (8)Milone M, Basso L, Manigrasso M, Pietroletti R, Bondurri A, La Torre M, et al. Consensus statement of the Italian society of colorectal surgery (SICCR): management and treatment of pilonidal disease. Techniques in Coloproctology. 2021:1-12. (9)Cihan A, Ucan BH, Comert M, Cesur A, Cakmak GK, Tascilar O. Superiority of asymmetric modified Limberg flap for surgical treatment of pilonidal disease. Diseases of the colon & rectum. 2006;49:244-9. (10)Crichton N. Visual analogue scale (VAS). J Clin Nurs. 2001;10(5):706-6. (11)Tavassoli A, Noorshafiee S, Nazarzadeh R. Comparison of excision with primary repair versus Limberg flap. International Journal of Surgery. 2011;9(4):343-6. (12)Arnous M, Elgendy H, Thabet W, Emile SH, Elbaz SA, Khafagy W. Excision with primary midline closure compared with Limberg flap in the treatment of sacrococcygeal pilonidal disease: a randomised clinical trial. The Annals of The Royal College of Surgeons of England. 2019;101(1):21-9. (13)Ertan T, Koc M, Gocmen E, Aslar AK, Keskek M, Kilic M. Does technique alter quality of life after pilonidal sinus surgery? The American journal of surgery. 2005;190(3):388-92.
+
+
+[NarrativeText] (page 7)
+Part 3: Ethical Considerations (Written in detail taking into consideration the items below):
+
+
+[Title] (page 7)
+3.1. Risk – benefit assessment:
+
+
+[NarrativeText] (page 7)
+Risk of complications after surgery included infection, wound dehiscence, and recurrence.
+
+
+[NarrativeText] (page 7)
+Benefit by removing sinus tracts which will significantly improve patient satisfaction and quality of life.
+
+
+[NarrativeText] (page 7)
+3.2. Confidentiality (dealing with data and data dissemination should be confidential).
+
+
+[NarrativeText] (page 7)
+Principle investigator should maintain a confidential list of patients included in the study along with their national IDs so that patients can be identified at a later date for follow-up and validation if required. This list should be stored in line with Assiut university data protection laws.
+
+
+[NarrativeText] (page 7)
+3.3. Statement describing the research procedure to be given to the participants.
+
+
+[NarrativeText] (page 7)
+two-stage endoscopic stone extraction followed by laparoscopic cholecystectomy.
+
+
+[Title] (page 7)
+single-stage laparoscopic CBD exploration and cholecystectomy.
+
+
+[Title] (page 7)
+3.4. Informed consent.
+
+
+[NarrativeText] (page 7)
+Informed consent will be obtained from the participants before the enrollment and after explaining the study.
+
+
+[Title] (page 7)
+3.5. Other ethical concerns:
+
+
+[ListItem] (page 7)
+The research should be conducted only by scientifically qualified and trained personnel.
+
+
+[ListItem] (page 7)
+The research should be based on relevant pre-clinical investigations in animals.
+
+
+[ListItem] (page 7)
+The detailed consent form must be inserted here in the proposal.
+
+
+[NarrativeText] (page 7)
+ﻣﻮاﻓﻘﺔ ﻟﻼﺷﺘﺮاك ﻓﻲ اﻟﺒﺤﺚ اﻟﻌﻠﻤﻲ: اﺳﻢ اﻟﺒﺎﺣﺚ: أﺣﻤﺪ ﺿﯿﻔﻲ ﻛﻤﺎل ﻣﺤﻤﺪ ﻋﻨﻮان اﻟﺒﺤﺚ: ﺗﻘﯿﯿﻢ ﻧﺘﺎﺋﺞ اﻟﺴﺪﯾﻠﺔ اﻟﻤﻌﯿﻨﯿﺔ ﻓﻲ اﻟﻌﻼج اﻟﺠﺮاﺣﻲ ﻟﻠﻨﺎﺳﻮر اﻟﻌﺼﻌﺼﻲ اﻟﻤﺘﻜﺮر ﻣﻘﺎﺑﻞ اﻟﺨﯿﺎطﺔ اﻟﻌﻤﯿﻘﺔ
+
+
+[NarrativeText] (page 7)
+ﻧﻮع اﻟﺒﺤﺚ : ﻋﺸﻮاﺋﻲ ﻣﻨﻀﺒﻂ ﻣﻜﺎن اﺟﺮاء اﻟﺒﺤﺚ: ﻗﺴﻢ اﻟﺠﺮاﺣﺔ اﻟﻌﺎﻣﺔ – ﻣﺴﺘﺸﻔﯿﺎت ﺟﺎﻣﻌﺔ أﺳﯿﻮط أﻧﺖ ﻣﺪﻋﻮ)ة( ﻟﻠﻤﺸﺎرﻛﺔ ﺑﺒﺤﺚ ﻋﻠﻤﻲ ﺳﺮي ﺳﯿﺠﺮى ﻓﻲ ﻗﺴﻢ اﻟﺠﺮاﺣﺔ اﻟﻌﺎﻣﺔ - ﻣﺴﺘﺸﻔﯿﺎت ﺟﺎﻣﻌﺔ اﺳﯿﻮط. اﻟﺮﺟﺎء أن ﺗﺄﺧﺬ)ي( اﻟﻮﻗﺖ اﻟﻜﺎﻓﻲ ﻟﻘﺮاءة اﻟﻤﻌﻠﻮﻣﺎت اﻟﺘﺎﻟﯿﺔ ﺑﺘﺎن ﻗﺒﻞ أن ﺗﻘﺮر)ي( أذا ﻛﻨﺖ ﺗﺮﯾﺪ)ﯾﻦ( اﻟﻤﺸﺎرﻛﺔ أم ﻻ. ﺑﺈﻣﻜﺎﻧﻚ طﻠﺐ اﯾﻀﺎﺣﺎت او ﻣﻌﻠﻮﻣﺎت اﺿﺎﻓﯿﺔ ﻋﻦ اي ﺷﻲء ﻣﺬﻛﻮر ﻓﻲ ھﺬه اﻻﺳﺘﻤﺎرة او ﻋﻦ ھﺬه اﻟﺪراﺳﺔ ﻛﻜﻞ ﻣﻦ طﺒﯿﺒﻚ. وﯾﺘﻌﮭﺪ اﻟﺒﺎﺣﺚ ﺑﺎﻧﮫ ﻗﺪ ﺗﻢ وﺻﻒ ﻟﻠﻤﺮﯾﺾ اﻟﺒﺤﺚ اﻟﻌﻠﻤﻲ وھﺪﻓﮫ وﺗﻔﺴﯿﺮ ﻣﺠﺮﯾﺎﺗﮫ، اﻟﻔﻮاﺋﺪ اﻟﺘﻲ ﺗﻨﺘﺞ ﻋﻦ ھﺬا اﻟﺒﺤﺚ، اﻟﺘﺄﺛﯿﺮات اﻟﺴﻠﺒﯿﺔ اﻟﺘﻲ ﯾﻤﻜﻦ أن ﯾﺴﺒﺒﮭﺎ ھﺬا اﻟﺒﺤﺚ، اﻟﻄﺮق اﻟﺒﺪﯾﻠﺔ ﻟﻠﻮﺻﻮل ﻟﻠﮭﺪف اﻟﻤﺮﺟﻮ. وأﯾﻀﺎ ﻓﻲ ﺣﺎﻟﺔ اﻟﻤﻮاﻓﻘﺔ ﻋﻠﻰ اﻟﻤﺸﺎرﻛﺔ ﻓﻲ ھﺬه اﻟﺪراﺳﺔ ﺳﯿﺒﻘﻰ اﺳﻤﻚ طﻲ اﻟﻜﺘﻤﺎن. ﻟﻦ ﯾﻜﻮن ﻷي ﺷﺨﺺ, ﻣﺎ ﻟﻢ ﯾﻨﺺ اﻟﻘﺎﻧﻮن ﻋﻠﻰ ذﻟﻚ, ﺣﻖ اﻻطﻼع ﻋﻠﻰ ﻣﻠﻔﻚ اﻟﻄﺒﻲ ﺑﺎﺳﺘﺜﻨﺎء اﻟﻄﺒﯿﺐ اﻟﻤﺴﺌﻮل ﻋﻦ اﻟﺪراﺳﺔ و ﻣﻌﺎوﻧﯿﮫ وﻟﺠﺎن اﻻﺧﻼق اﻟﻤﮭﻨﯿﺔ اﻟﻤﺴﺘﻘﻠﺔ و ﻣﻔﺘﺸﯿﻦ ﻣﻦ اﻻدارات اﻟﺤﻜﻮﻣﯿﺔ اﻟﻤﻨﻈﻤﺔ. اذا ﺣﺼﻞ اي ﻋﺎرض ﺳﻠﺒﻲ ﻣﻦ ﺟﺮاء اﻟﻤﺸﺎرﻛﺔ ﻓﻲ ھﺬه اﻟﺪراﺳﺔ ﻟﻦ ﯾﻜﻮن ھﻨﺎك اي ﺗﻌﻮﯾﻀﺎت ﻣﺎﻟﯿﺔ. أﻗﺮ اﻧﺎ ﻏﯿﺮ ﻗﺎدرا ﻋﻠﻰ اﻟﺘﻮﻗﯿﻊ ) ﺗﻨﺘﺞ ﻋﻦ اﻟﺠﺮاﺣﺔ اﺛﻨﺎء وﺑﻌﺪ اﻟﻌﻤﻠﯿﺔ. واﻧﻨﻲ اواﻓﻖ ﻋﻠﻰ اﺟﺮاء اﻟﻌﻤﻠﯿﺔ واﻟﻤﺸﺎرﻛﺔ ﻓﻲ اﻟﺒﺤﺚ اﻟﻌﻠﻤﻲ وﻧﺸﺮ اي ﻣﻌﻠﻮﻣﺎت او ﺑﯿﺎﻧﺎت ﺧﺎﺻﺔ ﺑﺎﻟﺠﺮاﺣﺔ. أﺳﻢ اﻟﺒﺎﺣﺚ اﻟﺘﻮﻗﯿﻊ
+
+
+[NarrativeText] (page 7)
+أﺳﻢ اﻟﻤﺮﯾﺾ او ﻣﻤﺜﻠﮫ اﻟﻘﺎﻧﻮﻧﻲ او وﻟﯿﮫ اﻟﺠﺒﺮي او وﺻﯿﮫ اذا ﻛﺎن اﻟﻤﺮﯾﺾ ﻗﺎﺻﺮا او ﺑﺎن اﻟﻄﺒﯿﺐ ﻗﺪ ﺷﺮح اﻟﺒﺤﺚ اﻟﻌﻠﻤﻲ و ھﺪﻓﮫ و ﻓﻮاﺋﺪه واﻟﺘﺄﺛﯿﺮات اﻟﺴﻠﺒﯿﺔ اﻟﺘﻲ ﻗﺪ ﯾﺴﺒﺒﮭﺎ, واﯾﻀﺎ اﻟﻤﻀﺎﻋﻔﺎت اﻟﺘﻲ ﻗﺪ
+
+
+[Title] (page 7)
+أﺳﻢ اﻟﻤﺮﯾﺾ: اﻟﺘﺎرﯾﺦ:
+
+
+[NarrativeText] (page 8)
+Part 4: Funding (Mandatory for those requesting funding from Grant Office)
+
+
+[NarrativeText] (page 8)
+4.1. Total funds requested: LE
+
+
+[NarrativeText] (page 8)
+4.2. Author responsible for managing the budget/grant (Cannot be a resident):
+
+
+[Title] (page 8)
+Name Department e-mail
+
+
+[Title] (page 8)
+Mobile
+
+
+[Title] (page 8)
+4.3. Budget Details
+
+
+[Title] (page 8)
+Cost
+
+
+[Title] (page 8)
+§ Research equipment and accessories
+
+
+[Title] (page 8)
+§ Chemicals/Medications
+
+
+[Title] (page 8)
+§ Data entry
+
+
+[Title] (page 8)
+§ Statistical analysis
+
+
+[Title] (page 8)
+4.4. All researchers’ International publications in the last 3 years.
+
+
+[Title] (page 8)
+Title
+
+
+[Title] (page 8)
+Journal
+
+
+[NarrativeText] (page 8)
+(Add others if required)
+
+
+[NarrativeText] (page 8)
+4.5. Details of Previously Obtained Grants (institutional or others):
+
+
+[Title] (page 8)
+Title
+
+
+[Title] (page 8)
+Name of Applicant for grant
+
+
+[NarrativeText] (page 8)
+Date obtained
+
+
+[NarrativeText] (page 8)
+(Add others if required)
+
+
+[Title] (page 8)
+Finished
+
+
+[Title] (page 8)
+Yes/No
+
+
+[Title] (page 8)
+Impact Factor
+
+
+[Title] (page 8)
+Published
+
+
+[Title] (page 8)
+Yes/No
+
+
+[NarrativeText] (page 9)
+4.6. Research reporting timetable (Mandatory if applying for a fund): Activity (Other activities may be added)
+
+
+[Title] (page 9)
+Time required (Months)
+
+
+[Title] (page 9)
+Preparation and development of Material
+
+
+[NarrativeText] (page 9)
+Training of personnel involved in the research (if needed) Research work (Clinical, lab work or field work)
+
+
+[Title] (page 9)
+Data entry and analysis
+
+
+[Title] (page 9)
+Research writing
+
+
+[Title] (page 9)
+Publication
+
+
+[ListItem] (page 9)
+Numbers indicates the time in months needed to complete each part of the project. * Please half squares corresponding to time required for each specific action
+
+
+[NarrativeText] (page 9)
+ﯾﺘﻌﮭﺪ اﻟﺒﺎﺣﺜﻮن ﺑﻨﺸـﺮ ﻧﺘـﺎﺋﺞ اﻟﺒﺤـﺚ اﻟﻤﻤـﻮل ﻣـﻦ وﺣـﺪة ﺗﻤﻮﯾـﻞ اﻷﺑﺤـﺎث ﻓـﻰ إﺣـﺪى اﻟـﺪورﯾﺎت ﻓـﻰ ﺧـﻼل Scopus اﻟﻌﻠﻤﯿـﺔ اﻟﻤﺤﻜﻤـﺔ واﻟﻤﺪرﺟـﺔ ﻋﻠـﻰ ﻗﺎﻋـﺪة اﻟﻔﺘﺮة اﻟﺰﻣﻨﯿﺔ اﻟﻤﺤﺪدة ﻓﻰ اﻟﺒﻨﺪ اﻟﺴﺎﺑﻖ ﻣﻦ ﻗﺒﻠﮭﻢ واﻻ ﯾـﺘﻢ ﺧﺼـﻢ ﻣﺒﻠـﻎ اﻟﺘﻤﻮﯾـﻞ ﻣـﻦ ﻣﺮﺗﺒـﺎﺗﮭﻢ ﺑﺎﻟﺘﺴﺎوى ﻓﯿﻤﺎ ﺑﯿـﻨﮭﻢ ﻛﻤـﺎ ﯾﺘﻌﮭـﺪوا ﺑﺎﻹﺷـﺎرة اﻟـﻰ ﻣﺴـﺎھﻤﺔ وﺣـﺪة ﺗﻤﻮﯾـﻞ اﻷﺑﺤـﺎث ﺑﻜﻠﯿـﺔ طـﺐ أﺳﯿﻮط ﻋﻨﺪ ﻧﺸﺮ اﻟﺒﺤﺚ.
+
+
+[Title] (page 9)
+Web Of Science
+
+
+[Title] (page 9)
+أو
+
+
+[Title] (page 10)
+Faculty of Medicine Institutional Review Board (IRB)
+
+
+[NarrativeText] (page 10)
+Part 5 – Declaration (Name in printed letters):
+
+
+[NarrativeText] (page 10)
+I / we (all investigators) certify that, to the best of our knowledge and after reasonable inquiry, the information contained in this application, and any supporting documents provided with this application, are correct and complete, and that this research has not been conducted or published before.
+
+
+[Title] (page 10)
+Web Of Science
+
+
+[Title] (page 10)
+أو
+
+
+[Title] (page 10)
+Scopus
+
+
+[NarrativeText] (page 10)
+ﻣﺮﺗﺒﺎﺗﮭﻢ ﺑﺎﻟﺘﺴﺎوى ﻓﯿﻤﺎ ﺑﯿﻨﮭﻢ ﻛﻤﺎ ﯾﺘﻌﮭﺪوا ﺑﺎﻹﺷﺎرة اﻟﻰ ﻣﺴﺎھﻤﺔ وﺣﺪة ﺗﻤﻮﯾﻞ اﻷﺑﺤﺎث ﺑﻜﻠﯿﺔ طﺐ أﺳﯿﻮط ﻋﻨﺪ ﻧﺸﺮ اﻟﺒﺤﺚ.
+
+
+[NarrativeText] (page 10)
+Authorship Responsibility (Add more authors if required)
+
+
+[Title] (page 10)
+Title Name
+
+
+[Title] (page 10)
+Role**
+
+
+[Title] (page 10)
+e-mail
+
+
+[Title] (page 10)
+Phone
+
+
+[Title] (page 10)
+Department Signature
+
+
+[Title] (page 10)
+1 Prof. Abd El-Moniem Ismail Mohamad El-Khateeb
+
+
+[Title] (page 10)
+supervisior Abdelmoneam.elkhateb
+
+
+[Title] (page 10)
+@med.au.edu.eg
+
+
+[Title] (page 10)
+01005022533 General surgery
+
+
+[Title] (page 10)
+2 Lect. Ahmed Mohamed Ali Abdullah
+
+
+[Title] (page 10)
+3 Lect. Moamen shalkamy abdelgawad
+
+
+[Title] (page 10)
+supervisior Ahmed.abdallah6@med .au.edu.eg supervisior Moamen.shalkamy@au
+
+
+[Title] (page 10)
+n.edu.eg
+
+
+[Title] (page 10)
+01000363039 General surgery
+
+
+[Title] (page 10)
+01017520093 General surgery
+
+
+[Title] (page 10)
+4 G.P. Ahmed Dify Kamal Mohamed
+
+
+[Title] (page 10)
+Researcher Ahmeddify94@gmail.c
+
+
+[Title] (page 10)
+om
+
+
+[Title] (page 10)
+01022552241 General surgery
+
+
+[NarrativeText] (page 10)
+**Choose at least 1 from each of the 3 groups below
+
+
+[Title] (page 10)
+Group 1
+
+
+[Title] (page 10)
+Group 2
+
+
+[Title] (page 10)
+Group 3
+
+
+[NarrativeText] (page 10)
+2.1- Drafting of the submitted protocol 2.2-Critical revision of the submitted protocol for important intellectual content
+
+
+[NarrativeText] (page 10)
+3.1- Statistical analysis 3.2- Obtaining funding 3.3- Administrative, technical, or material support 3.4- Supervision 3.5- Other (specify)
+
+
+[NarrativeText] (page 10)
+After completing the application form, please
+
+
+[ListItem] (page 10)
+1. Record the completed and revised application form on a CD and present to the Vice Dean Research Office.
+
+
+[Title] (page 10)
+Assiut Medical School Research Proposal Form
+
+
+[Title] (page 11)
+Faculty of Medicine Institutional Review Board (IRB)
+
+
+[ListItem] (page 11)
+2. All authors should sign a printed copy of the completed application form that should be presented as well to the Vice Dean Research Office.
+
+
+[ListItem] (page 11)
+3. A copy of the printed and signed research application form should be presented to the Ethical Committee. 4.
+
+
+[NarrativeText] (page 11)
+It is the applicant responsibility to make sure that the application form is fully and accurately completed and that all other supporting documents or formalities are completed in due time.
+
+
+[Title] (page 11)
+Assiut Medical School Research Proposal Form

@@ -1,0 +1,355 @@
+
+[Title] (page 1)
+Project Name: Clinical Application of Portable Intelligent Multi
+
+
+[Title] (page 1)
+Joint Isokinetic Training and Evaluation System
+
+
+[Title] (page 1)
+Technology
+
+
+[Title] (page 1)
+Project number：2021004
+
+
+[Title] (page 1)
+Sponsor:
+
+
+[Title] (page 1)
+Qianfoshan Hospital
+
+
+[Title] (page 1)
+Responsible Party: Principal Investigator
+
+
+[Title] (page 1)
+Investigator: Ran Shi
+
+
+[Title] (page 1)
+Official Title: doctor
+
+
+[Title] (page 1)
+Affiliation: Qianfoshan Hospital
+
+
+[NarrativeText] (page 1)
+Starting and ending years: January 2024 to December 2024
+
+
+[Title] (page 1)
+November 21, 2023
+
+
+[Title] (page 3)
+1 Materials and Methods
+
+
+[Title] (page 3)
+1.1 General information
+
+
+[NarrativeText] (page 3)
+A total of 90 stroke hemiplegic rehabilitation patients who were
+
+
+[NarrativeText] (page 3)
+hospitalized in the Rehabilitation Department of Qianfoshan Hospital in
+
+
+[NarrativeText] (page 3)
+Shandong Province from January 2022 to January 2023 were selected,
+
+
+[NarrativeText] (page 3)
+meeting the diagnostic criteria for cerebral
+
+
+[Title] (page 3)
+infarction and cerebral
+
+
+[Title] (page 3)
+hemorrhage in the 2007 edition of the Chinese Guidelines for the
+
+
+[NarrativeText] (page 3)
+Prevention and Treatment of Cerebrovascular Diseases, and confirmed by
+
+
+[NarrativeText] (page 3)
+cranial CT or MR examination; All of them are first-time onset, with a
+
+
+[NarrativeText] (page 3)
+course of ≤ 1 month, and the lower limb of the hemiplegic side is
+
+
+[NarrativeText] (page 3)
+classified as stage III or above. All participants signed an informed
+
+
+[NarrativeText] (page 3)
+consent form. All patients have stable vital signs, stable condition,
+
+
+[Title] (page 3)
+no history of congenital diseases or other brain diseases, no history of
+
+
+[NarrativeText] (page 3)
+organic or functional mental illness. Divide patients into a control group
+
+
+[NarrativeText] (page 3)
+and a treatment group using a random number table method. There are 30
+
+
+[Title] (page 3)
+cases in the control group, 30 cases in the intelligent isokinetic treatment
+
+
+[Title] (page 3)
+group, and 30 cases in the traditional isokinetic treatment group.
+
+
+[Title] (page 3)
+1.2 Method
+
+
+[Title] (page 3)
+Both the control group and the two treatment groups
+
+
+[NarrativeText] (page 3)
+received
+
+
+[Title] (page 4)
+minutes a time, 5 times a week), acupuncture and moxibustion therapy
+
+
+[NarrativeText] (page 4)
+(once a day, 20 minutes a time, 5 times a week), which complied with the
+
+
+[Title] (page 4)
+recommendations on rehabilitation treatment in the 2017 edition of the
+
+
+[Title] (page 4)
+Guidelines for Early Rehabilitation Treatment of Stroke in China;
+
+
+[NarrativeText] (page 4)
+Intelligent isokinetic therapy adds isokinetic muscle strength training to
+
+
+[Title] (page 4)
+the lower limb flexion and extension muscles of hemiplegia in the above
+
+
+[Title] (page 4)
+treatments. The intelligent portable isokinetic tester of this project team
+
+
+[NarrativeText] (page 4)
+was used for isokinetic training of the affected knee flexor and extensor
+
+
+[NarrativeText] (page 4)
+muscles. The patient's seat backrest was adjusted to 85 °, and the waist
+
+
+[NarrativeText] (page 4)
+and shoulder cross straps were fixed. The proximal thighs of the test
+
+
+[NarrativeText] (page 4)
+subjects were fixed with nylon buckles, the lateral condyle of the femur
+
+
+[NarrativeText] (page 4)
+was the axis, and the length of the arm was 12 on the scale. The distal
+
+
+[NarrativeText] (page 4)
+ankle of the lower leg was fixed above the ankle. Before training, passive
+
+
+[NarrativeText] (page 4)
+joint movements were performed on the knee and ankle joints to avoid
+
+
+[NarrativeText] (page 4)
+joint damage, And conduct
+
+
+[Title] (page 4)
+three low resistance warm-up exercises.
+
+
+[NarrativeText] (page 4)
+Choose 60 ° /s, 90 ° /s, and 120 ° /s angular velocity isokinetic
+
+
+[NarrativeText] (page 4)
+training based on the patient's specific situation. Train 10 times for each
+
+
+[Title] (page 4)
+angular velocity, with 15 seconds of rest between each cycle, and 2
+
+
+[NarrativeText] (page 4)
+minutes of rest between each cycle. Train for 4 cycles according to the
+
+
+[NarrativeText] (page 4)
+patient's tolerance, with an appropriate amount of training to cause
+
+
+[NarrativeText] (page 5)
+minutes per training session). Train each muscle group once a day, 5 days
+
+
+[NarrativeText] (page 5)
+a week, for a total of 3 weeks. The control group received 110 minutes of
+
+
+[NarrativeText] (page 5)
+daily training, while the observation group received 135 minutes of daily
+
+
+[NarrativeText] (page 5)
+training. Traditional isokinetic therapy has the same treatment parameters
+
+
+[Title] (page 5)
+as the intelligent isokinetic group in this project group.
+
+
+[Title] (page 5)
+1.3 Evaluation method
+
+
+[NarrativeText] (page 5)
+Before and after treatment, a dedicated person is assigned to assess
+
+
+[NarrativeText] (page 5)
+whether the patient is in the control group or treatment group, which is a
+
+
+[NarrativeText] (page 5)
+third-party blind assessment. Evaluate lower limb motor function using
+
+
+[Title] (page 5)
+the Fugl Meyer method (total lower limb motor score 34 points, total
+
+
+[NarrativeText] (page 5)
+balance score 14 points). Muscle strength, muscle tone examination,
+
+
+[NarrativeText] (page 5)
+motor function, and self-care ability scores. And record the peak torque
+
+
+[NarrativeText] (page 5)
+(PT) at an angular velocity of 60 °/s. The reason for choosing this angle
+
+
+[NarrativeText] (page 5)
+is because most of our subjects find it difficult
+
+
+[NarrativeText] (page 5)
+to produce faster
+
+
+[NarrativeText] (page 5)
+movements. PT refers to the maximum torque output generated by muscle
+
+
+[NarrativeText] (page 5)
+contraction, representing the maximum muscle force generated by muscle
+
+
+[Title] (page 5)
+contraction, in N ·m. In isokinetic muscle strength testing, the PT value
+
+
+[NarrativeText] (page 5)
+has high accuracy and repeatability, and is considered the golden
+
+
+[NarrativeText] (page 5)
+indicator of isokinetic muscle strength testing. It has high repeatability,
+
+
+[NarrativeText] (page 5)
+and the peak torque measurement of knee joint flexion and extension is
+
+
+[Title] (page 5)
+particularly stable. At the same time, a satisfaction questionnaire survey
+
+
+[NarrativeText] (page 6)
+was conducted on the use of different isokinetic methods, quantifying the
+
+
+[NarrativeText] (page 6)
+characteristics of the two types of isokinetic methods based on the results:
+
+
+[NarrativeText] (page 6)
+the survey content includes patients' comfort, satisfaction, and treatment
+
+
+[NarrativeText] (page 6)
+effectiveness; Therapist: Conduct statistics on operability, learning curve,
+
+
+[Title] (page 6)
+economy, and other aspects.
+
+
+[Title] (page 6)
+2 Statistical analysis
+
+
+[NarrativeText] (page 6)
+SPSS 23.0 software was used for data statistical analysis. The
+
+
+[NarrativeText] (page 6)
+measurement data is represented by the mean ± standard deviation, the
+
+
+[NarrativeText] (page 6)
+inter group comparison is performed using one-way analysis of variance,
+
+
+[NarrativeText] (page 6)
+the pairwise comparison between groups is performed using LSD test, the
+
+
+[NarrativeText] (page 6)
+mean comparison between two samples is performed using t-test, and the
+
+
+[NarrativeText] (page 6)
+rate comparison of categorical data is performed using chi square test.
+
+
+[NarrativeText] (page 6)
+P<0.05 indicates a statistically significant difference.

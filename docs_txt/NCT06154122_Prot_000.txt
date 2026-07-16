@@ -1,0 +1,427 @@
+
+[Title] (page 1)
+Study title:
+
+
+[Title] (page 1)
+The Feasibility of Virtual Reality-Based Activities for Upper Limb Rehabilitation of People
+
+
+[Title] (page 1)
+Short title (optional): with Acute/Sub-Acute Tetraplegia. Introduction:
+
+
+[Title] (page 1)
+Virtual Reality Upper Limb Therapy (VRULT).
+
+
+[NarrativeText] (page 1)
+People with SCI have muscular paralysis and loss of sensory and autonomic function below the level of their injury. Immediately following injury, people with SCI require acute in-patient care, during which rehabilitation is started. For people with tetraplegia, where the injury affects all four limbs, improving upper limb function is a major focus of acute rehabilitation. People with tetraplegia reported improvement in hand and arm function as their highest priority for improvement compared to other rehabilitation targets (Anderson, 2004).
+
+
+[NarrativeText] (page 1)
+Virtual Reality (VR) technology used as an assistive device for upper limb rehabilitation has potential for people with SCI during rehabilitation by facilitating greater adherence to therapy and increasing access to the most effective rehabilitation strategies for people with neurological disorders (Schiza , 2019). However, currently only a few studies have investigated the use of VR in SCI rehabilitation of the upper limbs. Of these studies, most have reported positive outcomes (De Miguel-Rubio et al.
+
+
+[Title] (page 1)
+et al.
+
+
+[Title] (page 1)
+et al.
+
+
+[Title] (page 1)
+et al.
+
+
+[Title] (page 1)
+et al.
+
+
+[NarrativeText] (page 1)
+Three systematic reviews on the use of VR after spinal cord injury have been published (de Araújo , 2020). Overall the findings suggest that VR training can 2019; Yeo improve motor function and balance, reduce symptoms such as pain, and improve aerobic function. However, there were consistent limitations reported including a relatively small number of studies, small experimental samples, and no consensus on the optimal treatment parameters or technology employed. Furthermore, there were no studies that evaluated the use of highly immersive VR in the acute phase following SCI when there is most potential for recovery (Lewis
+
+
+[Title] (page 1)
+, 2019; Miguel-Rubio
+
+
+[Title] (page 1)
+et al.
+
+
+[NarrativeText] (page 1)
+We have therefore developed a set of VR-based physical exercises for upper limb rehabilitation in collaboration with people with lived experience of tetraplegia and spinal cord injury specialists. VR will allow the participant to repeatedly experience engaging, fun, and motivating digital environments within Study aim(s): which they can practise upper limb movements as an adjunct to standard upper limb rehabilitation.
+
+
+[NarrativeText] (page 1)
+The aim of this randomised controlled feasibility study is to determine if this intervention is usable and acceptable for people with tetraplegia and therapists during acute rehabilitation.
+
+
+[Title] (page 1)
+Primary Objective
+
+
+[Title] (page 1)
+Feasibility
+
+
+[NarrativeText] (page 1)
+To evaluate the feasibility of a co-designed, bespoke, high-immersion VR intervention for upper limb exercise in the context of acute upper limb rehabilitation after spinal cord injury.
+
+
+[Title] (page 1)
+Secondary Objective
+
+
+[Title] (page 1)
+Exploration of effectiveness
+
+
+[NarrativeText] (page 1)
+: To explore the effectiveness of the VR-based upper limb rehabilitation intervention for people with tetraplegia during the acute, in-patient stage of rehabilitation.
+
+
+[Title] (page 2)
+Study design and methods: Study Design:
+
+
+[Title] (page 2)
+Location:
+
+
+[NarrativeText] (page 2)
+Randomised controlled feasibility study.
+
+
+[Title] (page 2)
+Intervention:
+
+
+[NarrativeText] (page 2)
+The intervention group will receive a personalised VR upper limb rehabilitation
+
+
+[NarrativeText] (page 2)
+programme prescribed by a therapist with games chosen depending on the exercise task required. The types of games will include playing archery, boxing, and puzzle-based games Participants will be asked to undertake the programme for up to 30 minutes at least three times per week for 12 weeks in addition to usual care and will be supervised by a therapist. Data Collection:
+
+
+[NarrativeText] (page 2)
+Both patient groups will be asked to complete the following strength and performance measures at baseline, and subsequent visits at week 6 (midpoint), and week 12 (end of the intervention), which will be recorded using a Case Report Form (CRF). Assessments will be carried out by an independent GCP-trained therapist at the QENSIU. These assessments are expected to take up to 2 hours to complete:
+
+
+[Title] (page 2)
+Motor score
+
+
+[Title] (page 2)
+et al.
+
+
+[NarrativeText] (page 2)
+(ISNCSCI) Upper Extremity Motor Score (UEMS) (Rupp UEMS is a measurement with moderate to high validity and high reliability. Sensation
+
+
+[Title] (page 2)
+et al.
+
+
+[NarrativeText] (page 2)
+will be assessed according to the ISNCSCI (light touch and pin prick) (Rupp
+
+
+[Title] (page 2)
+2021). Independence et al.
+
+
+[NarrativeText] (page 2)
+will be evaluated by the Spinal Cord Independence Measure (SCIM-III) (Itzkovich , 2007). The SCIM-III is a measure of function created for people with SCI. It is used to define
+
+
+[Title] (page 2)
+et al.
+
+
+[NarrativeText] (page 2)
+independence and function, and its subscales efficiently and safely provide valid and reliable quantitative descriptions of independence (Itzkovich Hand/upper limb function
+
+
+[Title] (page 2)
+et al.
+
+
+[NarrativeText] (page 2)
+will be evaluated by the Graded and Redefined Assessment of
+
+
+[NarrativeText] (page 2)
+Strength, Sensibility and Prehension (GRASSP) subscales (Kalsi-Ryan measure designed specifically for traumatic tetraplegia to detect changes in functional and neurological outcomes related to the upper limb. The GRASSP is valid, responsive, and sensitive (Kalsi-Ryan sensation, prehension ability, and prehension performance of each hand. Pain
+
+
+[NarrativeText] (page 2)
+, 2012). The GRASSP is a
+
+
+[Title] (page 2)
+et al.
+
+
+[NarrativeText] (page 2)
+, 2016), consisting of five subtests for strength, dorsal sensation, palmar
+
+
+[Title] (page 2)
+et al.
+
+
+[NarrativeText] (page 2)
+as assessed using a Visual Analogue Scale (Bryce
+
+
+[Title] (page 2)
+USE Questionnaire
+
+
+[NarrativeText] (page 2)
+post-treatment audio-recorded interviews
+
+
+[NarrativeText] (page 2)
+The VR intervention group will be asked to complete the these participants will attend in length, in a quiet room in the QENSIU, to explore the feasibility of the intervention. Therapists who delivered the VR intervention will attend separate 30-minute post-intervention interviews.
+
+
+[Title] (page 2)
+(Lund, 2001). 8 of that up to 45 minutes
+
+
+[Title] (page 2)
+Data management:
+
+
+[NarrativeText] (page 2)
+The study team will collect names of participants, as well as demographic information including age and sex. The level, severity, and mechanism of injury of their SCI will be recorded at baseline. Only the study team will have access to the data. Demographic data will be used as part of the descriptive analysis to determine feasibility. Data will be recorded on the CRF and stored in a locked cabinet in a locked room in the Scottish Centre for Innovation in Spinal Cord Injury (SCISCI) research mezzanine at the QENSIU.
+
+
+[NarrativeText] (page 3)
+Choice of control group and standard care (if applicable): it will be deleted and CRFs will be shredded as confidential waste.
+
+
+[NarrativeText] (page 3)
+A control group will be used for this trial, who will receive treatment as usual. Usual upper limb rehabilitation is delivered by occupational therapists and physiotherapists and aims to build strength of the upper limbs and optimise function. Patients receive hand therapy once per day and physiotherapy twice per day. Rehabilitation is highly individualised. When the endpoint is reached for participants Inclusion and exclusions criteria: randomised to the control group they will be given the opportunity to try the VR intervention. Inclusion Criteria
+
+
+[NarrativeText] (page 3)
+(the participant may enter the trial if ALL of the following apply):
+
+
+[NarrativeText] (page 3)
+Willing and able to give informed consent for participation in the trial. Aged 18 years or above. An in-patient at the Queen Elizabeth National Spinal Injuries Unit in Glasgow with a diagnosis of tetraplegia. Sustained a cervical spine injury (C4-C8). Medically stable to engage in physical rehabilitation and physical activity. Sitting up in a wheelchair for at least 2 hours daily.
+
+
+[Title] (page 3)
+Exclusion Criteria
+
+
+[NarrativeText] (page 3)
+(participants will be excluded from taking part if they have):
+
+
+[NarrativeText] (page 3)
+Scheduled elective surgery or other procedures requiring general anaesthesia anticipated within the next 12 weeks. Any significant disease or disorder which, may either put the participants at risk because of participation in the trial, or may influence the result of the trial, or the participant’s ability to participate in the trial. Participated in another research trial involving an investigational product in the past 12 weeks. Participating in another research trial investigating upper limb rehabilitation interventions. Self-reported motion sickness.
+
+
+[Title] (page 3)
+Recruitment of participants:
+
+
+[NarrativeText] (page 3)
+The study aims to recruit 24 participants using convenience sampling. All participants will be recruited from the QENSIU. Louise Cownie (Occupational Therapy Lead) or Dr Mariel Purcell (Consultant) will make first contact with the participants and introduce the study to participants who may fit the Consent: inclusion/exclusion criteria.
+
+
+[NarrativeText] (page 3)
+Potential participants will be approached by the clinical team at the QENSIU. If they are interested in taking part they will be given the participant information sheet. Participants will be given a week to decide if they want to participate, and will be able to ask questions about the study to any member of the study team.
+
+
+[NarrativeText] (page 3)
+Participants will be able to ask questions about the study and then will provide written informed consent. Where they are mentally capable of providing consent but physically unable to sign a consent form they will be able to provide a witness (who is not a member of the study team) to sign the consent form in the presence of the participant and the individual receiving their consent (Andrew Goodsell). Participants will Possible harms: be able to withdraw from the study at any point without requiring a reason for withdrawal.
+
+
+[NarrativeText] (page 3)
+There are minimal risks to those involved in the study. Potential harms of participation in the VR intervention include ‘cybersickness’ which can occur in some people who use head-mounted displays. In the context of this study, adverse events (AEs) could include injury of the upper limb, upper limb pain or Steps taken to mitigate possible harms: discomfort, any other musculoskeletal injury, cyber-sickness/dizziness.
+
+
+[NarrativeText] (page 4)
+The VR intervention has been designed to reduce and eliminate potential stimuli for cybersickness. This includes ensuring that the user’s perspective is not changed by the system while using the intervention and unnecessary movements other of objects in the games are minimised. The intervention will be Possible benefits: optimised for a smooth, uninterrupted experience.
+
+
+[NarrativeText] (page 4)
+Community engagement (if applicable): The intervention has the potential to positively affect upper limb function and reduce pain in participants.
+
+
+[NarrativeText] (page 4)
+The intervention has been Return of results and incidental findings (if applicable): and spinal cord injury specialists.
+
+
+[NarrativeText] (page 4)
+co-produced through a series of focus groups including people with tetraplegia
+
+
+[NarrativeText] (page 4)
+Findings will be published in the PhD thesis and a peer-reviewed academic journal and lay summaries will Post-trial access (if applicable): be sent to participants at their request.
+
+
+[Title] (page 4)
+Payment and/or reimbursement: N/A
+
+
+[NarrativeText] (page 4)
+Participants will not receive payment for their participation in the study. As participants will be inpatients Study related injury or difficulties: during their participation they will not need reimbursement for expenses like travel.
+
+
+[NarrativeText] (page 4)
+The participant’s consultant within the QENSIU will be informed of their participation in the study. The participants will be undertaking the VR intervention under supervision of a therapist and they will be closely monitored to avoid VR-related accidents and sickness.
+
+
+[NarrativeText] (page 4)
+To monitor for AEs, close links with the participant’s clinical team will be maintained, and a therapist will be present throughout while the VR device is in use. Participants and therapists will be informed on how to recognise the onset of cyber-sickness symptoms in order to rest or end sessions early if needed. After the VR sessions, there will be 10 minutes of time to monitor any symptoms and ensure participants are comfortable. All interventions will take place within the spinal unit during working hours.
+
+
+[NarrativeText] (page 4)
+Study-related difficulties will be reported to the chief investigator and sponsor. A summary of AEs will be Other ethical concerns: included in the final report.
+
+
+[NarrativeText] (page 4)
+References: There are no other ethical considerations for this trial.
+
+
+[Title] (page 4)
+Journal of
+
+
+[Title] (page 4)
+et al.
+
+
+[Title] (page 4)
+BioMed Research International
+
+
+[Title] (page 4)
+de Araújo, A.V.L. Systematic Review’, https://doi.org/10.1155/2019/7106951.
+
+
+[Title] (page 4)
+(2019) ‘Efficacy of Virtual Reality Rehabilitation after Spinal Cord Injury: A
+
+
+[Title] (page 4)
+, 2019, pp. 1–15. Available at:
+
+
+[Title] (page 4)
+et al.
+
+
+[Title] (page 4)
+The Journal of Spinal Cord Medicine
+
+
+[Title] (page 4)
+et al.
+
+
+[NarrativeText] (page 4)
+De Miguel-Rubio, A. medicine Cord Injury: A Systematic Review and Meta-Analysis of Randomized Controlled Trials’, , 9(7), p. 2065. Available at: https://doi.org/10.3390/jcm9072065.
+
+
+[Title] (page 4)
+et al.
+
+
+[Title] (page 4)
+Itzkovich, M. validity in a multi-center international study’, Available at: https://doi.org/10.1080/09638280601046302.
+
+
+[Title] (page 4)
+et al.
+
+
+[Title] (page 5)
+et al.
+
+
+[Title] (page 5)
+Journal of Neurotrauma
+
+
+[NarrativeText] (page 5)
+Kalsi-Ryan, S. and Redefined Assessment of Strength, Sensibility, and Prehension, Version 1.0’, 33(3), pp. 307–314. Available at: https://doi.org/10.1089/neu.2015.4217. Neurospine
+
+
+[Title] (page 5)
+(2016) ‘Responsiveness, Sensitivity, and Minimally Detectable Difference of the Graded
+
+
+[Title] (page 5)
+et al.
+
+
+[Title] (page 5)
+(2022) ‘Effect of Acute Physical Interventions on Pathophysiology and Recovery After
+
+
+[Title] (page 5)
+Usability Interface
+
+
+[NarrativeText] (page 5)
+Lund (2001) ‘Measuring usability with the USE questionnaire’,
+
+
+[Title] (page 5)
+et al.
+
+
+[Title] (page 5)
+Journal of Clinical Medicine
+
+
+[NarrativeText] (page 5)
+Miguel-Rubio, A.D. Cord Injury? A Systematic Review and Meta-Analysis’, Available at: https://doi.org/10.3390/jcm9092861. in Spinal Cord Injury Rehabilitation Rupp, R.
+
+
+[Title] (page 5)
+(2020) ‘Is Virtual Reality Effective for Balance Recovery in Patients with Spinal
+
+
+[Title] (page 5)
+et al.
+
+
+[Title] (page 5)
+(2021) ‘International Standards for Neurological Classification of Spinal Cord Injury’, Frontiers in
+
+
+[Title] (page 5)
+et al. robotics and AI Schiza, E.
+
+
+[NarrativeText] (page 5)
+(2019) ‘Virtual Reality Applications for Neurological Disease: A Review’, , 6, p. 100. Available at: https://doi.org/10.3389/frobt.2019.00100.
+
+
+[Title] (page 5)
+et al.
+
+
+[Title] (page 5)
+Topics
+
+
+[Title] (page 5)
+Innovations in Clinical Neuroscience
+
+
+[Title] (page 5)
+(2019) ‘Virtual Reality Neurorehabilitation for Mobility in Spinal Cord Injury: A Structured

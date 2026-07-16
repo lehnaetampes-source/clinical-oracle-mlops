@@ -1,0 +1,30 @@
+# --- RAG ---
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-text-splitters==0.3.2
+langchain-mistralai==0.2.4
+chromadb==0.5.23
+sentence-transformers==3.3.1
+pdfminer.six==20221105
+numpy==1.26.4
+scikit-learn==1.5.2
+tqdm==4.67.0
+
+# --- Interface ---
+streamlit==1.40.2
+
+# --- Parsing PDF (pipeline d'ingestion) ---
+unstructured==0.16.11
+unstructured-inference==0.8.1
+
+# --- Stockage / cloud ---
+boto3==1.35.99
+
+# --- Tests qualité (CI) ---
+pytest==8.3.4
+pandas==2.2.3
+evidently==0.4.40
+
+# --- Orchestration (à installer côté environnement Airflow, pas dans l'image Streamlit) ---
+# apache-airflow==2.10.4
+# apache-airflow-providers-amazon==9.1.0

@@ -1,0 +1,71 @@
+
+[Title] (page 1)
+Study Protocol
+
+
+[Title] (page 1)
+Title
+
+
+[Title] (page 1)
+Principal Investigator
+
+
+[Title] (page 1)
+Co-investigators
+
+
+[Title] (page 1)
+Study centers & Address
+
+
+[Title] (page 1)
+Pediatric Hematology-Oncology Unit, King Chulalongkorn Memorial Hospital
+
+
+[Title] (page 1)
+Study period
+
+
+[Title] (page 1)
+12 months
+
+
+[NarrativeText] (page 1)
+Objectives: - Primary objective: To compare outcome between Extended half-life FVIII concentrates with pharmacokinetic guided and low dose Emicizumab using Annualized bleeding rate, Annualized joint bleeding rate, and HemoQol in patient with clinically severe Hemophilia A - Secondary objective: To study about pharmacokinetic and side effect of emicizumab
+
+
+[Title] (page 1)
+Study design: Interventional study without concurrent controls: Before-after (pre-post) studies
+
+
+[NarrativeText] (page 1)
+Informed Consent Process Investigator give all patients about study information then contact back to investigator if one was interested to participate in the study then sign consent before enrolled and appoint for next visit
+
+
+[Title] (page 1)
+Study procedure - Interventional study without concurrent controls: Before-after (pre-post) studies
+
+
+[ListItem] (page 2)
+Pre-intervention defined as using low dose factor VIII prophylaxis. And Post-intervention defined as using low dose emicizumab (2 mg/kg/dose) Then compare Annualized bleeding rate (ABR), Annualized joint bleeding rate, AJBR, Quility of life (HemoQoL) before and after prophylaxis bleeding with low dose Emicizumab. First month, loading emicizumab 1-1.5 mg/kg/dose subcutaneous every 2 weeks then maintenance with same dose every 4 weeks for 6 months Comparator, dosage & mode of administration - Extended half-life FVIII concentrates intravenous using PK-based for at least 6 months
+
+
+[Title] (page 2)
+Duration of participation for each volunteer – at least 6 months
+
+
+[NarrativeText] (page 2)
+Outcome variables - Primary: New choice of Prophylactic treatment for clinically severe Hemophilia A - Secondary: Improve Annualized bleeding rate (ABR), Annualized joint bleeding rate (AJBR), and quality of life for clinically severe Hemophilia A
+
+
+[NarrativeText] (page 2)
+Statistical method - Median and interquartile range (percentile 25-75) for continuous variables - Frequency and percentage for discrete variables - Wilcoxon Signed rank test: to compare outcome between before-after low dose emicizumab - Pearson’s correlation coefficiency: to find correlation factor affect emicizumab levels - Paired t test : to compare ABR, AJBR between before-after low dose emicizumab - P<0.05 is statistic significant
+
+
+[NarrativeText] (page 2)
+Ethical Consideration: Respect of person, Beneficence/Non-malefience, and Justice: Study protocol have been approved by Institutional review board, Faculty of medicine, Chulalongkorn University
+
+
+[Title] (page 2)
+Approved by Institutional review board COA No 08-0/2023 IRB No. 0206/66

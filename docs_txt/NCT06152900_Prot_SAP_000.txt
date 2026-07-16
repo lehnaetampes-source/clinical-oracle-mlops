@@ -1,0 +1,2307 @@
+
+[NarrativeText] (page 1)
+Sponsor: Lutronic, Inc. Funded by: Lutronic, Inc.
+
+
+[Title] (page 1)
+Date: September 8, 2021 Clinical Protocol Number: AFL19006 Version number: 2.0
+
+
+[Title] (page 2)
+Sponsor Statement and Signature Page Company Name:
+
+
+[Title] (page 2)
+Lutronic, Inc.
+
+
+[Title] (page 2)
+Address:
+
+
+[Title] (page 2)
+19 Fortune Drive
+
+
+[Title] (page 2)
+Telephone:
+
+
+[NarrativeText] (page 2)
+The investigation will be conducted in compliance with the clinical investigation plan (CIP), GCP, EN ISO 14155, the Declaration of Helsinki, and regulatory authority requirements.
+
+
+[NarrativeText] (page 2)
+Lutronic, Inc. (hereinafter “Study Sponsor”) maintains responsibility for the ongoing safety of this clinical trial involving the evaluation of the Genius System. Study Sponsor will promptly notify all investigators, the responsible IRB(s), and the regulatory authorities of any findings from ongoing trial monitoring activities that could adversely affect the safety of subjects, impact the conduct of the clinical study, or alter the IRB’s approval to continue the study, specifically within 5 working days of making an Unanticipated Adverse Device Effect (UADE) determination or 15 working days after first receiving notice of the UADE, within 10 days for Serious Adverse Event reports, and at least annually for routine reports. In the event that participant safety could be directly affected by study results after the study has ended, Study Sponsor will notify all investigators of these results to enable investigators to consider informing participants as soon as possible or at least within one year of study closure. The following individuals are responsible for the content of the Clinical Investigational Plan:
+
+
+[Title] (page 2)
+Paul Cardarelli Director, Clinical Research & Product Development
+
+
+[Title] (page 2)
+Date
+
+
+[Title] (page 2)
+Contact Information
+
+
+[Title] (page 2)
+Protocol Number:
+
+
+[Title] (page 2)
+Sponsor:
+
+
+[Title] (page 2)
+Lutronic Global 19 Fortune Dr. Billerica, MA 01821
+
+
+[Title] (page 2)
+Lutronic Contact Information:
+
+
+[Title] (page 2)
+Paul Cardarelli Director, Clinical Research & Product Development Phone: 888-588-7644 Email: pcardarelli@lutronic-usa.com
+
+
+[Title] (page 3)
+Site Contact Information:
+
+
+[NarrativeText] (page 3)
+Primary Investigator Omar A. Ibrahimi, M.D., Ph.D. 19 Fortune Dr. Billerica, MA 01821 Email: omar.ibrahimi@gmail.com Tel: (203) 428-4440 Fax: (203)890-9449
+
+
+[NarrativeText] (page 3)
+If you have any questions or complaints about your rights as a research subject, contact:
+
+
+[Title] (page 3)
+Allendale IRB Telephone: (860)434-5872 Fax: (860)434-5892 rta1ali1@aol.com
+
+
+[NarrativeText] (page 4)
+Statement of Compliance I have thoroughly read and reviewed this clinical investigation plan (CIP) and hereby agree to participate in this clinical trial sponsored by Lutronic, Inc I agree to conduct this investigation according to the requirements of the CIP provided by the Study Sponsor and in accordance with Good Clinical Practice (GCP) as required by EN ISO 14155, the Declaration of Helsinki, Investigational Device Exemption (21 CFR Part 812), Protection of Human Subjects (45 CFR Part 46), and other applicable FDA regulations, and regulations of other relevant regulatory authorities and conditions imposed by the reviewing Institutional Review Board (IRB) or Ethics Committee (EC). I agree that no deviation from, or changes to the CIP will take place without prior agreement from the sponsor and documented approval from the Institutional Review Board (IRB), except where necessary to eliminate an immediate hazard(s) to the trial participants. I agree to ensure that appropriate informed consent is obtained from all subjects prior to inclusion in this study. I also agree to supervise all testing of the device involving human subjects, and to report to the Study Sponsor, within 24 hours, any adverse event that is serious, whether considered treatment-related or not. I am aware that the Study Sponsor reserves the right to discontinue this investigation at any time.
+
+
+[NarrativeText] (page 4)
+I understand that this investigation will be monitored by the Study Sponsor and/or a designee contracted or employed by the Study Sponsor. This monitoring will involve periodic inspection of my investigational site and ongoing review of the data that is submitted by me to the Study Sponsor. All study data will be scanned and uploaded within 1 week after the study visit. I am also aware that I may be inspected by a representative of the relevant regulatory authorities, including the United States Food and Drug Administration, to verify compliance with applicable regulations related to clinical research on human subjects.
+
+
+[NarrativeText] (page 4)
+My current curriculum vitae and the curriculum vitae of physicians/licensed practitioners at this institution who will participate as co-investigators/sub-investigators in this study will be provided to the Study Sponsor. This curriculum vitae will include the extent and type of our relevant experience with pertinent dates and locations. All personnel involved in the conduct of this study have completed Human Subjects Protection Training.
+
+
+[NarrativeText] (page 4)
+I certify that I have not been involved in an investigation that was terminated for non-compliance at the insistence of the Study Sponsor, the IRB or EC, or other regulatory authorities. I agree to provide the Study Sponsor sufficient, accurate financial disclosure information. I also agree to update financial disclosure information if any relevant changes occur during the investigation and for one year following the completion of the study.
+
+
+[NarrativeText] (page 4)
+I understand that this CIP and the trial results are confidential, and I agree not to disclose any such information to any person other than a representative of the Study Sponsor or the relevant competent authorities without the prior written consent of the Study Sponsor. Accepted by:
+
+
+[Title] (page 4)
+Principal Investigator Signature
+
+
+[Title] (page 4)
+Principal Investigator Name
+
+
+[Title] (page 4)
+Date
+
+
+[Title] (page 4)
+Co-/Sub-Investigator Signature
+
+
+[Title] (page 4)
+Co-/Sub-Investigator Name
+
+
+[Title] (page 4)
+Date
+
+
+[Title] (page 4)
+Co-/Sub-Investigator Signature
+
+
+[Title] (page 4)
+Co-/Sub-Investigator Name
+
+
+[Title] (page 5)
+List of Abbreviations TERM
+
+
+[Title] (page 5)
+DEFINITION
+
+
+[Title] (page 5)
+AE
+
+
+[Title] (page 5)
+Adverse Event
+
+
+[Title] (page 5)
+ADE
+
+
+[Title] (page 5)
+Adverse Device Effect
+
+
+[Title] (page 5)
+ANCOVA BMI
+
+
+[Title] (page 5)
+Analysis of Covariance Body Mass Index
+
+
+[Title] (page 5)
+CFR
+
+
+[Title] (page 5)
+Code of Federal Regulations
+
+
+[Title] (page 5)
+CGAIS
+
+
+[Title] (page 5)
+CIP CMP CRF CRO CV DCC DSMB EC eCRF ETE FDA
+
+
+[Title] (page 5)
+FDAAA
+
+
+[Title] (page 5)
+GAIS
+
+
+[Title] (page 5)
+Global Aesthetic Improvement Scale
+
+
+[Title] (page 5)
+GCP GLP GMP
+
+
+[Title] (page 5)
+HIPAA
+
+
+[Title] (page 5)
+IB
+
+
+[Title] (page 5)
+ICH
+
+
+[Title] (page 5)
+Protocol Number: AFL19006
+
+
+[Title] (page 5)
+TERM
+
+
+[Title] (page 5)
+DEFINITION
+
+
+[Title] (page 5)
+ICH E6
+
+
+[Title] (page 5)
+ICMJE
+
+
+[Title] (page 5)
+IDE IFU
+
+
+[Title] (page 5)
+ISO
+
+
+[Title] (page 5)
+IRB
+
+
+[Title] (page 5)
+Institutional Review Board
+
+
+[Title] (page 5)
+Serious Adverse Event Statistical Analysis Plan
+
+
+[Title] (page 5)
+SADE
+
+
+[Title] (page 5)
+Serious Adverse Device Effect
+
+
+[Title] (page 5)
+SGAIS
+
+
+[Title] (page 5)
+SMC SOP UADE
+
+
+[Title] (page 5)
+USA
+
+
+[Title] (page 5)
+United States of America
+
+
+[Title] (page 5)
+Page 5 of 35
+
+
+[Title] (page 6)
+Protocol Synopsis Protocol Number: Protocol Title:
+
+
+[Title] (page 6)
+Extremities
+
+
+[Title] (page 6)
+Investigational Devices:
+
+
+[Title] (page 6)
+Development Phase: Study Objective:
+
+
+[Title] (page 6)
+Brief Study Overview:
+
+
+[NarrativeText] (page 6)
+The Accufit Electrical Muscle Stimulation device is an FDA cleared two-channel muscle stimulator that provides up to 8 electrodes with unique waveforms for muscle stimulation. Evaluation The objective of this clinical study is to assess the safety and efficacy of a novel electrical stimulation device for use in improving muscle strength and toning of the core and extremities. Open-label, baseline-controlled, multi-center study evaluating an electrical muscle stimulation system for Improvement of Muscle Strength and Toning, Circumferential Reduction of the Core and Extremities The study will enroll up to 60 subjects desiring and to improve muscle strength and tone and circumferential reduction in their core and extremities. Each subject will receive up to 8 bi-weekly treatments over a 4-week period. Follow up visits planned for 30- and 90-days post treatment. Measurement outcomes will be compared to baseline.
+
+
+[Title] (page 6)
+Number of Sites Enrolling Participants: Sample Size:
+
+
+[Title] (page 6)
+Subject Population:
+
+
+[Title] (page 6)
+Up to 6 sites
+
+
+[NarrativeText] (page 6)
+The study will enroll up to 60 male and female subjects ≥ 18 years to 60 years of age who are seeking to improve muscle strength and tone in the extremities. Healthy, female and male adult subjects age 18 to 60 years who meet the inclusion/exclusion criteria.
+
+
+[Title] (page 6)
+Inclusion Criteria:
+
+
+[ListItem] (page 6)
+1. Able to read, understand and voluntarily provide written informed consent. 2. Healthy male or female, ≥ 18 years to 65 years of age seeking treatment for improved muscle strength and muscle toning in their core and extremities.
+
+
+[ListItem] (page 6)
+3. Subject is determined to be physically fit and agrees to not making any major changes in their diet or lifestyle during the study.
+
+
+[ListItem] (page 6)
+4. Able and willing to comply with the treatment/follow-up schedule and requirements. 5. Women of child-bearing age are required to be using a reliable method of birth control at least 3 months prior to study enrollment and for the duration of the study as well as have a negative Urine Pregnancy test at baseline.
+
+
+[Title] (page 6)
+Exclusion Criteria:
+
+
+[ListItem] (page 6)
+1. Pregnant in the last 3 months, intending to become pregnant, postpartum or nursing in the last 6 months.
+
+
+[ListItem] (page 6)
+2. Any previous liposuction/lipo-sculpture or any type of surgical procedure in the treatment area in the past 12 months.
+
+
+[ListItem] (page 6)
+3. History of immunosuppression/immune deficiency disorders (including AIDS and HIV infection) or use of immunosuppressive medications, 6 months prior to and during the study.
+
+
+[ListItem] (page 6)
+4. History of hyperlipidemia, diabetes mellitus, hepatitis, blood coagulopathy or excessive bleeding.
+
+
+[ListItem] (page 6)
+5. Having a history of skin cancer or any other cancer in the areas to be treated, including presence of malignant or premalignant pigmented lesions.
+
+
+[ListItem] (page 6)
+6. Having a permanent implant in the treatment area such as metal plates or an injected chemical substance such as silicone in the treatment area.
+
+
+[ListItem] (page 6)
+7. Suffering from significant skin conditions in the treatment area or inflammatory skin conditions including but not limited to open lacerations, abrasions, herpes sores, cold sores, active infections.
+
+
+[ListItem] (page 6)
+8. Poor skin quality (severe laxity). 9. Abdominal wall, muscular abnormality or hernia on physical examination. 10. As per the investigator’s discretion, any physical or mental condition which may make it unsafe for the subject to participate.
+
+
+[Title] (page 6)
+Protocol Number: AFL19006
+
+
+[Title] (page 6)
+Page 6 of 35
+
+
+[ListItem] (page 7)
+11. Subjects unwilling or unable to adhere to all study requirements for treatment and follow-up.
+
+
+[ListItem] (page 7)
+12. Investigator may exclude any subject at any time at his/her discretion.
+
+
+[Title] (page 7)
+Primary Endpoint:
+
+
+[NarrativeText] (page 7)
+Photographic evaluation by an independent, blinded reviewer with correct identification of pre- treatment baseline images when compared to post-treatment images taken at follow up visits.
+
+
+[Title] (page 7)
+Secondary Endpoints:
+
+
+[ListItem] (page 7)
+1. Global Aesthetic Improvement grading by Expert Clinician. 2.
+
+
+[NarrativeText] (page 7)
+Improvement of muscle strength as measured by a dynamometer at follow up visits compared to baseline measurements.
+
+
+[ListItem] (page 7)
+3. Reduction in core circumference as measured by Seca Circumferential System at follow up visits compared to baseline measurement.
+
+
+[ListItem] (page 7)
+4. To assess subject satisfaction using Satisfaction Survey at each follow up visit.
+
+
+[Title] (page 7)
+Safety Endpoints:
+
+
+[Title] (page 7)
+Study Duration: Participant Duration:
+
+
+[NarrativeText] (page 7)
+Subject’s assessment of discomfort as measured by a 0-10 numeric rating scale. Subjects experiencing a treatment-related adverse event (AE). The duration from when the study opens to enrollment for 12 months. 7 months
+
+
+[Title] (page 7)
+Protocol Number: AFL19006
+
+
+[Title] (page 7)
+Page 7 of 35
+
+
+[Title] (page 8)
+Table of Contents Sponsor Statement and Signature Page
+
+
+[Title] (page 8)
+Contact Information
+
+
+[Title] (page 8)
+Statement of Compliance
+
+
+[Title] (page 8)
+List of Abbreviations
+
+
+[Title] (page 8)
+Protocol Synopsis
+
+
+[ListItem] (page 8)
+1. KEY ROLES
+
+
+[Title] (page 8)
+Internal Responsibilities
+
+
+[Title] (page 8)
+INTRODUCTION: BACKGROUND INFORMATION AND SCIENTIFIC RATIONALE
+
+
+[Title] (page 8)
+Background Information
+
+
+[Title] (page 8)
+2.1.1 Device Name and Indications for Use
+
+
+[Title] (page 8)
+2.1.2 Mechanism of Actions
+
+
+[Title] (page 8)
+2.1.3 Device Overview
+
+
+[Title] (page 8)
+Rationale
+
+
+[Title] (page 8)
+Potential Risks and Benefits
+
+
+[Title] (page 8)
+Known Potential Risks
+
+
+[Title] (page 8)
+Contraindications
+
+
+[Title] (page 8)
+Known Potential Benefits
+
+
+[ListItem] (page 8)
+3. OBJECTIVES AND PURPOSE
+
+
+[Title] (page 8)
+Study Objectives
+
+
+[Title] (page 8)
+Study Endpoints
+
+
+[Title] (page 8)
+Primary Endpoint
+
+
+[Title] (page 8)
+Secondary Endpoints
+
+
+[Title] (page 8)
+STUDY DESIGN AND ENDPOINTS
+
+
+[Title] (page 8)
+Description of the Study Design
+
+
+[Title] (page 8)
+DURATION OF STUDY
+
+
+[Title] (page 8)
+SUBJECT ENROLLMENT AND WITHDRAWAL
+
+
+[Title] (page 8)
+Participant Inclusion Criteria
+
+
+[Title] (page 8)
+Informed Consent
+
+
+[Title] (page 8)
+5.1.2 Pre-treatment Recruiting/Screening
+
+
+[Title] (page 8)
+Screen Failures
+
+
+[Title] (page 8)
+Inclusion Criteria
+
+
+[Title] (page 8)
+Participant Exclusion Criteria
+
+
+[Title] (page 8)
+Strategies for Recruitment and Retention
+
+
+[Title] (page 8)
+Subject Payment
+
+
+[Title] (page 8)
+Participant Withdrawal or Termination
+
+
+[Title] (page 8)
+Premature Termination or Suspension of the Study or a Study Site
+
+
+[Title] (page 9)
+STUDY PROCEDURES AND SCHEDULE
+
+
+[Title] (page 9)
+Photography
+
+
+[Title] (page 9)
+Study Schedule
+
+
+[Title] (page 9)
+6.2.1 STUDY SPECIFIC PROCEDURES
+
+
+[Title] (page 9)
+LABORATORY EVALUATION
+
+
+[Title] (page 9)
+Screening & Baseline Assessment (Visit 1)
+
+
+[Title] (page 9)
+Study Treatment
+
+
+[Title] (page 9)
+Subject Preparation for Study Treatment
+
+
+[Title] (page 9)
+Study Treatment (Visits 1-12)
+
+
+[Title] (page 9)
+Acute Responses
+
+
+[Title] (page 9)
+Post- Care Instructions
+
+
+[Title] (page 9)
+Schedule of Activities
+
+
+[Title] (page 9)
+Safety Assessments
+
+
+[Title] (page 9)
+6.5.7 Unscheduled Visit
+
+
+[Title] (page 9)
+Study Treatment
+
+
+[Title] (page 9)
+Subject Preparation for Study Treatment
+
+
+[Title] (page 9)
+Study Treatment
+
+
+[Title] (page 9)
+Acute Responses
+
+
+[Title] (page 9)
+Post- Care
+
+
+[Title] (page 9)
+Concomitant Medications
+
+
+[ListItem] (page 9)
+7. ASSESSMENT OF SAFETY
+
+
+[Title] (page 9)
+Specifications of Safety Parameters
+
+
+[Title] (page 9)
+7.1.2 Definition of Serious Adverse Event (SAE)
+
+
+[Title] (page 9)
+7.1.3 Definition of Unanticipated Adverse Device Effects (Events)
+
+
+[Title] (page 9)
+Classification of an Event
+
+
+[Title] (page 9)
+Severity of Event
+
+
+[Title] (page 9)
+Relationship to the Investigational Device
+
+
+[Title] (page 9)
+Expectedness
+
+
+[Title] (page 9)
+Time Period and Frequency for Event Assessment and Follow-up
+
+
+[Title] (page 9)
+Reporting Procedures
+
+
+[Title] (page 9)
+Adverse Event Reporting
+
+
+[Title] (page 9)
+Serious Adverse Event Reporting
+
+
+[Title] (page 9)
+7.4.3 Unanticipated Adverse Device Effect Reporting
+
+
+[Title] (page 9)
+Reporting of Pregnancy
+
+
+[Title] (page 9)
+Reporting of Deaths
+
+
+[ListItem] (page 9)
+8. CLINICAL MONITORING
+
+
+[Title] (page 10)
+STATISTICAL ANALYSIS
+
+
+[Title] (page 10)
+Statistical and Analytical Plans
+
+
+[Title] (page 10)
+Analysis Datasets
+
+
+[Title] (page 10)
+DESCRIPTION OF STATISTICAL METHODS
+
+
+[Title] (page 10)
+SAFETY ANALYSES
+
+
+[Title] (page 10)
+BASELINE DESCRIPTIVE STATISTICS
+
+
+[Title] (page 10)
+Analysis of Primary Endpoints
+
+
+[Title] (page 10)
+Analysis of Secondary Endpoints
+
+
+[Title] (page 10)
+SOURCE DOCUMENTS AND ACCESS TO SOURCE DATA/ DOCUMENTS
+
+
+[Title] (page 10)
+ETHICS/PROTECTION OF HUMAN SUBJECTS
+
+
+[Title] (page 10)
+Ethical Standard
+
+
+[Title] (page 10)
+Institutional Revthighiew Board
+
+
+[Title] (page 10)
+Informed Consent Process
+
+
+[Title] (page 10)
+Consent/Assent and Other Informational Documents Provided to Participants
+
+
+[Title] (page 10)
+Consent Procedures and Documentation
+
+
+[Title] (page 10)
+Participant and Data Confidentiality
+
+
+[Title] (page 10)
+DATA HANDLING AND RECORD KEEPING
+
+
+[Title] (page 10)
+Data Collection and Management Responsibilities
+
+
+[Title] (page 10)
+Investigator Records and Reports
+
+
+[Title] (page 10)
+Investigator Records
+
+
+[Title] (page 10)
+Investigator Reports
+
+
+[Title] (page 10)
+Study Records Retention
+
+
+[Title] (page 10)
+Protocol Deviations
+
+
+[Title] (page 10)
+Publication and Data Sharing Policy
+
+
+[Title] (page 10)
+STUDY ADMINISTRATION
+
+
+[Title] (page 10)
+Study Investigators
+
+
+[Title] (page 10)
+Amendment Policy
+
+
+[Title] (page 10)
+CONFLICT OF INTEREST POLICY
+
+
+[Title] (page 10)
+References
+
+
+[Title] (page 10)
+APPENDIX
+
+
+[Title] (page 10)
+PROTOCOL REVISIONS LOG
+
+
+[ListItem] (page 11)
+1. Persons serving in key roles in the conduct or oversight of this clinical trial are listed in Table 1.1-1 below. 1.1 TABLE 1: INTERNAL RESPONSIBILITIES Function
+
+
+[ListItem] (page 11)
+1. Persons serving in key roles in the conduct or oversight of this clinical trial are listed in Table 1.1-1 below. 1.1 TABLE 1: INTERNAL RESPONSIBILITIES Name
+
+
+[ListItem] (page 11)
+1. Persons serving in key roles in the conduct or oversight of this clinical trial are listed in Table 1.1-1 below. 1.1 TABLE 1: INTERNAL RESPONSIBILITIES Address
+
+
+[Title] (page 11)
+KEY ROLES
+
+
+[Title] (page 11)
+19 Fortune Drive
+
+
+[Title] (page 11)
+Paul Cardarelli
+
+
+[Title] (page 11)
+Clinical Research Director
+
+
+[Title] (page 11)
+Phone: 888.588.7644 Email: pcardarelli@lutronic-usa.com
+
+
+[Title] (page 11)
+INTRODUCTION: BACKGROUND INFORMATION AND SCIENTIFIC RATIONALE
+
+
+[NarrativeText] (page 11)
+2.1 BACKGROUND INFORMATION In 1761 Luigi Galvani provided scientific evidence that current can activate muscle. Electrical Muscle Stimulation is known to assist in muscle contraction.
+
+
+[NarrativeText] (page 11)
+2.1.1 Device Name and Indications for Use Magnet-based and Direct muscle stimulation devices are commonly used to generate current flow through the muscles in order to activate the muscle. The Accufit Electrical Muscle Stimulation device is an FDA cleared device having a two-channel stimulator that provides up to 8 electrodes with waveforms of interferential and biphasic for muscle stimulation. The Accufit system is indicated for relaxation of muscles, muscle re-education, reduction of pain and increased local blood circulation.
+
+
+[NarrativeText] (page 11)
+2.1.2 Mechanism of Actions Muscle stimulation technology has been around for many decades and has been shown to be safe and effective for a variety of clinical applications. The foundational basis for the technology revolves around electrical current flowing through the muscle can be used to activate the muscle.
+
+
+[Title] (page 11)
+2.1.3 Device Overview
+
+
+[Title] (page 11)
+FIGURE 1: SYSTEM SPECIFICATIONS
+
+
+[NarrativeText] (page 11)
+Up to 4khz Up to a 100mA 8 electrodes with disposables contact pads Biphasic and Interferential Waveforms Up to 200Hz Up to 290 us Single use Hydrogel electrode Round or Square
+
+
+[NarrativeText] (page 12)
+2.2 RATIONALE In accordance with the definition of “Significant Risk Device” provided in 21 CFR 812.3, the devices to be used in this study has been determined to be a Non-Significant Risk device based on the following:
+
+
+[NarrativeText] (page 12)
+a) b) It is not purported or represented to be for use in supporting or sustaining human life and do not present a potential for serious risk to the health, safety or welfare of a subject It is not for a use of substantial importance in diagnosing, curing, mitigating, or treating disease or otherwise preventing impairment of human health
+
+
+[NarrativeText] (page 12)
+It is not an implant
+
+
+[Title] (page 12)
+c)
+
+
+[NarrativeText] (page 12)
+d) Use of the device does not pose a serious risk to the health, safety, or welfare of a subject.
+
+
+[NarrativeText] (page 12)
+2.3 2.3.1 Known Potential Risks Expected adverse events of the muscle Electrical stimulation treatment procedure include:
+
+
+[Title] (page 12)
+POTENTIAL RISKS AND BENEFITS
+
+
+[ListItem] (page 12)
+Transient tenderness • Erythema • Edema • Discomfort
+
+
+[NarrativeText] (page 12)
+Other adverse events may include and include:
+
+
+[ListItem] (page 12)
+• Skin burn • Hyperpigmentation • Hypopigmentation • Blister • Changes in skin laxity (rarely, skin contour irregularities, dimpling, and asymmetry).
+
+
+[Title] (page 12)
+Localized tenderness
+
+
+[NarrativeText] (page 12)
+Risks will be mitigated by conducting this protocol with an investigator experienced in the therapeutic area of the clinical investigation. The investigator will be trained by the sponsor on the use of the device. The device design incorporates safety mechanisms which minimize risks. Patients will also be rigorously screened prior to their enrollment and rigorously followed over the course of the study.
+
+
+[NarrativeText] (page 12)
+2.3.2 Contraindications Do not use this device on the pectoral area or patients who have a cardiac pacemaker, implanted defibrillator or other implanted metallic or electronic device. Do not use this device on patients whose pain syndromes are undiagnosed. Avoid direct irradiation of the eyes. Do not treat locally over the endocrine glands. Do not treat ischemic tissues in individuals with vascular disease.
+
+
+[NarrativeText] (page 12)
+2.3.3 Known Potential Benefits If the subject agrees to participate in this study, he/she will be contributing to the understanding of the safety and efficacy of the use of this investigational device for muscle toning. This understanding may lead to optimization of the treatment with this device.
+
+
+[ListItem] (page 13)
+3. 3.1 The objective of this clinical study is to assess the safety and efficacy of using a non-invasive electrical stimulation system for circumferential reduction and improvement of muscle strength and muscle tone of the core and extremities. 3.2 STUDY ENDPOINTS 3.2.1 Primary Endpoint
+
+
+[Title] (page 13)
+OBJECTIVES AND PURPOSE STUDY OBJECTIVES
+
+
+[ListItem] (page 13)
+1. Photographic evaluation by an independent, blinded reviewer with correct identification of pre- treatment baseline images when compared to post-treatment images taken at follow up visits (30 days, 90 days). Results will be reported as a % of the correctly identified post treatment photographs chosen per Blinded Reviewer. An average of the % of the correctly identified post treatment photographs chosen by Blinded Reviewer will be calculated and used to determine efficacy. Bar, pie charts or graphs indicating percentages of the correctly identified post treatment photographs chosen by Blinded Reviewer may also be used to analyze efficacy. Secondary Endpoints Improvement in muscle strength of the treated extremity as measured by a dynamometer at follow up visits compared to baseline measurements.
+
+
+[ListItem] (page 13)
+1. Photographic evaluation by an independent, blinded reviewer with correct identification of pre- treatment baseline images when compared to post-treatment images taken at follow up visits (30 days, 90 days). Results will be reported as a % of the correctly identified post treatment photographs chosen per Blinded Reviewer. An average of the % of the correctly identified post treatment photographs chosen by Blinded Reviewer will be calculated and used to determine efficacy. Bar, pie charts or graphs indicating percentages of the correctly identified post treatment photographs chosen by Blinded Reviewer may also be used to analyze efficacy. Secondary Endpoints Improvement in muscle strength of the treated extremity as measured by a dynamometer at follow up visits compared to baseline measurements.
+
+
+[ListItem] (page 13)
+2. Reduction in circumference as measured by Seca Circumferential System at follow up visits compared to baseline measurement.
+
+
+[ListItem] (page 13)
+3. To assess subject satisfaction using Satisfaction Survey at each follow up visit 4. GAIS (Global Aesthetic Improvement Scale) by Expert Clinician. 5. All statistical tests that will be two-sided. The level of statistical significance for effectiveness analyses is 5% (α = 0.05) for all tests of differences. Where appropriate, two-proportion z-test will be used to compare the subjects’ assessment of satisfaction at post-treatment visits. Analysis of Covariance (ANCOVA) may also be used where appropriate. STUDY DESIGN AND ENDPOINTS
+
+
+[ListItem] (page 13)
+4. 4.1 DESCRIPTION OF STUDY Open-label, baseline-controlled, multi-center study evaluating an electrical muscle stimulation system for circumferential reduction and improvement in muscle strength and muscle tone of the core and extremities. The study will enroll up to 60 subjects desiring circumferential reduction and to improve muscle strength and muscle tone of their core and extremities. Each subject will receive up to 8 bi- weekly treatments over a 4-week period. Follow up visits planned for 30- and 90-days post treatment. Measurement outcomes will be compared to baseline. 4.2 DURATION OF STUDY This study is not expected to exceed 12 months in duration.
+
+
+[ListItem] (page 14)
+5. 5.1 The study population will consist of males and females aged 18 – 60 years of age who have chosen to participate in this clinical trial as evidenced by execution of the informed consent document. 5.1.1 Written informed consent will be obtained from all subjects before any study-related procedures, including any pre-treatment screening procedures, are performed. Investigators, or delegated study personnel, may discuss the availability of the study and the possibility for entry with a potential subject without first obtaining consent. Informed consent must be obtained and documented prior to initiation of any procedures that are performed solely for the purpose of determining eligibility for research.
+
+
+[Title] (page 14)
+SUBJECT ENROLLMENT AND WITHDRAWAL PARTICIPANT IMPROVEMENT CRITERIA
+
+
+[NarrativeText] (page 14)
+Investigators have ethical and legal responsibilities to ensure that the protocol is clearly explained to each subject considered for enrollment in the study. Compliance with this requirement should be documented on a written Informed Consent Form approved by the reviewing IRB. Each Informed Consent Form will include the elements required by FDA regulations in 21 CFR Part 50.
+
+
+[NarrativeText] (page 14)
+The IRB-approved Informed Consent Form will be signed by the study personnel obtaining consent. The subject will be given a copy of the signed Informed Consent Form. The investigative site will keep the original on file.
+
+
+[NarrativeText] (page 14)
+5.1.2 Pre-treatment Recruiting/Screening Subjects will be recruited from the study site’s patient database or IRB approved advertisement and screened. Study site personnel will explain the design and purpose of the study to potential study subjects. Subjects interested in participating will visit the study site where informed consent will be obtained.
+
+
+[NarrativeText] (page 14)
+5.1.2.1 Screen Failures A screen failure subject is one from whom informed consent is obtained and is documented in writing (i.e., subject signs an Informed Consent Form), but who does not receive a test spot exposure visit because of failure to meet all the eligibility criteria. Screen failure subjects will be included in the total number of subjects enrolled (i.e., all subjects consented), but not counted towards the total subjects treated.
+
+
+[NarrativeText] (page 14)
+5.1.3 Subjects must meet all the following criteria for study enrollment:
+
+
+[Title] (page 14)
+Inclusion Criteria
+
+
+[ListItem] (page 14)
+1. Able to read, understand and voluntarily provide written informed consent. 2. Healthy male or female, ≥ 18 years to 60 years of age seeking treatment for circumferential reduction and improvement of muscle strength and muscle tone in the core and extremities. 3. Subject is determined to be physically fit and agrees to not making any major changes in their
+
+
+[Title] (page 14)
+diet or lifestyle during the study.
+
+
+[ListItem] (page 14)
+4. Able and willing to comply with the treatment/follow-up schedule and requirements. 5. Women of child-bearing age are required to be using a reliable method of birth control at least 3 months prior to study enrollment and for the duration of the study and have a negative Urine Pregnancy test at baseline.
+
+
+[NarrativeText] (page 15)
+5.1.4 Participant Exclusion Criteria Subjects will be excluded if they meet any of the following criteria:
+
+
+[ListItem] (page 15)
+1. Pregnant in the last 3 months, intending to become pregnant, postpartum or nursing in the last 6 months.
+
+
+[ListItem] (page 15)
+2. Any previous liposuction/lipo-sculpture or any type of surgical procedure in the treatment area in the past 12 months.
+
+
+[ListItem] (page 15)
+3. History of immunosuppression/immune deficiency disorders (including AIDS and HIV infection) or use of immunosuppressive medications, 6 months prior to and during the study. 4. History of hyperlipidemia, diabetes mellitus, hepatitis, blood coagulopathy or excessive
+
+
+[NarrativeText] (page 15)
+bleeding.
+
+
+[ListItem] (page 15)
+5. Having a history of skin cancer or any other cancer in the areas to be treated, including presence of malignant or premalignant pigmented lesions.
+
+
+[ListItem] (page 15)
+6. Having a permanent implant in the treatment area such as metal plates or an injected chemical substance such as silicone in the treatment area.
+
+
+[ListItem] (page 15)
+7. Suffering from significant skin conditions in the treatment area or inflammatory skin conditions including but not limited to open lacerations, abrasions, herpes sores, cold sores, active infections.
+
+
+[ListItem] (page 15)
+8. Poor skin quality (severe laxity). 9. Abdominal wall, muscular abnormality or hernia on physical examination. 10. As per the investigator’s discretion, any physical or mental condition which may make it unsafe for the subject to participate.
+
+
+[ListItem] (page 15)
+11. Unable or unlikely to refrain from sun exposure, artificial tanning, including the use of tanning booths, prior to 6 weeks and during the duration of the study.
+
+
+[ListItem] (page 15)
+12. Subjects unwilling or unable to adhere to all study requirements for treatment and follow-up 13. Investigator may exclude any subject at any time at his/her discretion
+
+
+[NarrativeText] (page 15)
+After subjects have provided informed consent and met the inclusion/exclusion criteria, the study procedures described in the following section will be performed.
+
+
+[NarrativeText] (page 15)
+5.2 STRATEGIES FOR RECRUITMENT AND RETENTION Subjects will be recruited from the site’s patient database and surrounding area. Site personnel should conduct/send reminder phone calls, emails, and/or text messages to remind subjects of upcoming appointments. The next appointment should be scheduled prior to the subject leaving the current appointment.
+
+
+[NarrativeText] (page 15)
+All subjects who have signed an Informed Consent Form, except for screen failures, will be considered enrolled in the study. Subjects who complete the study duration will be considered to have completed the study. Any subject who does not return for a scheduled follow-up visit will be contacted at least twice by telephone to determine the cause for the missed visit and to try to get the subject scheduled for the follow-up. A new visit will be scheduled as soon as possible. All subjects should be followed until completing the study follow-up or until study discontinuation (withdrawal) for other reasons. The reason for study discontinuation should be documented for each subject. Subjects will be deemed “Lost- to-Follow-up” if they have not returned within six weeks after the last follow-up target. For any subject lost to follow-up at least three attempts to contact the subject must be documented; the attempts must be two phone calls/emails and a registered letter.
+
+
+[NarrativeText] (page 16)
+5.2.1 Subject Payment Subjects will not be compensated for participation in this study.
+
+
+[NarrativeText] (page 16)
+5.3 PARTICIPANT WITHDRAWAL AND TERMINATION All subjects have the right to withdraw at any point during the study without prejudice. The investigator can discontinue any subject, at any time, if medically necessary. Subjects must be discontinued from the investigation by the investigator at any time for any of the following reasons:
+
+
+[ListItem] (page 16)
+1. Withdrawal of informed consent. 2. Pregnancy (no further study-related treatments will be performed; however, the follow-up visit will be completed if the study treatments has been completed and the subject will be followed to term, called after the pregnancy, childbirth, and/or pregnancy termination and queried for abnormalities or complications).
+
+
+[ListItem] (page 16)
+3. Any AEs for which treatment continuation would constitute an unacceptably high risk for the subject.
+
+
+[NarrativeText] (page 16)
+The reason for any subject’s withdrawal should be documented on the appropriate study-specific data form.
+
+
+[NarrativeText] (page 16)
+5.4 The study or study site can be prematurely terminated or suspended by the sponsor. Reasons for termination of the study or a study site may include, but are not limited to, the following:
+
+
+[Title] (page 16)
+PREMATURE TERMINATION OR SUSPENSION OF THE STUDY OR STUDY SITE
+
+
+[ListItem] (page 16)
+1. Subject enrollment is unsatisfactory. 2. The risks and benefits of continuing the study have been reassessed, and the risks outweigh any potential benefits.
+
+
+[ListItem] (page 16)
+3. The incidence of AEs constitutes a potential health hazard to the subjects. 4. New scientific data do not justify a continuation of the study. 5. The investigator or study site exhibit serious and/or persistent non-adherence to the protocol, the Declaration of Helsinki, EN ISO 14155, and/or applicable regulatory requirements.
+
+
+[ListItem] (page 16)
+6. The sponsor decides to terminate the study at any time for any other reason.
+
+
+[NarrativeText] (page 16)
+Furthermore, the study may be prematurely ended if the regulatory authority or the IRB has decided to terminate or suspend approval for the study, the study site, or the investigator. If the study is prematurely terminated or suspended for any reason, the investigator must inform the subjects and assure appropriate follow-up treatment. Within the timeframes noted in applicable regulations, the sponsor will promptly inform the investigators, study sites, the IRB, and regulatory authorities of the termination or suspension of the study, as well as provide reasons for the action.
+
+
+[ListItem] (page 16)
+6. 6.1 Standardized baseline and follow-up images will be taken as per specified Photography Procedure. A checklist is included in CRF to ensure “Standardized Images” are taken at specified visits. A series of standardized high-resolution digital photographs and/or video will be taken before and after treatment under controlled position and lighting conditions. Subjects will dress comfortably in loose garments and will be provided with disposable undergarments for photographs. Prior to Taking Photographs:
+
+
+[Title] (page 16)
+STUDY PROCEDURES AND SCHEDULE PHOTOGRAPHY
+
+
+[ListItem] (page 17)
+1. Jewelry Removed 2. Disposable undergarments will be supplied
+
+
+[Title] (page 17)
+While Taking Photographs
+
+
+[ListItem] (page 17)
+1. Photographer will position subject for photographs
+
+
+[NarrativeText] (page 17)
+LABORATORY EVALUATION After Taking Photographs (before subject leaves the office)
+
+
+[ListItem] (page 17)
+1. Ensure all views have been taken 2. Ensure all photographs are in focus 3. Ensure lighting is consistent
+
+
+[NarrativeText] (page 17)
+STUDY SCHEDULE 6.2 6.2.1 Study Specific Procedures The following procedures will be done as part of this study: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+
+
+[NarrativeText] (page 17)
+Demographics (Visit 1) Medical/surgical history Concomitant medications Assessment of eligibility (inclusion/exclusion criteria) Urine pregnancy test for women of child-bearing potential (Visit 1 only) Adverse event reporting Photography (Pre-treatment, post-treatment and at follow up visits) Weight and circumferential measurements (Visit 1 and follow up visits only) Dynamometer measurements (Visit 1 and follow up visits only) Subject Satisfaction Survey (at follow up visits only)
+
+
+[NarrativeText] (page 17)
+6.3 Women of child-bearing potential will be asked to provide a urine sample for a urine pregnancy test to be performed according to local site standards. Urine pregnancy required within 24 hours of study intervention. A negative result must be available prior to administration of the treatment.
+
+
+[Title] (page 17)
+LABORATORY EVALUATION
+
+
+[NarrativeText] (page 17)
+A staff member will explain how the pregnancy test will be performed at the screening visit depending on which type of pregnancy test is available at the study center. Instructions will include:
+
+
+[ListItem] (page 17)
+1. Hold the pregnancy test stick directly under your urine for 5-10 seconds. 2. Alternatively, you may be asked to urinate into a specimen cup and dip the pregnancy test stick into the urine for 5-10 seconds. 3. Results are typically available within 2-5 minutes, but some tests take as long as 10 minutes. 4. A positive result indicating pregnancy will usually be a colored line or plus symbol in the result window. A negative result indicating no pregnancy will usually be absence of a colored line or a negative symbol. SCREENING AND BASELINE (VISIT 1)
+
+
+[NarrativeText] (page 17)
+6.4 The Principal Investigator or his/her designee will assess the subject eligibility for participation in the clinical study using the inclusion/exclusion criteria (Sections 5.1; 5.2). Subjects meeting the study criteria for enrollment will be asked to sign an informed consent document. The Principal Investigator or his/her
+
+
+[NarrativeText] (page 18)
+designee will obtain informed consent from the subject. All subjects must clearly indicate his/her understanding of the requirements and possible risks involved with study participation. Once subjects sign the informed consent document, they will be assigned a unique identifying number that will be composed of a two-digit site number and a three-digit subject number in sequence. This unique identifier will be used throughout the entire study and will be entered in the subject’s case report form (CRF).
+
+
+[NarrativeText] (page 18)
+During the screening visit, the Principal Investigator or his/her designee will review the subjects medical/surgical history, demographic information, concomitant medication and examine the treatment area. Weight and circumferential measurements of the core and extremities.
+
+
+[NarrativeText] (page 18)
+Women of child-bearing potential will be asked the date of their last menstrual cycle and required to provide a urine sample for a urine pregnancy test. A negative result is required within 24 hours of treatment for participation in study. The investigator will inquire about contraceptive use to confirm they meet the inclusion criteria.
+
+
+[ListItem] (page 18)
+1. Obtain informed consent of potential participant verified by signature on study
+
+
+[NarrativeText] (page 18)
+informed consent form.
+
+
+[ListItem] (page 18)
+2. Verify all preliminary/screening inclusion/exclusion criteria are met. 3. Document medical history. 4. Obtain pregnancy screen (if applicable). 5. Document concurrent medications. 6. Obtain demographics.
+
+
+[NarrativeText] (page 18)
+6.5 6.5.1 Subject Preparation for Study Treatment The investigator, sub-investigator, or delegated clinician will first identify the skin areas to which treatment/exposure is to be performed. Treatment records will be maintained in accordance with this protocol. Skin in the treatment area should be clean. Subject will be instructed to avoid lotion or oil on the treatment area 24 hours prior to treatment.
+
+
+[Title] (page 18)
+STUDY TREATMENT
+
+
+[NarrativeText] (page 18)
+6.5.2 Study Treatment (Visits 1-8) All study treatments will be performed by the investigator, sub-investigator, or delegated clinician (i.e., study exposure clinician as designated by the principal investigator.) The investigator will confirm that the subject continues to meet the inclusion criteria and none of the exclusion criteria prior to each study treatment. Concomitant medications will be reviewed. Specific treatment parameters will be determined by the Investigator and recorded on the case report forms.
+
+
+[NarrativeText] (page 18)
+Each subject will receive up to 8 study treatments over a 4-week period. Subjects return for a 30 day and 90-day post final treatment follow up visit.
+
+
+[ListItem] (page 18)
+Cleanse skin. ● Obtain digital images. ● Perform study treatment. ● Obtain Numeric Pain Rating Scale score. ● Assess for expected treatment effects (ETEs) and adverse events (AEs).
+
+
+[NarrativeText] (page 19)
+Subjects will be asked to return for follow up visits post-final treatment at 30 days and 90 days. At 1st and all follow up visits weight, dynamometer measurements, circumferential measurements, subject satisfaction survey, adverse events and photography will be completed and assessed.
+
+
+[NarrativeText] (page 19)
+Subject discomfort during study treatment will be documented using a 0 (None) to 10 (Severe) numeric pain rating scale. If the treatment becomes too uncomfortable for a subject, it will be discontinued, or the settings may be lowered to a more comfortable level. Subjects may also request that treatment be discontinued at any time, for any reason.
+
+
+[NarrativeText] (page 19)
+6.5.3 Acute Responses For all exposures, acute responses (e.g., erythema or edema) will be observed by the study exposure clinician and recorded after exposure. If any Serious Adverse Events (SAE) are noted, an SAE Form should be completed.
+
+
+[NarrativeText] (page 19)
+6.5.4 Post- Care Instructions Following treatment subject may assume normal activities. Hot baths, sauna and vigorous exercise should be avoided. The subject should be reminded to not make any major changes in their diet or lifestyle during the study.
+
+
+[Title] (page 19)
+Schedule of Activities
+
+
+[Title] (page 19)
+TABLE 1: SCHEDULE OF ACTIVITIES
+
+
+[Title] (page 19)
+Screening
+
+
+[Title] (page 19)
+Tx 1
+
+
+[Title] (page 19)
+Tx 2
+
+
+[Title] (page 19)
+Tx 3
+
+
+[Title] (page 19)
+Tx 4 Tx 5 Tx 6
+
+
+[Title] (page 19)
+Tx 7
+
+
+[Title] (page 19)
+Tx 8
+
+
+[Title] (page 19)
+FU 30 day
+
+
+[Title] (page 19)
+Informed Consent
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Pregnancy Verification
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Concomitant Medications
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Medical History
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Demographics
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Weight
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Dynamometer Measurements
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Circumferential Measurements
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Photography (pre- and - post treatment)
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+Subject Satisfaction
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+FU 90 days
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 19)
+x
+
+
+[Title] (page 20)
+Pain Scale Rating
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+Adverse Events
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[Title] (page 20)
+x
+
+
+[NarrativeText] (page 20)
+6.5.6 Safety Assessments Assess for adverse events immediately post-treatments and at the follow-up visits.
+
+
+[NarrativeText] (page 20)
+6.5.7 Unscheduled Visit Any unscheduled visit or examine should be documented in the subject’s medical record and adverse event form (if applicable) stating the reason for the visit and any actions taken. The Sponsor should be notified of the unscheduled visit.
+
+
+[NarrativeText] (page 20)
+6.6 This study involves up to 8 treatments to be conducted after obtaining informed consent, screening for inclusion/exclusion, complying with standardized photography requirements, and completing pregnancy tests, if applicable.
+
+
+[Title] (page 20)
+STUDY TREATMENT
+
+
+[NarrativeText] (page 20)
+6.6.1 Subject Preparation for Study Treatment The investigator, sub-investigator, or delegated clinician will first identify the skin areas to which treatment/exposure is to be performed. Treatment records will be maintained in accordance with this protocol. Skin in treatment area should be clean. No lotion or oil should be present on the area to be treated.
+
+
+[NarrativeText] (page 20)
+6.6.2 Study Treatment All study treatments will be performed by the investigator, sub-investigator, or delegated clinician (i.e., study exposure clinician as designated by the principal investigator.) Specific treatment parameters will be determined by the Investigator and recorded on the case report forms. Subject discomfort during study treatment will be documented using a 0 (None) to 10 (Severe) pain rating scale. If the treatment becomes too uncomfortable for a subject, it will be discontinued, or the settings may be lowered to a more comfortable level. Subjects may also request that treatment be discontinued at any time for any reason.
+
+
+[NarrativeText] (page 20)
+6.6.3 Acute Responses For all exposures, acute responses (e.g., erythema or edema) will be observed by the study exposure clinician and recorded after exposure. If any Serious Adverse Events (SAE) are noted, an SAE Form should be completed.
+
+
+[NarrativeText] (page 20)
+6.6.4 Post- Care Instructions Following treatment subject may assume normal activities. Hot baths, sauna and vigorous exercise should be avoided. The subject should be reminded to not make any major changes in their diet or lifestyle during the study.
+
+
+[NarrativeText] (page 20)
+6.7 All concomitant prescription medications taken during study participation will be recorded on the appropriate study-specific data form. For this protocol, a prescription medication is defined as a medication that can be prescribed only by a properly authorized/licensed clinician. Medications to be
+
+
+[Title] (page 20)
+CONCOMITANT MEDICATIONS
+
+
+[NarrativeText] (page 21)
+reported on the data form and entered on the CRF are concomitant prescription medications, over-the- counter medications and non-prescription medications.
+
+
+[ListItem] (page 21)
+7. 7.1 7.1.1 Definition of an Expected Treatment Effect (ETE) and an Adverse Event (AE) An expected treatment effect is defined as any typical treatment side-effect of the study devices of mild to moderate severity and lasting up to a typical maximum duration. An adverse event is defined as any new medical problem, or exacerbation of an existing problem, experienced by a subject while enrolled in the study, whether it is considered device-related by the investigator. All ETEs and AEs will be collected during the conduct of this trial. 7.1.2 Definition of Serious Adverse Event (SAE) Each adverse event should be assessed for its seriousness. The definition below should be used for this assessment. Please note that the term serious adverse event is not synonymous with a “severe” adverse event, which may be used to describe the intensity of an event experienced by the subject. An adverse event should be classified as serious if it meets any of the following criteria: a.
+
+
+[Title] (page 21)
+ASSESSMENT OF SAFETY SPECIFICATIONS OF SAFETY PARAMETERS
+
+
+[Title] (page 21)
+b.
+
+
+[NarrativeText] (page 21)
+Death Death was an outcome of the adverse event. Life-threatening The subject was at substantial risk of dying at the time of the adverse event or use or continued
+
+
+[Title] (page 21)
+use of the device.
+
+
+[Title] (page 21)
+c.
+
+
+[Title] (page 21)
+d.
+
+
+[NarrativeText] (page 21)
+Hospitalization (initial or prolonged) Admission to the hospital or prolongation of hospitalization was a result of the adverse event. Disability or Permanent Damage The adverse event resulted in a substantial disruption of a person's ability to conduct normal life functions, i.e., the adverse event resulted in a significant, persistent or permanent change, impairment, damage or disruption in the patient's body function/structure, physical activities and/or quality of life.
+
+
+[Title] (page 21)
+e.
+
+
+[NarrativeText] (page 21)
+Congenital Anomaly/Birth Defect Exposure to a medical product prior to conception or during pregnancy may have resulted in an
+
+
+[Title] (page 21)
+adverse outcome in the child.
+
+
+[Title] (page 21)
+f.
+
+
+[NarrativeText] (page 21)
+Required Intervention to Prevent Permanent Impairment or Damage (Devices) Medical or surgical intervention was necessary to preclude permanent impairment of a body
+
+
+[NarrativeText] (page 21)
+function, or prevent permanent damage to a body structure, either situation suspected to be due to the use of a medical product.
+
+
+[Title] (page 21)
+g.
+
+
+[NarrativeText] (page 21)
+Other Serious (Important Medical Events) The event does not fit the other outcomes, but the event may jeopardize the subject and may require medical or surgical intervention (treatment) to prevent one of the other outcomes.
+
+
+[NarrativeText] (page 21)
+Non-serious adverse events are all events that do not meet the criteria for a “serious” adverse event.
+
+
+[NarrativeText] (page 21)
+7.1.3 Definition of Unanticipated Adverse Device Effects (Events) An unanticipated adverse device effect is defined as “any serious adverse effect on health or safety, or any life-threatening problem, or death caused by, or associated with, a device; if that effect, problem, or death was not previously identified in nature, severity, or degree of incidence in the investigational plan,
+
+
+[NarrativeText] (page 22)
+or application (including supplementary application), or any other unanticipated serious problem associated with a device that relates to the rights, safety, or welfare of subjects.”
+
+
+[NarrativeText] (page 22)
+7.2 7.2.1 Severity of Event Each adverse event should be assessed for its severity, or the intensity of an event experienced by the subject, using the following classifications:
+
+
+[Title] (page 22)
+CLASSIFICATION OF AN EVENT
+
+
+[NarrativeText] (page 22)
+1 = Mild 2 = Moderate Discomfort sufficient to reduce or affect normal daily activity 3 = Severe
+
+
+[NarrativeText] (page 22)
+Discomfort noticed, but no disruption to daily activity
+
+
+[NarrativeText] (page 22)
+Inability to work or perform normal daily activity
+
+
+[NarrativeText] (page 22)
+7.2.2 Relationship to the Investigational Device The investigator should assess the relationship of the adverse event to the investigational device. The relationship should be assessed using the categories presented in Table 2.
+
+
+[Title] (page 22)
+TABLE 2: RELATIONSHIP BETWEEN ADVERSE EVENTS AND INVESTIGATIONAL DEVICE
+
+
+[Title] (page 22)
+Definite
+
+
+[Title] (page 22)
+Probably Related
+
+
+[Title] (page 22)
+Possibly Related
+
+
+[Title] (page 22)
+Not Likely Related
+
+
+[Title] (page 22)
+Unrelated
+
+
+[NarrativeText] (page 22)
+Definite relationship exists between the device/procedure and an adverse event A reasonable causal relationship between the device/procedure and an adverse event is more likely than not. A reasonable relationship exists between the device/procedure and an adverse event, but the causal relationship is unclear or lacking. A temporal relationship exists between the device/procedure and an adverse event, but there is no reasonable causal relationship. For example, the adverse event occurs in a time frame, which makes a causal relationship to device treatment improbable. No relationship between treatment with the device/procedure and the adverse event exists.
+
+
+[NarrativeText] (page 22)
+7.2.3 Expectedness Reported events will be categorized as Expected Treatment Effects if the event meets the definition of any typical treatment side-effect of study devices of mild to moderate severity and lasting up to a typical maximum duration.
+
+
+[NarrativeText] (page 22)
+7.3 The occurrence of an AE or SAE may come to the attention of study personnel during a study visit or upon review by a study monitor. All ETEs and AEs will be captured on the appropriate data form. Information to be collected includes event description, date of onset, clinician’s assessment of seriousness and severity, relationship to study device/treatment (assessed only by those with the training and authority to decide), actions taken, and date of event resolution. All AEs occurring while on study must be documented appropriately regardless of relationship. All ETEs/AEs assessed as “not yet resolved” must continue to be followed via telephone contact, email or clinic visit every 7 days or sooner as per the physician’s direction until event resolution or stabilization or tissue resection.
+
+
+[Title] (page 22)
+TIME PERIOD AND FREQUENCY FOR EVENT FOLLOW UP AND ASSESSMENT
+
+
+[NarrativeText] (page 22)
+A pre-existing condition should not be reported as an adverse event unless there has been a substantial increase in severity or frequency of the problem that has not been attributed to natural history.
+
+
+[NarrativeText] (page 23)
+Changes in the severity of an event will be documented to allow for a determination if the event should be re-categorized from an ETE to AE.
+
+
+[NarrativeText] (page 23)
+The PI will record all reportable events with start dates occurring any time after informed consent is obtained until 7 (for non-serious AEs) or 30 days (for SAEs) after the last day of study participation or until tissue is resected. At each study visit, the investigator will inquire about the occurrence of ETEs/AEs/SAEs since the last visit. Events will be followed for outcome information until resolution or stabilization or tissue is resected.
+
+
+[NarrativeText] (page 23)
+7.4 REPORTING PROCEDURES 7.4.1 Adverse Event Reporting Any new medical problem, or an exacerbation of an existing condition, reported from the time the informed consent form is signed must be followed until the last study visit after the last study treatment/exposure or until event resolution. AEs will not be followed up after the final study visit as tissue will be resected at the abdominoplasty visit. AEs related to the abdominoplasty are outside the scope of this study and will not be reported.
+
+
+[NarrativeText] (page 23)
+7.4.2 Serious Adverse Event Reporting Serious adverse events must be reported to the Sponsor as soon as possible, preferably within 24 hours but in no event later than 72 hours. Any AE considered serious by the PI or Sub-investigator or which meets the definition of an SAE included in Section 7.1.2, Definition of Serious Adverse Event must be documented on an SAE data form.
+
+
+[NarrativeText] (page 23)
+The Sponsor will conduct an investigation. If the Sponsor determines that the investigation presents an unreasonable risk to subjects, all investigations or parts of the investigation presenting that risk will be terminated as soon as possible. The investigator must report serious adverse events to the reviewing IRB according to the IRB regulations at the study site.
+
+
+[NarrativeText] (page 23)
+7.4.3 Unanticipated Adverse Device Effect Reporting If an unanticipated adverse device effect occurs, the study investigator shall complete the appropriate study-specific data form and submit to the study sponsor and to the reviewing IRB as soon as possible, but in no event later than 10 working days after the investigator first learns of the effect. The study sponsor contact information is provided in Section 1, Key Roles. The study sponsor is responsible for conducting an evaluation of an unanticipated adverse device effect and shall report the results of such evaluation to FDA and to all reviewing IRBs and participating investigators within 10 working days after the sponsor first receives notice of the effect. Thereafter the sponsor shall submit such additional reports concerning the effect as FDA requests.
+
+
+[NarrativeText] (page 23)
+7.4.4 Reporting of Pregnancy Each pregnancy that starts during the subject’s study participation must be reported by the investigator to the Sponsor within 24 hours of learning of its occurrence. Pregnancies and pregnancy follow-up should be reported on an Adverse Event form. Pregnancy follow-up should describe the outcome of the pregnancy, including any voluntary or spontaneous discontinuation; details of the birth; the presence or absence of any congenital abnormalities, birth defects, maternal or newborn complications, and their relation to the device or treatment/exposure. Each pregnancy must be reported as a non-serious AE if the subject has received at least one study treatment/exposure. The following criteria should be followed:
+
+
+[Title] (page 24)
+a.
+
+
+[Title] (page 24)
+b.
+
+
+[Title] (page 24)
+c.
+
+
+[NarrativeText] (page 24)
+If a subject becomes pregnant after the Baseline visit and all study treatments/test spot exposure have been completed, the subject should continue to be followed for the duration of the pregnancy. If a subject becomes pregnant after the Baseline visit but before any study treatments/test spot exposures, the subject should be exited from the study. If a subject becomes pregnant after the Baseline visit but before all study treatments/test spot exposures have been completed, additional study treatments/test spot exposures should be discontinued, and the subject should continue to be followed for the duration of the pregnancy.
+
+
+[NarrativeText] (page 24)
+7.4.5 Reporting of Deaths The investigator must notify the Sponsor as soon as possible, preferably within 24 hours but in no event later than 48 hours, of learning of a subject’s death, regardless of whether the death is related or unrelated to the investigational device. The investigator should attempt to determine, as conclusively as possible, whether the death is related to the device. The cause of death and the investigator’s discussion regarding whether the death was device-related should be described in a written report. The investigator mush report death to the reviewing IRB according to the IRB regulations at the study site.
+
+
+[ListItem] (page 24)
+8. Clinical site monitoring is conducted to ensure that the rights and well-being of human subjects are protected, that the reported trial data are accurate, complete, and verifiable, and that the conduct of the trial is in compliance with the currently approved protocol/amendment(s), with GCP, and with applicable regulatory requirement(s).
+
+
+[Title] (page 24)
+CLINICAL MONITORING
+
+
+[ListItem] (page 24)
+1. Monitoring for this study will be performed by the Sponsor or Sponsor contract monitor. 2. Clinical study site and data monitoring will be conducted via both centralized and on-site monitoring.
+
+
+[NarrativeText] (page 24)
+a. Centralized data monitoring will focus primarily on:
+
+
+[NarrativeText] (page 24)
+i. Ongoing, real-time review of clinical data supporting safety, and primary and
+
+
+[NarrativeText] (page 24)
+secondary study-defined endpoints, specifically:
+
+
+[ListItem] (page 24)
+1. Tracking the occurrence of adverse events and expected treatment effects.
+
+
+[NarrativeText] (page 24)
+ii. Ongoing, real-time review of clinical data as entered on Case Report Forms
+
+
+[NarrativeText] (page 24)
+(CRF): 1. 2. Eligibility for study participation of all enrolled subjects; 3. Verification of protocol compliance and data completeness. iii. Ongoing, real-time evaluation of data trends to identify outliers, unexpected
+
+
+[NarrativeText] (page 24)
+Initial study consent was obtained for all enrolled subjects;
+
+
+[Title] (page 24)
+trends, or holes in data collection;
+
+
+[Title] (page 24)
+iv. Ongoing, real-time evaluation of study photographs.
+
+
+[NarrativeText] (page 24)
+b. Centralized monitoring requires timely data entry and timely uploading of completed CRFs to the study HIPAA compliant cloud-based system, e.g., no later than 7 working days after a study visit has occurred. c. On- site monitoring visits will include:
+
+
+[NarrativeText] (page 24)
+i. Review of primary/secondary endpoint data source documents; ii. Confirmation that subject randomization is being completed appropriately (if
+
+
+[Title] (page 24)
+applicable);
+
+
+[NarrativeText] (page 24)
+iii. Confirmation that study blinding is maintained (if applicable);
+
+
+[Title] (page 25)
+specific scales;
+
+
+[NarrativeText] (page 25)
+v. Note any other study-specific study design items requiring on-site confirmation.
+
+
+[NarrativeText] (page 25)
+d. General on-site monitoring tasks will include:
+
+
+[Title] (page 25)
+compliance, subject recruitment, etc.;
+
+
+[NarrativeText] (page 25)
+ii. Confirmation that written informed consent was obtained and documented at the time of screening, using an appropriate version of an IRB-approved ICF, and subject eligibility is confirmed.
+
+
+[NarrativeText] (page 25)
+iii. Confirmation that all expected treatment effects, adverse events and/or
+
+
+[NarrativeText] (page 25)
+protocol deviations noted in site records are appropriately documented on study specific CRFs.
+
+
+[NarrativeText] (page 25)
+subject informed consent documents.
+
+
+[NarrativeText] (page 25)
+vi. Confirmation that all investigative site personnel with study-related
+
+
+[NarrativeText] (page 25)
+responsibilities are adequately trained and that the applicable training records are maintained in the Site Regulatory Binder.
+
+
+[NarrativeText] (page 25)
+vii. Confirmation that study-related responsibilities of site personnel are
+
+
+[NarrativeText] (page 25)
+appropriately documented on the Delegation of Responsibility Log and the log is maintained in the Site Regulatory Binder.
+
+
+[NarrativeText] (page 25)
+viii. Reconciliation of the Device Disposition Log against device inventory and
+
+
+[NarrativeText] (page 25)
+confirmation that study devices are kept in a secure location.
+
+
+[NarrativeText] (page 25)
+ix. Confirmation that required regulatory documents are present in the Site
+
+
+[NarrativeText] (page 25)
+Regulatory Binder and are current and correct.
+
+
+[NarrativeText] (page 25)
+x. Ensure that all findings, conclusions and any actions taken to correct
+
+
+[NarrativeText] (page 25)
+deficiencies noted during an on-site monitoring visit are documented in a site monitoring report.
+
+
+[Title] (page 25)
+e. On-site monitoring frequency
+
+
+[NarrativeText] (page 25)
+i. An on-site monitoring visit will be completed at each study site at least one time
+
+
+[Title] (page 25)
+during this clinical trial.
+
+
+[NarrativeText] (page 25)
+ii. The frequency of site monitoring visits may be adjusted based on a number of
+
+
+[NarrativeText] (page 25)
+factors, including but not limited to: 1. Duration of the study; 2. Number of subjects enrolled; 3. Number of investigators/sites; 4. Complexity of the study; 5. The level of the study site’s experience in conducting and overseeing
+
+
+[Title] (page 25)
+clinical trials;
+
+
+[ListItem] (page 25)
+6. The quality of the data documented on study-specific data forms and entered into the study database;
+
+
+[ListItem] (page 25)
+7. Number of outstanding issues from previous visits.
+
+
+[ListItem] (page 25)
+9. STATISTICAL ANALYSIS 9.1 The primary analysis of efficacy will be based on the evaluable treated subjects, hence, only those subjects who received complete study treatments and follow up visits will be included in the analysis. Page 25 of 35
+
+
+[NarrativeText] (page 26)
+9.2 ANALYSIS DATASETS The following analysis sets will be defined for the statistical analysis of this investigation:
+
+
+[NarrativeText] (page 26)
+Safety Evaluation Set (SES) Subset of all subjects who received the investigational treatment.
+
+
+[NarrativeText] (page 26)
+Full Analysis Set (FAS) Subset of subjects in SES that received complete treatments have primary effectiveness data available.
+
+
+[NarrativeText] (page 26)
+Per Protocol Set (PPS) Subset of all subjects who received complete treatments and have completed the study without major protocol deviations.
+
+
+[NarrativeText] (page 26)
+9.3 DESCRIPTION OF STATISTIC METHODS Endpoints will be summarized using descriptive statistics including mean score, standard deviation, standard error and range. Frequency and percentage of subjects within each category will be presented for categorical data. If applicable, Wilcox t-test may be used to determine if two sets of data are significantly different from one another. If p-value is below the level of statistical significance for effectiveness analyses (α = 0.05) for all tests of differences, then the null hypothesis is rejected in favor of the alternative hypothesis. Rejection of null hypotheses will establish that:
+
+
+[NarrativeText] (page 26)
+o The two-sided 95% confidence interval for the difference between the means excludes
+
+
+[Title] (page 26)
+o
+
+
+[NarrativeText] (page 26)
+zero. The two means are statistically significantly different at the 5% level (P <0.05) two- sided.
+
+
+[NarrativeText] (page 26)
+Upon rejection of null hypotheses, further statistical test tools such as, Confidence Interval, and/or One- way ANOVA and/or descriptive statistical tools may be used to determine the performance of the treatment.
+
+
+[NarrativeText] (page 26)
+9.4 The safety analysis will be done by analyzing spontaneous reports of adverse events (AE), as well as analysis of immediate response reports by the principal investigator from his/her observation/examination of the treated area. Appropriate Medical Dictionary for Regulatory Activities (MedDRA) code will be used to describe all spontaneously reported events or other study related adverse events. Summaries of spontaneously reported or other study related adverse events will be presented as:
+
+
+[Title] (page 26)
+SAFETY ANALYSES
+
+
+[Title] (page 26)
+o Number (%) of subjects with any AE o o
+
+
+[NarrativeText] (page 26)
+Number (%) of subjects with any serious adverse events (SAE) Number (%) of subjects permanently withdrawn from treatment due to AE
+
+
+[NarrativeText] (page 26)
+Summaries of analysis of immediate response reports by the principal investigator examination will be displayed on a bar or pie chart and/or a table as;
+
+
+[NarrativeText] (page 26)
+burn, erythema, edema, purpura, etc.).
+
+
+[NarrativeText] (page 26)
+b. Frequency of subjects with specific severity/intensity for each event using a 5-
+
+
+[NarrativeText] (page 26)
+pointscale: 1=none; 2=trace; 3=moderate; 4=marked; 5=severe.
+
+
+[NarrativeText] (page 27)
+c. The overall proportion of subjects observed with marked or severe intensity of any event will be calculated and compared to those with none, trace or moderate severity/intensity.
+
+
+[NarrativeText] (page 27)
+9.6 BASELINE DESCRIPTIVE STATISTICS Subjects’ baseline demographics will be compared using descriptive statistics such as mean score, standard deviation, standard error and range. Data will be displayed in tables or graphical presentation.
+
+
+[NarrativeText] (page 27)
+9.7 ANALYSIS OF PRIMARY ENDPOINTS The following will be considered for the analysis of primary endpoints: The results of each Blinded Reviewer’s evaluation of photographs taken at 1 month and 3 months compared to baseline will be analyzed, and the results will be reported as a % of the correctly identified post treatment photographs chosen per Blinded Reviewer. An average of the % of the correctly identified post treatment photographs chosen by Blinded Reviewer will be calculated and used to determine
+
+
+[NarrativeText] (page 27)
+Bar, pie charts or graphs indicating percentages of the correctly identified post treatment photographs chosen by Blinded Reviewer may also be used to analyses efficacy.
+
+
+[NarrativeText] (page 27)
+The % of the correctly identified post treatment photographs chosen by Blinded Reviewer of all subjects who received all treatments with the investigational device and for whom all valid post-baseline assessment was obtained will be analyzed for these primary endpoints. Multiple imputation method or modelling of available data may be used for missing data as appropriate.
+
+
+[NarrativeText] (page 27)
+9.8 ANALYSIS OF SECONDARY ENDPOINTS For the analysis of changes in muscle tone and muscle strength, circumference of the extremities and subjects’ assessment of satisfaction with the treatment secondary endpoints, the following analysis will be considered:
+
+
+[NarrativeText] (page 27)
+Summary tables of changes in measurements of muscle tone and strength, circumference and subjects’ assessment of satisfaction at 1 and 3 months post last treatment as compared to baseline will be displayed as mean difference, standard deviation and standard error.
+
+
+[NarrativeText] (page 27)
+Bar charts, pie chart, graphs or any other descriptive statistical displays indicating scores, percentages and/or proportions of changes in circumference and subjects’ assessment of satisfaction at 1 month and 3-month post-treatment as compared to baseline will be used where applicable to analyze efficacy.
+
+
+[NarrativeText] (page 27)
+All statistical tests that will be two-sided. The level of statistical significance for effectiveness analyses is 5% (α = 0.05) for all tests of differences. Where appropriate, two-proportion z-test will be used to compare the differences between changes in abdominal circumference and subjects’ assessment of satisfaction at1 month and 3 months post last treatment as compared to baseline.
+
+
+[NarrativeText] (page 27)
+Analysis of Covariance (ANCOVA) may also be used where appropriate. Change in abdominal circumference and subjects’ assessment of satisfaction assessments at twelve weeks post-treatment as compared to baseline of all subjects who received all treatments with the investigational device and for whom have all valid post-baseline assessment was obtained will be analyzed for these secondary
+
+
+[NarrativeText] (page 28)
+endpoints. Multiple imputation method or modelling of available data may be used for missing data as appropriate.
+
+
+[ListItem] (page 28)
+10. SOURCE DOCUMENTS AND ACCESS TO SOURCE DOCUMENTS Source documents are defined as the results of original observations and activities of a clinical investigation. Source documents will include, but are not limited to, study-specific data forms, progress notes, electronic data, computer printouts, screening logs, and recorded data from automated instruments. All source documents pertaining to this study will be maintained by the investigators and made available for inspection by authorized persons. Following written SOPs, the clinical study monitors will verify that the clinical trial is conducted, and data are generated, documented (recorded), and reported in compliance with the protocol, GCP, and the applicable regulatory requirements.
+
+
+[NarrativeText] (page 28)
+The investigational site will provide direct access to all trial related sites, source data/documents, and reports for the purpose of monitoring and auditing by the sponsor, and inspection by local and regulatory authorities.
+
+
+[ListItem] (page 28)
+11. ETHICS/PROTECTION OF HUMAN SUBJECTS 11.1 ETHICAL STANDARD This clinical study will be conducted in accordance with the Protection of Human Subjects Regulations, including Subpart B Informed Consent of Human Subjects (21 CFR Part 50); the Institutional Review Board Regulations (21 CFR Part 56); the Financial Disclosure by Clinical Investigators Regulations (21 CFR Part 54); and the Investigational Device Exemptions Regulations (21 CRF Part 812), and the ICH E6. 11.2 Prior to initiation of any study procedures, the protocol, informed consent, and recruitment materials, and all participant materials will be submitted to a duly constituted IRB for view and approval. In addition, any amendments to the protocol or Informed Consent Form will be reviewed and approved by the IRB. The Sponsor must receive a letter documenting IRB approval at the clinical site prior to the initiation of the study. The investigator is responsible for providing the appropriate reports to its reviewing IRB during the clinical study. These reports will include:
+
+
+[ListItem] (page 28)
+1. 2. Reporting any unanticipated adverse device effects within 10 working days of first learning of the event;
+
+
+[NarrativeText] (page 28)
+Informing the IRB of the study progress periodically as required, but at least annually;
+
+
+[ListItem] (page 28)
+3. Reporting any deviations from the clinical protocol to protect the life or well-being of a subject in the case of an emergency within five working days after the emergency occurred;
+
+
+[ListItem] (page 28)
+4. Reporting the use of the device without obtaining informed consent from a subject within five working days of the event; and
+
+
+[ListItem] (page 28)
+5. Providing any other reports requested by the IRB.
+
+
+[NarrativeText] (page 28)
+The IRB must be notified of study completion within 30 days of the final visit of the last subject and should be provided with a summary of the results of the study by the investigator.
+
+
+[NarrativeText] (page 29)
+11.3 11.3.1 Consent/Assent and Other Informational Documents Provided to Participants Consent forms describing in detail the study device, study procedures, and risks are given to the participant and written documentation of informed consent is required prior to starting intervention/administering study product.
+
+
+[Title] (page 29)
+INFORMED CONSENT PROCESS
+
+
+[NarrativeText] (page 29)
+11.3.2 Consent Procedures and Documentation Informed consent will be obtained from all subjects prior to study participation. Informed consent is a process that is initiated prior to the individual’s agreeing to participate in the study and continues throughout the individual’s study participation. Extensive discussion of risks and possible benefits of participation will be provided to each participant. Consent forms will be IRB-approved, and the participant will be asked to read and review the document. The investigator, or investigator-delegated study personnel, will explain the research study to the participant and answer any questions that may arise. All participants will receive a verbal explanation in terms suited to their comprehension of the purposes, procedures, and potential risks of the study and of their rights as research participants. Participants will have the opportunity to carefully review the written consent form and ask questions prior to signing. The participants should have the opportunity to discuss the study with their surrogates or think about it prior to agreeing to participate. The participant will sign the informed consent document prior to any procedures being done specifically for the study. The participants may withdraw consent at any time throughout the course of the trial. A copy of the informed consent document will be given to the participants for their records. The rights and welfare of the participants will be protected by emphasizing to them that the quality of their medical care will not be adversely affected if they decline to participate in this study.
+
+
+[NarrativeText] (page 29)
+11.4 PARTICIPANT AND DATA CONFIDENTIALITY All information generated in this study must be considered highly confidential and must not be disclosed to any persons not directly concerned with the study without prior written permission from the Sponsor. Authorized regulatory officials and Sponsor personnel (or its representatives) will be allowed full access to inspect the records. All investigational devices and/or other materials collected will be used solely in accordance with this protocol, unless otherwise agreed to in writing by the Sponsor. Subjects should be identified only by initials and unique subject numbers on study-specific data forms. If necessary, their full names may be made known to a regulatory agency or other authorized officials.
+
+
+[ListItem] (page 29)
+12. DATA HANDLING AND RECORD KEEPING 12.1 DATA COLLECTION AND MANAGEMENT RESPONSIBILITIES Data collection is the responsibility of the clinical trial staff at the site under the supervision of the site PI. The investigator is responsible for ensuring the accuracy, completeness, legibility, and timeliness of the data reported. During each subject’s visit to the clinic, study data will be documented by study personnel on study- specific data forms (CRFs). In addition, study personnel will record progress notes to document all significant observations, and any contact with a subject by telephone or other means that provides significant clinical information will also be documented in the progress notes as described above. For transmission to the Sponsor, information from the study progress notes and other source documents will be promptly transcribed to study-specific data forms (CRFs). In this clinical trial, study-
+
+
+[NarrativeText] (page 30)
+specific data forms (CRFs) may also serve as source documents. Transcription of study data onto study- specific data forms should be completed and uploaded within 7 days of the study visit. Copies of the CRF serving as source documents must be maintained for each participant enrolled in the study. Data reported in the CRF derived from source documents should be consistent with the source documents or the discrepancies should be explained and captured in a progress note and maintained in the participant’s official study record.
+
+
+[NarrativeText] (page 30)
+Any changes to information in the study progress notes, other source documents, and data forms will be initialed and dated in ink on the day the change is made by a site study staff member authorized to make the change. Changes will be made by striking a single line through erroneous data, and clearly entering the correct data. If the reason for the change is not apparent, a brief explanation for the change will be written in the source documentation by the clinician.
+
+
+[NarrativeText] (page 30)
+12.2 12.2.1 Investigator Records Prior to participation in the investigation, the investigator must provide the following documentation to the Sponsor:
+
+
+[Title] (page 30)
+INVESTIGATOR RECORDS AND REPORTS
+
+
+[Title] (page 30)
+o
+
+
+[NarrativeText] (page 30)
+Investigator Agreement, signed by the investigator, which lists any physicians who will be involved in conducting the investigation under the direction of the primary investigator; o A copy of the principal investigator’s, sub-investigator’s, other delegated study clinicians’
+
+
+[Title] (page 30)
+curriculum vitae;
+
+
+[NarrativeText] (page 30)
+o A letter signed by the chairperson of the IRB overseeing the conduct of this study indicating that
+
+
+[NarrativeText] (page 30)
+the IRB has reviewed and approved this investigational plan; and
+
+
+[NarrativeText] (page 30)
+o A copy of the IRB-approved Informed Consent Form.
+
+
+[NarrativeText] (page 30)
+During the study, investigators are required to maintain on file the following accurate, complete, and current records relating to this study as described in 21 CFR §812.140. A summary of these records is listed below:
+
+
+[NarrativeText] (page 30)
+o All correspondence and required reports, which pertain to the study. o Records of receipt, use, or disposition of study devices, including the type and quantity of
+
+
+[NarrativeText] (page 30)
+devices; the dates of receipt; the serial numbers; the names of all persons who received, used or disposed of each device; and why and how many units of the device have been returned to the Sponsor, repaired, or otherwise disposed.
+
+
+[NarrativeText] (page 30)
+o Records of each subject’s case history and exposure to the device. o Signed and dated consent forms. o Relevant observations, including records concerning adverse events, condition of each subject
+
+
+[NarrativeText] (page 30)
+upon entering and results of diagnostic tests.
+
+
+[NarrativeText] (page 30)
+o Study-specific data forms and corrections to the forms. o Protocol and amendments. o Subject recruiting materials. o Investigator curriculum vitae.
+
+
+[NarrativeText] (page 30)
+12.2.2 Investigator Reports Investigators are required to prepare and submit to the Sponsor the following complete, accurate, and timely reports on this investigation when are required. These reports, which are listed below, are required by 21 CFR §812.150; additional reports may be requested by the Sponsor:
+
+
+[NarrativeText] (page 30)
+o The investigator will notify the Sponsor of a subject death occurring during the investigation, as
+
+
+[NarrativeText] (page 31)
+later than 48 hours. The investigator will notify the reviewing IRB of a subject death as specified by the IRB.
+
+
+[NarrativeText] (page 31)
+o The investigator will notify the Sponsor of any unanticipated adverse device effects within 48
+
+
+[NarrativeText] (page 31)
+hours after learning of the effect. The investigator will notify its reviewing IRB of any unanticipated adverse device effects, as soon as possible, but no later than 10 working days after learning of the effect.
+
+
+[NarrativeText] (page 31)
+o The investigator will notify the Sponsor of the withdrawal of IRB approval, as soon as possible,
+
+
+[NarrativeText] (page 31)
+but no later than five working days after learning of the withdrawal.
+
+
+[NarrativeText] (page 31)
+o The investigator will provide current progress reports to the Sponsor and reviewing IRB at
+
+
+[Title] (page 31)
+regular intervals and at least on an annual basis.
+
+
+[NarrativeText] (page 31)
+o The investigator will notify the Sponsor and reviewing IRB of any deviation from the
+
+
+[NarrativeText] (page 31)
+investigational plan to protect the life and physical well-being of a subject in an emergency, as soon as possible, but no later than five working days after the emergency occurred.
+
+
+[NarrativeText] (page 31)
+o The investigator will notify the Sponsor and reviewing IRB that an informed consent was not
+
+
+[NarrativeText] (page 31)
+obtained from a subject, as soon as possible, but no later than five working days after such an occurrence.
+
+
+[NarrativeText] (page 31)
+o The investigator will provide a final summary report to the Sponsor and reviewing IRB within
+
+
+[Title] (page 31)
+three months after termination or completion of the study.
+
+
+[NarrativeText] (page 31)
+o The investigator will provide any other information upon the request of an IRB, FDA, or the
+
+
+[Title] (page 31)
+Sponsor.
+
+
+[NarrativeText] (page 31)
+12.3 STUDY RETENTION RECORDS The investigator is responsible for retaining the necessary records, including a copy of the protocol, device labeling, study-specific data forms, medical records, original reports of test results, all study- related correspondence, a record of written informed consent, and any other documents pertaining to the conduct of this study. FDA regulations require all investigators participating in investigational device studies to maintain detailed clinical records during the investigation and for a period of at least two years after the latter of the following two dates:
+
+
+[ListItem] (page 31)
+1. The date on which the investigation is terminated or complete; or 2. The date the records are no longer required for purposes of supporting a premarket approval application.
+
+
+[NarrativeText] (page 31)
+The investigator must not dispose of any records relevant to this study without either:
+
+
+[ListItem] (page 31)
+1. Obtaining written permission from the Sponsor; or 2. Providing an opportunity for the Sponsor to collect such records.
+
+
+[NarrativeText] (page 31)
+The investigator shall take responsibility for maintaining adequate and accurate electronic or hard copy source documents of all observations and data generated during this study. Such documentation is subject to inspection by the Sponsor and the FDA.
+
+
+[NarrativeText] (page 31)
+12.4 PROTOCOL DEVIATIONS This study should be conducted as described in this protocol, except for an emergency in which the protection, safety, and well-being of a subject requires a protocol deviation, based on the judgment of the investigator (or a responsible, appropriately trained professional designated by the investigator). If the deviation from the protocol is necessary to protect the physical well-being of a subject in an
+
+
+[NarrativeText] (page 32)
+emergency, such protocol deviations must be reported to the Sponsor and the reviewing IRB as soon as possible, but no later than five working days after the emergency occurred. In the event of a significant deviation from the protocol due to an accident or mistake, the investigator or designee must contact the Sponsor at the earliest possible time by telephone to discuss the deviation and its impact on the study and subject continuation in the study. These discussions will be documented by the investigator and the Sponsor and reviewed by the monitor.
+
+
+[NarrativeText] (page 32)
+12.5 PUBLICATION AND DATA SHARING POLICY The data produced by this Lutronic‐sponsored study is the sole property of Lutronic. Thereby, abstracts, publications and presentations of this data must be pre‐approved by Lutronic in writing (e‐ mail approval is acceptable). The Sponsor must also be provided with the opportunity to review all investigator‐prepared abstracts, publications or presentations. A period of thirty (30) days for presentational materials and abstracts and forty‐five (45) days for manuscripts will be required for review and comment by Sponsor’s Clinical Research Department. These requirements acknowledge Sponsor's responsibility to evaluate such publications for their accuracy, to ascertain whether Confidential Information is being inappropriately released, to provide the Principal Investigator with information which may not yet have been available to him/her, and to provide input from co‐authors regarding content and conclusions of the publication or presentation. If requested in writing by the Sponsor, the Institution will withhold publication to protect the potential patentability of any invention described therein and/or made available to fulfill regulatory requirements. Notwithstanding the foregoing, Institution agrees that if the Study is part of a multi‐center study, the first publication of the results of the Study shall be made in conjunction with the results from the investigators at the other study centers as a multi‐center publication.
+
+
+[ListItem] (page 32)
+13. STUDY ADMINISTRATION 13.1 All investigators will be experienced with aesthetic treatments using a variety of accepted clinical modalities. STUDY INVESTIGATORS
+
+
+[NarrativeText] (page 32)
+13.2 AMENDMENT POLICY The investigator will not make any changes to this protocol without prior written consent from the Sponsor and subsequent approval by the IRB, except if the deviation from the protocol is necessary to protect the life and physical well-being of a subject in an emergency. Such protocol deviations must be reported to the Sponsor and the reviewing IRB as soon as possible, but no later than five working days after the emergency occurred. Any permanent change to the protocol, whether it is an overall change or a change for specific study center(s), must be handled as a protocol amendment. Any amendment to the protocol that appears indicated as the study progresses will be fully discussed by the investigator(s) and the Sponsor. If agreement is reached regarding the need for an amendment, the Sponsor will write it. The written amendment must be submitted to the chairman of the IRB identified with this responsibility. Except for “administrative amendments”, investigators must await IRB approval of protocol amendments before implementing the change(s). Administrative amendments are defined to have no effect on the validity of the data or information resulting from the completion of the approved protocol, or the relationship of likely patient risk to benefit relied upon to approve the protocol; the scientific soundness of the investigational plan or protocol; and the right, safety or welfare of the human subjects involved in the investigation.
+
+
+[NarrativeText] (page 33)
+When, in judgment of the chairman of the IRB, the investigators and/or the Sponsor, the amendment to the protocol substantially alters the study design and/or increases the potential risk to the subject, the currently approved written Informed Consent Form will require similar modification. In such cases, repeat informed consent will be obtained from subjects enrolled in the study before continued participation.
+
+
+[ListItem] (page 33)
+14. CONFLICT OF INTEREST POLICY The independence of this study from any actual or perceived influence is critical. Therefore, any actual conflict of interest of persons who have a role in the design, conduct, analysis, publication, or any aspect of this trial will be disclosed and managed. Furthermore, persons who have a perceived conflict of interest will be required to have such conflicts managed in a way that is appropriate to their participation in the trial.
+
+
+[Title] (page 34)
+References
+
+
+[Title] (page 35)
+APPENDIX PROTOCOL REVISIONS LOG DATE 6/25/2020
+
+
+[Title] (page 35)
+VERSION
+
+
+[Title] (page 35)
+Initial Release
+
+
+[Title] (page 35)
+SIGNIFICANT REVISIONS
+
+
+[NarrativeText] (page 35)
+Expand to include extremities, strength measurements, investigators

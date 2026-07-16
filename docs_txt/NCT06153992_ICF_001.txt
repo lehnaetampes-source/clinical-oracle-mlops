@@ -1,0 +1,651 @@
+
+[Title] (page 1)
+Project Name: Clinical Application of Portable Intelligent Multi Joint
+
+
+[Title] (page 1)
+Isokinetic Training and Evaluation System Technology
+
+
+[Title] (page 1)
+Project number：2021004
+
+
+[Title] (page 1)
+Sponsor: Qianfoshan Hospital
+
+
+[Title] (page 1)
+Responsible Party: Principal Investigator
+
+
+[Title] (page 1)
+Investigator: Ran Shi
+
+
+[Title] (page 1)
+Official Title: doctor
+
+
+[Title] (page 1)
+Affiliation: Qianfoshan Hospital
+
+
+[NarrativeText] (page 1)
+Starting and ending years: January 2024 to December 2024
+
+
+[Title] (page 1)
+November 21, 2023
+
+
+[Title] (page 2)
+Clinical Trials - Informed Consent Form
+
+
+[Title] (page 2)
+Dear patient
+
+
+[NarrativeText] (page 2)
+Your current illness is post stroke hemiplegia, and we invite you to participate
+
+
+[NarrativeText] (page 2)
+in a clinical study. Participating in this study is entirely your own choice. This
+
+
+[NarrativeText] (page 2)
+informed consent form will provide you with some information. Please read it
+
+
+[NarrativeText] (page 2)
+carefully and make a careful decision whether to participate in the intended
+
+
+[NarrativeText] (page 2)
+research. If you have any questions about this study, you can ask your doctor or
+
+
+[NarrativeText] (page 2)
+researcher for an explanation. You can discuss with family and friends to help you
+
+
+[NarrativeText] (page 2)
+decide whether to voluntarily participate in this clinical study. You have the right to
+
+
+[NarrativeText] (page 2)
+refuse to participate in this study or withdraw from the study at any time without
+
+
+[Title] (page 2)
+penalty or loss of your due rights.
+
+
+[NarrativeText] (page 2)
+If you agree to participate, we will need you to sign this informed consent
+
+
+[NarrativeText] (page 2)
+form and indicate the date. You will receive a signed and dated copy for your
+
+
+[Title] (page 2)
+storage.
+
+
+[NarrativeText] (page 2)
+Your participation in this study is voluntary and has been reviewed by our
+
+
+[Title] (page 2)
+medical ethics committee.
+
+
+[Title] (page 2)
+【Research Name】 Clinical Application of Portable Intelligent Multi Joint
+
+
+[Title] (page 2)
+Isokinetic Training and Evaluation System Technology
+
+
+[Title] (page 2)
+【Research Unit】Qianfoshan Hospital in Shandong Province
+
+
+[Title] (page 3)
+【Main Researcher】Shi Ran
+
+
+[NarrativeText] (page 3)
+【Why should this study be conducted?】By constructing and improving the
+
+
+[NarrativeText] (page 3)
+clinical trial system of our project team, we collect clinical data from different
+
+
+[NarrativeText] (page 3)
+disease rehabilitation processes, test and verify the stability, rehabilitation effect,
+
+
+[NarrativeText] (page 3)
+and feasibility of promoting the intelligent isokinetic training and evaluation
+
+
+[NarrativeText] (page 3)
+system to the market. At the same time, we accumulate important clinical data.
+
+
+[NarrativeText] (page 3)
+【 How to conduct this study 】 This study is a single center randomized
+
+
+[NarrativeText] (page 3)
+controlled study. You will be randomly assigned to the treatment group, the
+
+
+[NarrativeText] (page 3)
+control group, and the two treatment groups to receive conventional rehabilitation
+
+
+[Title] (page 3)
+recommendations on rehabilitation treatment
+
+
+[Title] (page 3)
+in the 2017 edition of
+
+
+[Title] (page 3)
+the
+
+
+[Title] (page 3)
+"Guidelines for Early Rehabilitation Treatment of Stroke in China";
+
+
+[Title] (page 3)
+Intelligent
+
+
+[NarrativeText] (page 3)
+isokinetic therapy adds isokinetic muscle strength training to the lower limb
+
+
+[Title] (page 3)
+flexion and extension muscles of hemiplegia in the above treatments. The
+
+
+[NarrativeText] (page 3)
+intelligent portable isokinetic tester of this project team was used for isokinetic
+
+
+[NarrativeText] (page 3)
+training of the affected knee flexor and extensor muscles. The patient's seat
+
+
+[NarrativeText] (page 3)
+backrest was adjusted to 85 °, and the waist and shoulder cross straps were fixed.
+
+
+[NarrativeText] (page 3)
+The proximal thighs of the test subjects were fixed with nylon buckles, the lateral
+
+
+[NarrativeText] (page 3)
+condyle of the femur was the axis, and the length of the arm was 12 on the scale.
+
+
+[NarrativeText] (page 3)
+The distal ankle of the lower leg was fixed above the ankle. Before training, passive
+
+
+[NarrativeText] (page 4)
+joint movements were performed on the knee and ankle joints to avoid joint
+
+
+[NarrativeText] (page 4)
+damage, And conduct three low resistance warm-up exercises. Choose 60 °/s, 90 °
+
+
+[NarrativeText] (page 4)
+/s, and 120 °/s angular velocity isokinetic training based on the patient's specific
+
+
+[NarrativeText] (page 4)
+each cycle, and 2 minutes of rest between each cycle. Train for 4 cycles according
+
+
+[NarrativeText] (page 4)
+to the patient's tolerance, with an appropriate amount of training to cause
+
+
+[NarrativeText] (page 4)
+per training session). Train each muscle group once a day, 5 days a week, for a total
+
+
+[NarrativeText] (page 4)
+of 3 weeks. The control group received 110 minutes of daily training, while the
+
+
+[NarrativeText] (page 4)
+observation group received 135 minutes of daily training. Traditional isokinetic
+
+
+[NarrativeText] (page 4)
+therapy has the same treatment parameters as the intelligent isokinetic group in
+
+
+[Title] (page 4)
+this project group.
+
+
+[NarrativeText] (page 4)
+During the treatment and follow-up period, researchers will use relevant
+
+
+[NarrativeText] (page 4)
+clinical observation tables to collect all data that needs to be observed after 3
+
+
+[NarrativeText] (page 4)
+weeks of treatment, and finally summarize the data for statistical analysis.
+
+
+[NarrativeText] (page 4)
+【Conditions for participating in the study】The conditions for participating
+
+
+[NarrativeText] (page 4)
+in the study meet the diagnostic criteria for cerebral
+
+
+[Title] (page 4)
+infarction and cerebral
+
+
+[NarrativeText] (page 4)
+Treatment of Cerebrovascular Diseases, and have been confirmed by head CT or
+
+
+[NarrativeText] (page 4)
+MR examination; All of them are first-time onset, with a course of ≤ 1 month, and
+
+
+[NarrativeText] (page 4)
+the lower limb of the hemiplegic side is classified as stage III or above. All
+
+
+[NarrativeText] (page 4)
+participants signed an informed consent form. All patients have stable vital signs,
+
+
+[NarrativeText] (page 4)
+stable condition, cooperative examination, no severe cognitive, visual, hearing
+
+
+[Title] (page 5)
+impairment, no sensory aphasia, no orthopedic diseases, no lower limb muscle
+
+
+[Title] (page 5)
+organic or functional mental illness.
+
+
+[NarrativeText] (page 5)
+【How long will I be participating in this study? 】Your participation in this
+
+
+[NarrativeText] (page 5)
+study will last for 3 weeks, during which time you will receive continuous treatment
+
+
+[Title] (page 5)
+from the inpatient department.
+
+
+[NarrativeText] (page 5)
+【What are my responsibilities?】 If you decide to participate in this study,
+
+
+[NarrativeText] (page 5)
+you must come to the hospital for treatment according to the follow-up time
+
+
+[NarrativeText] (page 5)
+agreed upon by the doctor and you. Your follow-up is very important as the doctor
+
+
+[NarrativeText] (page 5)
+will determine whether the treatment you receive is truly effective and provide
+
+
+[NarrativeText] (page 5)
+timely guidance.You must follow the doctor's instructions for treatment, and
+
+
+[NarrativeText] (page 5)
+please fill out your treatment records promptly and objectively. And bring along
+
+
+[NarrativeText] (page 5)
+other medications you are taking, including medications that you need to continue
+
+
+[NarrativeText] (page 5)
+taking if you have other comorbidities.
+
+
+[NarrativeText] (page 5)
+【What are the possible risks of my participation in this study】Isokinetic
+
+
+[NarrativeText] (page 5)
+muscle strength training equipment is a commonly used rehabilitation treatment
+
+
+[NarrativeText] (page 5)
+device in clinical practice, and there have been no research reports indicating the
+
+
+[Title] (page 5)
+presence of adverse reactions.
+
+
+[NarrativeText] (page 5)
+If adverse reactions occur during treatment,
+
+
+[NarrativeText] (page 5)
+researchers will also take corresponding treatment measures for treatment.
+
+
+[NarrativeText] (page 5)
+【What may be the benefits of participating in this study】You may benefit
+
+
+[NarrativeText] (page 5)
+from this study, as you will receive detailed evaluation, monitoring, and treatment
+
+
+[NarrativeText] (page 6)
+beyond routine monitoring. Your condition may improve, and this study may be
+
+
+[Title] (page 6)
+helpful for other patients with similar conditions.
+
+
+[NarrativeText] (page 6)
+【What fees do I need to pay】During the research process, the cost of
+
+
+[NarrativeText] (page 6)
+intelligent isokinetic muscle strength training will be waived. Other drugs and
+
+
+[NarrativeText] (page 6)
+routine examination items are currently commonly implemented in the clinical
+
+
+[NarrativeText] (page 6)
+diagnosis and treatment process, therefore, the cost of these items will be paid by
+
+
+[NarrativeText] (page 6)
+you (if it is within the scope of medical insurance payment, it can be paid by
+
+
+[NarrativeText] (page 6)
+medical insurance). The treatment and examination required for other diseases
+
+
+[NarrativeText] (page 6)
+that you have merged at the same time will also be borne by you.
+
+
+[NarrativeText] (page 6)
+【Medical treatment and compensation for research related injuries】If any
+
+
+[NarrativeText] (page 6)
+damage related to this study occurs and is recognized by authoritative institutions
+
+
+[NarrativeText] (page 6)
+stipulated by national
+
+
+[Title] (page 6)
+laws and regulations as
+
+
+[NarrativeText] (page 6)
+requiring corresponding
+
+
+[Title] (page 6)
+the project
+
+
+[NarrativeText] (page 6)
+team will provide you with free treatment and
+
+
+[NarrativeText] (page 6)
+compensate in accordance with national laws and regulations.
+
+
+[NarrativeText] (page 6)
+【What if I don't want to participate in this study or withdraw midway
+
+
+[NarrativeText] (page 6)
+through the study】You can choose not to participate in this study, or notify the
+
+
+[NarrativeText] (page 6)
+researcher at any time to withdraw from the study. Your data will not be included
+
+
+[NarrativeText] (page 6)
+in the research results, and any medical treatment and rights will not be affected as
+
+
+[Title] (page 6)
+a result.
+
+
+[Title] (page 6)
+【 How will my personal
+
+
+[NarrativeText] (page 6)
+information be processed 】 If you decide to
+
+
+[NarrativeText] (page 6)
+participate in this study, your participation and personal information during the
+
+
+[NarrativeText] (page 7)
+study will be kept confidential. Your sample will be identified by the study number
+
+
+[NarrativeText] (page 7)
+number instead of your name. Information that can identify you will not be
+
+
+[NarrativeText] (page 7)
+disclosed to members outside of the research team unless your permission is
+
+
+[NarrativeText] (page 7)
+obtained. Your file is for researchers' reference only. To ensure that the research is
+
+
+[NarrativeText] (page 7)
+carried out in accordance with regulations, if necessary, members of government
+
+
+[NarrativeText] (page 7)
+management departments or ethics review committees may access your personal
+
+
+[Title] (page 7)
+data at the research unit in accordance with regulations
+
+
+[NarrativeText] (page 7)
+【Who can I contact to gain a detailed understanding of this study】If you
+
+
+[NarrativeText] (page 7)
+need further information about the research materials during the research process,
+
+
+[NarrativeText] (page 7)
+or if you feel that any of your symptoms are causing you problems at any time, or
+
+
+[NarrativeText] (page 7)
+if you have suffered research related injuries, please contact your bed
+
+
+[Title] (page 7)
+doctor/researcher at 89268146.
+
+
+[NarrativeText] (page 7)
+【Who can I contact to understand my rights as a research subject】This
+
+
+[NarrativeText] (page 7)
+informed consent form and this study have been approved by the Medical Ethics
+
+
+[NarrativeText] (page 7)
+Committee (EC) of Qianfo Mountain Hospital in Shandong Province. EC is a group
+
+
+[NarrativeText] (page 7)
+of researchers and non researchers who oversee research involving human
+
+
+[NarrativeText] (page 7)
+subjects. They follow the relevant guidelines and rules of the National Food and
+
+
+[NarrativeText] (page 7)
+Drug Administration (CFDA). If you have any questions about your rights as a
+
+
+[NarrativeText] (page 7)
+research subject, please contact the Medical Ethics Committee of Qianfoshan
+
+
+[Title] (page 7)
+Hospital in Shandong Province (89268458).
+
+
+[Title] (page 7)
+【Declaration of Consent】
+
+
+[NarrativeText] (page 8)
+I have read this informed consent form.
+
+
+[NarrativeText] (page 8)
+I have the opportunity to ask questions and all questions have been answered.
+
+
+[NarrativeText] (page 8)
+I understand that participating in this study is voluntary.
+
+
+[NarrativeText] (page 8)
+I can choose not to participate in this study, or withdraw at any time after
+
+
+[NarrativeText] (page 8)
+notifying the researchers without discrimination or retaliation, and my medical
+
+
+[NarrativeText] (page 8)
+treatment and rights will not be affected as a result.
+
+
+[NarrativeText] (page 8)
+If I need other treatment, or if I fail to comply with the study plan, or if there is
+
+
+[NarrativeText] (page 8)
+any injury related to the study or for any other reason, the study physician may
+
+
+[NarrativeText] (page 8)
+terminate my participation in this study.
+
+
+[NarrativeText] (page 8)
+I agree to participate in this clinical study and have received a signed copy of
+
+
+[Title] (page 8)
+the 'informed consent form'.
+
+
+[Title] (page 8)
+Patient (subject) name (in block letters): Contact number:
+
+
+[Title] (page 8)
+Patient (subject) signature: Date: MM/DD/YYYY
+
+
+[Title] (page 8)
+Name of the legal representative of the patient (subject) (in block letters):
+
+
+[Title] (page 8)
+Signature of
+
+
+[Title] (page 8)
+the legal
+
+
+[Title] (page 8)
+representative of
+
+
+[Title] (page 8)
+the patient
+
+
+[Title] (page 8)
+(subject): Date:
+
+
+[Title] (page 8)
+MM/DD/YYYY
+
+
+[Title] (page 9)
+Relationship with patients (subjects):
+
+
+[Title] (page 9)
+Patient (subject) legal representative contact phone number:
+
+
+[Title] (page 9)
+Researcher's name (in block letters):
+
+
+[Title] (page 9)
+Researcher's signature: Date: MM/DD/YYYY
