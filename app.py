@@ -9,8 +9,19 @@ from rag_core import load_oracle, run_rag as _run_rag_core, run_judge as _run_ju
 
 ARCHIVE_FILE = "archives_oracle.json"
 
-# ── Monitoring : log chaque interaction sur S3 (consommé par le DAG monitoring_dag.py) ──
-S3_BUCKET = os.environ.get("S3_BUCKET", "clinical-oracle-docs")
+# ── Monitoring : log chaque interaction sur Backblaze B2 (compatible API S3),
+#    consommé par le DAG monitoring_dag.py ──
+def _get_secret(name, default=None):
+    """Lit une variable soit depuis st.secrets (Streamlit Cloud), soit depuis
+    les variables d'environnement (usage local avec .env)."""
+    try:
+        if name in st.secrets:
+            return st.secrets[name]
+    except Exception:
+        pass
+    return os.environ.get(name, default)
+
+S3_BUCKET = _get_secret("B2_BUCKET_NAME", "clinical-oracle-docs")
 S3_LOGS_PREFIX = "logs/"
 _s3_client = None
 
@@ -18,9 +29,20 @@ def get_s3_client():
     global _s3_client
     if _s3_client is None:
         try:
-            _s3_client = boto3.client("s3")
+            endpoint_url = _get_secret("B2_ENDPOINT_URL")
+            access_key = _get_secret("B2_ACCESS_KEY_ID")
+            secret_key = _get_secret("B2_SECRET_ACCESS_KEY")
+            if not (endpoint_url and access_key and secret_key):
+                _s3_client = False  # credentials Backblaze B2 manquants -> logging désactivé silencieusement
+            else:
+                _s3_client = boto3.client(
+                    "s3",
+                    endpoint_url=endpoint_url,
+                    aws_access_key_id=access_key,
+                    aws_secret_access_key=secret_key,
+                )
         except Exception:
-            _s3_client = False  # pas de credentials AWS en local -> logging désactivé silencieusement
+            _s3_client = False
     return _s3_client
 
 def log_interaction_to_s3(query, answer, judge_scores, sources_details):
