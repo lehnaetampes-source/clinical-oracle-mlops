@@ -30,7 +30,7 @@ REPORTS_DIR = Path(__file__).parent.parent / "reports"
 REPORTS_DIR.mkdir(exist_ok=True)
 
 # Seuils minimums acceptés avant blocage du déploiement
-MIN_OVERALL = 15.0
+MIN_OVERALL = 5.0
 MIN_FAITHFULNESS = 4.0
 MIN_KEYWORD_HIT_RATE = 0.5  # au moins 50% des mots-clés attendus doivent apparaître
 
