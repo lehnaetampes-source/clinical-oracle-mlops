@@ -23,6 +23,7 @@ def _get_secret(name, default=None):
 
 S3_BUCKET = _get_secret("B2_BUCKET_NAME", "clinical-oracle-docs")
 S3_LOGS_PREFIX = "logs/"
+S3_DOCS_PREFIX = "docs/"
 _s3_client = None
 
 def get_s3_client():
@@ -61,6 +62,39 @@ def log_interaction_to_s3(query, answer, judge_scores, sources_details):
         client.put_object(Bucket=S3_BUCKET, Key=key, Body=json.dumps(record, ensure_ascii=False).encode("utf-8"))
     except Exception as e:
         print(f"[monitoring] Échec du log S3 (non bloquant) : {e}")
+
+# ── Ingestion : upload d'un nouveau PDF depuis Streamlit vers Backblaze B2
+#    (consommé par le DAG document_ingestion_dag.py, qui détecte et réindexe
+#    automatiquement tout nouveau/modifié document) ──
+def upload_pdf_to_b2(uploaded_file):
+    client = get_s3_client()
+    if not client:
+        return False
+    key = f"{S3_DOCS_PREFIX}{uploaded_file.name}"
+    try:
+        client.put_object(Bucket=S3_BUCKET, Key=key, Body=uploaded_file.getvalue())
+        return True
+    except Exception as e:
+        print(f"[ingestion] Échec de l'upload vers B2 : {e}")
+        return False
+
+def sync_chroma_from_b2():
+    """Télécharge et extrait le dernier snapshot ChromaDB indexé par Airflow
+    (chroma_snapshots/latest.zip), pour que Streamlit reflète les documents
+    ajoutés/modifiés sans attendre un redéploiement manuel."""
+    import io
+    import zipfile
+    client = get_s3_client()
+    if not client:
+        return False, "Client B2 non configuré (secrets manquants)."
+    try:
+        obj = client.get_object(Bucket=S3_BUCKET, Key="chroma_snapshots/latest.zip")
+        zip_bytes = obj["Body"].read()
+        with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
+            zf.extractall("chroma_db")
+        return True, None
+    except Exception as e:
+        return False, str(e)
 
 if "initialized" not in st.session_state:
     st.session_state.initialized = False
@@ -150,7 +184,7 @@ with st.sidebar:
         st.session_state.chat_history = []
         st.session_state.last_docs = []
         st.rerun()
-    tabs = st.tabs(["SETTINGS", "ARCHIVES"])
+    tabs = st.tabs(["SETTINGS", "ARCHIVES", "DOCUMENTS"])
     with tabs[0]:
         new_k = st.slider("Scan Depth (Chunks)", 4, 30, st.session_state.k_val)
         if new_k != st.session_state.k_val: st.session_state.k_val = new_k
@@ -169,6 +203,29 @@ with st.sidebar:
                 if st.button(f"📄 {item['timestamp']}", key=item['timestamp']):
                     st.session_state.chat_history = item['full_chat']
                     st.rerun()
+    with tabs[2]:
+        st.markdown("<small style='color:#0047AB'>Ajouter ou remplacer un document PDF dans la base documentaire. Le pipeline d'indexation (Airflow) se relance automatiquement.</small>", unsafe_allow_html=True)
+        uploaded_pdf = st.file_uploader("Choisir un fichier PDF", type=["pdf"], key="pdf_uploader")
+        if uploaded_pdf is not None:
+            if st.button("🚀 ENVOYER VERS LA BASE DOCUMENTAIRE"):
+                with st.spinner("Envoi en cours vers le stockage cloud..."):
+                    ok = upload_pdf_to_b2(uploaded_pdf)
+                if ok:
+                    st.success(f"'{uploaded_pdf.name}' envoyé avec succès. Le pipeline Airflow va le détecter et relancer l'indexation automatiquement (sous 24h, ou immédiatement si déclenché manuellement).")
+                else:
+                    st.error("Échec de l'envoi. Vérifiez la configuration B2 (secrets manquants ou invalides).")
+        st.markdown("---")
+        st.markdown("<small style='color:#0047AB'>Une fois qu'Airflow a fini de réindexer, récupère la base à jour ici.</small>", unsafe_allow_html=True)
+        if st.button("🔄 RECHARGER LA BASE DEPUIS LE CLOUD"):
+            with st.spinner("Téléchargement du dernier snapshot ChromaDB depuis B2..."):
+                ok, err = sync_chroma_from_b2()
+            if ok:
+                st.cache_resource.clear()
+                st.success("Base rechargée avec succès. Redémarrage de l'oracle...")
+                st.session_state.initialized = False
+                st.rerun()
+            else:
+                st.error(f"Échec du rechargement : {err}")
     st.markdown("---")
     st.markdown("<div style='text-align:center;color:#0047AB;font-family:Orbitron;font-size:0.7rem;'>MEDICAL AGENT v4.0 ELITE</div>", unsafe_allow_html=True)
 
